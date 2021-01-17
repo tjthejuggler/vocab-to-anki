@@ -44,12 +44,23 @@ def create_anki_deck(my_deck, all_audio_files):
 
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	audio_file = word+'.mp3'
-	all_audio_files.append('/home/trillian/forvo/'+lang+'/'+audio_file)
+	if mp3_exists(word):
+		all_audio_files.append('/home/trillian/forvo/'+lang+'/'+audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
 		fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+audio_file+']'])
 	return my_note, all_audio_files
+
+def mp3_exists(translation):
+	exists = False
+	try:
+		with open('/home/trillian/forvo/'+lang+'/'+translation+'.mp3') as f:
+			exists = True
+	except IOError:
+		print("File not accessible", translation)
+
+	return exists
 
 all_audio_files = []
 for line in lines:
@@ -58,8 +69,12 @@ for line in lines:
 	if ' - ' in line:
 		split_line = line.split(' - ')
 		word = split_line[0]
-		if len(word.split()) == 1:
-			DownloadMp3ForAnki(word)
+		if len(word.split()) < 3:
+			if not mp3_exists(word):
+				print('did download',word)
+				DownloadMp3ForAnki(word)
+			else:
+				print('did not download',word)
 		translation = split_line[1]
 		hint = ""
 		if len(split_line) > 2:

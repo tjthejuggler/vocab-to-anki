@@ -57,9 +57,7 @@ def DownloadMp3ForAnki(word):
                         #The file it's opened in write-binary mode
                         out.write(mp3.content)   
       else:                        
-            file_name = os.path.join(lang_dir,'word_not_found.txt')
-            with open(file_name,'a') as out:
-                  out.write(0)   
+            print(word, 'can not be downloaded')
 
 def DownloadMp3(urlList, limit, word, folder):
       #download a mp3 file, rename it and write it in a costum folder

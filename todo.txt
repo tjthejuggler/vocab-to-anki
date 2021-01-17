@@ -1,1 +1,10 @@
+run other turkish 101 stuff through here
+replace original txt lists with swapped versions
+do this for single words in turkish_conversation
+keep list of already attempted pronunciations so we are not requesting ones that have already failed
+the swapper could have a smaller name and it could do smart swapping to put turkish words first(or whatever foreign words)
+
+
+
+
 check to see if video has subtitles, if it does, then find the timestamp on the first instance of each word and make the url automatically have that timestamp built in
