@@ -1,7 +1,16 @@
-run other turkish 101 stuff through here
-replace original txt lists with swapped versions
-do this for single words in turkish_conversation
 keep list of already attempted pronunciations so we are not requesting ones that have already failed
+	do this before continuing on to save attempt numbers
+run other turkish 101 stuff through here:
+	100 Adjectives Every Turkish Beginner Must-Know
+	25 verbs
+	single word vocab from 250 phrases(once completed)
+	turkish filler words
+	150 Most Common Phrases in Turkish(once completed)
+
+do this for single words in turkish_conversation
+	TurkishClass101 Word Power Audible (in turkish_vocab)
+
+replace original txt lists with swapped versions
 the swapper could have a smaller name and it could do smart swapping to put turkish words first(or whatever foreign words)
 
 
