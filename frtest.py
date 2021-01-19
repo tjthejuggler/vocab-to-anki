@@ -36,14 +36,24 @@ def fileChoose():
       filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
       return filename
 
+def addToFailedList(word):
+      file = open( lang+"_failed_words.txt", "r")
+      lines = file.read()
+      file.close()
+      lines = lines + ("\n"+word)
+      text_file = open( lang+"_failed_words.txt", "w")
+      text_file.write(lines)
+      text_file.close()
 
 def DownloadMp3ForAnki(word):
       with open('apikey.txt') as a:
         APIKEY=a.read()
       home        = os.path.expanduser('~/forvo')
       lang_dir    = os.path.join(home,lang)
+      print('rrrrrrrrrrrrrrrrrrrr',word)
       r = ForvoRequest(word,lang,APIKEY)
       if r:
+
             #download a mp3 file, rename it and write it in a costum folder
             mp3 = requests.get(r[0])                 
             file_name   = word.replace('\n','')+'.mp3'
@@ -58,6 +68,7 @@ def DownloadMp3ForAnki(word):
                         out.write(mp3.content)   
       else:                        
             print(word, 'can not be downloaded')
+            addToFailedList(word)
 
 def DownloadMp3(urlList, limit, word, folder):
       #download a mp3 file, rename it and write it in a costum folder

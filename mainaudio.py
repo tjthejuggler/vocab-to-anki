@@ -3,6 +3,7 @@ import time
 import os
 from os import path
 from frtest import DownloadMp3ForAnki
+import re
 
 #add andoird studio to path or figure out how to make an icon
 lang = 'tr'
@@ -45,20 +46,33 @@ def create_anki_deck(my_deck, all_audio_files):
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	audio_file = word+'.mp3'
 	if mp3_exists(word):
-		all_audio_files.append('/home/trillian/forvo/'+lang+'/'+audio_file)
+		all_audio_files.append('/home/tim/forvo/'+lang+'/'+audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
 		fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+audio_file+']'])
 	return my_note, all_audio_files
 
+def has_previously_failed(word):
+	file = open( lang+"_failed_words.txt", "r")
+	lines = file.readlines()
+	file.close()
+	has_failed = False
+	print('has_previously_failed chec word',word)
+	for line in lines:
+		print('has_previously_failed chec',line)
+		if word.strip('\n') == line.strip('\n'):
+			has_failed = True
+	return has_failed
+
+
 def mp3_exists(translation):
 	exists = False
 	try:
-		with open('/home/trillian/forvo/'+lang+'/'+translation+'.mp3') as f:
+		with open('/home/tim/forvo/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
-		print("File not accessible", translation)
+		print("File not accessible2", translation)
 
 	return exists
 
@@ -68,13 +82,17 @@ for line in lines:
 	url = lines[1]
 	if ' - ' in line:
 		split_line = line.split(' - ')
-		word = split_line[0]
+		word = split_line[0].strip('\n')
+		word = re.sub(r'[^\w\s]','',word)
 		if len(word.split()) < 3:
-			if not mp3_exists(word):
-				print('did download',word)
-				DownloadMp3ForAnki(word)
+			if not has_previously_failed(word):
+				if not mp3_exists(word):
+					print('did download',word)
+					DownloadMp3ForAnki(word)
+				else:
+					print('did not download',word)
 			else:
-				print('did not download',word)
+				print('has_previously_failed',word)
 		translation = split_line[1]
 		hint = ""
 		if len(split_line) > 2:

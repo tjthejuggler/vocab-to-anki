@@ -1,8 +1,6 @@
 keep list of already attempted pronunciations so we are not requesting ones that have already failed
 	do this before continuing on to save attempt numbers
 run other turkish 101 stuff through here:
-	100 Adjectives Every Turkish Beginner Must-Know
-	25 verbs
 	single word vocab from 250 phrases(once completed)
 	turkish filler words
 	150 Most Common Phrases in Turkish(once completed)
