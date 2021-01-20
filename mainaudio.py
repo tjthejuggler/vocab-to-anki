@@ -4,7 +4,9 @@ import os
 from os import path
 from frtest import DownloadMp3ForAnki
 import re
+from pathlib import Path
 
+home = str(Path.home())
 #add andoird studio to path or figure out how to make an icon
 lang = 'tr'
 file = open( "source.txt", "r")
@@ -46,7 +48,7 @@ def create_anki_deck(my_deck, all_audio_files):
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	audio_file = word+'.mp3'
 	if mp3_exists(word):
-		all_audio_files.append('/home/tim/forvo/'+lang+'/'+audio_file)
+		all_audio_files.append(home+'/forvo/'+lang+'/'+audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
@@ -69,7 +71,7 @@ def has_previously_failed(word):
 def mp3_exists(translation):
 	exists = False
 	try:
-		with open('/home/tim/forvo/'+lang+'/'+translation+'.mp3') as f:
+		with open(home+'/forvo/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
 		print("File not accessible2", translation)
