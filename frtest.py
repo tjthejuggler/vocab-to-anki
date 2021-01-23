@@ -50,10 +50,8 @@ def DownloadMp3ForAnki(word):
         APIKEY=a.read()
       home        = os.path.expanduser('~/forvo')
       lang_dir    = os.path.join(home,lang)
-      print('rrrrrrrrrrrrrrrrrrrr',word)
       r = ForvoRequest(word,lang,APIKEY)
       if r:
-
             #download a mp3 file, rename it and write it in a costum folder
             mp3 = requests.get(r[0])                 
             file_name   = word.replace('\n','')+'.mp3'
@@ -66,8 +64,9 @@ def DownloadMp3ForAnki(word):
                         #we open a new mp3 file and we name it after the word we're downloading.
                         #The file it's opened in write-binary mode
                         out.write(mp3.content)   
+                        print('MP3 created',word)
       else:                        
-            print(word, 'can not be downloaded')
+            print('not available from Forvo', word)
             addToFailedList(word)
 
 def DownloadMp3(urlList, limit, word, folder):

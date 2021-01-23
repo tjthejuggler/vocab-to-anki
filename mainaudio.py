@@ -60,9 +60,9 @@ def has_previously_failed(word):
 	lines = file.readlines()
 	file.close()
 	has_failed = False
-	print('has_previously_failed chec word',word)
+	#print('has_previously_failed chec word',word)
 	for line in lines:
-		print('has_previously_failed chec',line)
+		#print('has_previously_failed chec',line)
 		if word.strip('\n') == line.strip('\n'):
 			has_failed = True
 	return has_failed
@@ -74,8 +74,7 @@ def mp3_exists(translation):
 		with open(home+'/forvo/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
-		print("File not accessible2", translation)
-
+		print("File does not exist", translation)
 	return exists
 
 all_audio_files = []
@@ -89,12 +88,12 @@ for line in lines:
 		if len(word.split()) < 3:
 			if not has_previously_failed(word):
 				if not mp3_exists(word):
-					print('did download',word)
+					#print('did download',word)
 					DownloadMp3ForAnki(word)
 				else:
-					print('did not download',word)
+					print('MP3 already exists',word)
 			else:
-				print('has_previously_failed',word)
+				print('has previously failed',word)
 		translation = split_line[1]
 		hint = ""
 		if len(split_line) > 2:
