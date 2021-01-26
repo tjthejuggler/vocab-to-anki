@@ -37,11 +37,11 @@ def fileChoose():
       return filename
 
 def addToFailedList(word):
-      file = open( lang+"_failed_words.txt", "r")
+      file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "r")
       lines = file.read()
       file.close()
       lines = lines + ("\n"+word)
-      text_file = open( lang+"_failed_words.txt", "w")
+      text_file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
       text_file.close()
 
