@@ -4,7 +4,9 @@ from forvo import ForvoRequest
 import os
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
+from pathlib import Path
 
+home = str(Path.home())
 lang = 'tr'
 
 # def Main(lang,limit):
@@ -37,18 +39,19 @@ def fileChoose():
       return filename
 
 def addToFailedList(word):
-      file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "r")
+      cwd = os.getcwd()
+      file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
       lines = file.read()
       file.close()
       lines = lines + ("\n"+word)
-      text_file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "w")
+      text_file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
       text_file.close()
 
 def DownloadMp3ForAnki(word):
       with open('apikey.txt') as a:
         APIKEY=a.read()
-      home        = os.path.expanduser('~/forvo')
+      home        = os.getcwd()
       lang_dir    = os.path.join(home,lang)
       r = ForvoRequest(word,lang,APIKEY)
       if r:

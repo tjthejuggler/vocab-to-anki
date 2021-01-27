@@ -10,7 +10,7 @@ import time
 
 
 lang = 'tr'
-home = str(Path.home())
+cwd = 'projects/vocab-to-anki/'
 
 def ForvoRequest(QUERY, LANG, ACT='word-pronunciations', FORMAT='mp3', free= True):
       apikey = '1aa4d6b055eabcb347cd91e99a2acf95'
@@ -54,16 +54,16 @@ def fileChoose():
       return filename
 
 def addToFailedList(word):
-      file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "r")
+      file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
       lines = file.read()
       file.close()
       lines = lines + ("\n"+word)
-      text_file = open(home+'/forvo/'+lang+'/'+lang+"_failed_words.txt", "w")
+      text_file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
       text_file.close()
 
 def DownloadMp3(word):
-      home        = os.path.expanduser('~/forvo')
+      home        = 'projects/vocab-to-anki'
       lang_dir    = os.path.join(home,lang)
       r = ForvoRequest(word,lang)
       if r:
@@ -89,14 +89,14 @@ def DownloadMp3(word):
 def mp3_exists(translation):
 	exists = False
 	try:
-		with open(home+'/forvo/'+lang+'/'+translation+'.mp3') as f:
+		with open(cwd+'/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
 		print("File does not exist", translation)
 	return exists
 
 def play_audio(word):
-	p = vlc.MediaPlayer(home+'/forvo/'+lang+'/'+word+'.mp3')
+	p = vlc.MediaPlayer(cwd+'/'+lang+'/'+word+'.mp3')
 	p.play()
 	time.sleep(10)
 

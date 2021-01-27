@@ -7,6 +7,7 @@ import re
 from pathlib import Path
 
 home = str(Path.home())
+cwd = os.getcwd()
 #add andoird studio to path or figure out how to make an icon
 lang = 'tr'
 file = open( "source.txt", "r")
@@ -46,9 +47,10 @@ def create_anki_deck(my_deck, all_audio_files):
 	my_package.write_to_file(deckName+'.apkg')
 
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
+	
 	audio_file = word+'.mp3'
 	if mp3_exists(word):
-		all_audio_files.append(home+'/forvo/'+lang+'/'+audio_file)
+		all_audio_files.append(cwd+'/'+lang+'/'+audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
@@ -56,7 +58,7 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	return my_note, all_audio_files
 
 def has_previously_failed(word):
-	file = open( lang+"_failed_words.txt", "r")
+	file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
 	lines = file.readlines()
 	file.close()
 	has_failed = False
@@ -71,7 +73,7 @@ def has_previously_failed(word):
 def mp3_exists(translation):
 	exists = False
 	try:
-		with open(home+'/forvo/'+lang+'/'+translation+'.mp3') as f:
+		with open(cwd+'/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
 		print("File does not exist", translation)
