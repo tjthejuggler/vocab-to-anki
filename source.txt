@@ -1,46 +1,61 @@
 Turkish Conversation
 
-bence - I think
-oynatmak - to play
-zarif - elegant
-olur - would be / fine
-lise - high school
-kolej - college
-yani - so
-buçuk - half
-kendi - own / self
-kendime - myself
-yerine - instead
-arasındaki - between
-fark - difference
-nedir - what
-oyuncu - player / actor
-eğlenceli - enjoyable
-bilim - science
-oyunculuğun - your acting
-oynamak - to act (film)
-kaba - rude
-olan - the one
-sanmak - to think (implies wrong assumption)
-düşünmek - to think (cognitive action)
-bence - in my opinion
-ağlamak - to cry
+stresliyim - i am stressed
+atmak - throw away / send - you send something away at somewhere on a horse (at)
+mesaj - message
 yaygın - common
-bende seninle oynamayı çok isterim - i would love to play with you too
-Çok zarifsin - You are so elegant 
-evet, bu harika olur - yes, that would be great
-ilki en iyisidir - is the first one the best
-yani belki iyidir - so maybe it is good
-ama o olduğunu düşünüyorum - but i think it is
-Hala beklemek için bir buçuk saatim var - i still have an hour and a half to wait
-kendi kendime konuşuyordum - i was talking to myself
-hiç yurtdışına çıktın mı - have you ever traveled abroad
-peki onun yerine ne yapıyorsun - so what do you do instead
-A ile B arasındaki fark nedir - what is the difference between A and B
-ne zamandır oyuncu olmak istedin - how long have you wanted to be an actress
-günün nasıldı? eğlenceli bir şey yaptın mı? - how was your day? did you do anything fun?
-bilimi gerçekten iyi bilmen harika - o cool, you must know science really well
-oyunculuğun iyi olduğunu düşünüyorum - i think the acting is good
-kaba olan kız, sanırım adı sezon - the girl who was mean, i think her name is season
-o ağlamakta iyidir bence - she is good at crying i think
-ama belki türkiye'de daha yaygındır - but maybe in turkey it is more common
+ifade - expression
+tam - full
+cümle - sentence
+çekmek - take(photos)
+algılamak - detect / sense
+kişisel - personal
+içimden - inside of me
+şarkı - song
+şahsen - in person
+kullanabileceğim - i will be able to use
+söz - statement
+yapalım - let's do
+bakalım - let's see
+saatlerde - in the hours
+hepsi - all (adverb/noun)
+muhtemelen - probably
+egzersiz - exercise
+şimdiye - to now
+dışarı - out
+sonuç - result
+senle konuşacağım - i will speak with you
+diğer arkadaşlarımla konuşacağım - i will speak with other friends
+attım mesaj - i sent a message
+yaygın ifade - common expression
+bu tam cümle - this is the full sentence
+fotoğraf çekmek - Take photos
+kişisel algıladım - ı took it personally
+içimden bir şarkı yazmak gelmişti - i felt like writing a song
+bu yaygın bir ifade mi - is that a common expression
+programlamayı severim - i like to program
+dün sabah çekmiştim - I took it yesterday morning (film)
+şahsen konuşmak benim için zor - it is hard for me to speak in person
+göndermeden önce - before sending
+normalde bir mesaj göndermeden önce çeviri yapabilir ve pratik yapabilirim - normally i can translate and practice before i send a message
+şimdi kullanabileceğim bazı sözlerim var - i have some phrases I can use now
+türkçe pratik yaptım - i practiced turkish
+şu anda sadece türkçe pratik yapıyorum - right now just practicing turkish
+yapalım şunu - let's do it
+buraya bakalım - lets see here
+ne yapıyorum - what am I doing
+ama bu sabah erken saatlerde - but earlier this morning
+yürüyüşe çıktım - i went for a walk
+hokkabazlık yaptım - i juggled
+arabayı temizledim - i cleaned the car
+biraz su içtim - I drank some water
+bence hepsi bu - i think that is all
+Biraz sonra muhtemelen tenis ya da koşarak egzersiz yapacağım - in a little bit i will probably exercise, either tennis or running
+kardeşimi bir yere sürdüm, şimdi onu bekliyorum - i drove my brother somewhere, now i am waiting for him
+sadece koşuya gittim - i just went for a run 
+şimdiye kadar - until now
+Öyleyse sür ve koş bugün şimdiye kadar yaptığım tek şey - so drive and run is all i have done so far today
+Bugün dışarı çıktın mı? - did you go out today?
+belki pazara? veya bir parka mı? - maybe to the market? or to a park?
+dersin iyi gitti mi? - did your lesson go well?
+sonuçları zaten aldın mı - do you already have the results
