@@ -1,61 +1,97 @@
-Turkish Conversation
+Turkish Cognates
 
-stresliyim - i am stressed
-atmak - throw away / send - you send something away at somewhere on a horse (at)
-mesaj - message
-yaygın - common
-ifade - expression
-tam - full
-cümle - sentence
-çekmek - take(photos)
-algılamak - detect / sense
-kişisel - personal
-içimden - inside of me
-şarkı - song
-şahsen - in person
-kullanabileceğim - i will be able to use
-söz - statement
-yapalım - let's do
-bakalım - let's see
-saatlerde - in the hours
-hepsi - all (adverb/noun)
-muhtemelen - probably
-egzersiz - exercise
-şimdiye - to now
-dışarı - out
-sonuç - result
-senle konuşacağım - i will speak with you
-diğer arkadaşlarımla konuşacağım - i will speak with other friends
-attım mesaj - i sent a message
-yaygın ifade - common expression
-bu tam cümle - this is the full sentence
-fotoğraf çekmek - Take photos
-kişisel algıladım - ı took it personally
-içimden bir şarkı yazmak gelmişti - i felt like writing a song
-bu yaygın bir ifade mi - is that a common expression
-programlamayı severim - i like to program
-dün sabah çekmiştim - I took it yesterday morning (film)
-şahsen konuşmak benim için zor - it is hard for me to speak in person
-göndermeden önce - before sending
-normalde bir mesaj göndermeden önce çeviri yapabilir ve pratik yapabilirim - normally i can translate and practice before i send a message
-şimdi kullanabileceğim bazı sözlerim var - i have some phrases I can use now
-türkçe pratik yaptım - i practiced turkish
-şu anda sadece türkçe pratik yapıyorum - right now just practicing turkish
-yapalım şunu - let's do it
-buraya bakalım - lets see here
-ne yapıyorum - what am I doing
-ama bu sabah erken saatlerde - but earlier this morning
-yürüyüşe çıktım - i went for a walk
-hokkabazlık yaptım - i juggled
-arabayı temizledim - i cleaned the car
-biraz su içtim - I drank some water
-bence hepsi bu - i think that is all
-Biraz sonra muhtemelen tenis ya da koşarak egzersiz yapacağım - in a little bit i will probably exercise, either tennis or running
-kardeşimi bir yere sürdüm, şimdi onu bekliyorum - i drove my brother somewhere, now i am waiting for him
-sadece koşuya gittim - i just went for a run 
-şimdiye kadar - until now
-Öyleyse sür ve koş bugün şimdiye kadar yaptığım tek şey - so drive and run is all i have done so far today
-Bugün dışarı çıktın mı? - did you go out today?
-belki pazara? veya bir parka mı? - maybe to the market? or to a park?
-dersin iyi gitti mi? - did your lesson go well?
-sonuçları zaten aldın mı - do you already have the results
+akademi - academy - no hint
+akademik - academic (adj) - no hint
+aksan - accent (n) - no hint
+asit - acid (n) - no hint
+aksiyon - action (n) - no hint
+aktif - active - no hint
+aktör - actor - no hint
+aktris - actress - no hint
+adaptasyon - adaptation - no hint
+adres - address (details of a place) - no hint
+avantaj - advantage - no hint
+alarm - alarm (of burglary, fire etc) - no hint
+albüm - album - no hint
+alkol - alcohol - no hint
+alkolik - alcoholic (n) - no hint
+alternatif - alternative - no hint
+amatör - amateur - no hint
+ambulans - ambulance - no hint
+analiz - analysis - no hint
+anti - anti - no hint
+antibiyotik - antibiotic - no hint
+antidemokratik - antidemocratic - no hint
+antipati - antipathy - no hint
+antipatik - antipathetic - no hint
+arena - arena - no hint
+aritmetik - arithmetic - no hint
+astronot - astronaut - no hint
+atlet - athlete - no hint
+atletik - athletic - no hint
+atmosfer - atmosphere - no hint
+alfabe - alphabet - no hint
+apartman - apartment block - no hint
+asistan - assistant (n) - no hint
+ağustos - August - no hint
+oto - auto - no hint
+otobiyografi - autobiography - no hint
+otomatik - automatic - no hint
+otomobil - automobile - no hint
+bakteri - bacteria - no hint
+balkon - balcony - no hint
+balon - balloon (n) - no hint
+banka - bank (place for money) - no hint
+bagaj - baggage (luggage) - no hint
+bar - bar (place to drink in) - no hint
+bariyer - barrier - no hint
+basketbol - basketball (game) - no hint
+bisiklet - bicycle (n) - no hint
+bisküvi - biscuit (cookie) - no hint
+biyoloji - biology - no hint
+biyolojik - biological - no hint
+bluz - blouse - no hint
+blucin (=kot) - blue jeans - no hint
+bot - boat - no hint
+badigard - bodyguard - no hint
+bomba - bomb (n) - no hint
+bot - boot (shoe) - no hint
+branş - branch (of a study) - no hint
+bravo - bravo - no hint
+büro - bureau - no hint
+buton - button (of a machine; on a website) - no hint
+kablo - cable (wire) - no hint
+kakao - cacao - no hint
+kafe - café - no hint
+kamera - camera (for making films, TV programmes) - no hint
+kamp - camp (n) - no hint
+kampanya - campaign (n) - no hint
+kampüs - campus - no hint
+kanser - cancer - no hint
+kantin - canteen (in a school, factory etc) - no hint
+kapasite - capacity - no hint
+kaptan - captain (sailor; team leader) - no hint
+karavan - caravan (trailer) - no hint
+karbonhidrat - carbohydrate - no hint
+karbon - carbon - no hint
+kart - card (n) - no hint
+kariyer - career (n) - no hint
+karnaval - carnival - no hint
+katalog - catalog - no hint
+kategori - category - no hint
+Katolik - Catholic - no hint
+santimetre - centimeter - no hint
+seremoni - ceremony - no hint
+şampiyon - champion (n) - no hint
+kanal - channel (n) - no hint
+kaos - chaos - no hint
+karakter - character - no hint
+kimya - chemistry - no hint
+çikolata - chocolate - no hint
+koro - chorus (n) - no hint
+Hıristiyan - Christian - no hint
+sigara - cigarette - no hint
+sinema - cinema - no hint
+sivil - civil (not part of the military or gov.) - no hint
+klasik - classic (n, adj) - no hint
+klinik - clinic - no hint
