@@ -1,97 +1,140 @@
 Turkish Cognates
 
-akademi - academy - no hint
-akademik - academic (adj) - no hint
-aksan - accent (n) - no hint
-asit - acid (n) - no hint
-aksiyon - action (n) - no hint
-aktif - active - no hint
-aktör - actor - no hint
-aktris - actress - no hint
-adaptasyon - adaptation - no hint
-adres - address (details of a place) - no hint
-avantaj - advantage - no hint
-alarm - alarm (of burglary, fire etc) - no hint
-albüm - album - no hint
-alkol - alcohol - no hint
-alkolik - alcoholic (n) - no hint
-alternatif - alternative - no hint
-amatör - amateur - no hint
-ambulans - ambulance - no hint
-analiz - analysis - no hint
-anti - anti - no hint
-antibiyotik - antibiotic - no hint
-antidemokratik - antidemocratic - no hint
-antipati - antipathy - no hint
-antipatik - antipathetic - no hint
-arena - arena - no hint
-aritmetik - arithmetic - no hint
-astronot - astronaut - no hint
-atlet - athlete - no hint
-atletik - athletic - no hint
-atmosfer - atmosphere - no hint
-alfabe - alphabet - no hint
-apartman - apartment block - no hint
-asistan - assistant (n) - no hint
-ağustos - August - no hint
-oto - auto - no hint
-otobiyografi - autobiography - no hint
-otomatik - automatic - no hint
-otomobil - automobile - no hint
-bakteri - bacteria - no hint
-balkon - balcony - no hint
-balon - balloon (n) - no hint
-banka - bank (place for money) - no hint
-bagaj - baggage (luggage) - no hint
-bar - bar (place to drink in) - no hint
-bariyer - barrier - no hint
-basketbol - basketball (game) - no hint
-bisiklet - bicycle (n) - no hint
-bisküvi - biscuit (cookie) - no hint
-biyoloji - biology - no hint
-biyolojik - biological - no hint
-bluz - blouse - no hint
-blucin (=kot) - blue jeans - no hint
-bot - boat - no hint
-badigard - bodyguard - no hint
-bomba - bomb (n) - no hint
-bot - boot (shoe) - no hint
-branş - branch (of a study) - no hint
-bravo - bravo - no hint
-büro - bureau - no hint
-buton - button (of a machine; on a website) - no hint
-kablo - cable (wire) - no hint
-kakao - cacao - no hint
-kafe - café - no hint
-kamera - camera (for making films, TV programmes) - no hint
-kamp - camp (n) - no hint
-kampanya - campaign (n) - no hint
-kampüs - campus - no hint
-kanser - cancer - no hint
-kantin - canteen (in a school, factory etc) - no hint
-kapasite - capacity - no hint
-kaptan - captain (sailor; team leader) - no hint
-karavan - caravan (trailer) - no hint
-karbonhidrat - carbohydrate - no hint
-karbon - carbon - no hint
-kart - card (n) - no hint
-kariyer - career (n) - no hint
-karnaval - carnival - no hint
-katalog - catalog - no hint
-kategori - category - no hint
-Katolik - Catholic - no hint
-santimetre - centimeter - no hint
-seremoni - ceremony - no hint
-şampiyon - champion (n) - no hint
-kanal - channel (n) - no hint
-kaos - chaos - no hint
-karakter - character - no hint
-kimya - chemistry - no hint
-çikolata - chocolate - no hint
-koro - chorus (n) - no hint
-Hıristiyan - Christian - no hint
-sigara - cigarette - no hint
-sinema - cinema - no hint
-sivil - civil (not part of the military or gov.) - no hint
-klasik - classic (n, adj) - no hint
-klinik - clinic - no hint
+promosyon - promotion (the activity of advertising) - no hint
+protein - protein - no hint
+to protest - protesto etmek - no hint
+protesto - protest (n) - no hint
+protokol - protocol - no hint
+psikoloji - psychology - no hint
+psikolojik - psychological - no hint
+risky - riskli - no hint
+psikolog - psychologist - no hint
+radikal - radical - no hint
+rasyonel - rational - no hint
+radyo - radio (for listening to music and news) - no hint
+reaksiyon - reaction - no hint
+realist - realist; realistic - no hint
+realite - reality - no hint
+reform - reform (n) - no hint
+rejim - regime - no hint
+rapor - report (a written/spoken description) - no hint
+restoran - restaurant - no hint
+ritim - rhythm - no hint
+risk - risk (n) - no hint
+robot - robot - no hint
+roket - rocket (n) - no hint
+rol - role - no hint
+rol model - role model - no hint
+romantizm - romance - no hint
+romantik - romantic - no hint
+rutin - routine - no hint
+salata - salad - no hint
+sandviç - sandwich (n) - no hint
+sos - sauce - no hint
+skandal - scandal - no hint
+senaryo - scenario - no hint
+skor - score (of a sport or game) - no hint
+sektör - sector - no hint
+sekreter - secretary - no hint
+seküler - secular - no hint
+selfie - selfie - no hint
+seminer - seminar - no hint
+servis - service (n) - no hint
+seks - sex (activity) - no hint
+seksi - sexy - no hint
+şampuan - shampoo (n) - no hint
+sinyal - signal (n) - no hint
+şov - show (a performance for the public) - no hint
+sosyal - social (adj) - no hint
+spesifik - specific - no hint
+spekülasyon - speculation - no hint
+sponsor - sponsor (n) - no hint
+to have sex - seks yapmak - no hint
+spor - sport (n) - no hint
+opposite sex - karşı cins - no hint
+sprey - spray (n) - no hint
+stadyum - stadium - no hint
+standart - standard - no hint
+to shampoo - şampuanlamak - no hint
+star - star (a famous performer/player) - no hint
+istasyon - station (of train; radio) - no hint
+şaşırtmak - to surprise - no hint
+statü - status - no hint
+şaşırmak - to be surprised - no hint
+strateji - strategy - no hint
+stratejik - strategic - no hint
+stres - stress (feelings of worry or anxiety) - no hint
+stüdyo - studio - no hint
+sübjektif - subjective (objective) - no hint
+şeker - sugar (n) - no hint
+süper - super (adj, adv) - no hint
+süpermarket - supermarket - no hint
+sürpriz - surprise (n) - no hint
+sembol - symbol - no hint
+sembolik - symbolic - no hint
+sempati - sympathy - no hint
+sempatik - sympathetic - no hint
+sistem - system - no hint
+tablet - tablet - no hint
+taktik - tactic, tactical - no hint
+tank - tank - no hint
+taksi - taxi - no hint
+teknisyen - technician - no hint
+teknik - technique; technical - no hint
+teknoloji - technology - no hint
+teknolojik - technological - no hint
+to telegraph - telgraf çekmek - no hint
+telgraf - telegraph (n) - no hint
+to telephone - telefon etmek - no hint
+telefon - telephone (n) - no hint
+teleskop - telescope - no hint
+televizyon - television - no hint
+tenis - tennis - no hint
+terör - terror (violent action) - no hint
+terörizm - terrorism - no hint
+terörist - terrorist - no hint
+test - test (medical; machine/product) - no hint
+tekst - text (written material) - no hint
+tip - tip (money) - no hint
+tiyatro - theatre (to see plays) - no hint
+terapi - therapy - no hint
+terapist - therapist - no hint
+teoloji - theology - no hint
+teolojik - theological - no hint
+teori - theory - no hint
+teorik - theoretical - no hint
+termometre - thermometer - no hint
+tuvalet - toilet - no hint
+tolerans - tolerance - no hint
+domates - tomato - no hint
+ton - ton - no hint
+tur - tour (n) - no hint
+turizm - tourism - no hint
+turist - tourist - no hint
+turnuva - tournament - no hint
+trafik - traffic (n) - no hint
+trajedi - tragedy - no hint
+trajik - tragic - no hint
+tren - train (railway) - no hint
+transfer - transfer (n) - no hint
+tropik - tropic - no hint
+tropikal - tropical - no hint
+tişört - t-shirt - no hint
+tüp - tube (pipe for liquid) - no hint
+tünel - tunnel (n) - no hint
+TV - TV - no hint
+tip - type (n) - no hint
+üniforma - uniform (n) - no hint
+ünite - unit (of a book) - no hint
+üniversal - universal - no hint
+üniversite - university - no hint
+vazo - vase - no hint
+versiyon - version - no hint
+video - video (n) - no hint
+virüs - virus - no hint
+vizyon - vision - no hint
+vizyoner - visionary - no hint
+vitamin - vitamin - no hint
+voleybol - volleyball - no hint
+volüm - volume (sound; book) - no hint
+yat - yacht - no hint
