@@ -1,195 +1,370 @@
-Turkish Cognates
+Turkish Common
 
-to photocopy - fotokopi çekmek - no hint
-paket - packet - no hint
-panel - panel - no hint
-panik - panic (n) - no hint
-park - park (n) - no hint
-partner - partner (n) - no hint
-parti - party (for fun; in politics) - no hint
-pasta - pasta - no hint
-penaltı - penalty (in football) - no hint
-pansiyon - pension (a small cheap hotel) - no hint
-biber - pepper (n) - no hint
-performans - performance - no hint
-periyot - period (n) - no hint
-perspektif - perspective - no hint
-personel - personnel - no hint
-fobi - phobia - no hint
-fonetik - phonetic - no hint
-fotokopi - photocopy (n) - no hint
-fotoğraf - photograph (n) - no hint
-to photograph - fotoğraf çekmek - no hint
-fizik - physics - no hint
-to picnic - piknik yapmak - no hint
-piyano - piano - no hint
-to plan - planlamak - no hint
-piknik - picnic (n) - no hint
-police officer - polis memuru - no hint
-pilot - pilot (n) - no hint
-pizza - pizza - no hint
-plan - plan (n) - no hint
-plastik - plastic - no hint
-polis - police - no hint
-poliçe - policy (of insurance) - no hint
-politika - policy; politics - no hint
-politik - politic; political - no hint
-portre - portrait (n) - no hint
-popüler - popular (liked by a lot of people) - no hint
-pozisyon - position (n) - no hint
-pozitif - positive - no hint
-poster - poster - no hint
-patates - potato - no hint
-potansiyel - potential - no hint
-paunt - pound (unit of money) - no hint
-pratik - practical - no hint
-pratik (n) - practice (n) - no hint
-prezantasyon - presentation (to give a talk) - no hint
-prens - prince - no hint
-prenses - princess - no hint
-prensip - principle - no hint
-problem - problem - no hint
-profesyonel - professional - no hint
-profesör - professor (in a British university) - no hint
-profil - profile (n) - no hint
-program - programme/program (n) - no hint
-proje - project (n) - no hint
-prosedür - procedure - no hint
-promosyon - promotion (the activity of advertising) - no hint
-protein - protein - no hint
-to protest - protesto etmek - no hint
-protesto - protest (n) - no hint
-protokol - protocol - no hint
-psikoloji - psychology - no hint
-psikolojik - psychological - no hint
-risky - riskli - no hint
-psikolog - psychologist - no hint
-radikal - radical - no hint
-rasyonel - rational - no hint
-radyo - radio (for listening to music and news) - no hint
-reaksiyon - reaction - no hint
-realist - realist; realistic - no hint
-realite - reality - no hint
-reform - reform (n) - no hint
-rejim - regime - no hint
-rapor - report (a written/spoken description) - no hint
-restoran - restaurant - no hint
-ritim - rhythm - no hint
-risk - risk (n) - no hint
-robot - robot - no hint
-roket - rocket (n) - no hint
-rol - role - no hint
-rol model - role model - no hint
-romantizm - romance - no hint
-romantik - romantic - no hint
-rutin - routine - no hint
-salata - salad - no hint
-sandviç - sandwich (n) - no hint
-sos - sauce - no hint
-skandal - scandal - no hint
-senaryo - scenario - no hint
-skor - score (of a sport or game) - no hint
-sektör - sector - no hint
-sekreter - secretary - no hint
-seküler - secular - no hint
-selfie - selfie - no hint
-seminer - seminar - no hint
-servis - service (n) - no hint
-seks - sex (activity) - no hint
-seksi - sexy - no hint
-şampuan - shampoo (n) - no hint
-sinyal - signal (n) - no hint
-şov - show (a performance for the public) - no hint
-sosyal - social (adj) - no hint
-spesifik - specific - no hint
-spekülasyon - speculation - no hint
-sponsor - sponsor (n) - no hint
-to have sex - seks yapmak - no hint
-spor - sport (n) - no hint
-opposite sex - karşı cins - no hint
-sprey - spray (n) - no hint
-stadyum - stadium - no hint
-standart - standard - no hint
-to shampoo - şampuanlamak - no hint
-star - star (a famous performer/player) - no hint
-istasyon - station (of train; radio) - no hint
-şaşırtmak - to surprise - no hint
-statü - status - no hint
-şaşırmak - to be surprised - no hint
-strateji - strategy - no hint
-stratejik - strategic - no hint
-stres - stress (feelings of worry or anxiety) - no hint
-stüdyo - studio - no hint
-sübjektif - subjective (objective) - no hint
-şeker - sugar (n) - no hint
-süper - super (adj, adv) - no hint
-süpermarket - supermarket - no hint
-sürpriz - surprise (n) - no hint
-sembol - symbol - no hint
-sembolik - symbolic - no hint
-sempati - sympathy - no hint
-sempatik - sympathetic - no hint
+olarak - as - no hint
+ben - I - no hint
+onun - his - no hint
+bu - that - no hint
+diye - he - no hint
+oldu - was - no hint
+için - for - no hint
+üzerinde - on - no hint
+vardır - are - no hint
+ile - with - no hint
+onlar - they - no hint
+olmak - be - no hint
+at - at - no hint
+bir - one - no hint
+var - have - no hint
+Bu - this - no hint
+dan - from - no hint
+tarafından - by - no hint
+sıcak - hot - no hint
+kelime - word - no hint
+ancak - but - no hint
+ne - what - no hint
+bazı - some - no hint
+olduğunu - is - no hint
+o - it - no hint
+sen - you - no hint
+veya - or - no hint
+vardı - had - no hint
+arasında - of - no hint
+karşı - to - no hint
+ve - and - no hint
+bir - a - no hint
+içinde - in - no hint
+biz - we - no hint
+can - can - no hint
+üzerinden - out - no hint
+diğer - other - no hint
+vardı - were - no hint
+hangi - which - no hint
+do - do - no hint
+onların - their - no hint
+zaman - time - no hint
+eğer - if - no hint
+olacak - will - no hint
+nasıl - how - no hint
+dedi - said - no hint
+bir - an - no hint
+her - each - no hint
+söyle - tell - no hint
+yok - does - no hint
+set - set - no hint
+üç - three - no hint
+istiyorum - want - no hint
+hava - air - no hint
+iyi - well - no hint
+ayrıca - also - no hint
+oynamak - play - no hint
+küçük - small - no hint
+son - end - no hint
+koymak - put - no hint
+ev - home - no hint
+okumak - read - no hint
+el - hand - no hint
+liman - port - no hint
+büyük - large - no hint
+büyü - spell - no hint
+ekleyin - add - no hint
+hatta - even - no hint
+arazi - land - no hint
+burada - here - no hint
+gerekir - must - no hint
+büyük - big - no hint
+yüksek - high - no hint
+böyle - such - no hint
+izleyin - follow - no hint
+hareket - act - no hint
+neden - why - no hint
+sormak - ask - no hint
+erkekler - men - no hint
+değişim - change - no hint
+gitti - went - no hint
+ışık - light - no hint
+tür - kind - no hint
+kapalı - off - no hint
+gerek - need - no hint
+ev - house - no hint
+resim - picture - no hint
+denemek - try - no hint
+bizi - us - no hint
+tekrar - again - no hint
+hayvan - animal - no hint
+nokta - point - no hint
+anne - mother - no hint
+dünya - world - no hint
+yakın - near - no hint
+inşa - etmek - no hint
+öz - self - no hint
+toprak - earth - no hint
+baba - father - no hint
+herhangi - bir - no hint
+yeni - new - no hint
+iş - work - no hint
+bölüm - part - no hint
+almak - take - no hint
+olsun - get - no hint
+yer - place - no hint
+yapılan - made - no hint
+canlı - live - no hint
+nerede - where - no hint
+sonra - after - no hint
+geri - back - no hint
+küçük - little - no hint
+sadece - only - no hint
+yuvarlak - round - no hint
+adam - man - no hint
+yıl - year - no hint
+geldi - came - no hint
+gösterisi - show - no hint
+her - every - no hint
+iyi - good - no hint
+bana - me - no hint
+vermek - give - no hint
+bizim - our - no hint
+altında - under - no hint
+adı - name - no hint
+çok - very - no hint
+ile - through - no hint
+sadece - just - no hint
+formu - form - no hint
+cümle - sentence - no hint
+büyük - great - no hint
+düşünmek - think - no hint
+demek - say - no hint
+yardım - help - no hint
+düşük - low - no hint
+hat - line - no hint
+farklı - differ - no hint
+dönüş - turn - no hint
+neden - cause - no hint
+çok - much - no hint
+Yani - mean - no hint
+önce - before - no hint
+hareket - move - no hint
+sağ - right - no hint
+çocuk - boy - no hint
+eski - old - no hint
+çok - too - no hint
+aynı - same - no hint
+diye - she - no hint
+tüm - all - no hint
+orada - there - no hint
+zaman - when - no hint
+yukarı - up - no hint
+Kullanım - use - no hint
+senin - your - no hint
+yol - way - no hint
+hakkında - about - no hint
+birçok - many - no hint
+o - zaman - no hint
+onları - them - no hint
+yazmak - write - no hint
+would - would - no hint
+gibi - like - no hint
+bu - yüzden - no hint
+bu - these - no hint
+onu - her - no hint
+uzun - long - no hint
+yapmak - make - no hint
+şey - thing - no hint
+görmek - see - no hint
+onu - him - no hint
+iki - two - no hint
+var - has - no hint
+bak - look - no hint
+daha - fazla - no hint
+gün - day - no hint
+olabilir - could - no hint
+gitmek - go - no hint
+gel - come - no hint
+yaptım - did - no hint
+numarası - number - no hint
+ses - sound - no hint
+hayır - no - no hint
+en - most - no hint
+insanlar - people - no hint
+benim - my - no hint
+üzerinde - over - no hint
+bilmek - know - no hint
+su - water - no hint
+daha - than - no hint
+çağrı - call - no hint
+ilk - first - no hint
+kim - who - no hint
+may - may - no hint
+aşağı - down - no hint
+yan - side - no hint
+oldu - been - no hint
+Şimdi - now - no hint
+bulmak - find - no hint
+kafa - head - no hint
+standı - stand - no hint
+kendi - own - no hint
+sayfa - page - no hint
+gerekir - should - no hint
+ülke - country - no hint
+bulundu - found - no hint
+cevap - answer - no hint
+okul - school - no hint
+büyümek - grow - no hint
+çalışma - study - no hint
+hala - still - no hint
+öğrenmek - learn - no hint
+bitki - plant - no hint
+kapak - cover - no hint
+gıda - food - no hint
+güneş - sun - no hint
+dört - four - no hint
+arasında - between - no hint
+devlet - state - no hint
+tutmak - keep - no hint
+göz - eye - no hint
+asla - never - no hint
+son - last - no hint
+let - let - no hint
+düşünce - thought - no hint
+Şehir - city - no hint
+ağaç - tree - no hint
+çapraz - cross - no hint
+çiftlik - farm - no hint
+sert - hard - no hint
+başlangıç - start - no hint
+olabilir - might - no hint
+hikaye - story - no hint
+testere - saw - no hint
+kadar - far - no hint
+deniz - sea - no hint
+çizmek - draw - no hint
+sol - left - no hint
+geç - late - no hint
+run - run - no hint
+yapamaz - don’t - no hint
+süre - while - no hint
+basın - press - no hint
+yakın - close - no hint
+gece - night - no hint
+gerçek - real - no hint
+hayat - life - no hint
+az - few - no hint
+kuzey - north - no hint
+kitap - book - no hint
+taşımak - carry - no hint
+aldı - took - no hint
+bilim - science - no hint
+yemek - eat - no hint
+oda - room - no hint
+arkadaşı - friend - no hint
+başladı - began - no hint
+fikir - idea - no hint
+balık - fish - no hint
+dağ - mountain - no hint
+dur - stop - no hint
+bir - kez - no hint
+baz - base - no hint
+duymak - hear - no hint
+at - horse - no hint
+kesim - cut - no hint
+emin - sure - no hint
+izle - watch - no hint
+renk - color - no hint
+yüz - face - no hint
+ahşap - wood - no hint
+ana - main - no hint
+açık - open - no hint
+görünmek - seem - no hint
+birlikte - together - no hint
+sonraki - next - no hint
+beyaz - white - no hint
+çocuk - children - no hint
+başla - begin - no hint
+var - got - no hint
+yürümek - walk - no hint
+örnek - example - no hint
+kolaylığı - ease - no hint
+kâğıt - paper - no hint
+grup - group - no hint
+her - zaman - no hint
+müzik - music - no hint
+bu - those - no hint
+her - ikisi - no hint
+işareti - mark - no hint
+sık - sık - no hint
+mektup - letter - no hint
+kadar - until - no hint
+kilometre - mile - no hint
+nehir - river - no hint
+araba - car - no hint
+ayaklar - feet - no hint
+bakım - care - no hint
+ikinci - second - no hint
+yeterli - enough - no hint
+düz - plain - no hint
+kız - girl - no hint
+olağan - usual - no hint
+genç - young - no hint
+hazır - ready - no hint
+yukarıdaki - above - no hint
+hiç - ever - no hint
+kırmızı - red - no hint
+listesi - list - no hint
+olsa - though - no hint
+hissetmek - feel - no hint
+tartışma - talk - no hint
+kuş - bird - no hint
+yakında - soon - no hint
+vücut - body - no hint
+köpek - dog - no hint
+aile - family - no hint
+doğrudan - direct - no hint
+poz - pose - no hint
+bırakın - leave - no hint
+şarkı - song - no hint
+ölçmek - measure - no hint
+kapı - door - no hint
+ürün - product - no hint
+siyah - black - no hint
+kısa - short - no hint
+rakam - numeral - no hint
+sınıf - class - no hint
+rüzgar - wind - no hint
+soru - question - no hint
+olur - happen - no hint
+komple - complete - no hint
+gemi - ship - no hint
+alan - area - no hint
+yarım - half - no hint
+kaya - rock - no hint
+sipariş - order - no hint
+yangın - fire - no hint
+güney - south - no hint
+sorun - problem - no hint
+parça - piece - no hint
+söyledi - told - no hint
+biliyordu - knew - no hint
+geçmek - pass - no hint
+beri - since - no hint
+üst - top - no hint
+bütün - whole - no hint
+kral - king - no hint
+sokak - street - no hint
+inch - inch - no hint
+çarpmak - multiply - no hint
+hiçbir - şey - no hint
+ders - course - no hint
+kalmak - stay - no hint
+tekerlek - wheel - no hint
+tam - full - no hint
+kuvvet - force - no hint
+mavi - blue - no hint
+nesne - object - no hint
+karar - vermek - no hint
+yüzey - surface - no hint
+derin - deep - no hint
+ay - moon - no hint
+ada - island - no hint
+ayak - foot - no hint
 sistem - system - no hint
-tablet - tablet - no hint
-taktik - tactic, tactical - no hint
-tank - tank - no hint
-taksi - taxi - no hint
-teknisyen - technician - no hint
-teknik - technique; technical - no hint
-teknoloji - technology - no hint
-teknolojik - technological - no hint
-to telegraph - telgraf çekmek - no hint
-telgraf - telegraph (n) - no hint
-to telephone - telefon etmek - no hint
-telefon - telephone (n) - no hint
-teleskop - telescope - no hint
-televizyon - television - no hint
-tenis - tennis - no hint
-terör - terror (violent action) - no hint
-terörizm - terrorism - no hint
-terörist - terrorist - no hint
-test - test (medical; machine/product) - no hint
-tekst - text (written material) - no hint
-tip - tip (money) - no hint
-tiyatro - theatre (to see plays) - no hint
-terapi - therapy - no hint
-terapist - therapist - no hint
-teoloji - theology - no hint
-teolojik - theological - no hint
-teori - theory - no hint
-teorik - theoretical - no hint
-termometre - thermometer - no hint
-tuvalet - toilet - no hint
-tolerans - tolerance - no hint
-domates - tomato - no hint
-ton - ton - no hint
-tur - tour (n) - no hint
-turizm - tourism - no hint
-turist - tourist - no hint
-turnuva - tournament - no hint
-trafik - traffic (n) - no hint
-trajedi - tragedy - no hint
-trajik - tragic - no hint
-tren - train (railway) - no hint
-transfer - transfer (n) - no hint
-tropik - tropic - no hint
-tropikal - tropical - no hint
-tişört - t-shirt - no hint
-tüp - tube (pipe for liquid) - no hint
-tünel - tunnel (n) - no hint
-TV - TV - no hint
-tip - type (n) - no hint
-üniforma - uniform (n) - no hint
-ünite - unit (of a book) - no hint
-üniversal - universal - no hint
-üniversite - university - no hint
-vazo - vase - no hint
-versiyon - version - no hint
-video - video (n) - no hint
-virüs - virus - no hint
-vizyon - vision - no hint
-vizyoner - visionary - no hint
-vitamin - vitamin - no hint
-voleybol - volleyball - no hint
-volüm - volume (sound; book) - no hint
-yat - yacht - no hint
+meşgul - busy - no hint
+Test - test - no hint
