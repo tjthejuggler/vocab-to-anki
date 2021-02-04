@@ -7,7 +7,7 @@ from tkinter.filedialog import askopenfilename
 from pathlib import Path
 
 home = str(Path.home())
-lang = 'tr'
+#lang = 'es'
 
 # def Main(lang,limit):
 #       #APIKEY is stored separately in another file called apikey
@@ -38,7 +38,7 @@ def fileChoose():
       filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
       return filename
 
-def addToFailedList(word):
+def addToFailedList(word, lang):
       cwd = os.getcwd()
       file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
       lines = file.read()
@@ -48,7 +48,7 @@ def addToFailedList(word):
       text_file.write(lines)
       text_file.close()
 
-def DownloadMp3ForAnki(word):
+def DownloadMp3ForAnki(word, lang):
       with open('apikey.txt') as a:
         APIKEY=a.read()
       home        = os.getcwd()
@@ -70,7 +70,7 @@ def DownloadMp3ForAnki(word):
                         print('MP3 created',word)
       else:                        
             print('not available from Forvo', word)
-            addToFailedList(word)
+            addToFailedList(word, lang)
 
 def DownloadMp3(urlList, limit, word, folder):
       #download a mp3 file, rename it and write it in a costum folder

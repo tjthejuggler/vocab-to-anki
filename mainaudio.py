@@ -6,10 +6,20 @@ from frtest import DownloadMp3ForAnki
 import re
 from pathlib import Path
 
+print('Format')
+print('1. es - tr - en, hint')
+print('2. tr - en - hint')
+format_choice = input()
+print(format_choice)
+using_two_langs = False
+if format_choice  == '1':
+	using_two_langs = True
+
 home = str(Path.home())
 cwd = os.getcwd()
 #add andoird studio to path or figure out how to make an icon
-lang = 'tr'
+first_lang = 'es'
+second_lang = 'tr'
 file = open( "source.txt", "r")
 lines = file.readlines()
 file.close()
@@ -26,18 +36,17 @@ deck_model = genanki.Model(
 		{'name': 'Answer'},
 		{'name': 'Hint'},
 		{'name': 'URL'},
-		{'name': 'Audio'},
 	],
 	templates=[
 		{
 			'name': 'Card 1',
 			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>{{Audio}}',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>',
 		},
 		{
 			'name': 'Card 2',
 			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>{{Audio}}',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>',
 		}
 	])
 
@@ -46,18 +55,21 @@ def create_anki_deck(my_deck, all_audio_files):
 	my_package.media_files = all_audio_files
 	my_package.write_to_file(deckName+'.apkg')
 
-def create_anki_note(word, translation, hint, tag, url, all_audio_files):
-	
-	audio_file = word+'.mp3'
-	if mp3_exists(word):
-		all_audio_files.append(cwd+'/'+lang+'/'+audio_file)
+def create_anki_note(word, translation, hint, tag, url, all_audio_files):	
+	word_audio_file = word+'.mp3'
+	translation_audio_file = translation+'.mp3'
+	if mp3_exists(word, first_lang):
+		all_audio_files.append(cwd+'/'+first_lang+'/'+word_audio_file)
+	if using_two_langs:
+		if mp3_exists(translation, second_lang):
+			all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
-		fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+audio_file+']'])
+		fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
 	return my_note, all_audio_files
 
-def has_previously_failed(word):
+def has_previously_failed(word, lang):
 	file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
 	lines = file.readlines()
 	file.close()
@@ -69,8 +81,9 @@ def has_previously_failed(word):
 			has_failed = True
 	return has_failed
 
+does_not_exist_counter = 0
 
-def mp3_exists(translation):
+def mp3_exists(translation, lang):
 	exists = False
 	try:
 		with open(cwd+'/'+lang+'/'+translation+'.mp3') as f:
@@ -88,15 +101,25 @@ for line in lines:
 		word = split_line[0].strip('\n')
 		word = re.sub(r'[^\w\s]','',word)
 		if len(word.split()) < 3:
-			if not has_previously_failed(word):
-				if not mp3_exists(word):
+			if not has_previously_failed(word, first_lang):
+				if not mp3_exists(word, first_lang):
 					#print('did download',word)
-					DownloadMp3ForAnki(word)
+					DownloadMp3ForAnki(word, first_lang)
 				else:
 					print('MP3 already exists',word)
 			else:
 				print('has previously failed',word)
 		translation = split_line[1]
+		if using_two_langs:
+			if len(translation.split()) < 3:
+				if not has_previously_failed(translation, second_lang):
+					if not mp3_exists(translation, second_lang):
+						#print('did download',translation)
+						DownloadMp3ForAnki(translation, second_lang)
+					else:
+						print('MP3 already exists',translation)
+				else:
+					print('has previously failed',translation)			
 		hint = ""
 		if len(split_line) > 2:
 			hint = split_line[2]
