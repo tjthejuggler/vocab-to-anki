@@ -16,11 +16,11 @@ caballo - at - at, no hint
 uno - bir - one, no hint
 si existe - var - have, no hint
 esta - Bu - this, no hint
-DAN. - dan - from, no hint
+de - dan - from, no hint
 Por - tarafından - by, no hint
 acalorado - sıcak - hot, no hint
 Vocablo - kelime - word, no hint
-SIN EMBARGO - ancak - but, no hint
+pero - ancak - but, no hint
 Qué - ne - what, no hint
 Algunos - bazı - some, no hint
 es eso - olduğunu - is, no hint
@@ -348,7 +348,7 @@ ya que - beri - since, no hint
 superior - üst - top, no hint
 completo - bütün - whole, no hint
 monarca - kral - king, no hint
-CALLE - sokak - street, no hint
+calle - sokak - street, no hint
 pulgada - inch - inch, no hint
 bache - çarpmak - multiply, no hint
 No - hiçbir - şey, no hint
@@ -359,10 +359,10 @@ completa - tam - full, no hint
 fuerza - kuvvet - force, no hint
 azul - mavi - blue, no hint
 objeto - nesne - object, no hint
-RESOLUCIÓN - karar - vermek, no hint
+decisión - karar - vermek, no hint
 superficie - yüzey - surface, no hint
 Profundo - derin - deep, no hint
-mes(es) - ay - moon, no hint
+mes - ay - moon, no hint
 MANZANA - ada - island, no hint
 pie - ayak - foot, no hint
 Sistema - sistem - system, no hint
@@ -588,7 +588,7 @@ Divertidas - eğlenceli - fun, no hint
 brillante - parlak - bright, no hint
 Gas - gaz - gas, no hint
 aire - hava - weather, no hint
-mes(es) - ay - month, no hint
+mes - ay - month, no hint
 millón - milyon - million, no hint
 Ursidae - ayı - bear, no hint
 completar - bitirmek - finish, no hint
