@@ -1,4 +1,4 @@
-Turco Ispanyolca Common
+Turkish Common
 
 como - olarak - as, no hint
 yo - ben - I, no hint
@@ -6,9 +6,9 @@ su - onun - his, no hint
 esta - bu - that, no hint
 ese - diye - he, no hint
 ocurrió - oldu - was, no hint
-para - için - for, no hint
-sobre - üzerinde - on, no hint
-tiene - vardır - are, no hint
+para: - için - for, no hint
+SOBRE - üzerinde - on, no hint
+dirección a Qibla. - vardır - are, no hint
 con - ile - with, no hint
 ellas - onlar - they, no hint
 alzar - olmak - be, no hint
@@ -16,11 +16,11 @@ caballo - at - at, no hint
 uno - bir - one, no hint
 si existe - var - have, no hint
 esta - Bu - this, no hint
-de - dan - from, no hint
+DAN. - dan - from, no hint
 Por - tarafından - by, no hint
 acalorado - sıcak - hot, no hint
 Vocablo - kelime - word, no hint
-pero - ancak - but, no hint
+SIN EMBARGO - ancak - but, no hint
 Qué - ne - what, no hint
 Algunos - bazı - some, no hint
 es eso - olduğunu - is, no hint
@@ -87,7 +87,7 @@ apagada - kapalı - off, no hint
 necesitar - gerek - need, no hint
 casa - ev - house, no hint
 fotos - resim - picture, no hint
-experimentar - denemek - try, no hint
+ensayar - denemek - try, no hint
 nos - bizi - us, no hint
 De nuevo - tekrar - again, no hint
 animal - hayvan - animal, no hint
@@ -186,14 +186,14 @@ No - hayır - no, no hint
 ancho - en - most, no hint
 Personas - insanlar - people, no hint
 Soy yo. - benim - my, no hint
-sobre - üzerinde - over, no hint
+SOBRE - üzerinde - over, no hint
 saber - bilmek - know, no hint
 agua - su - water, no hint
 más - daha - than, no hint
 Llamada - çağrı - call, no hint
 & Primera - ilk - first, no hint
 quién - kim - who, no hint
-May - mayis - may, no hint
+May - Mayıs - may, no hint
 abajo - aşağı - down, no hint
 lado - yan - side, no hint
 ocurrió - oldu - been, no hint
@@ -348,7 +348,7 @@ ya que - beri - since, no hint
 superior - üst - top, no hint
 completo - bütün - whole, no hint
 monarca - kral - king, no hint
-calle - sokak - street, no hint
+CALLE - sokak - street, no hint
 pulgada - inch - inch, no hint
 bache - çarpmak - multiply, no hint
 No - hiçbir - şey, no hint
@@ -359,10 +359,10 @@ completa - tam - full, no hint
 fuerza - kuvvet - force, no hint
 azul - mavi - blue, no hint
 objeto - nesne - object, no hint
-decisión - karar - vermek, no hint
+RESOLUCIÓN - karar - vermek, no hint
 superficie - yüzey - surface, no hint
 Profundo - derin - deep, no hint
-mes - ay - moon, no hint
+mes(es) - ay - moon, no hint
 MANZANA - ada - island, no hint
 pie - ayak - foot, no hint
 Sistema - sistem - system, no hint
@@ -503,7 +503,7 @@ energía - enerji - energy, no hint
 cazar - avı - hunt, no hint
 eventual - muhtemel - probable, no hint
 cama - yatak - bed, no hint
-hermana - kardeş - brother, no hint
+Hermano#Hermanastros - kardeş - brother, no hint
 huevo - yumurta - egg, no hint
 subir a - binmek - ride, no hint
 celda - hücre - cell, no hint
@@ -588,7 +588,7 @@ Divertidas - eğlenceli - fun, no hint
 brillante - parlak - bright, no hint
 Gas - gaz - gas, no hint
 aire - hava - weather, no hint
-mes - ay - month, no hint
+mes(es) - ay - month, no hint
 millón - milyon - million, no hint
 Ursidae - ayı - bear, no hint
 completar - bitirmek - finish, no hint
@@ -620,7 +620,7 @@ aconsejar - önermek - suggest, no hint
 limpio - temiz - clean, no hint
 descanso - molası - break, no hint
 dama - bayan - lady, no hint
-patio - avlu - yard, no hint
+yarda - yarda - yard, no hint
 se levantará - yükselecek - rise, no hint
 malo - kötü - bad, no hint
 golpe - darbe - blow, no hint
@@ -686,7 +686,7 @@ frio - serin - cool, no hint
 Diseño - dizayn - design, no hint
 malo - kötü - poor, no hint
 muchas - çok - lot, no hint
-Ensayista - deneme - experiment, no hint
+experimentar - denemek - experiment, no hint
 inferior - alt - bottom, no hint
 key - anahtar - key, no hint
 hierro - demir - iron, no hint
@@ -727,7 +727,7 @@ ciertamente - güvenli - safe, no hint
 gato - kedi - cat, no hint
 siglo - yüzyıl - century, no hint
 fraguar - düşünmek - consider, no hint
-TIPO - tipi - type, no hint
+tipo - tipi - type, no hint
 Derecho - hukuk - law, no hint
 bits - bit - bit, no hint
 Costa - sahil - coast, no hint
@@ -917,7 +917,7 @@ especialmente - özellikle - especially, no hint
 Higuera - incir - fig, no hint
 asustado - korkuyor - afraid, no hint
 Limpiar - büyük - huge, no hint
-hermana - kardeş - sister, no hint
+Hermana - kardeş - sister, no hint
 acero - çelik - steel, no hint
 debatir - tartışmak - discuss, no hint
 Siguiente - ileri - forward, no hint
@@ -945,7 +945,7 @@ topkdv - toplam - total, no hint
 básica - temel - basic, no hint
 hedor - koku - smell, no hint
 Valle - vadi - valley, no hint
-Qué - ne - nor, no hint
+Qué - ne - what, no hint
 double - çift - double, no hint
 Sillón - koltuk - seat, no hint
 avanzar - devam - etmek, no hint
@@ -992,10 +992,10 @@ gris - gri - gray, no hint
 De nuevo - tekrar - repeat, no hint
 requiere - gerektirir - require, no hint
 amplio - geniş - broad, no hint
-preparar - hazırlamak - prepare, no hint
+hazırlamak - hazırlamak - prepare, no hint
 sal - tuz - salt, no hint
-nariz - burun - nose, no hint
+burun - burun - nose, no hint
 plural - çoğul - plural, no hint
 enfado - öfke - anger, no hint
 alegación - iddia - claim, no hint
-continente - kıta - continent, no hint
+kıta - kıta - continent, no hint
