@@ -10,6 +10,7 @@ print('Format')
 print('1. es - tr - en, hint')
 print('2. tr - en - hint')
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('3. tr - en - hint (Download en)')
 print('4. en - tr - hint (Download en)')
 format_choice = input()
@@ -34,6 +35,8 @@ cwd = os.getcwd()
 #add andoird studio to path or figure out how to make an icon
 
 =======
+=======
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 format_choice = input()
 print(format_choice)
 using_two_langs = False
@@ -45,6 +48,9 @@ cwd = os.getcwd()
 #add andoird studio to path or figure out how to make an icon
 first_lang = 'es'
 second_lang = 'tr'
+<<<<<<< HEAD
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
+=======
 >>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 file = open( "source.txt", "r")
 lines = file.readlines()
@@ -89,6 +95,7 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	if using_two_langs:
 		if mp3_exists(translation, second_lang):
 <<<<<<< HEAD
+<<<<<<< HEAD
 			all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)	
 		my_note = genanki.Note(
 			model=deck_model,
@@ -101,11 +108,16 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 			fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
 
 =======
+=======
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 			all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)
 	my_note = genanki.Note(
 		model=deck_model,
 		tags=[tag],
 		fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
+<<<<<<< HEAD
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
+=======
 >>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 	return my_note, all_audio_files
 

@@ -8,8 +8,11 @@ from pathlib import Path
 
 home = str(Path.home())
 <<<<<<< HEAD
+<<<<<<< HEAD
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
 
+=======
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 =======
 >>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 #lang = 'es'

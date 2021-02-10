@@ -68,6 +68,7 @@ EJMPLAR
 facilidad de
 bakım
 <<<<<<< HEAD
+<<<<<<< HEAD
 él sabía
 endişelenme
 masallah
@@ -252,6 +253,9 @@ reentrada
 Se rió
 telepático
 lamasería
+=======
+él sabía
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 =======
 él sabía
 >>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d

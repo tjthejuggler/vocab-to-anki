@@ -345,6 +345,7 @@ kimya okuyorum
 koşuta çıkıyorum
 Gitmek zorundayım
 <<<<<<< HEAD
+<<<<<<< HEAD
 keske olsa
 endişelenme
 buldüşmek
@@ -716,6 +717,9 @@ Bayım
 düğün çiçeği
 none.
 gürültü, ses
+=======
+keske olsa
+>>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
 =======
 keske olsa
 >>>>>>> 176ab8e7bf9727cf3d9a669f44ef6a6740fedf7d
