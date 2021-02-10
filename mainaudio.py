@@ -9,17 +9,29 @@ from pathlib import Path
 print('Format')
 print('1. es - tr - en, hint')
 print('2. tr - en - hint')
+print('3. tr - en - hint (Download en)')
+print('4. en - tr - hint (Download en)')
 format_choice = input()
 print(format_choice)
 using_two_langs = False
-if format_choice  == '1':
+first_lang = 'es'
+second_lang = 'tr'
+if format_choice  == '1' or format_choice  == '3':
 	using_two_langs = True
+else:
+	first_lang = 'tr'
 
+if format_choice  == '2' or format_choice  == '3':	
+	first_lang = 'tr'
+	second_lang = 'en'
+
+if format_choice  == '4':	
+	first_lang = 'en'
+	second_lang = 'tr'
 home = str(Path.home())
 cwd = os.getcwd()
 #add andoird studio to path or figure out how to make an icon
-first_lang = 'es'
-second_lang = 'tr'
+
 file = open( "source.txt", "r")
 lines = file.readlines()
 file.close()
@@ -36,17 +48,18 @@ deck_model = genanki.Model(
 		{'name': 'Answer'},
 		{'name': 'Hint'},
 		{'name': 'URL'},
+		{'name': 'Audio'},
 	],
 	templates=[
 		{
 			'name': 'Card 1',
 			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>{{Audio}}',
 		},
 		{
 			'name': 'Card 2',
 			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>{{Audio}}',
 		}
 	])
 
@@ -62,11 +75,17 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 		all_audio_files.append(cwd+'/'+first_lang+'/'+word_audio_file)
 	if using_two_langs:
 		if mp3_exists(translation, second_lang):
-			all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)
-	my_note = genanki.Note(
-		model=deck_model,
-		tags=[tag],
-		fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
+			all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)	
+		my_note = genanki.Note(
+			model=deck_model,
+			tags=[tag],
+			fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ''])
+	else:
+		my_note = genanki.Note(
+			model=deck_model,
+			tags=[tag],
+			fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
+
 	return my_note, all_audio_files
 
 def has_previously_failed(word, lang):

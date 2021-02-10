@@ -15,5 +15,5 @@ for linenumber in range (0,len(lines)):
 
 
 with open('commonwords_formated.txt', 'w') as f:
-    for item in formated_lines:
-        f.write("%s" % item)
+	for item in formated_lines:
+		f.write("%s" % item)

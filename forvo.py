@@ -1,8 +1,12 @@
 import requests
 import urllib
 import urllib.parse
+import json
 
-def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= True):
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+            
+
+def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):
       # action, default is 'word-pronunciations', query, language, apikey, TRUE if free api(default), FALSE if commercial
       # Return a list of link to mp3 pronunciations for the word QUERY in LANG language.
       # FORMAT='ogg' will return a list of link to ogg pronunciations 
@@ -11,7 +15,7 @@ def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', f
             base_url = 'http://apifree.forvo.com/'
       else:
             #TODO: add non free base url
-            base_url = 'htttp://api.forvo.com/' #is it correct?
+            base_url = 'http://apicommercial.forvo.com/' #is it correct?
             
       query_u8 = QUERY
 
@@ -26,13 +30,18 @@ def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', f
       
       url = base_url + '/'.join(['%s/%s' % a for a in key if a[1]]) + '/'
       
+      print(url)
+
       try:
-            r = requests.get(url)
+            #r = requests.get(url)
+            r = requests.get(url, headers=headers)
+
       except:
             raise
             return None
       
-      data = r.json()
+      #data = r.json()
+      data = json.loads(r.content.decode())
       
       if data[u'items']:
             #we retrieved a non empty JSON.

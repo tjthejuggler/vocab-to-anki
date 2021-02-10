@@ -7,6 +7,8 @@ from tkinter.filedialog import askopenfilename
 from pathlib import Path
 
 home = str(Path.home())
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+
 #lang = 'es'
 
 # def Main(lang,limit):
@@ -56,7 +58,8 @@ def DownloadMp3ForAnki(word, lang):
       r = ForvoRequest(word,lang,APIKEY)
       if r:
             #download a mp3 file, rename it and write it in a costum folder
-            mp3 = requests.get(r[0])                 
+            #mp3 = requests.get(r[0])    
+            mp3 = requests.get(r[0], headers=headers)             
             file_name   = word.replace('\n','')+'.mp3'
             file_path   = os.path.join(lang_dir, file_name)
                   
