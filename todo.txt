@@ -1,3 +1,24 @@
+-for now lets either make an unformated to formatted setup
+	and
+	formatted to cards setup
+	we can combine them later
+-move mp3s out of this github
+-move translation into here
+	-translation should go through and take every word in a file and export them in this format
+		word - translation - (optional english), no hint
+-make instructions for translation export
+
+
+-clean up mainaudio.py to make it more readable
+-Anki sentences should have pronunciation of the rarest word, if it doesn't work we should get the next rarest word. 
+-We could also make every word have a pronunciation with a button for each word. 
+-If there are just two words we could make them be pronounced seperately with two recordings if they don't exist together as a single recording.
+
+-We should automatically make lists of unpronounced words, words that forvo doesn't have pronunciations for so we can request them
+
+
+
+
 keep list of already attempted pronunciations so we are not requesting ones that have already failed
 	do this before continuing on to save attempt numbers
 run other turkish 101 stuff through here:

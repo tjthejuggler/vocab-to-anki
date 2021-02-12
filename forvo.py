@@ -30,7 +30,7 @@ def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', f
       
       url = base_url + '/'.join(['%s/%s' % a for a in key if a[1]]) + '/'
       
-      print(url)
+      #print(url)
 
       try:
             #r = requests.get(url)
@@ -41,6 +41,7 @@ def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', f
             return None
       
       #data = r.json()
+      #print(r.content.decode())
       data = json.loads(r.content.decode())
       
       if data[u'items']:
