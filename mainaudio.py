@@ -15,20 +15,80 @@ print('Argument List:', str(sys.argv))
 using_two_langs = False
 first_lang = ''
 second_lang = ''
+third_lang = ''
 should_make_cards = True
 should_download = False
 should_translate = False
 already_formatted = True
+first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
+number_of_languages_given = 0
+number_of_languages_to_download = 0
+# if len(sys.argv) > 1:
+# 	first_lang = sys.argv[1]
+# else:
+# 	print('you need at least one language')
+# 	quit()
 
-if len(sys.argv) > 1:
-	first_lang = sys.argv[1]
-else:
-	print('you need at least one language')
-	quit()
+# if len(sys.argv) > 2:
+# 	second_lang = sys.argv[2]
+# 	using_two_langs = True
 
-if len(sys.argv) > 2:
-	second_lang = sys.argv[2]
-	using_two_langs = True
+import sys, getopt
+
+	# -l1 first language
+	# -l2 second language
+	# -l3 third language
+	# -dl download
+	# -dl1 only download first language
+	# -tr translate
+	# -mc make cards
+
+#def main(argv):
+inputfile = ''
+outputfile = ''
+try:
+	opts, args = getopt.getopt(sys.argv[1:],"htm1:2:3:d:")
+	print(opts)
+except getopt.GetoptError:
+	print ('test.py -i <inputfile> -o <outputfile>')
+	sys.exit(2)
+for opt, arg in opts:
+	print(opt)
+	if opt == '-h':
+		print ('help')
+		sys.exit()
+	elif opt in ("-1"):
+		print('1',arg)
+		first_lang = arg
+		number_of_languages_given = number_of_languages_given+1
+	elif opt in ("-2"):
+		second_lang = arg
+		number_of_languages_given = number_of_languages_given+1
+	elif opt in ("-3"):
+		third_lang = arg
+		number_of_languages_given = number_of_languages_given+1
+	elif opt in ("-d"):
+		should_download = True
+		number_of_languages_to_download = arg
+	elif opt in ("-t"):
+		should_translate = True
+	elif opt in ("-m"):
+		should_make_cards = True
+if number_of_languages_to_download == '':
+	number_of_languages_to_download = number_of_languages_given				
+print('l1', first_lang)
+print('21', second_lang)
+print('3l', third_lang)
+print('should_make_cards',should_make_cards)
+print('should_download', should_download)
+print('should_translate', should_translate)
+print('number_of_languages_given', number_of_languages_given)
+print('number_of_languages_to_download', number_of_languages_to_download)
+
+already_formatted = True
+
+# if __name__ == "__main__":
+#    main(sys.argv[1:])
 
 print('1. Download only(first language - second language - third language)')
 print('2. Translate only(first language -> second language: output.txt)')
@@ -208,22 +268,20 @@ def get_translation(src_text):
 	return dest_text
 
 def translate_text(target, text):
-    translate_client = translate.Client()
-    if isinstance(text, six.binary_type):
-        text = text.decode("utf-8")
-    # Text can also be a sequence of strings, in which case this method
-    # will return a sequence of results for each text.
-    result = translate_client.translate(text, target_language=target)
-    print(u"Text: {}".format(result["input"]))
-    print(u"Translation: {}".format(result["translatedText"]))
-    print(u"Detected source language: {}".format(result["detectedSourceLanguage"]))
-    return(format(result["translatedText"]))
+	translate_client = translate.Client()
+	if isinstance(text, six.binary_type):
+		text = text.decode("utf-8")
+	# Text can also be a sequence of strings, in which case this method
+	# will return a sequence of results for each text.
+	result = translate_client.translate(text, target_language=target)
+	print(u"Text: {}".format(result["input"]))
+	print(u"Translation: {}".format(result["translatedText"]))
+	print(u"Detected source language: {}".format(result["detectedSourceLanguage"]))
+	return(format(result["translatedText"]))
 
 
 all_audio_files = []
-if should_make_cards:
-	tag = lines[0].replace(' ','_') #this should actually be the first line with text
-	url = lines[1]
+
 
 for line in lines:
 	line = line.strip('\n')
@@ -234,6 +292,7 @@ for line in lines:
 		words = line.split()
 		for word in words:
 			if should_translate:
+				print('should translate')
 				#translate word and append(word - translation - no hint) to output_lines
 					#we may also want a choice for append(word - translation - ENGLISH,no hint)
 			if should_download:
@@ -249,37 +308,40 @@ for line in lines:
 			
 
 			if should_make_cards:
+				print('should make cards')
 
-
-
-	if ' - ' in line:
-		split_line = line.split(' - ')		
-		if len(word.split()) < 3:
-			if not has_previously_failed(word, first_lang):
-				if not mp3_exists(word, first_lang):
-					#print('did download',word)
-					DownloadMp3ForAnki(word, first_lang)
-				else:
-					print('MP3 already exists',word)
-			else:
-				print('has previously failed',word)
-		translation = split_line[1]
-		if using_two_langs:
-			if len(translation.split()) < 3:
-				if not has_previously_failed(translation, second_lang):
-					if not mp3_exists(translation, second_lang):
-						#print('did download',translation)
-						DownloadMp3ForAnki(translation, second_lang)
-					else:
-						print('MP3 already exists',translation)
-				else:
-					print('has previously failed',translation)			
-		hint = ""
-		if len(split_line) > 2:
-			hint = split_line[2]
+	else:
 		if should_make_cards:
-			note, all_audio_files = create_anki_note(word, translation, hint, tag, url, all_audio_files)
-			deck.add_note(note)
+			tag = lines[0].replace(' ','_') #this should actually be the first line with text
+			url = lines[1]		
+		if ' - ' in line:
+			split_line = line.split(' - ')		
+			if len(word.split()) < 3:
+				if not has_previously_failed(word, first_lang):
+					if not mp3_exists(word, first_lang):
+						#print('did download',word)
+						DownloadMp3ForAnki(word, first_lang)
+					else:
+						print('MP3 already exists',word)
+				else:
+					print('has previously failed',word)
+			translation = split_line[1]
+			if using_two_langs:
+				if len(translation.split()) < 3:
+					if not has_previously_failed(translation, second_lang):
+						if not mp3_exists(translation, second_lang):
+							#print('did download',translation)
+							DownloadMp3ForAnki(translation, second_lang)
+						else:
+							print('MP3 already exists',translation)
+					else:
+						print('has previously failed',translation)			
+			hint = ""
+			if len(split_line) > 2:
+				hint = split_line[2]
+			if should_make_cards:
+				note, all_audio_files = create_anki_note(word, translation, hint, tag, url, all_audio_files)
+				deck.add_note(note)
 
 
 	

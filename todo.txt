@@ -1,3 +1,14 @@
+-switch everything over to args
+	(if no args given show help)
+	-l1 first language
+	-l2 second language
+	-l3 third language
+	-dl download
+	-dl1 only download first language
+	-tr translate
+	-mc make cards
+
+-make a confirmation of how many words will be downloaded/translated
 -for now lets either make an unformated to formatted setup
 	and
 	formatted to cards setup
