@@ -7,6 +7,7 @@ from tkinter.filedialog import askopenfilename
 from pathlib import Path
 
 home = str(Path.home())
+pron_fold = home+'/pronunciations'
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
 
@@ -41,22 +42,26 @@ def fileChoose():
       Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
       filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
       return filename
-
+from pathlib import Path
 def addToFailedList(word, lang):
-      cwd = os.getcwd()
-      file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "r")
-      lines = file.read()
-      file.close()
+      lines=''
+      Path(pron_fold+'/'+lang).mkdir(parents=True, exist_ok=True)
+      try:
+            file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "r")
+            lines = file.read()
+            file.close()
+
+      except:
+            print("file doesn't eist")
       lines = lines + ("\n"+word)
-      text_file = open(cwd+'/'+lang+'/'+lang+"_failed_words.txt", "w")
+      text_file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
       text_file.close()
 
 def DownloadMp3ForAnki(word, lang):
       with open('apikey.txt') as a:
         APIKEY=a.read()
-      home        = os.getcwd()
-      lang_dir    = os.path.join(home,lang)
+      lang_dir = os.path.join(pron_fold,lang)
       r = ForvoRequest(word,lang,APIKEY)
       if r:
             #download a mp3 file, rename it and write it in a costum folder

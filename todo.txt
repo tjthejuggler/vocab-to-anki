@@ -8,6 +8,10 @@
 	-tr translate
 	-mc make cards
 
+-comment old menu and test new arg opt/arg system
+
+-we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
+
 -make a confirmation of how many words will be downloaded/translated
 -for now lets either make an unformated to formatted setup
 	and
