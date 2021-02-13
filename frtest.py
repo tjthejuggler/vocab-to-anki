@@ -52,7 +52,7 @@ def addToFailedList(word, lang):
             file.close()
 
       except:
-            print("file doesn't eist")
+            print(":( file doesn't exist", word)
       lines = lines + ("\n"+word)
       text_file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
@@ -77,9 +77,9 @@ def DownloadMp3ForAnki(word, lang):
                         #we open a new mp3 file and we name it after the word we're downloading.
                         #The file it's opened in write-binary mode
                         out.write(mp3.content)   
-                        print('MP3 created',word)
+                        print(':) MP3 created',word)
       else:                        
-            print('not available from Forvo', word)
+            print(':( not available from Forvo', word)
             addToFailedList(word, lang)
 
 def DownloadMp3(urlList, limit, word, folder):

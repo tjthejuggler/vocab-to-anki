@@ -226,7 +226,7 @@ def mp3_exists(translation, lang):
 	return exists
 
 def add_translation_to_local_dictionary(src_text, dest_text):
-	print('add_translation_to_local_dictionary', dest_text)
+	#print('add_translation_to_local_dictionary', dest_text)
 	local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
 	local_dict = {}
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
@@ -239,7 +239,7 @@ def add_translation_to_local_dictionary(src_text, dest_text):
 		first_text = src_text
 		second_text = dest_text
 	if not first_text in local_dict:
-		print('!!!',first_text,second_text)
+		#print('!!!',first_text,second_text)
 		local_dict[first_text] = second_text
 		my_json = json.dumps(local_dict)
 		f = open(cwd+'/local_dictionaries/'+local_dict_file,"w")
@@ -251,12 +251,12 @@ def get_translation_from_local_library(src_text):
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
-			print(json_file)
+			#print(json_file)
 			local_dict = json.load(json_file)
 			if swapped:
 				if src_text in local_dict:
 					dest_text = local_dict[src_text]
-					print('local dict used', dest_text)				
+					#print('local dict used', dest_text)				
 			else:
 				dest_text = list(local_dict.keys())[list(local_dict.values()).index(src_text)]
 
@@ -310,10 +310,10 @@ def download_if_needed(word, lang):
 		if not mp3_exists(word, lang):
 			#print('did download',line)
 			DownloadMp3ForAnki(word, lang)
-		else:
-			print('MP3 already exists',word)
-	else:
-		print('has previously failed',word)
+	# 	else:
+	# 		print('MP3 already exists',word)
+	# else:
+	# 	print('has previously failed',word)
 
 def create_output_file(output_lines):
 	with open('new_source.txt', 'w') as f:
@@ -328,8 +328,9 @@ for line in lines:
 	line = line.strip('\n')
 	line = re.sub(r'[^\w\s]','',line)
 	line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
+	line = line.lower()
 	if already_formatted == False :
-		print(line)
+		#print(line)
 		words = line.split()
 		for word in words:
 			if should_translate:
@@ -361,10 +362,10 @@ for line in lines:
 					if not mp3_exists(word, first_lang):
 						#print('did download',word)
 						DownloadMp3ForAnki(word, first_lang)
-					else:
-						print('MP3 already exists',word)
-				else:
-					print('has previously failed',word)
+				# 	else:
+				# 		print('MP3 already exists',word)
+				# else:
+				# 	print('has previously failed',word)
 			translation = split_line[1]
 			if using_two_langs:
 				if len(translation.split()) < 3:
@@ -372,10 +373,10 @@ for line in lines:
 						if not mp3_exists(translation, second_lang):
 							#print('did download',translation)
 							DownloadMp3ForAnki(translation, second_lang)
-						else:
-							print('MP3 already exists',translation)
-					else:
-						print('has previously failed',translation)			
+					# 	else:
+					# 		print('MP3 already exists',translation)
+					# else:
+					# 	print('has previously failed',translation)			
 			hint = ""
 			if len(split_line) > 2:
 				hint = split_line[2]
