@@ -227,31 +227,39 @@ def mp3_exists(translation, lang):
 
 def add_translation_to_local_dictionary(src_text, dest_text):
 	print('add_translation_to_local_dictionary', dest_text)
-	cwd = os.getcwd()
-	local_dict_file = second_lang+'_'+first_lang+'.json'
+	local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
 	local_dict = {}
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			local_dict = json.load(json_file)
-	if not src_text in local_dict:
-		print('!!!',src_text,dest_text)
-		local_dict[src_text] = dest_text
+	if swapped:
+		first_text = dest_text
+		second_text = src_text
+	else:
+		first_text = src_text
+		second_text = dest_text
+	if not first_text in local_dict:
+		print('!!!',first_text,second_text)
+		local_dict[first_text] = second_text
 		my_json = json.dumps(local_dict)
 		f = open(cwd+'/local_dictionaries/'+local_dict_file,"w")
 		f.write(my_json)
 		f.close()
 
 def get_translation_from_local_library(src_text):
-	cwd = os.getcwd()
-	local_dict_file = second_lang+'_'+first_lang+'.json'
+	local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			print(json_file)
 			local_dict = json.load(json_file)
-			if src_text in local_dict:
-				dest_text = local_dict[src_text]
-				print('local dict used', dest_text)
+			if swapped:
+				if src_text in local_dict:
+					dest_text = local_dict[src_text]
+					print('local dict used', dest_text)				
+			else:
+				dest_text = list(local_dict.keys())[list(local_dict.values()).index(src_text)]
+
 
 	return dest_text
 
@@ -275,6 +283,16 @@ def get_translation(src_text):
 		add_translation_to_local_dictionary(src_text, dest_text)
 	return dest_text
 
+def get_local_dictionary(first_lang, second_lang):
+	langs = [first_lang, second_lang]
+	aplhabetized_langs = langs.sort()
+	swapped = True
+	if langs == aplhabetized_langs:
+		swapped = False
+	local_dict_file = langs[0]+'_'+langs[1]+'.json'
+	return local_dict_file, swapped
+
+
 def translate_text(target, text):
 	translate_client = translate.Client()
 	if isinstance(text, six.binary_type):
@@ -282,9 +300,9 @@ def translate_text(target, text):
 	# Text can also be a sequence of strings, in which case this method
 	# will return a sequence of results for each text.
 	result = translate_client.translate(text, target_language=target)
-	print(u"Text: {}".format(result["input"]))
-	print(u"Translation: {}".format(result["translatedText"]))
-	print(u"Detected source language: {}".format(result["detectedSourceLanguage"]))
+	# print(u"Text: {}".format(result["input"]))
+	# print(u"Translation: {}".format(result["translatedText"]))
+	# print(u"Detected source language: {}".format(result["detectedSourceLanguage"]))
 	return(format(result["translatedText"]))
 
 def download_if_needed(word, lang):

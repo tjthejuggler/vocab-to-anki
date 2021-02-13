@@ -1,31 +1,36 @@
--switch everything over to args
-	(if no args given show help)
-	-l1 first language
-	-l2 second language
-	-l3 third language
-	-dl download
-	-dl1 only download first language
-	-tr translate
-	-mc make cards
+-allow for extra fields to be input so i can do stuff like this chart
+	https://www.tutormandarin.net/en/1000-most-common-chinese-words/
 
--comment old menu and test new arg opt/arg system
+-make a combine _failed_words program
+
+-make a program that gets makes all audio files lowercase
+
+-make everything get changed to lower case before being added to dictionaries, lists, mp3s, and when we look at these things
 
 -we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
 
 -make a confirmation of how many words will be downloaded/translated
+	-it could quickly tell
+		how many of the words we already have
+		how many have previously failed
+		how may it is going to attempt
+	-at the end it can give a report that says
+		how many were successfully download
+		how many failed
+	-it can also give a file printout that tells
+		 which words were download
+		 which words failed
 -for now lets either make an unformated to formatted setup
 	and
 	formatted to cards setup
 	we can combine them later
--move mp3s out of this github
--move translation into here
-	-translation should go through and take every word in a file and export them in this format
-		word - translation - (optional english), no hint
+-make optional "hint" language when making cards
 -make instructions for translation export
 
 
 -clean up mainaudio.py to make it more readable
--Anki sentences should have pronunciation of the rarest word, if it doesn't work we should get the next rarest word. 
+
+PRONUNCIATION PLAYER
 -We could also make every word have a pronunciation with a button for each word. 
 -If there are just two words we could make them be pronounced seperately with two recordings if they don't exist together as a single recording.
 
@@ -34,8 +39,7 @@
 
 
 
-keep list of already attempted pronunciations so we are not requesting ones that have already failed
-	do this before continuing on to save attempt numbers
+
 run other turkish 101 stuff through here:
 	single word vocab from 250 phrases(once completed)
 	turkish filler words
