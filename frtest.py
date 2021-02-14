@@ -52,18 +52,21 @@ def addToFailedList(word, lang):
             file.close()
 
       except:
-            print(":( file doesn't exist", word)
+            #print("file doesn't exist", word)
+            pass
       lines = lines + ("\n"+word)
       text_file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "w")
       text_file.write(lines)
       text_file.close()
 
 def DownloadMp3ForAnki(word, lang):
+      api_call_count = 1
       with open('apikey.txt') as a:
         APIKEY=a.read()
       lang_dir = os.path.join(pron_fold,lang)
       r = ForvoRequest(word,lang,APIKEY)
       if r:
+            api_call_count = 2
             #download a mp3 file, rename it and write it in a costum folder
             #mp3 = requests.get(r[0])    
             mp3 = requests.get(r[0], headers=headers)             
@@ -79,8 +82,10 @@ def DownloadMp3ForAnki(word, lang):
                         out.write(mp3.content)   
                         print(':) MP3 created',word)
       else:                        
-            print(':( not available from Forvo', word)
+            print(' '*20,':( not available from Forvo', word)
             addToFailedList(word, lang)
+
+      return api_call_count
 
 def DownloadMp3(urlList, limit, word, folder):
       #download a mp3 file, rename it and write it in a costum folder

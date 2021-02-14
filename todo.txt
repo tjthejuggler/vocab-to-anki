@@ -5,6 +5,8 @@
 
 -make a program that gets makes all audio files lowercase
 
+-allow download max input to prevent maxing out the days forvo quota
+
 -make everything get changed to lower case before being added to dictionaries, lists, mp3s, and when we look at these things
 
 -we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases

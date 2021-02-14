@@ -24,6 +24,8 @@ already_formatted = True
 first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 number_of_languages_given = 0
 number_of_languages_to_download = 0
+api_calls = 0
+max_api_calls = 10000
 # if len(sys.argv) > 1:
 # 	first_lang = sys.argv[1]
 # else:
@@ -39,7 +41,7 @@ import sys, getopt
 	# -l1 first language
 	# -l2 second language
 	# -l3 third language
-	# -dl download
+	# -d download
 	# -dl1 only download first language
 	# -tr translate
 	# -mc make cards
@@ -48,7 +50,7 @@ import sys, getopt
 inputfile = ''
 outputfile = ''
 try:
-	opts, args = getopt.getopt(sys.argv[1:],"htm1:2:3:d:")
+	opts, args = getopt.getopt(sys.argv[1:],"htm1:2:3:d:x:")
 	print(opts)
 except getopt.GetoptError:
 	print ('test.py -i <inputfile> -o <outputfile>')
@@ -69,8 +71,12 @@ for opt, arg in opts:
 		third_lang = arg
 		number_of_languages_given = number_of_languages_given+1
 	elif opt in ("-d"):
+		print('should_download')
 		should_download = True
 		number_of_languages_to_download = arg
+	elif opt in ("-x"):
+		max_api_calls = int(arg)		
+		print('max_api_calls', max_api_calls)
 	elif opt in ("-t"):
 		should_translate = True
 	elif opt in ("-m"):
@@ -222,7 +228,8 @@ def mp3_exists(translation, lang):
 		with open(pron_fold+'/'+lang+'/'+translation+'.mp3') as f:
 			exists = True
 	except IOError:
-		print("File does not exist", translation)
+		#print("File does not exist", translation)
+		pass
 	return exists
 
 def add_translation_to_local_dictionary(src_text, dest_text):
@@ -306,14 +313,19 @@ def translate_text(target, text):
 	return(format(result["translatedText"]))
 
 def download_if_needed(word, lang):
-	if not has_previously_failed(word, lang):
-		if not mp3_exists(word, lang):
-			#print('did download',line)
-			DownloadMp3ForAnki(word, lang)
-	# 	else:
-	# 		print('MP3 already exists',word)
-	# else:
-	# 	print('has previously failed',word)
+	global api_calls
+	if api_calls < max_api_calls:
+		if not has_previously_failed(word, lang):
+			if not mp3_exists(word, lang):
+				#print('did download',line)
+				api_calls = api_calls + DownloadMp3ForAnki(word, lang)
+			else:
+				print(' '*60,'MP3 already exists',word)
+		else:
+			print(' '*40,'has previously failed',word)
+	else:
+		print('Max API calls reached.')
+		sys.exit()
 
 def create_output_file(output_lines):
 	with open('new_source.txt', 'w') as f:
