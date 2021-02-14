@@ -1,8645 +1,3931 @@
-1 . y
-2 . de
-3 . que
-4 . no
-5 . a
-6 . la
-7 . el
-8 . es
-9 . en
-10 . lo
-11 . un
-12 . por
-13 . qué
-14 . me
-15 . una
-16 . te
-17 . se
-18 . los
-19 . con
-20 . para
-21 . mi
-22 . está
-23 . si
-24 . sí
-25 . pero
-26 . las
-27 . bien
-28 . yo
-29 . su
-30 . eso
-31 . aquí
-32 . del
-33 . al
-34 . como
-35 . le
-36 . tu
-37 . más
-38 . todo
-39 . ya
-40 . muy
-41 . esto
-42 . vamos
-43 . ha
-44 . ahora
-45 . esta
-46 . hay
-47 . estoy
-48 . algo
-49 . tú
-50 . tengo
-51 . así
-52 . nada
-53 . nos
-54 . cuando
-55 . cómo
-56 . él
-57 . sé
-58 . estás
-59 . sólo
-60 . o
-61 . quiero
-62 . este
-63 . tiene
-64 . gracias
-65 . he
-66 . puedo
-67 . bueno
-68 . soy
-69 . era
-70 . ser
-71 . vez
-72 . hacer
-73 . todos
-74 . ella
-75 . son
-76 . fue
-77 . eres
-78 . usted
-79 . tienes
-80 . puede
-81 . señor
-82 . ese
-83 . voy
-84 . quién
-85 . casa
-86 . creo
-87 . porque
-88 . tan
-89 . favor
-90 . hola
-91 . dónde
-92 . nunca
-93 . sus
-94 . sabes
-95 . dos
-96 . verdad
-97 . quieres
-98 . mucho
-99 . entonces
-100 . estaba
-101 . tiempo
-102 . mí
-103 . esa
-104 . mejor
-105 . hombre
-106 . hace
-107 . va
-108 . dios
-109 . también
-110 . has
-111 . vida
-112 . sin
-113 . están
-114 . ver
-115 . sr
-116 . siempre
-117 . oh
-118 . hasta
-119 . ti
-120 . ahí
-121 . siento
-122 . puedes
-123 . decir
-124 . ni
-125 . sobre
-126 . años
-127 . tenemos
-128 . uno
-129 . día
-130 . noche
-131 . cosas
-132 . alguien
-133 . antes
-134 . mis
-135 . ir
-136 . poco
-137 . otra
-138 . quiere
-139 . solo
-140 . nadie
-141 . nosotros
-142 . padre
-143 . gente
-144 . parece
-145 . dinero
-146 . estar
-147 . hecho
-148 . les
-149 . mismo
-150 . sea
-151 . estamos
-152 . mira
-153 . pasa
-154 . trabajo
-155 . dijo
-156 . ellos
-157 . vas
-158 . claro
-159 . mañana
-160 . han
-161 . otro
-162 . después
-163 . desde
-164 . mundo
-165 . hablar
-166 . tal
-167 . había
-168 . sabe
-169 . acuerdo
-170 . momento
-171 . donde
-172 . fuera
-173 . hijo
-174 . podría
-175 . seguro
-176 . mujer
-177 . amigo
-178 . días
-179 . madre
-180 . allí
-181 . cosa
-182 . tus
-183 . lugar
-184 . dice
-185 . gusta
-186 . será
-187 . gran
-188 . mierda
-189 . tenía
-190 . mamá
-191 . papá
-192 . espera
-193 . hoy
-194 . tener
-195 . ven
-196 . buena
-197 . estado
-198 . nuevo
-199 . luego
-200 . podemos
-201 . tres
-202 . dije
-203 . nuestro
-204 . sido
-205 . menos
-206 . debe
-207 . tipo
-208 . buen
-209 . conmigo
-210 . mal
-211 . todas
-212 . nombre
-213 . haciendo
-214 . crees
-215 . toda
-216 . amor
-217 . mío
-218 . visto
-219 . estas
-220 . quería
-221 . eh
-222 . tarde
-223 . importa
-224 . parte
-225 . aún
-226 . nuestra
-227 . tienen
-228 . tanto
-229 . cada
-230 . hora
-231 . veces
-232 . necesito
-233 . contigo
-234 . ve
-235 . haber
-236 . buenas
-237 . dicho
-238 . quien
-239 . hacerlo
-240 . demasiado
-241 . oye
-242 . ah
-243 . haces
-244 . hombres
-245 . saber
-246 . entre
-247 . adiós
-248 . problema
-249 . unos
-250 . vaya
-251 . hemos
-252 . cierto
-253 . debo
-254 . razón
-255 . alguna
-256 . esos
-257 . pues
-258 . veo
-259 . chica
-260 . realmente
-261 . policía
-262 . hizo
-263 . estos
-264 . amigos
-265 . ustedes
-266 . quizá
-267 . serio
-268 . cabeza
-269 . hermano
-270 . digo
-271 . van
-272 . pasado
-273 . salir
-274 . cuenta
-275 . familia
-276 . cariño
-277 . vale
-278 . algún
-279 . muchas
-280 . señora
-281 . somos
-282 . pueden
-283 . noches
-284 . muerto
-285 . ud
-286 . todavía
-287 . rápido
-288 . viejo
-289 . lado
-290 . debería
-291 . ves
-292 . sabía
-293 . suerte
-294 . cuidado
-295 . buenos
-296 . sería
-297 . da
-298 . mientras
-299 . miedo
-300 . primera
-301 . contra
-302 . puerta
-303 . pronto
-304 . e
-305 . casi
-306 . nueva
-307 . espero
-308 . cualquier
-309 . esas
-310 . agua
-311 . os
-312 . chico
-313 . cuánto
-314 . niños
-315 . venga
-316 . camino
-317 . primero
-318 . hacia
-319 . pensé
-320 . dentro
-321 . pasó
-322 . debes
-323 . ciudad
-324 . historia
-325 . año
-326 . viene
-327 . deja
-328 . durante
-329 . forma
-330 . volver
-331 . feliz
-332 . ojos
-333 . guerra
-334 . caso
-335 . chicos
-336 . esposa
-337 . adelante
-338 . cuál
-339 . mano
-340 . hice
-341 . vi
-342 . gustaría
-343 . muerte
-344 . allá
-345 . mas
-346 . loco
-347 . supuesto
-348 . toma
-349 . minutos
-350 . haré
-351 . entiendo
-352 . pasar
-353 . iba
-354 . corazón
-355 . semana
-356 . jefe
-357 . venir
-358 . manos
-359 . ayuda
-360 . problemas
-361 . juntos
-362 . supongo
-363 . déjame
-364 . importante
-365 . vete
-366 . niño
-367 . arriba
-368 . hija
-369 . otros
-370 . sra
-371 . personas
-372 . tierra
-373 . manera
-374 . hablando
-375 . fin
-376 . mujeres
-377 . cara
-378 . grande
-379 . ningún
-380 . nuestros
-381 . cinco
-382 . llama
-383 . habla
-384 . bajo
-385 . dices
-386 . poder
-387 . cuándo
-388 . quizás
-389 . escucha
-390 . persona
-391 . horas
-392 . tío
-393 . aunque
-394 . único
-395 . dijiste
-396 . siquiera
-397 . quieren
-398 . ninguna
-399 . cerca
-400 . pequeño
-401 . debemos
-402 . dame
-403 . sigue
-404 . auto
-405 . cuatro
-406 . dejar
-407 . muchos
-408 . igual
-409 . hago
-410 . listo
-411 . significa
-412 . capitán
-413 . clase
-414 . llegar
-415 . suficiente
-416 . tomar
-417 . vivir
-418 . joven
-419 . trabajar
-420 . haya
-421 . abajo
-422 . hubiera
-423 . primer
-424 . genial
-425 . justo
-426 . pensar
-427 . misma
-428 . puta
-429 . comer
-430 . necesita
-431 . conozco
-432 . fui
-433 . algunos
-434 . entrar
-435 . fuerte
-436 . número
-437 . srta
-438 . morir
-439 . basta
-440 . dar
-441 . bastante
-442 . amo
-443 . atrás
-444 . dicen
-445 . difícil
-446 . éste
-447 . pueda
-448 . punto
-449 . vino
-450 . hermana
-451 . hijos
-452 . unas
-453 . escuela
-454 . podía
-455 . pueblo
-456 . haga
-457 . sangre
-458 . meses
-459 . coche
-460 . juego
-461 . encontrar
-462 . realidad
-463 . cuerpo
-464 . mayor
-465 . última
-466 . eran
-467 . queda
-468 . ok
-469 . paz
-470 . dime
-471 . vuelta
-472 . hiciste
-473 . tenido
-474 . sola
-475 . hacen
-476 . ido
-477 . querida
-478 . iré
-479 . culpa
-480 . malo
-481 . chicas
-482 . comida
-483 . dólares
-484 . saben
-485 . fácil
-486 . alto
-487 . posible
-488 . maldito
-489 . dormir
-490 . deberías
-491 . maldita
-492 . pregunta
-493 . incluso
-494 . fiesta
-495 . tampoco
-496 . cama
-497 . lejos
-498 . medio
-499 . preocupes
-500 . ay
-501 . teléfono
-502 . diga
-503 . trata
-504 . equipo
-505 . palabra
-506 . cuanto
-507 . idiota
-508 . esté
-509 . luz
-510 . tuve
-511 . país
-512 . segundo
-513 . querido
-514 . diablos
-515 . hagas
-516 . señorita
-517 . oportunidad
-518 . matar
-519 . algunas
-520 . esperando
-521 . necesitamos
-522 . adónde
-523 . estará
-524 . venido
-525 . estabas
-526 . fueron
-527 . seis
-528 . tenga
-529 . cuarto
-530 . cielo
-531 . vivo
-532 . recuerdo
-533 . perdón
-534 . falta
-535 . pequeña
-536 . oído
-537 . creer
-538 . pienso
-539 . ésta
-540 . esperar
-541 . necesitas
-542 . aqui
-543 . película
-544 . además
-545 . marido
-546 . perro
-547 . calle
-548 . exactamente
-549 . rey
-550 . padres
-551 . lista
-552 . habrá
-553 . habitación
-554 . carajo
-555 . pensando
-556 . par
-557 . fuego
-558 . niña
-559 . seguir
-560 . música
-561 . di
-562 . habría
-563 . mucha
-564 . paso
-565 . sentido
-566 . diré
-567 . podrías
-568 . afuera
-569 . digas
-570 . mía
-571 . murió
-572 . dio
-573 . café
-574 . entiendes
-575 . nuestras
-576 . piensa
-577 . ello
-578 . lleva
-579 . estuvo
-580 . último
-581 . diciendo
-582 . grandes
-583 . sitio
-584 . libro
-585 . buscando
-586 . bebé
-587 . cállate
-588 . vuelve
-589 . jamás
-590 . minuto
-591 . arma
-592 . viaje
-593 . única
-594 . muchachos
-595 . perdido
-596 . jugar
-597 . diez
-598 . vemos
-599 . dado
-600 . sabemos
-601 . mil
-602 . demás
-603 . gusto
-604 . peor
-605 . irme
-606 . estaban
-607 . orden
-608 . pasando
-609 . cambio
-610 . extraño
-611 . pobre
-612 . ropa
-613 . queremos
-614 . oficina
-615 . sino
-616 . modo
-617 . ocurre
-618 . muchacho
-619 . otras
-620 . hará
-621 . libre
-622 . conoces
-623 . piensas
-624 . presidente
-625 . especial
-626 . anoche
-627 . millones
-628 . acerca
-629 . derecho
-630 . negro
-631 . acá
-632 . caballeros
-633 . semanas
-634 . palabras
-635 . buscar
-636 . segura
-637 . correcto
-638 . frente
-639 . hacemos
-640 . seas
-641 . detrás
-642 . puesto
-643 . asunto
-644 . duro
-645 . sucede
-646 . llamar
-647 . disculpe
-648 . boca
-649 . atención
-650 . mire
-651 . armas
-652 . encima
-653 . demonios
-654 . mala
-655 . llevar
-656 . cual
-657 . odio
-658 . deben
-659 . sueño
-660 . quieras
-661 . resto
-662 . llamo
-663 . perder
-664 . llamado
-665 . perfecto
-666 . estaré
-667 . tranquilo
-668 . seguridad
-669 . ayudar
-670 . tuvo
-671 . largo
-672 . pena
-673 . probablemente
-674 . ayer
-675 . dile
-676 . prueba
-677 . siendo
-678 . bonito
-679 . recuerdas
-680 . haz
-681 . veras
-682 . increíble
-683 . quisiera
-684 . tonto
-685 . simplemente
-686 . haría
-687 . preguntas
-688 . aire
-689 . conoce
-690 . fuerza
-691 . carta
-692 . trato
-693 . ése
-694 . verlo
-695 . hambre
-696 . vuelto
-697 . empezar
-698 . campo
-699 . acaba
-700 . hablas
-701 . vive
-702 . barco
-703 . poner
-704 . grupo
-705 . creí
-706 . sol
-707 . tuyo
-708 . pase
-709 . voz
-710 . baño
-711 . usar
-712 . conseguir
-713 . placer
-714 . llegado
-715 . decirte
-716 . profesor
-717 . noticias
-718 . lamento
-719 . decirle
-720 . blanco
-721 . quédate
-722 . estuve
-723 . pie
-724 . espere
-725 . edad
-726 . secreto
-727 . podríamos
-728 . compañía
-729 . tren
-730 . recuerda
-731 . tras
-732 . siéntate
-733 . prisa
-734 . vista
-735 . hermosa
-736 . negocio
-737 . deberíamos
-738 . gustan
-739 . pagar
-740 . futuro
-741 . silencio
-742 . siente
-743 . médico
-744 . maestro
-745 . quiera
-746 . llegó
-747 . loca
-748 . cambiar
-749 . sal
-750 . raro
-751 . viste
-752 . novia
-753 . diferente
-754 . imposible
-755 . amiga
-756 . enseguida
-757 . llamada
-758 . dan
-759 . dejó
-760 . mes
-761 . llevo
-762 . avión
-763 . pelo
-764 . haremos
-765 . tendrá
-766 . propia
-767 . siguiente
-768 . ganar
-769 . ley
-770 . dolor
-771 . oro
-772 . acabó
-773 . maldición
-774 . oficial
-775 . situación
-776 . daño
-777 . sientes
-778 . entendido
-779 . deseo
-780 . mente
-781 . ejército
-782 . comprar
-783 . muertos
-784 . pensaba
-785 . darle
-786 . estúpido
-787 . decía
-788 . acabo
-789 . suena
-790 . mitad
-791 . caballo
-792 . asesino
-793 . vio
-794 . permiso
-795 . ellas
-796 . trabajando
-797 . maravilloso
-798 . mesa
-799 . divertido
-800 . mejores
-801 . próxima
-802 . entra
-803 . mar
-804 . siete
-805 . hacía
-806 . sexo
-807 . encanta
-808 . amable
-809 . mensaje
-810 . información
-811 . traje
-812 . alma
-813 . encontrado
-814 . coronel
-815 . dale
-816 . san
-817 . cena
-818 . encontré
-819 . tendrás
-820 . eras
-821 . propio
-822 . culo
-823 . asi
-824 . adentro
-825 . canción
-826 . gobierno
-827 . temo
-828 . abre
-829 . dijeron
-830 . fuiste
-831 . media
-832 . das
-833 . estábamos
-834 . estaría
-835 . daré
-836 . vosotros
-837 . frío
-838 . foto
-839 . accidente
-840 . derecha
-841 . funciona
-842 . vayas
-843 . centro
-844 . necesario
-845 . miren
-846 . bonita
-847 . ante
-848 . pude
-849 . teniente
-850 . luna
-851 . izquierda
-852 . uds
-853 . doy
-854 . servicio
-855 . llamas
-856 . junto
-857 . tienda
-858 . navidad
-859 . dirección
-860 . abuela
-861 . alrededor
-862 . vine
-863 . tendré
-864 . libertad
-865 . sale
-866 . línea
-867 . abogado
-868 . pies
-869 . tratando
-870 . regresar
-871 . hablo
-872 . vieja
-873 . papel
-874 . terminado
-875 . dejado
-876 . juro
-877 . hermoso
-878 . dulce
-879 . sentir
-880 . principio
-881 . interesante
-882 . caja
-883 . cualquiera
-884 . ocho
-885 . respuesta
-886 . perra
-887 . gracioso
-888 . trae
-889 . mató
-890 . completamente
-891 . vienen
-892 . sean
-893 . llega
-894 . abuelo
-895 . tengas
-896 . linda
-897 . tendremos
-898 . partes
-899 . cárcel
-900 . hubo
-901 . sistema
-902 . lindo
-903 . hazlo
-904 . hicieron
-905 . tía
-906 . busca
-907 . don
-908 . baja
-909 . pudo
-910 . salud
-911 . listos
-912 . cita
-913 . tenías
-914 . negocios
-915 . tipos
-916 . cámara
-917 . agente
-918 . verás
-919 . infierno
-920 . regalo
-921 . río
-922 . través
-923 . carne
-924 . totalmente
-925 . decirme
-926 . piso
-927 . esposo
-928 . oír
-929 . sargento
-930 . deje
-931 . tuya
-932 . ambos
-933 . beber
-934 . calma
-935 . vestido
-936 . salvo
-937 . ésa
-938 . verdadero
-939 . basura
-940 . suelo
-941 . carrera
-942 . cumpleaños
-943 . rato
-944 . iremos
-945 . universidad
-946 . bailar
-947 . triste
-948 . iglesia
-949 . delante
-950 . nena
-951 . banco
-952 . cuántos
-953 . encuentra
-954 . supone
-955 . existe
-956 . programa
-957 . alegro
-958 . santo
-959 . porqué
-960 . novio
-961 . broma
-962 . diría
-963 . salió
-964 . jesús
-965 . prometo
-966 . partido
-967 . pregunto
-968 . vuelva
-969 . cenar
-970 . ocurrió
-971 . creía
-972 . corre
-973 . disculpa
-974 . vienes
-975 . cerveza
-976 . muerta
-977 . pensado
-978 . destino
-979 . matrimonio
-980 . fotos
-981 . diablo
-982 . volveré
-983 . saberlo
-984 . cielos
-985 . norte
-986 . sala
-987 . órdenes
-988 . según
-989 . harás
-990 . ataque
-991 . parís
-992 . ejemplo
-993 . sorpresa
-994 . té
-995 . pudiera
-996 . baile
-997 . temprano
-998 . público
-999 . tí
-1000 . oí
-1001 . mirando
-1002 . ventana
-1003 . conocido
-1004 . duda
-1005 . boda
-1006 . peligro
-1007 . trabaja
-1008 . quise
-1009 . querías
-1010 . caliente
-1011 . escribir
-1012 . reina
-1013 . esperaba
-1014 . sur
-1015 . enfermo
-1016 . excelente
-1017 . pone
-1018 . estés
-1019 . escena
-1020 . encuentro
-1021 . asesinato
-1022 . obra
-1023 . veré
-1024 . llamó
-1025 . aquel
-1026 . terminar
-1027 . ganas
-1028 . conocer
-1029 . pruebas
-1030 . señores
-1031 . vos
-1032 . escúchame
-1033 . veamos
-1034 . creen
-1035 . aun
-1036 . ninguno
-1037 . parecía
-1038 . viva
-1039 . apenas
-1040 . segunda
-1041 . llave
-1042 . regreso
-1043 . trasero
-1044 . ojalá
-1045 . veremos
-1046 . seré
-1047 . éi
-1048 . irse
-1049 . cartas
-1050 . libros
-1051 . apuesto
-1052 . leer
-1053 . imbécil
-1054 . opinión
-1055 . joder
-1056 . cambiado
-1057 . sucedió
-1058 . señal
-1059 . habían
-1060 . agradable
-1061 . cocina
-1062 . relación
-1063 . sueños
-1064 . segundos
-1065 . corte
-1066 . escuchar
-1067 . cerebro
-1068 . locura
-1069 . peligroso
-1070 . hermanos
-1071 . entender
-1072 . cine
-1073 . dejes
-1074 . reunión
-1075 . tendría
-1076 . verla
-1077 . duele
-1078 . hicimos
-1079 . londres
-1080 . tocar
-1081 . mirar
-1082 . verme
-1083 . suyo
-1084 . causa
-1085 . pelea
-1086 . prisión
-1087 . mayoría
-1088 . fondo
-1089 . acaso
-1090 . vuelvo
-1091 . serán
-1092 . montón
-1093 . toca
-1094 . comandante
-1095 . tome
-1096 . éxito
-1097 . misión
-1098 . vidas
-1099 . decisión
-1100 . hogar
-1101 . rico
-1102 . trago
-1103 . capaz
-1104 . cargo
-1105 . unidos
-1106 . lleno
-1107 . bar
-1108 . estrella
-1109 . posición
-1110 . estación
-1111 . interesa
-1112 . edificio
-1113 . vayan
-1114 . consejo
-1115 . pistola
-1116 . humano
-1117 . irnos
-1118 . fantástico
-1119 . ojo
-1120 . jóvenes
-1121 . zapatos
-1122 . majestad
-1123 . lee
-1124 . flores
-1125 . ocupado
-1126 . bienvenido
-1127 . zona
-1128 . contacto
-1129 . sacar
-1130 . podrían
-1131 . tema
-1132 . matado
-1133 . soldado
-1134 . sabías
-1135 . pido
-1136 . cierra
-1137 . intento
-1138 . irá
-1139 . calor
-1140 . finalmente
-1141 . equivocado
-1142 . animales
-1143 . departamento
-1144 . enemigo
-1145 . caballero
-1146 . color
-1147 . necesitan
-1148 . empieza
-1149 . soldados
-1150 . vea
-1151 . entiende
-1152 . valor
-1153 . azul
-1154 . miles
-1155 . espacio
-1156 . estarás
-1157 . mantener
-1158 . aprender
-1159 . inteligente
-1160 . serás
-1161 . arte
-1162 . respeto
-1163 . pedir
-1164 . puso
-1165 . llaman
-1166 . oiga
-1167 . juez
-1168 . inglés
-1169 . precio
-1170 . rojo
-1171 . formas
-1172 . hagan
-1173 . verano
-1174 . podido
-1175 . piernas
-1176 . isla
-1177 . darme
-1178 . damas
-1179 . guardia
-1180 . espalda
-1181 . vengan
-1182 . parar
-1183 . llevas
-1184 . banda
-1185 . quedarme
-1186 . habéis
-1187 . marcha
-1188 . luces
-1189 . estuviera
-1190 . crimen
-1191 . dejo
-1192 . ayudarte
-1193 . esperen
-1194 . teníamos
-1195 . diferencia
-1196 . llamaré
-1197 . ama
-1198 . conocí
-1199 . tiempos
-1200 . déjalo
-1201 . debajo
-1202 . compañero
-1203 . dejé
-1204 . come
-1205 . déjeme
-1206 . molesta
-1207 . contar
-1208 . dejaré
-1209 . hablamos
-1210 . cansado
-1211 . ganado
-1212 . pareces
-1213 . juicio
-1214 . hablado
-1215 . estilo
-1216 . ayúdame
-1217 . sepa
-1218 . viendo
-1219 . salida
-1220 . alegra
-1221 . despierta
-1222 . estupendo
-1223 . darte
-1224 . estados
-1225 . quedan
-1226 . próximo
-1227 . nota
-1228 . llevó
-1229 . puedas
-1230 . podrá
-1231 . tenían
-1232 . sube
-1233 . vuelo
-1234 . excepto
-1235 . golpe
-1236 . viento
-1237 . estaremos
-1238 . acción
-1239 . tonterías
-1240 . respecto
-1241 . desea
-1242 . sigues
-1243 . debía
-1244 . vendrá
-1245 . encontramos
-1246 . beso
-1247 . cuestión
-1248 . volvió
-1249 . reglas
-1250 . ruido
-1251 . acabado
-1252 . salga
-1253 . olvidado
-1254 . mentira
-1255 . brazo
-1256 . empezó
-1257 . cálmate
-1258 . caballos
-1259 . experiencia
-1260 . tranquila
-1261 . quedar
-1262 . esperanza
-1263 . irte
-1264 . vd
-1265 . perros
-1266 . casado
-1267 . llegue
-1268 . drogas
-1269 . pidió
-1270 . espíritu
-1271 . vacaciones
-1272 . copa
-1273 . investigación
-1274 . prefiero
-1275 . solía
-1276 . llevaré
-1277 . menudo
-1278 . partir
-1279 . visita
-1280 . alta
-1281 . abrir
-1282 . nueve
-1283 . bomba
-1284 . energía
-1285 . bolsa
-1286 . hacerte
-1287 . santa
-1288 . pan
-1289 . piel
-1290 . usa
-1291 . metros
-1292 . perdona
-1293 . escrito
-1294 . exacto
-1295 . jugando
-1296 . cuello
-1297 . larga
-1298 . escapar
-1299 . salvar
-1300 . escuche
-1301 . perdone
-1302 . sirve
-1303 . preocupe
-1304 . especie
-1305 . aquella
-1306 . verá
-1307 . brazos
-1308 . llena
-1309 . subir
-1310 . blanca
-1311 . fe
-1312 . modos
-1313 . traído
-1314 . películas
-1315 . dama
-1316 . suya
-1317 . decirlo
-1318 . doble
-1319 . inmediatamente
-1320 . culpable
-1321 . preocupa
-1322 . tardes
-1323 . vengo
-1324 . bosque
-1325 . perdí
-1326 . volverá
-1327 . taxi
-1328 . volar
-1329 . debido
-1330 . repente
-1331 . bromeando
-1332 . viejos
-1333 . planeta
-1334 . leche
-1335 . tanta
-1336 . tuviera
-1337 . encantado
-1338 . cabrón
-1339 . correr
-1340 . depende
-1341 . común
-1342 . informe
-1343 . solamente
-1344 . máquina
-1345 . muere
-1346 . ridículo
-1347 . entrada
-1348 . encontró
-1349 . podamos
-1350 . acabar
-1351 . américa
-1352 . regresa
-1353 . probar
-1354 . príncipe
-1355 . preparado
-1356 . pedido
-1357 . propósito
-1358 . dieron
-1359 . salido
-1360 . cliente
-1361 . árbol
-1362 . absoluto
-1363 . dejas
-1364 . quiénes
-1365 . habías
-1366 . parecen
-1367 . belleza
-1368 . llame
-1369 . intenta
-1370 . humanos
-1371 . tratar
-1372 . vuestra
-1373 . hayas
-1374 . princesa
-1375 . sigo
-1376 . quedarse
-1377 . oeste
-1378 . traer
-1379 . olvídalo
-1380 . francia
-1381 . tuvimos
-1382 . ayudarme
-1383 . deprisa
-1384 . llaves
-1385 . tiro
-1386 . cerdo
-1387 . gato
-1388 . inglaterra
-1389 . vistazo
-1390 . cuántas
-1391 . defensa
-1392 . nuevos
-1393 . últimos
-1394 . reloj
-1395 . fuimos
-1396 . batalla
-1397 . hable
-1398 . caminar
-1399 . hacerle
-1400 . vayamos
-1401 . interior
-1402 . bella
-1403 . felices
-1404 . intentando
-1405 . apartamento
-1406 . teatro
-1407 . hacerme
-1408 . papi
-1409 . asuntos
-1410 . confiar
-1411 . hielo
-1412 . deberían
-1413 . cantar
-1414 . bajar
-1415 . vuestro
-1416 . pelear
-1417 . locos
-1418 . paga
-1419 . oyes
-1420 . completo
-1421 . lucha
-1422 . fuerzas
-1423 . borracho
-1424 . héroe
-1425 . camión
-1426 . cabo
-1427 . dientes
-1428 . verde
-1429 . despacio
-1430 . decidido
-1431 . sociedad
-1432 . pareja
-1433 . dígame
-1434 . estuviste
-1435 . nariz
-1436 . vergüenza
-1437 . caer
-1438 . herido
-1439 . cuentas
-1440 . pista
-1441 . siéntese
-1442 . bebe
-1443 . sonido
-1444 . estrellas
-1445 . sombrero
-1446 . cayó
-1447 . evitar
-1448 . pasará
-1449 . maría
-1450 . memoria
-1451 . solos
-1452 . llorar
-1453 . nervioso
-1454 . lástima
-1455 . haberlo
-1456 . época
-1457 . naturaleza
-1458 . vender
-1459 . política
-1460 . levántate
-1461 . estudio
-1462 . brillante
-1463 . nivel
-1464 . diferentes
-1465 . dando
-1466 . hubiese
-1467 . permite
-1468 . justicia
-1469 . planes
-1470 . mírame
-1471 . llegamos
-1472 . roma
-1473 . seguramente
-1474 . papa
-1475 . parecer
-1476 . terminó
-1477 . pierna
-1478 . quienes
-1479 . millón
-1480 . enorme
-1481 . inocente
-1482 . mismos
-1483 . pantalones
-1484 . ministro
-1485 . bienvenida
-1486 . u
-1487 . refiero
-1488 . nombres
-1489 . mando
-1490 . preciosa
-1491 . quedó
-1492 . podrás
-1493 . pesar
-1494 . enferma
-1495 . extraña
-1496 . enamorado
-1497 . autobús
-1498 . recordar
-1499 . estáis
-1500 . pequeños
-1501 . luchar
-1502 . contrario
-1503 . tomado
-1504 . sois
-1505 . movimiento
-1506 . estan
-1507 . sentado
-1508 . gana
-1509 . estén
-1510 . motivo
-1511 . absolutamente
-1512 . dé
-1513 . puente
-1514 . comprendo
-1515 . huevos
-1516 . tomó
-1517 . cuento
-1518 . botella
-1519 . cuesta
-1520 . corriendo
-1521 . confianza
-1522 . felicidad
-1523 . espada
-1524 . silla
-1525 . noticia
-1526 . casas
-1527 . televisión
-1528 . acuerdas
-1529 . necesitaba
-1530 . pared
-1531 . aquellos
-1532 . prensa
-1533 . trampa
-1534 . presente
-1535 . estarán
-1536 . jardín
-1537 . cabello
-1538 . espectáculo
-1539 . podré
-1540 . grave
-1541 . bastardo
-1542 . dará
-1543 . siga
-1544 . periódico
-1545 . coño
-1546 . negros
-1547 . alguno
-1548 . anillo
-1549 . monstruo
-1550 . piedra
-1551 . contento
-1552 . quedarte
-1553 . tengan
-1554 . oigan
-1555 . sentí
-1556 . debí
-1557 . ahi
-1558 . policías
-1559 . lugares
-1560 . contrato
-1561 . playa
-1562 . costa
-1563 . puertas
-1564 . asiento
-1565 . tarjeta
-1566 . restaurante
-1567 . quede
-1568 . paseo
-1569 . hechos
-1570 . hagamos
-1571 . maravillosa
-1572 . pon
-1573 . domingo
-1574 . especialmente
-1575 . velocidad
-1576 . negra
-1577 . intentar
-1578 . proyecto
-1579 . clientes
-1580 . victoria
-1581 . encantaría
-1582 . operación
-1583 . perdió
-1584 . tonta
-1585 . imagen
-1586 . lleve
-1587 . amas
-1588 . gustaba
-1589 . aspecto
-1590 . tantos
-1591 . sentimientos
-1592 . creerlo
-1593 . objetivo
-1594 . llevan
-1595 . malas
-1596 . red
-1597 . dejen
-1598 . nuevas
-1599 . muchacha
-1600 . dormido
-1601 . historias
-1602 . arreglar
-1603 . turno
-1604 . yendo
-1605 . tuviste
-1606 . ponga
-1607 . olvides
-1608 . escuché
-1609 . pasada
-1610 . mata
-1611 . tantas
-1612 . montaña
-1613 . gracia
-1614 . enfermedad
-1615 . dedos
-1616 . guapa
-1617 . querer
-1618 . ocurrido
-1619 . pocos
-1620 . deber
-1621 . refieres
-1622 . viernes
-1623 . preocupado
-1624 . clases
-1625 . rayos
-1626 . inútil
-1627 . abierto
-1628 . haberte
-1629 . oscuridad
-1630 . verdadera
-1631 . americano
-1632 . trajo
-1633 . gustó
-1634 . primo
-1635 . nacional
-1636 . supe
-1637 . colegio
-1638 . malditos
-1639 . cuchillo
-1640 . ibas
-1641 . llegué
-1642 . diario
-1643 . francés
-1644 . quedo
-1645 . podremos
-1646 . orgulloso
-1647 . ladrón
-1648 . preguntar
-1649 . pedí
-1650 . voluntad
-1651 . harán
-1652 . militar
-1653 . agradezco
-1654 . llevaba
-1655 . mami
-1656 . lluvia
-1657 . éramos
-1658 . calles
-1659 . cien
-1660 . lengua
-1661 . testigo
-1662 . ayude
-1663 . quiso
-1664 . cansada
-1665 . puse
-1666 . irás
-1667 . alemanes
-1668 . pago
-1669 . mirada
-1670 . momentos
-1671 . quieto
-1672 . sentía
-1673 . escuchen
-1674 . descansar
-1675 . mercado
-1676 . dura
-1677 . humana
-1678 . estúpida
-1679 . bienvenidos
-1680 . conocía
-1681 . entero
-1682 . roja
-1683 . llamaba
-1684 . tomas
-1685 . dueño
-1686 . echar
-1687 . emergencia
-1688 . roto
-1689 . actuar
-1690 . inmediato
-1691 . puntos
-1692 . paciente
-1693 . olvidé
-1694 . hables
-1695 . varios
-1696 . polvo
-1697 . ángeles
-1698 . coger
-1699 . distancia
-1700 . bravo
-1701 . europa
-1702 . mataron
-1703 . tomando
-1704 . verle
-1705 . señoría
-1706 . casarse
-1707 . toque
-1708 . toques
-1709 . ángel
-1710 . amante
-1711 . habló
-1712 . saca
-1713 . digamos
-1714 . perfecta
-1715 . rosa
-1716 . llámame
-1717 . nosotras
-1718 . peso
-1719 . carga
-1720 . acto
-1721 . robar
-1722 . dejaste
-1723 . desastre
-1724 . bote
-1725 . huele
-1726 . embarazada
-1727 . muestra
-1728 . gordo
-1729 . puto
-1730 . viviendo
-1731 . cerrar
-1732 . papeles
-1733 . valiente
-1734 . gloria
-1735 . aceptar
-1736 . perdóname
-1737 . perfectamente
-1738 . oscuro
-1739 . cuidar
-1740 . dedo
-1741 . ruego
-1742 . pareció
-1743 . tumba
-1744 . coge
-1745 . resulta
-1746 . dejarlo
-1747 . comenzar
-1748 . área
-1749 . metido
-1750 . limpio
-1751 . descanso
-1752 . lados
-1753 . posibilidad
-1754 . guapo
-1755 . uso
-1756 . talento
-1757 . matarme
-1758 . continuar
-1759 . código
-1760 . comenzó
-1761 . duerme
-1762 . definitivamente
-1763 . directo
-1764 . vuelvas
-1765 . dia
-1766 . demonio
-1767 . parque
-1768 . cambia
-1769 . olvidar
-1770 . cinta
-1771 . famoso
-1772 . mataré
-1773 . siguen
-1774 . saliendo
-1775 . muevas
-1776 . señoras
-1777 . disparar
-1778 . sóio
-1779 . pide
-1780 . debió
-1781 . empresa
-1782 . precioso
-1783 . termina
-1784 . intención
-1785 . tambien
-1786 . recibir
-1787 . hubieras
-1788 . abrigo
-1789 . encuentras
-1790 . diste
-1791 . tendrán
-1792 . cerrado
-1793 . conocerte
-1794 . hablé
-1795 . menor
-1796 . querría
-1797 . imagino
-1798 . genio
-1799 . profesional
-1800 . oigo
-1801 . pongo
-1802 . niñas
-1803 . muévete
-1804 . opción
-1805 . tribunal
-1806 . tenéis
-1807 . lago
-1808 . unidad
-1809 . abierta
-1810 . efecto
-1811 . presión
-1812 . varias
-1813 . robo
-1814 . saldrá
-1815 . veía
-1816 . quedado
-1817 . alcalde
-1818 . empleo
-1819 . pollo
-1820 . whisky
-1821 . carretera
-1822 . sábado
-1823 . aeropuerto
-1824 . jodido
-1825 . pobres
-1826 . medicina
-1827 . llevará
-1828 . gratis
-1829 . cae
-1830 . fortuna
-1831 . castillo
-1832 . nieve
-1833 . busco
-1834 . riesgo
-1835 . alemán
-1836 . sucio
-1837 . idiotas
-1838 . conversación
-1839 . fuese
-1840 . comienzo
-1841 . pasé
-1842 . encontraron
-1843 . elección
-1844 . salgan
-1845 . carro
-1846 . piensan
-1847 . rostro
-1848 . razones
-1849 . fué
-1850 . propiedad
-1851 . mundial
-1852 . familiar
-1853 . libras
-1854 . hablemos
-1855 . pedazo
-1856 . continúa
-1857 . cola
-1858 . enemigos
-1859 . marca
-1860 . líder
-1861 . hablan
-1862 . durmiendo
-1863 . socorro
-1864 . fútbol
-1865 . detalles
-1866 . hiciera
-1867 . recibido
-1868 . tesoro
-1869 . camisa
-1870 . comienza
-1871 . conducir
-1872 . andar
-1873 . compañeros
-1874 . llevado
-1875 . alegría
-1876 . envió
-1877 . interés
-1878 . parecido
-1879 . fueras
-1880 . hayan
-1881 . fantasma
-1882 . teniendo
-1883 . pertenece
-1884 . presento
-1885 . llevamos
-1886 . mama
-1887 . desayuno
-1888 . merece
-1889 . conocemos
-1890 . mueve
-1891 . lárgate
-1892 . pones
-1893 . oficiales
-1894 . víctima
-1895 . malos
-1896 . barrio
-1897 . oferta
-1898 . desgraciado
-1899 . resultado
-1900 . responsabilidad
-1901 . entró
-1902 . combate
-1903 . fría
-1904 . tormenta
-1905 . hablaba
-1906 . oíste
-1907 . llamé
-1908 . olor
-1909 . cantidad
-1910 . bala
-1911 . importantes
-1912 . grandioso
-1913 . kilómetros
-1914 . querían
-1915 . débil
-1916 . laboratorio
-1917 . fumar
-1918 . entrenador
-1919 . llamando
-1920 . premio
-1921 . conseguido
-1922 . bordo
-1923 . agujero
-1924 . escuchando
-1925 . escribió
-1926 . asustado
-1927 . invitado
-1928 . mapa
-1929 . tenia
-1930 . granja
-1931 . viniste
-1932 . jurado
-1933 . profundo
-1934 . tomé
-1935 . alemania
-1936 . seguros
-1937 . conocen
-1938 . pastel
-1939 . americanos
-1940 . privado
-1941 . lunes
-1942 . directamente
-1943 . socio
-1944 . robado
-1945 . explicar
-1946 . necesidad
-1947 . juegos
-1948 . importancia
-1949 . corriente
-1950 . habido
-1951 . derechos
-1952 . leído
-1953 . llegará
-1954 . desierto
-1955 . modelo
-1956 . invierno
-1957 . plata
-1958 . apoyo
-1959 . iban
-1960 . maté
-1961 . tercer
-1962 . obviamente
-1963 . tomaré
-1964 . recién
-1965 . árboles
-1966 . techo
-1967 . blancos
-1968 . haberme
-1969 . tomo
-1970 . campeón
-1971 . salón
-1972 . últimamente
-1973 . relaciones
-1974 . cura
-1975 . escenario
-1976 . cobarde
-1977 . tercera
-1978 . quedas
-1979 . usando
-1980 . aseguro
-1981 . ex
-1982 . vieron
-1983 . obtener
-1984 . entera
-1985 . quedará
-1986 . leo
-1987 . créeme
-1988 . secretos
-1989 . pecho
-1990 . mentiras
-1991 . sienta
-1992 . guste
-1993 . esquina
-1994 . primeros
-1995 . sensación
-1996 . ciego
-1997 . fábrica
-1998 . sabido
-1999 . dirá
-2000 . corta
-2001 . artista
-2002 . recuerdos
-2003 . pescado
-2004 . dígale
-2005 . sepas
-2006 . íbamos
-2007 . desaparecido
-2008 . reino
-2009 . piloto
-2010 . harías
-2011 . andando
-2012 . veinte
-2013 . vives
-2014 . vimos
-2015 . muchísimo
-2016 . seria
-2017 . preguntaba
-2018 . viven
-2019 . almuerzo
-2020 . puedan
-2021 . romper
-2022 . discutir
-2023 . correo
-2024 . condiciones
-2025 . levanta
-2026 . suficientemente
-2027 . montañas
-2028 . mataste
-2029 . disculpas
-2030 . corto
-2031 . olvida
-2032 . violencia
-2033 . perdiendo
-2034 . dejan
-2035 . presencia
-2036 . pasan
-2037 . poquito
-2038 . quítate
-2039 . fuertes
-2040 . serie
-2041 . labios
-2042 . caray
-2043 . intentarlo
-2044 . desapareció
-2045 . termine
-2046 . esperas
-2047 . llego
-2048 . teoría
-2049 . daría
-2050 . esperamos
-2051 . enfermera
-2052 . siglo
-2053 . escuchado
-2054 . tamaño
-2055 . mio
-2056 . disculpen
-2057 . virgen
-2058 . manejar
-2059 . muévanse
-2060 . propios
-2061 . míos
-2062 . truco
-2063 . vivos
-2064 . disco
-2065 . contó
-2066 . milagro
-2067 . crear
-2068 . pelota
-2069 . cuerpos
-2070 . cientos
-2071 . vaso
-2072 . despues
-2073 . universo
-2074 . gira
-2075 . salvaje
-2076 . elegir
-2077 . escucho
-2078 . curso
-2079 . trabajas
-2080 . decirles
-2081 . firma
-2082 . acabas
-2083 . herida
-2084 . queso
-2085 . pequeñas
-2086 . esperan
-2087 . limpiar
-2088 . déjenme
-2089 . solas
-2090 . parado
-2091 . magia
-2092 . casada
-2093 . compré
-2094 . campamento
-2095 . mentiroso
-2096 . dispuesto
-2097 . firme
-2098 . pondré
-2099 . estómago
-2100 . regrese
-2101 . vacío
-2102 . casarme
-2103 . tira
-2104 . torre
-2105 . destruir
-2106 . frontera
-2107 . huellas
-2108 . quedaré
-2109 . aquello
-2110 . antiguo
-2111 . suéltame
-2112 . relájate
-2113 . judíos
-2114 . aviones
-2115 . cadáver
-2116 . autos
-2117 . millas
-2118 . pudiste
-2119 . cierta
-2120 . dioses
-2121 . comido
-2122 . leyes
-2123 . vivía
-2124 . emperador
-2125 . pregunté
-2126 . cigarrillo
-2127 . helado
-2128 . miembro
-2129 . felicidades
-2130 . consigue
-2131 . mires
-2132 . paciencia
-2133 . apúrate
-2134 . ayudarle
-2135 . ó
-2136 . discúlpeme
-2137 . sigan
-2138 . traigo
-2139 . cristo
-2140 . superior
-2141 . dudo
-2142 . invitados
-2143 . confía
-2144 . estudiar
-2145 . piense
-2146 . encantador
-2147 . felicitaciones
-2148 . disparo
-2149 . sobrevivir
-2150 . miras
-2151 . lío
-2152 . intentado
-2153 . primavera
-2154 . intenté
-2155 . ricos
-2156 . encontraste
-2157 . proceso
-2158 . sujeto
-2159 . rápidamente
-2160 . respirar
-2161 . acciones
-2162 . gobernador
-2163 . poniendo
-2164 . proteger
-2165 . ciencia
-2166 . conde
-2167 . pura
-2168 . viajar
-2169 . números
-2170 . miembros
-2171 . sospechoso
-2172 . podías
-2173 . sopa
-2174 . adonde
-2175 . escribe
-2176 . llevaron
-2177 . juega
-2178 . limpia
-2179 . canciones
-2180 . trabajaba
-2181 . droga
-2182 . orgullo
-2183 . discurso
-2184 . pecado
-2185 . llegaron
-2186 . tarea
-2187 . encantadora
-2188 . enviado
-2189 . volviendo
-2190 . compras
-2191 . cheque
-2192 . huir
-2193 . caído
-2194 . seguimos
-2195 . hablaré
-2196 . recoger
-2197 . casos
-2198 . desgracia
-2199 . asesinado
-2200 . crea
-2201 . revista
-2202 . vean
-2203 . averiguar
-2204 . palacio
-2205 . contado
-2206 . amistad
-2207 . bola
-2208 . educación
-2209 . enamorada
-2210 . centavos
-2211 . quedamos
-2212 . llorando
-2213 . taza
-2214 . efectivo
-2215 . construir
-2216 . madera
-2217 . gustas
-2218 . hablaremos
-2219 . amenaza
-2220 . mono
-2221 . FALSO
-2222 . conseguí
-2223 . detener
-2224 . pensamos
-2225 . libres
-2226 . periódicos
-2227 . habíamos
-2228 . ocasión
-2229 . personalmente
-2230 . casar
-2231 . bebida
-2232 . fuente
-2233 . estudiante
-2234 . consigo
-2235 . pájaro
-2236 . sencillo
-2237 . dejarme
-2238 . cuida
-2239 . pensó
-2240 . lección
-2241 . notas
-2242 . examen
-2243 . evidencia
-2244 . empezamos
-2245 . normalmente
-2246 . indios
-2247 . sonrisa
-2248 . cortar
-2249 . venía
-2250 . uniforme
-2251 . iguales
-2252 . cerrada
-2253 . solución
-2254 . vernos
-2255 . conciencia
-2256 . bolsillo
-2257 . suave
-2258 . cuantos
-2259 . queréis
-2260 . enviar
-2261 . cero
-2262 . caminando
-2263 . balas
-2264 . seremos
-2265 . testigos
-2266 . tropas
-2267 . alteza
-2268 . protección
-2269 . vueltas
-2270 . aparte
-2271 . venganza
-2272 . comisario
-2273 . saco
-2274 . ritmo
-2275 . cruz
-2276 . abran
-2277 . familias
-2278 . lobo
-2279 . amar
-2280 . salgamos
-2281 . mintiendo
-2282 . estudiantes
-2283 . pintura
-2284 . esfuerzo
-2285 . espejo
-2286 . encontraremos
-2287 . volví
-2288 . daba
-2289 . bestia
-2290 . camarada
-2291 . muriendo
-2292 . matarte
-2293 . médicos
-2294 . decírselo
-2295 . pierde
-2296 . dejaron
-2297 . aléjate
-2298 . inteligencia
-2299 . curioso
-2300 . declaración
-2301 . dímelo
-2302 . aburrido
-2303 . artículo
-2304 . váyase
-2305 . dejamos
-2306 . regla
-2307 . criatura
-2308 . contenta
-2309 . gritar
-2310 . diversión
-2311 . llamadas
-2312 . aparece
-2313 . chaqueta
-2314 . compra
-2315 . excelencia
-2316 . nerviosa
-2317 . pongas
-2318 . abra
-2319 . hacerse
-2320 . vecinos
-2321 . camioneta
-2322 . azúcar
-2323 . vuelves
-2324 . colega
-2325 . traeré
-2326 . amaba
-2327 . amigas
-2328 . volveremos
-2329 . harto
-2330 . feo
-2331 . pedirle
-2332 . pasamos
-2333 . empecé
-2334 . cadena
-2335 . judío
-2336 . flor
-2337 . murieron
-2338 . sabrá
-2339 . cuerda
-2340 . supiera
-2341 . pez
-2342 . matarlo
-2343 . pérdida
-2344 . guarda
-2345 . antigua
-2346 . recuperar
-2347 . promesa
-2348 . apuesta
-2349 . rara
-2350 . amén
-2351 . temporada
-2352 . convertido
-2353 . diles
-2354 . preguntó
-2355 . podéis
-2356 . leí
-2357 . volvamos
-2358 . humanidad
-2359 . datos
-2360 . pocas
-2361 . vengas
-2362 . asesinos
-2363 . maravilla
-2364 . maleta
-2365 . descubrir
-2366 . arena
-2367 . tuvieron
-2368 . muera
-2369 . doce
-2370 . consiguió
-2371 . llegas
-2372 . mina
-2373 . guardias
-2374 . vinieron
-2375 . salimos
-2376 . tontería
-2377 . preocupada
-2378 . fueran
-2379 . honesto
-2380 . iría
-2381 . oso
-2382 . miel
-2383 . robó
-2384 . bombas
-2385 . pesadilla
-2386 . funcionar
-2387 . acaban
-2388 . tirar
-2389 . huesos
-2390 . enojado
-2391 . maneras
-2392 . sombra
-2393 . muñeca
-2394 . canal
-2395 . planta
-2396 . visión
-2397 . asqueroso
-2398 . cumplir
-2399 . escuchas
-2400 . calla
-2401 . vivimos
-2402 . agentes
-2403 . personaje
-2404 . muero
-2405 . mostrar
-2406 . canta
-2407 . precisamente
-2408 . moda
-2409 . encuentre
-2410 . pasos
-2411 . útil
-2412 . revolución
-2413 . hazme
-2414 . hermanas
-2415 . impresión
-2416 . pienses
-2417 . compartir
-2418 . tierras
-2419 . paquete
-2420 . imaginar
-2421 . resolver
-2422 . comunidad
-2423 . quedé
-2424 . nació
-2425 . nadar
-2426 . acabamos
-2427 . senador
-2428 . ocupada
-2429 . chino
-2430 . favorito
-2431 . errores
-2432 . humo
-2433 . sótano
-2434 . julio
-2435 . venta
-2436 . sorprende
-2437 . ponen
-2438 . fresco
-2439 . salí
-2440 . pasaba
-2441 . completa
-2442 . comiendo
-2443 . bolso
-2444 . meter
-2445 . búsqueda
-2446 . tratado
-2447 . rodillas
-2448 . nacido
-2449 . licencia
-2450 . confío
-2451 . magnífico
-2452 . necesitar
-2453 . nación
-2454 . caza
-2455 . plato
-2456 . fecha
-2457 . vivido
-2458 . preguntarte
-2459 . hablarle
-2460 . méxico
-2461 . escaleras
-2462 . cambió
-2463 . servir
-2464 . importaría
-2465 . crédito
-2466 . aguanta
-2467 . pidiendo
-2468 . responder
-2469 . soportar
-2470 . puro
-2471 . ira
-2472 . despierto
-2473 . llegan
-2474 . bruja
-2475 . complicado
-2476 . cuídate
-2477 . váyanse
-2478 . casualidad
-2479 . tengamos
-2480 . castigo
-2481 . dijera
-2482 . amanecer
-2483 . máximo
-2484 . verlos
-2485 . refiere
-2486 . cuáles
-2487 . resultados
-2488 . mirad
-2489 . dispara
-2490 . clara
-2491 . manda
-2492 . deseos
-2493 . okay
-2494 . computadora
-2495 . víctimas
-2496 . deme
-2497 . naturalmente
-2498 . llevarte
-2499 . tele
-2500 . controlar
-2501 . suelta
-2502 . olvide
-2503 . juntas
-2504 . buscas
-2505 . título
-2506 . propias
-2507 . estudios
-2508 . jueves
-2509 . preparados
-2510 . entrevista
-2511 . matando
-2512 . despacho
-2513 . distinto
-2514 . salgo
-2515 . saltar
-2516 . concierto
-2517 . prisioneros
-2518 . respira
-2519 . adios
-2520 . decidí
-2521 . peces
-2522 . pieza
-2523 . quieran
-2524 . odia
-2525 . visitar
-2526 . perdimos
-2527 . comité
-2528 . fila
-2529 . medianoche
-2530 . parada
-2531 . trabajado
-2532 . conseguiste
-2533 . desearía
-2534 . decidir
-2535 . pedazos
-2536 . escalera
-2537 . preguntarle
-2538 . sabéis
-2539 . interesado
-2540 . seguido
-2541 . sección
-2542 . serlo
-2543 . seres
-2544 . vendría
-2545 . creemos
-2546 . altura
-2547 . ganó
-2548 . empezando
-2549 . documentos
-2550 . compromiso
-2551 . hecha
-2552 . vais
-2553 . nuevamente
-2554 . dulces
-2555 . martes
-2556 . trabajos
-2557 . caro
-2558 . dejarte
-2559 . equivocada
-2560 . amado
-2561 . ayudará
-2562 . coches
-2563 . templo
-2564 . sabia
-2565 . metas
-2566 . esperaré
-2567 . medios
-2568 . estemos
-2569 . guión
-2570 . llamarme
-2571 . hubieran
-2572 . pensamientos
-2573 . envía
-2574 . encontraré
-2575 . treinta
-2576 . hierba
-2577 . impresionante
-2578 . pagado
-2579 . italia
-2580 . trataba
-2581 . volando
-2582 . tetas
-2583 . pagan
-2584 . pasión
-2585 . actitud
-2586 . cabezas
-2587 . prometido
-2588 . clave
-2589 . acepto
-2590 . vuelvan
-2591 . convirtió
-2592 . claramente
-2593 . preferiría
-2594 . acusado
-2595 . llegando
-2596 . lágrimas
-2597 . agencia
-2598 . dias
-2599 . ponerme
-2600 . quita
-2601 . gustado
-2602 . casados
-2603 . suicidio
-2604 . siguiendo
-2605 . gasolina
-2606 . jugador
-2607 . encontrarlo
-2608 . encargo
-2609 . puerto
-2610 . urgente
-2611 . tomen
-2612 . rusia
-2613 . elegante
-2614 . copia
-2615 . especiales
-2616 . fiestas
-2617 . aventura
-2618 . entrenamiento
-2619 . rompió
-2620 . océano
-2621 . ruta
-2622 . abandonar
-2623 . paraíso
-2624 . guía
-2625 . curiosidad
-2626 . salen
-2627 . responde
-2628 . apetece
-2629 . preguntado
-2630 . encantada
-2631 . fotografía
-2632 . poderoso
-2633 . mantiene
-2634 . ladrones
-2635 . intentó
-2636 . sed
-2637 . perdida
-2638 . regalos
-2639 . imágenes
-2640 . encanto
-2641 . permitir
-2642 . alerta
-2643 . elegido
-2644 . caras
-2645 . digan
-2646 . extranjero
-2647 . rata
-2648 . instituto
-2649 . convierte
-2650 . asco
-2651 . sales
-2652 . rica
-2653 . mayores
-2654 . adoro
-2655 . impuestos
-2656 . debiste
-2657 . llamamos
-2658 . piscina
-2659 . tomamos
-2660 . sacado
-2661 . sufrir
-2662 . cómodo
-2663 . aviso
-2664 . campos
-2665 . damos
-2666 . casarte
-2667 . existen
-2668 . rusos
-2669 . pagaré
-2670 . acabe
-2671 . ambulancia
-2672 . aprendido
-2673 . bendiga
-2674 . llegaste
-2675 . grado
-2676 . servicios
-2677 . verán
-2678 . vaca
-2679 . territorio
-2680 . buscan
-2681 . intentaré
-2682 . fácilmente
-2683 . conocimiento
-2684 . descubierto
-2685 . darles
-2686 . llevarme
-2687 . estuvimos
-2688 . piedras
-2689 . reputación
-2690 . perdiste
-2691 . imaginación
-2692 . miro
-2693 . excusa
-2694 . últimas
-2695 . quédese
-2696 . campaña
-2697 . parezca
-2698 . ayudarlo
-2699 . suficientes
-2700 . obvio
-2701 . disparó
-2702 . prometí
-2703 . subtítulos
-2704 . enseñó
-2705 . escritor
-2706 . página
-2707 . sientas
-2708 . atrapado
-2709 . autoridad
-2710 . cigarrillos
-2711 . firmar
-2712 . japón
-2713 . paliza
-2714 . vuestros
-2715 . molesto
-2716 . recibí
-2717 . armario
-2718 . instante
-2719 . grados
-2720 . arroz
-2721 . éstos
-2722 . cruzar
-2723 . escribí
-2724 . mover
-2725 . respuestas
-2726 . piedad
-2727 . seamos
-2728 . maestra
-2729 . líneas
-2730 . traiga
-2731 . comprado
-2732 . cámaras
-2733 . posibilidades
-2734 . divorcio
-2735 . pasen
-2736 . prisionero
-2737 . apareció
-2738 . veas
-2739 . leyendo
-2740 . anterior
-2741 . fiebre
-2742 . déjala
-2743 . registro
-2744 . ésto
-2745 . hablarte
-2746 . preocuparse
-2747 . mueva
-2748 . decírtelo
-2749 . esposas
-2750 . bolas
-2751 . compró
-2752 . pacientes
-2753 . condición
-2754 . acceso
-2755 . pasillo
-2756 . traes
-2757 . ciertamente
-2758 . enseñar
-2759 . asistente
-2760 . actriz
-2761 . tráfico
-2762 . nací
-2763 . faltan
-2764 . secundaria
-2765 . chiste
-2766 . garganta
-2767 . asustada
-2768 . creas
-2769 . enfrente
-2770 . museo
-2771 . valle
-2772 . misterio
-2773 . podrán
-2774 . alarma
-2775 . encuentran
-2776 . ambas
-2777 . dirás
-2778 . contesta
-2779 . volverás
-2780 . cambios
-2781 . joyas
-2782 . auxilio
-2783 . mantén
-2784 . zorra
-2785 . correcta
-2786 . sucedido
-2787 . francos
-2788 . entrega
-2789 . ventanas
-2790 . ruso
-2791 . celda
-2792 . roca
-2793 . escuchaste
-2794 . golpes
-2795 . áfrica
-2796 . paredes
-2797 . ganador
-2798 . cubierta
-2799 . mírate
-2800 . reales
-2801 . serpiente
-2802 . biblia
-2803 . escapó
-2804 . metro
-2805 . terreno
-2806 . cuantas
-2807 . querrá
-2808 . sacó
-2809 . meta
-2810 . fantasmas
-2811 . adorable
-2812 . tontos
-2813 . alegre
-2814 . explosión
-2815 . cuán
-2816 . corazones
-2817 . deseas
-2818 . podían
-2819 . berlín
-2820 . suceder
-2821 . circunstancias
-2822 . prohibido
-2823 . pesado
-2824 . celular
-2825 . recuerde
-2826 . puestos
-2827 . ambiente
-2828 . lograr
-2829 . entendí
-2830 . dejará
-2831 . privada
-2832 . bebiendo
-2833 . dudas
-2834 . comprendes
-2835 . botas
-2836 . pene
-2837 . costumbre
-2838 . habia
-2839 . cuadro
-2840 . experto
-2841 . llamaste
-2842 . veneno
-2843 . partida
-2844 . conocimos
-2845 . mostraré
-2846 . regresó
-2847 . pájaros
-2848 . señales
-2849 . queríamos
-2850 . bandera
-2851 . junta
-2852 . ciertas
-2853 . decidió
-2854 . combustible
-2855 . recompensa
-2856 . organización
-2857 . pensamiento
-2858 . irán
-2859 . cáncer
-2860 . ponerse
-2861 . entienden
-2862 . deuda
-2863 . llames
-2864 . raza
-2865 . extraños
-2866 . juventud
-2867 . crecer
-2868 . comportamiento
-2869 . reír
-2870 . rescate
-2871 . estarías
-2872 . abogados
-2873 . repito
-2874 . vuelven
-2875 . igualmente
-2876 . montar
-2877 . plaza
-2878 . poca
-2879 . sentimiento
-2880 . rumbo
-2881 . pata
-2882 . asusta
-2883 . decente
-2884 . producción
-2885 . traté
-2886 . nacimiento
-2887 . pondrá
-2888 . aldea
-2889 . parezco
-2890 . letra
-2891 . llevarlo
-2892 . echa
-2893 . biblioteca
-2894 . marco
-2895 . explicación
-2896 . volvemos
-2897 . exterior
-2898 . aprendí
-2899 . incendio
-2900 . atacar
-2901 . unión
-2902 . colores
-2903 . desagradable
-2904 . apuestas
-2905 . distrito
-2906 . intentas
-2907 . actores
-2908 . apellido
-2909 . encantan
-2910 . podíamos
-2911 . patio
-2912 . comercial
-2913 . cargos
-2914 . lentamente
-2915 . ayudarnos
-2916 . diamantes
-2917 . cuéntame
-2918 . hijas
-2919 . mismas
-2920 . ducha
-2921 . preparar
-2922 . trató
-2923 . fíjate
-2924 . conocerlo
-2925 . mayo
-2926 . ayudante
-2927 . italiano
-2928 . sabían
-2929 . camina
-2930 . saludos
-2931 . discúlpame
-2932 . comprender
-2933 . matará
-2934 . pantalla
-2935 . ilegal
-2936 . éstas
-2937 . morirá
-2938 . encontrará
-2939 . colina
-2940 . porquería
-2941 . tranquilos
-2942 . cementerio
-2943 . permítame
-2944 . alas
-2945 . as
-2946 . habitaciones
-2947 . regresaré
-2948 . conductor
-2949 . arreglado
-2950 . esperado
-2951 . recibió
-2952 . guardar
-2953 . gritando
-2954 . periodista
-2955 . emocionante
-2956 . lento
-2957 . tripulación
-2958 . afortunado
-2959 . buscamos
-2960 . difíciles
-2961 . sacaste
-2962 . usado
-2963 . estupidez
-2964 . circo
-2965 . trabajadores
-2966 . quince
-2967 . cerdos
-2968 . poderes
-2969 . demostrar
-2970 . león
-2971 . orgullosa
-2972 . baila
-2973 . mentir
-2974 . ocurra
-2975 . aliento
-2976 . ocurrir
-2977 . tendrías
-2978 . patrón
-2979 . olvidó
-2980 . ron
-2981 . ciento
-2982 . adivina
-2983 . equipaje
-2984 . doctora
-2985 . salsa
-2986 . escritorio
-2987 . cierre
-2988 . ciudadanos
-2989 . cajas
-2990 . traidor
-2991 . quedes
-2992 . hagámoslo
-2993 . carter
-2994 . alquiler
-2995 . instrucciones
-2996 . atreves
-2997 . entren
-2998 . ponerte
-2999 . pensaste
-3000 . práctica
-3001 . viniendo
-3002 . usan
-3003 . motivos
-3004 . pusieron
-3005 . empezado
-3006 . españa
-3007 . haberle
-3008 . celebrar
-3009 . trajiste
-3010 . duque
-3011 . límite
-3012 . arresto
-3013 . eva
-3014 . huevo
-3015 . rápida
-3016 . permanecer
-3017 . superficie
-3018 . tono
-3019 . enseñaré
-3020 . salta
-3021 . suponía
-3022 . máquinas
-3023 . criminales
-3024 . aparentemente
-3025 . condado
-3026 . religión
-3027 . pasaron
-3028 . detenido
-3029 . absurdo
-3030 . homicidio
-3031 . asesinatos
-3032 . cultura
-3033 . ceremonia
-3034 . salvó
-3035 . punta
-3036 . gilipollas
-3037 . pelotas
-3038 . anuncio
-3039 . mínimo
-3040 . nubes
-3041 . gigante
-3042 . gané
-3043 . presentar
-3044 . sacerdote
-3045 . sabría
-3046 . charla
-3047 . sentarse
-3048 . dirige
-3049 . americana
-3050 . coincidencia
-3051 . ratas
-3052 . venid
-3053 . carácter
-3054 . llévame
-3055 . celoso
-3056 . césar
-3057 . ayudó
-3058 . barcos
-3059 . tenerlo
-3060 . sesión
-3061 . quedarnos
-3062 . temas
-3063 . medida
-3064 . vende
-3065 . almas
-3066 . sofá
-3067 . matan
-3068 . franceses
-3069 . tratamiento
-3070 . despertar
-3071 . desaparecer
-3072 . acepta
-3073 . bello
-3074 . ayudarla
-3075 . sucia
-3076 . conexión
-3077 . rumores
-3078 . sincero
-3079 . leyenda
-3080 . sugiero
-3081 . lenguaje
-3082 . perdóneme
-3083 . maletas
-3084 . despedida
-3085 . clima
-3086 . llevando
-3087 . indio
-3088 . vinimos
-3089 . vecino
-3090 . dólar
-3091 . querrás
-3092 . pública
-3093 . enfadado
-3094 . barato
-3095 . español
-3096 . antonio
-3097 . putas
-3098 . escondido
-3099 . bebés
-3100 . decisiones
-3101 . demasiada
-3102 . fea
-3103 . condenado
-3104 . reserva
-3105 . vuestras
-3106 . tomará
-3107 . asombroso
-3108 . dejame
-3109 . pánico
-3110 . cogido
-3111 . estando
-3112 . acero
-3113 . asegúrate
-3114 . tratas
-3115 . cocinar
-3116 . helicóptero
-3117 . pasaporte
-3118 . gorda
-3119 . bicicleta
-3120 . cincuenta
-3121 . tíos
-3122 . falsa
-3123 . ayudaré
-3124 . aguantar
-3125 . suba
-3126 . hacían
-3127 . objeto
-3128 . llores
-3129 . atrapar
-3130 . escribiendo
-3131 . coraje
-3132 . aceite
-3133 . billete
-3134 . publicidad
-3135 . botón
-3136 . cristal
-3137 . moneda
-3138 . conduce
-3139 . apesta
-3140 . favorita
-3141 . vacía
-3142 . opinas
-3143 . japoneses
-3144 . septiembre
-3145 . llegaremos
-3146 . sentimos
-3147 . sucediendo
-3148 . tocando
-3149 . abandonado
-3150 . petróleo
-3151 . archivos
-3152 . versión
-3153 . pozo
-3154 . echado
-3155 . ciudades
-3156 . ventaja
-3157 . dormitorio
-3158 . prima
-3159 . cartera
-3160 . muro
-3161 . mediodía
-3162 . pasas
-3163 . romántico
-3164 . mueren
-3165 . funcionó
-3166 . maten
-3167 . alcance
-3168 . supo
-3169 . internacional
-3170 . preocuparte
-3171 . competencia
-3172 . quitar
-3173 . esclavos
-3174 . escándalo
-3175 . metió
-3176 . tecnología
-3177 . verdaderamente
-3178 . mete
-3179 . baje
-3180 . sobrino
-3181 . principios
-3182 . ruedas
-3183 . visitas
-3184 . división
-3185 . mensajes
-3186 . desconocido
-3187 . ascensor
-3188 . oyó
-3189 . platos
-3190 . crema
-3191 . entrado
-3192 . hierro
-3193 . pastor
-3194 . razonable
-3195 . miércoles
-3196 . tráeme
-3197 . hombro
-3198 . comisión
-3199 . ayúdenme
-3200 . calidad
-3201 . contaré
-3202 . identidad
-3203 . apaga
-3204 . alli
-3205 . palo
-3206 . moto
-3207 . detalle
-3208 . manzana
-3209 . dejando
-3210 . preguntando
-3211 . tocado
-3212 . decimos
-3213 . encontrarás
-3214 . conejo
-3215 . pensarlo
-3216 . agarra
-3217 . actuación
-3218 . sentada
-3219 . obras
-3220 . buscaba
-3221 . nervios
-3222 . levantar
-3223 . conferencia
-3224 . junio
-3225 . cantando
-3226 . grano
-3227 . espía
-3228 . atractivo
-3229 . intereses
-3230 . vendrán
-3231 . darnos
-3232 . novela
-3233 . recibo
-3234 . resistencia
-3235 . imagina
-3236 . transporte
-3237 . frase
-3238 . delicioso
-3239 . infeliz
-3240 . mandó
-3241 . cinturón
-3242 . dragón
-3243 . peores
-3244 . científico
-3245 . empecemos
-3246 . trabajan
-3247 . cantante
-3248 . pecados
-3249 . disparen
-3250 . esperanzas
-3251 . rosas
-3252 . deba
-3253 . poli
-3254 . pasajeros
-3255 . almorzar
-3256 . buscarlo
-3257 . heridas
-3258 . pasaría
-3259 . adecuado
-3260 . queridos
-3261 . aguas
-3262 . países
-3263 . daremos
-3264 . estuvieron
-3265 . pierdes
-3266 . vía
-3267 . cometido
-3268 . función
-3269 . recibe
-3270 . industria
-3271 . terminé
-3272 . oídos
-3273 . señoritas
-3274 . corona
-3275 . asalto
-3276 . flota
-3277 . billetes
-3278 . gustará
-3279 . tina
-3280 . decían
-3281 . sitios
-3282 . sienten
-3283 . tómalo
-3284 . dejaría
-3285 . político
-3286 . esperemos
-3287 . revisar
-3288 . imperio
-3289 . llegada
-3290 . solitario
-3291 . haberse
-3292 . refugio
-3293 . empiezo
-3294 . jesucristo
-3295 . rubia
-3296 . criaturas
-3297 . pregúntale
-3298 . cabaña
-3299 . militares
-3300 . siglos
-3301 . sufrimiento
-3302 . soporto
-3303 . expresión
-3304 . fiel
-3305 . moscú
-3306 . prometiste
-3307 . secretario
-3308 . cuartel
-3309 . soñando
-3310 . ejercicio
-3311 . fabuloso
-3312 . básicamente
-3313 . gritos
-3314 . espérame
-3315 . gatos
-3316 . pico
-3317 . intente
-3318 . túnel
-3319 . arrestado
-3320 . identificación
-3321 . viniera
-3322 . rastro
-3323 . secreta
-3324 . díselo
-3325 . invitación
-3326 . dejemos
-3327 . podria
-3328 . cañón
-3329 . alguacil
-3330 . risa
-3331 . bonitas
-3332 . traigan
-3333 . gano
-3334 . conseguiré
-3335 . izquierdo
-3336 . desnudo
-3337 . grupos
-3338 . policia
-3339 . gastos
-3340 . conoció
-3341 . buscado
-3342 . trabajamos
-3343 . once
-3344 . bromeas
-3345 . monte
-3346 . volvería
-3347 . lanza
-3348 . preciso
-3349 . rueda
-3350 . viejas
-3351 . breve
-3352 . hermosas
-3353 . despedido
-3354 . descansa
-3355 . autoridades
-3356 . contestar
-3357 . prácticamente
-3358 . hallar
-3359 . disfrutar
-3360 . sabíamos
-3361 . dámelo
-3362 . tanque
-3363 . vehículo
-3364 . capacidad
-3365 . bailando
-3366 . alcanzar
-3367 . darán
-3368 . extrañas
-3369 . viuda
-3370 . salvado
-3371 . audiencia
-3372 . salvajes
-3373 . robaron
-3374 . cuales
-3375 . orejas
-3376 . ingleses
-3377 . concurso
-3378 . alternativa
-3379 . comprende
-3380 . planeado
-3381 . gallina
-3382 . extraordinario
-3383 . depósito
-3384 . maricón
-3385 . sabrás
-3386 . ganamos
-3387 . egoísta
-3388 . terminamos
-3389 . decirnos
-3390 . desnuda
-3391 . vestidos
-3392 . mandar
-3393 . tragedia
-3394 . armada
-3395 . evitarlo
-3396 . recuerden
-3397 . círculo
-3398 . golpeó
-3399 . gafas
-3400 . profundamente
-3401 . dispararon
-3402 . olvido
-3403 . payaso
-3404 . emoción
-3405 . borde
-3406 . casó
-3407 . tirado
-3408 . sensible
-3409 . olvídate
-3410 . existencia
-3411 . unidades
-3412 . luchando
-3413 . clínica
-3414 . escape
-3415 . barón
-3416 . incidente
-3417 . conté
-3418 . actual
-3419 . secretaria
-3420 . mejorar
-3421 . rancho
-3422 . està
-3423 . trate
-3424 . significado
-3425 . famosa
-3426 . míralo
-3427 . cima
-3428 . vendido
-3429 . temperatura
-3430 . equipos
-3431 . empiece
-3432 . efectos
-3433 . terroristas
-3434 . medias
-3435 . pasara
-3436 . sagrado
-3437 . tio
-3438 . física
-3439 . reacción
-3440 . revés
-3441 . llamarte
-3442 . golpear
-3443 . crímenes
-3444 . operaciones
-3445 . empleados
-3446 . enviaré
-3447 . tigre
-3448 . monedas
-3449 . entregar
-3450 . aprecio
-3451 . carreras
-3452 . regresado
-3453 . hablaste
-3454 . destrucción
-3455 . azules
-3456 . patrulla
-3457 . pagó
-3458 . marcas
-3459 . sabor
-3460 . voces
-3461 . josé
-3462 . perdedor
-3463 . ensayo
-3464 . sueldo
-3465 . peleas
-3466 . nene
-3467 . construcción
-3468 . hacías
-3469 . entradas
-3470 . científicos
-3471 . delito
-3472 . ofrece
-3473 . máscara
-3474 . guitarra
-3475 . figura
-3476 . decide
-3477 . bebido
-3478 . vuela
-3479 . corran
-3480 . conseguimos
-3481 . llamaron
-3482 . tranquilízate
-3483 . rayo
-3484 . análisis
-3485 . vendedor
-3486 . admitir
-3487 . consecuencias
-3488 . cazar
-3489 . personalidad
-3490 . pusiste
-3491 . disparos
-3492 . llevarla
-3493 . estuvieras
-3494 . pongan
-3495 . traducción
-3496 . presenta
-3497 . ví
-3498 . profesión
-3499 . pastillas
-3500 . servirá
-3501 . espacial
-3502 . ayudo
-3503 . sera
-3504 . cadáveres
-3505 . disponible
-3506 . voto
-3507 . entrando
-3508 . habilidad
-3509 . galletas
-3510 . estâ
-3511 . contando
-3512 . costado
-3513 . remedio
-3514 . déme
-3515 . aniversario
-3516 . generación
-3517 . personales
-3518 . discos
-3519 . trozo
-3520 . políticos
-3521 . marica
-3522 . caída
-3523 . adultos
-3524 . sentarme
-3525 . encerrado
-3526 . caos
-3527 . apostar
-3528 . llevaremos
-3529 . vendrás
-3530 . háblame
-3531 . súper
-3532 . habrías
-3533 . seguiré
-3534 . pudieras
-3535 . abrió
-3536 . peligrosa
-3537 . amantes
-3538 . prostituta
-3539 . probado
-3540 . estúpidos
-3541 . pescar
-3542 . producto
-3543 . auténtico
-3544 . condesa
-3545 . equivocas
-3546 . estadounidense
-3547 . octubre
-3548 . poesía
-3549 . heridos
-3550 . preparada
-3551 . electricidad
-3552 . seguía
-3553 . sonríe
-3554 . puesta
-3555 . llevé
-3556 . moleste
-3557 . consciente
-3558 . pasear
-3559 . sepan
-3560 . salieron
-3561 . reverendo
-3562 . perdidos
-3563 . sacrificio
-3564 . propuesta
-3565 . amarillo
-3566 . logrado
-3567 . primeras
-3568 . pedirte
-3569 . piezas
-3570 . experimento
-3571 . llamen
-3572 . emociones
-3573 . costó
-3574 . hojas
-3575 . serían
-3576 . comisaría
-3577 . hueso
-3578 . reconozco
-3579 . rocas
-3580 . héroes
-3581 . conocerla
-3582 . barba
-3583 . daños
-3584 . tomes
-3585 . sorprendente
-3586 . quédense
-3587 . empleado
-3588 . suyos
-3589 . toro
-3590 . habrán
-3591 . olvidaré
-3592 . comunicación
-3593 . prepara
-3594 . francesa
-3595 . vigilancia
-3596 . arreglo
-3597 . piénsalo
-3598 . colegas
-3599 . disparado
-3600 . renunciar
-3601 . salgas
-3602 . suele
-3603 . discusión
-3604 . creado
-3605 . encargaré
-3606 . habrían
-3607 . tuyos
-3608 . lealtad
-3609 . entré
-3610 . cubierto
-3611 . fondos
-3612 . mereces
-3613 . inocentes
-3614 . volviste
-3615 . ánimo
-3616 . miraba
-3617 . usó
-3618 . empieces
-3619 . champán
-3620 . algun
-3621 . estupenda
-3622 . convencido
-3623 . prometió
-3624 . enojada
-3625 . harta
-3626 . nina
-3627 . serías
-3628 . quietos
-3629 . gustar
-3630 . necesite
-3631 . salto
-3632 . preparando
-3633 . dejarla
-3634 . opciones
-3635 . cojones
-3636 . reyes
-3637 . cabina
-3638 . haberla
-3639 . pudimos
-3640 . imaginas
-3641 . cercano
-3642 . mataría
-3643 . telegrama
-3644 . pregunte
-3645 . requiere
-3646 . espaldas
-3647 . moverse
-3648 . fracaso
-3649 . santos
-3650 . guau
-3651 . pierdo
-3652 . caminos
-3653 . falla
-3654 . anciano
-3655 . quedaba
-3656 . encargado
-3657 . centavo
-3658 . agrada
-3659 . ataques
-3660 . corbata
-3661 . canto
-3662 . poema
-3663 . sano
-3664 . intentaba
-3665 . pudieron
-3666 . bromas
-3667 . comen
-3668 . trucos
-3669 . comes
-3670 . fantasía
-3671 . pierdas
-3672 . madres
-3673 . velas
-3674 . francamente
-3675 . japonés
-3676 . empezaron
-3677 . plantas
-3678 . angeles
-3679 . tradición
-3680 . apropiado
-3681 . informes
-3682 . sufrido
-3683 . darse
-3684 . sentirse
-3685 . rezar
-3686 . móvil
-3687 . sonar
-3688 . compasión
-3689 . siéntense
-3690 . viajes
-3691 . placa
-3692 . tokio
-3693 . prestado
-3694 . camarero
-3695 . pendejo
-3696 . venimos
-3697 . collar
-3698 . defender
-3699 . bastardos
-3700 . agradecido
-3701 . plano
-3702 . lanzamiento
-3703 . dijimos
-3704 . invito
-3705 . maquillaje
-3706 . almirante
-3707 . aparecer
-3708 . semejante
-3709 . destruido
-3710 . lujo
-3711 . huelga
-3712 . saque
-3713 . caridad
-3714 . capaces
-3715 . bancos
-3716 . tendríamos
-3717 . atractiva
-3718 . cabrones
-3719 . productor
-3720 . funcionará
-3721 . entenderlo
-3722 . investigar
-3723 . colección
-3724 . jodida
-3725 . fama
-3726 . maíz
-3727 . cumplido
-3728 . gris
-3729 . jovencita
-3730 . onda
-3731 . ayudado
-3732 . prefiere
-3733 . lleven
-3734 . molestia
-3735 . entendiste
-3736 . advierto
-3737 . toman
-3738 . familiares
-3739 . resultó
-3740 . descubrí
-3741 . conociste
-3742 . seco
-3743 . congreso
-3744 . cuarenta
-3745 . negativo
-3746 . demasiados
-3747 . tuvieras
-3748 . traición
-3749 . multitud
-3750 . macho
-3751 . civiles
-3752 . matarán
-3753 . tratan
-3754 . frecuencia
-3755 . sigamos
-3756 . lata
-3757 . mago
-3758 . béisbol
-3759 . usas
-3760 . dejaremos
-3761 . parientes
-3762 . pares
-3763 . elecciones
-3764 . limpieza
-3765 . influencia
-3766 . pediste
-3767 . listas
-3768 . malditas
-3769 . acabará
-3770 . enhorabuena
-3771 . satisfecho
-3772 . representa
-3773 . papas
-3774 . besar
-3775 . compañera
-3776 . diera
-3777 . mías
-3778 . conducta
-3779 . fantástica
-3780 . prefieres
-3781 . bebo
-3782 . rompe
-3783 . continúe
-3784 . convertirse
-3785 . idioma
-3786 . cueva
-3787 . quieta
-3788 . movimientos
-3789 . batería
-3790 . técnica
-3791 . tanques
-3792 . lleguemos
-3793 . explotar
-3794 . tomaste
-3795 . barra
-3796 . enfermos
-3797 . engañar
-3798 . marchar
-3799 . cargar
-3800 . intentamos
-3801 . desaparece
-3802 . cuentos
-3803 . sentencia
-3804 . deudas
-3805 . molestar
-3806 . rollo
-3807 . hoja
-3808 . muebles
-3809 . escapado
-3810 . largas
-3811 . encontrarla
-3812 . malvado
-3813 . aérea
-3814 . embajador
-3815 . artistas
-3816 . ministerio
-3817 . funcionando
-3818 . explica
-3819 . comunista
-3820 . bodas
-3821 . diciembre
-3822 . votos
-3823 . abiertos
-3824 . escribo
-3825 . actividad
-3826 . ayudando
-3827 . bajas
-3828 . mostrarte
-3829 . monstruos
-3830 . antiguos
-3831 . fotografías
-3832 . lavar
-3833 . personajes
-3834 . vela
-3835 . notado
-3836 . miente
-3837 . pediré
-3838 . trono
-3839 . pato
-3840 . jugo
-3841 . inténtalo
-3842 . grito
-3843 . descubrió
-3844 . arreglarlo
-3845 . rutina
-3846 . patria
-3847 . esclavo
-3848 . cuente
-3849 . taller
-3850 . regresen
-3851 . muestras
-3852 . devolver
-3853 . asegurarme
-3854 . patas
-3855 . desayunar
-3856 . gerente
-3857 . vacas
-3858 . acércate
-3859 . sentados
-3860 . practicar
-3861 . dormida
-3862 . celos
-3863 . aceptado
-3864 . profesora
-3865 . importaba
-3866 . tómate
-3867 . alumnos
-3868 . pistas
-3869 . diseño
-3870 . actos
-3871 . vigila
-3872 . reporte
-3873 . masa
-3874 . prometida
-3875 . cuartos
-3876 . guerrero
-3877 . tercero
-3878 . permitido
-3879 . uñas
-3880 . ciudadano
-3881 . niebla
-3882 . ronda
-3883 . llamarlo
-3884 . noviembre
-3885 . logro
-3886 . naranja
-3887 . pagará
-3888 . restos
-3889 . viera
-3890 . refería
-3891 . queria
-3892 . considerado
-3893 . sinceramente
-3894 . garaje
-3895 . ingeniero
-3896 . generoso
-3897 . academia
-3898 . jugadores
-3899 . cretino
-3900 . recursos
-3901 . métete
-3902 . buscaré
-3903 . archivo
-3904 . letras
-3905 . poeta
-3906 . mantenga
-3907 . pedimos
-3908 . posiblemente
-3909 . ponerle
-3910 . dignidad
-3911 . logramos
-3912 . testamento
-3913 . infancia
-3914 . rota
-3915 . población
-3916 . oscura
-3917 . chinos
-3918 . almacén
-3919 . soledad
-3920 . siguió
-3921 . buscarte
-3922 . medalla
-3923 . olvidaste
-3924 . envié
-3925 . salía
-3926 . armado
-3927 . soltero
-3928 . llévate
-3929 . saldremos
-3930 . muéstrame
-3931 . ala
-3932 . únicos
-3933 . suma
-3934 . sistemas
-3935 . tiendas
-3936 . escuadrón
-3937 . abrazo
-3938 . importar
-3939 . dió
-3940 . enterado
-3941 . sorprendido
-3942 . modales
-3943 . sirven
-3944 . médica
-3945 . colgar
-3946 . típico
-3947 . edificios
-3948 . finales
-3949 . confundido
-3950 . ciertos
-3951 . creyó
-3952 . vendiendo
-3953 . juegas
-3954 . espíritus
-3955 . oírlo
-3956 . límites
-3957 . utilizar
-3958 . aprende
-3959 . crecido
-3960 . dimos
-3961 . demasiadas
-3962 . botellas
-3963 . hablarme
-3964 . tristeza
-3965 . deporte
-3966 . lucas
-3967 . permiten
-3968 . molestes
-3969 . recepción
-3970 . enviaron
-3971 . odias
-3972 . hacerla
-3973 . considera
-3974 . hayamos
-3975 . mantente
-3976 . progreso
-3977 . brindis
-3978 . medidas
-3979 . tocó
-3980 . peleando
-3981 . reconocer
-3982 . fascinante
-3983 . región
-3984 . importan
-3985 . arruinar
-3986 . terapia
-3987 . cómoda
-3988 . hoyo
-3989 . miré
-3990 . arco
-3991 . oreja
-3992 . pesca
-3993 . trabajé
-3994 . honestamente
-3995 . verdes
-3996 . intenciones
-3997 . acostumbrado
-3998 . sentarte
-3999 . olas
-4000 . grita
-4001 . tarjetas
-4002 . eterna
-4003 . obligado
-4004 . formar
-4005 . ordenó
-4006 . cambiando
-4007 . naves
-4008 . quedarás
-4009 . tabaco
-4010 . usamos
-4011 . capítulo
-4012 . encontrarme
-4013 . hacéis
-4014 . seguirá
-4015 . ocuparé
-4016 . selva
-4017 . ayudas
-4018 . cállese
-4019 . columna
-4020 . enterrado
-4021 . ola
-4022 . temer
-4023 . cortado
-4024 . impacto
-4025 . objetos
-4026 . herramientas
-4027 . marihuana
-4028 . balón
-4029 . fingir
-4030 . decírmelo
-4031 . confesión
-4032 . ayúdeme
-4033 . jodan
-4034 . símbolo
-4035 . cambie
-4036 . buscarla
-4037 . expediente
-4038 . escenas
-4039 . fresca
-4040 . petición
-4041 . tomaremos
-4042 . amada
-4043 . entramos
-4044 . participar
-4045 . casco
-4046 . trajeron
-4047 . patatas
-4048 . pandilla
-4049 . preocupación
-4050 . duermo
-4051 . advertencia
-4052 . lleguen
-4053 . llora
-4054 . socios
-4055 . miran
-4056 . disculparme
-4057 . presa
-4058 . estaríamos
-4059 . pases
-4060 . camaradas
-4061 . otoño
-4062 . estatua
-4063 . perrito
-4064 . mia
-4065 . violación
-4066 . acerques
-4067 . actúa
-4068 . corredor
-4069 . canadá
-4070 . temía
-4071 . altos
-4072 . guantes
-4073 . vaquero
-4074 . actuando
-4075 . enormes
-4076 . sabiendo
-4077 . merezco
-4078 . citas
-4079 . pegado
-4080 . simpático
-4081 . jaula
-4082 . incluyendo
-4083 . funcione
-4084 . ratón
-4085 . período
-4086 . capa
-4087 . brasil
-4088 . zapato
-4089 . gota
-4090 . docena
-4091 . decías
-4092 . habrás
-4093 . cambian
-4094 . hombros
-4095 . casarnos
-4096 . reconoce
-4097 . trajes
-4098 . minas
-4099 . vomitar
-4100 . seguida
-4101 . testimonio
-4102 . jugada
-4103 . evento
-4104 . suplico
-4105 . adivinar
-4106 . administración
-4107 . alfombra
-4108 . productos
-4109 . vecindario
-4110 . niñera
-4111 . so
-4112 . presentación
-4113 . residencia
-4114 . subiendo
-4115 . oportunidades
-4116 . conozca
-4117 . recientemente
-4118 . retraso
-4119 . pintar
-4120 . preso
-4121 . plástico
-4122 . marzo
-4123 . funcionan
-4124 . hágalo
-4125 . escoger
-4126 . seguiremos
-4127 . sindicato
-4128 . sombras
-4129 . ganando
-4130 . cometer
-4131 . preguntes
-4132 . bondad
-4133 . temor
-4134 . profunda
-4135 . ropas
-4136 . físico
-4137 . escúcheme
-4138 . cuyo
-4139 . retrato
-4140 . suceda
-4141 . ópera
-4142 . mencionar
-4143 . páginas
-4144 . esperad
-4145 . muchachas
-4146 . nieto
-4147 . empiezas
-4148 . logró
-4149 . campeonato
-4150 . retiro
-4151 . sordo
-4152 . suban
-4153 . marcos
-4154 . conviene
-4155 . necesitaré
-4156 . arruinado
-4157 . representante
-4158 . boleto
-4159 . niega
-4160 . doctores
-4161 . oxígeno
-4162 . terribles
-4163 . liga
-4164 . creó
-4165 . cenizas
-4166 . terrorista
-4167 . imaginé
-4168 . compraré
-4169 . ave
-4170 . heroína
-4171 . furioso
-4172 . agarrar
-4173 . prometes
-4174 . sígueme
-4175 . bonitos
-4176 . callado
-4177 . bolsas
-4178 . mientes
-4179 . bendición
-4180 . pague
-4181 . porno
-4182 . dejadme
-4183 . pesada
-4184 . británico
-4185 . economía
-4186 . lanzar
-4187 . deberá
-4188 . ensalada
-4189 . quizas
-4190 . equivoqué
-4191 . consejos
-4192 . termino
-4193 . equivoca
-4194 . besos
-4195 . estudiando
-4196 . documento
-4197 . crece
-4198 . susto
-4199 . creído
-4200 . saqué
-4201 . pluma
-4202 . demanda
-4203 . encontrarte
-4204 . horribles
-4205 . comando
-4206 . hacernos
-4207 . sexuales
-4208 . dificil
-4209 . prepárate
-4210 . embajada
-4211 . fruta
-4212 . jugamos
-4213 . tiró
-4214 . manzanas
-4215 . volverán
-4216 . quinto
-4217 . aman
-4218 . abandonó
-4219 . tenerte
-4220 . empiezan
-4221 . dejara
-4222 . firmado
-4223 . coca
-4224 . divertida
-4225 . extranjeros
-4226 . atender
-4227 . bajando
-4228 . consiga
-4229 . trasera
-4230 . préstamo
-4231 . quisieras
-4232 . vigilando
-4233 . desperté
-4234 . pañuelo
-4235 . créame
-4236 . jefes
-4237 . prepárense
-4238 . ataúd
-4239 . saluda
-4240 . sobra
-4241 . tensión
-4242 . aumento
-4243 . sentirme
-4244 . extremo
-4245 . dí
-4246 . odiaba
-4247 . enseñado
-4248 . fines
-4249 . lea
-4250 . trenes
-4251 . teme
-4252 . ofrecer
-4253 . atreve
-4254 . ocurrirá
-4255 . salve
-4256 . pulso
-4257 . detuvo
-4258 . bajen
-4259 . seguí
-4260 . ocurriendo
-4261 . cuadros
-4262 . artes
-4263 . pensión
-4264 . camiones
-4265 . juguete
-4266 . todavia
-4267 . cuánta
-4268 . contarle
-4269 . cirugía
-4270 . eternidad
-4271 . sigas
-4272 . bailarina
-4273 . avenida
-4274 . decidimos
-4275 . pagas
-4276 . rojas
-4277 . cobrar
-4278 . realizar
-4279 . infantil
-4280 . ponerlo
-4281 . esperabas
-4282 . pavo
-4283 . juguetes
-4284 . custodia
-4285 . demuestra
-4286 . justamente
-4287 . golpea
-4288 . ultima
-4289 . rusa
-4290 . tomaron
-4291 . enciende
-4292 . civilización
-4293 . burro
-4294 . muchísimas
-4295 . democracia
-4296 . gimnasio
-4297 . sabremos
-4298 . egipto
-4299 . opina
-4300 . estadounidenses
-4301 . patético
-4302 . consigues
-4303 . observa
-4304 . revistas
-4305 . sucederá
-4306 . fase
-4307 . ilusión
-4308 . debilidad
-4309 . matas
-4310 . bienes
-4311 . psiquiatra
-4312 . autor
-4313 . engañado
-4314 . robando
-4315 . dejarás
-4316 . probarlo
-4317 . duros
-4318 . eeuu
-4319 . enseñarte
-4320 . detenerlo
-4321 . condena
-4322 . saldré
-4323 . muelle
-4324 . miró
-4325 . estatal
-4326 . repugnante
-4327 . asientos
-4328 . aterrizar
-4329 . permitiré
-4330 . pierda
-4331 . vencido
-4332 . copias
-4333 . dibujos
-4334 . trabajó
-4335 . pechos
-4336 . cervezas
-4337 . desean
-4338 . dolores
-4339 . causar
-4340 . mantequilla
-4341 . pablo
-4342 . acuerda
-4343 . aparato
-4344 . sacarlo
-4345 . dirán
-4346 . copas
-4347 . plena
-4348 . sospecha
-4349 . ponemos
-4350 . cazador
-4351 . autopista
-4352 . escapa
-4353 . canalla
-4354 . informado
-4355 . despejado
-4356 . postre
-4357 . deseaba
-4358 . concepto
-4359 . desarrollo
-4360 . blancas
-4361 . contarte
-4362 . digno
-4363 . piensen
-4364 . esconde
-4365 . adulto
-4366 . bebidas
-4367 . elige
-4368 . casé
-4369 . quema
-4370 . juramento
-4371 . vampiro
-4372 . combinación
-4373 . volvieron
-4374 . términos
-4375 . buscarme
-4376 . disfruta
-4377 . sangrando
-4378 . toalla
-4379 . ríe
-4380 . suelto
-4381 . dejaba
-4382 . autorización
-4383 . negras
-4384 . andas
-4385 . llenos
-4386 . bomberos
-4387 . gravedad
-4388 . cambiará
-4389 . esconder
-4390 . dirigir
-4391 . enfadada
-4392 . llegaré
-4393 . líos
-4394 . dibujo
-4395 . hadas
-4396 . soñar
-4397 . marinero
-4398 . convencer
-4399 . tortura
-4400 . nube
-4401 . rehenes
-4402 . vera
-4403 . robaste
-4404 . chaval
-4405 . encuentren
-4406 . sobrina
-4407 . levante
-4408 . amables
-4409 . ovejas
-4410 . violento
-4411 . feria
-4412 . muevan
-4413 . desafío
-4414 . origen
-4415 . vestida
-4416 . golpeado
-4417 . constantemente
-4418 . humilde
-4419 . habilidades
-4420 . causado
-4421 . patada
-4422 . escuelas
-4423 . equivoco
-4424 . saliste
-4425 . comió
-4426 . ocultar
-4427 . normales
-4428 . desafortunadamente
-4429 . nacer
-4430 . duermes
-4431 . refuerzos
-4432 . pides
-4433 . cubrir
-4434 . zorro
-4435 . jabón
-4436 . mantengan
-4437 . método
-4438 . oírme
-4439 . harían
-4440 . mercancía
-4441 . acento
-4442 . escala
-4443 . engaño
-4444 . tenis
-4445 . artículos
-4446 . celosa
-4447 . diosa
-4448 . comentarios
-4449 . miseria
-4450 . alla
-4451 . imaginaba
-4452 . guerreros
-4453 . estructura
-4454 . gastar
-4455 . desfile
-4456 . registros
-4457 . enteré
-4458 . importe
-4459 . lápiz
-4460 . tragos
-4461 . traen
-4462 . guerras
-4463 . fortaleza
-4464 . pesa
-4465 . invitó
-4466 . diarios
-4467 . pondremos
-4468 . terriblemente
-4469 . respiración
-4470 . cuero
-4471 . vano
-4472 . rojos
-4473 . fuga
-4474 . hicieras
-4475 . cálmese
-4476 . generalmente
-4477 . inconsciente
-4478 . metí
-4479 . usarlo
-4480 . toco
-4481 . grabación
-4482 . gane
-4483 . caen
-4484 . pacífico
-4485 . horario
-4486 . complejo
-4487 . maletín
-4488 . poderosa
-4489 . conocida
-4490 . acabaron
-4491 . profesionales
-4492 . materia
-4493 . regresará
-4494 . cayendo
-4495 . positivo
-4496 . entro
-4497 . chofer
-4498 . muertes
-4499 . eléctrica
-4500 . cabra
-4501 . mentes
-4502 . enero
-4503 . comedor
-4504 . república
-4505 . cintas
-4506 . sabio
-4507 . apariencia
-4508 . agallas
-4509 . caiga
-4510 . preguntan
-4511 . mezcla
-4512 . comprendido
-4513 . coja
-4514 . reuniones
-4515 . ejecución
-4516 . brillantes
-4517 . licor
-4518 . narices
-4519 . tomemos
-4520 . encontrarán
-4521 . enfermedades
-4522 . mágico
-4523 . reconocimiento
-4524 . involucrado
-4525 . aguanto
-4526 . apagar
-4527 . darás
-4528 . desesperado
-4529 . elefante
-4530 . desorden
-4531 . supieras
-4532 . torneo
-4533 . apetito
-4534 . danos
-4535 . calientes
-4536 . observando
-4537 . orilla
-4538 . echó
-4539 . fenómeno
-4540 . escuchad
-4541 . hermosos
-4542 . alimentos
-4543 . hubiéramos
-4544 . gatillo
-4545 . pida
-4546 . vendió
-4547 . mancha
-4548 . próximos
-4549 . sufre
-4550 . giro
-4551 . marte
-4552 . vivió
-4553 . pegó
-4554 . pega
-4555 . jodas
-4556 . submarino
-4557 . tocas
-4558 . sabiduría
-4559 . locales
-4560 . policial
-4561 . meterte
-4562 . riendo
-4563 . campana
-4564 . escuchó
-4565 . criada
-4566 . gesto
-4567 . imbéciles
-4568 . encontremos
-4569 . ofreció
-4570 . comercio
-4571 . ocupados
-4572 . interrumpir
-4573 . capullo
-4574 . creación
-4575 . ríes
-4576 . camiseta
-4577 . comencé
-4578 . seca
-4579 . aburrida
-4580 . gusano
-4581 . supiste
-4582 . lógica
-4583 . oyeron
-4584 . callejón
-4585 . llegues
-4586 . excepción
-4587 . lectura
-4588 . seda
-4589 . am
-4590 . bebes
-4591 . atmósfera
-4592 . tratamos
-4593 . führer
-4594 . alemana
-4595 . resuelto
-4596 . quemar
-4597 . esperé
-4598 . tarta
-4599 . recibimos
-4600 . enseña
-4601 . ganancias
-4602 . terminará
-4603 . repetir
-4604 . quisiste
-4605 . cosecha
-4606 . boletos
-4607 . póngase
-4608 . escucharme
-4609 . disciplina
-4610 . apártate
-4611 . oficio
-4612 . pasaré
-4613 . cambié
-4614 . bahía
-4615 . oficialmente
-4616 . normas
-4617 . llegara
-4618 . salario
-4619 . teléfonos
-4620 . cuya
-4621 . caí
-4622 . cuerdas
-4623 . graves
-4624 . busque
-4625 . conversar
-4626 . orgullosos
-4627 . súbete
-4628 . explicaré
-4629 . colinas
-4630 . pelotón
-4631 . pasaje
-4632 . cortó
-4633 . est
-4634 . fianza
-4635 . graciosa
-4636 . vería
-4637 . misa
-4638 . carbón
-4639 . grosero
-4640 . queja
-4641 . marcharse
-4642 . cristiano
-4643 . misterioso
-4644 . rapido
-4645 . perdemos
-4646 . oyen
-4647 . cuarta
-4648 . enseñarle
-4649 . verdaderos
-4650 . considerando
-4651 . convertir
-4652 . instinto
-4653 . cigarro
-4654 . màs
-4655 . negociar
-4656 . plazo
-4657 . pensabas
-4658 . confusión
-4659 . cojo
-4660 . planos
-4661 . orquesta
-4662 . mencionó
-4663 . llevaría
-4664 . comunistas
-4665 . afecta
-4666 . sacarte
-4667 . tribu
-4668 . saludar
-4669 . déjate
-4670 . horno
-4671 . atacó
-4672 . rabia
-4673 . pasaste
-4674 . espantoso
-4675 . aguarda
-4676 . raras
-4677 . descanse
-4678 . cocaína
-4679 . estacionamiento
-4680 . aproximadamente
-4681 . compre
-4682 . detiene
-4683 . pilotos
-4684 . alivio
-4685 . aca
-4686 . distinta
-4687 . sintió
-4688 . tubo
-4689 . dejarán
-4690 . aterrizaje
-4691 . pagué
-4692 . revólver
-4693 . profundidad
-4694 . débiles
-4695 . novios
-4696 . presentimiento
-4697 . araña
-4698 . contiene
-4699 . echaré
-4700 . olvidas
-4701 . certeza
-4702 . afecto
-4703 . consuelo
-4704 . recuerdan
-4705 . micrófono
-4706 . eterno
-4707 . riesgos
-4708 . vampiros
-4709 . huyendo
-4710 . mueres
-4711 . formación
-4712 . aves
-4713 . dirías
-4714 . monos
-4715 . conseguirlo
-4716 . evidente
-4717 . considerar
-4718 . tareas
-4719 . ganan
-4720 . retrasado
-4721 . moriré
-4722 . estrategia
-4723 . pense
-4724 . compro
-4725 . rango
-4726 . ajá
-4727 . altas
-4728 . venden
-4729 . periodistas
-4730 . bolsillos
-4731 . pesadillas
-4732 . detesto
-4733 . menuda
-4734 . procedimiento
-4735 . largos
-4736 . detenga
-4737 . comprobar
-4738 . exposición
-4739 . espiritual
-4740 . potencial
-4741 . distintas
-4742 . numero
-4743 . ordeno
-4744 . raíces
-4745 . interesan
-4746 . arreglaré
-4747 . islas
-4748 . contentos
-4749 . entran
-4750 . dejad
-4751 . encender
-4752 . nido
-4753 . preocupen
-4754 . temporal
-4755 . usaba
-4756 . asegurar
-4757 . leal
-4758 . maestros
-4759 . pueblos
-4760 . asociación
-4761 . polla
-4762 . robé
-4763 . tiros
-4764 . meterse
-4765 . llenar
-4766 . doña
-4767 . moderno
-4768 . nocturno
-4769 . oir
-4770 . hare
-4771 . resistir
-4772 . regimiento
-4773 . sacaré
-4774 . coro
-4775 . subió
-4776 . duelo
-4777 . dificultades
-4778 . soñé
-4779 . ausencia
-4780 . eliminar
-4781 . creciendo
-4782 . comedia
-4783 . graduación
-4784 . quedaría
-4785 . texto
-4786 . mágica
-4787 . transmisión
-4788 . inglesa
-4789 . despierte
-4790 . matarla
-4791 . separados
-4792 . padrino
-4793 . investigando
-4794 . fraude
-4795 . astuto
-4796 . jefa
-4797 . motores
-4798 . edición
-4799 . suiza
-4800 . botones
-4801 . intentan
-4802 . necesidades
-4803 . enamorados
-4804 . rodeado
-4805 . costará
-4806 . concentración
-4807 . conspiración
-4808 . quemado
-4809 . alejado
-4810 . promesas
-4811 . acompaño
-4812 . compraste
-4813 . filosofía
-4814 . enfrentar
-4815 . moviendo
-4816 . entras
-4817 . actualmente
-4818 . delicado
-4819 . sospechosos
-4820 . italianos
-4821 . jovencito
-4822 . pudiéramos
-4823 . gatito
-4824 . potencia
-4825 . pervertido
-4826 . bendito
-4827 . faltaba
-4828 . devolveré
-4829 . necesitaremos
-4830 . asesina
-4831 . traerme
-4832 . vinieras
-4833 . dosis
-4834 . colgado
-4835 . franco
-4836 . mentí
-4837 . incapaz
-4838 . unido
-4839 . llevarse
-4840 . líderes
-4841 . lleves
-4842 . trampas
-4843 . presentes
-4844 . soportarlo
-4845 . actividades
-4846 . vencer
-4847 . prométeme
-4848 . ciega
-4849 . bién
-4850 . deportes
-4851 . naciones
-4852 . oración
-4853 . contactos
-4854 . tímido
-4855 . magnífica
-4856 . mostrarle
-4857 . parejas
-4858 . crean
-4859 . menores
-4860 . morirás
-4861 . admito
-4862 . máxima
-4863 . síganme
-4864 . danza
-4865 . comenzamos
-4866 . eche
-4867 . controla
-4868 . juzgado
-4869 . oler
-4870 . levantado
-4871 . pisos
-4872 . aclarar
-4873 . conduciendo
-4874 . conclusión
-4875 . meterme
-4876 . secuencia
-4877 . programas
-4878 . matamos
-4879 . sufrió
-4880 . parto
-4881 . brilla
-4882 . exámenes
-4883 . sacas
-4884 . intentes
-4885 . valores
-4886 . permíteme
-4887 . mensajero
-4888 . quedaron
-4889 . profesores
-4890 . vendo
-4891 . ayudaría
-4892 . despedirme
-4893 . vidrio
-4894 . acostado
-4895 . beneficio
-4896 . sagrada
-4897 . perdieron
-4898 . explicarlo
-4899 . empuja
-4900 . deberes
-4901 . extremadamente
-4902 . hambriento
-4903 . pierden
-4904 . tabla
-4905 . maldad
-4906 . comentario
-4907 . condicional
-4908 . juzgar
-4909 . esperaremos
-4910 . mentido
-4911 . adecuada
-4912 . dorado
-4913 . bandas
-4914 . dispuesta
-4915 . estarían
-4916 . mentirosa
-4917 . honesta
-4918 . literalmente
-4919 . métodos
-4920 . ponía
-4921 . filmar
-4922 . borracha
-4923 . antecedentes
-4924 . salva
-4925 . paro
-4926 . fuentes
-4927 . divertirse
-4928 . acusación
-4929 . presta
-4930 . secuestro
-4931 . mueras
-4932 . beneficios
-4933 . cierren
-4934 . quedaremos
-4935 . rodilla
-4936 . cuide
-4937 . pistolas
-4938 . algodón
-4939 . vendré
-4940 . ordenado
-4941 . ventas
-4942 . protege
-4943 . colonia
-4944 . compañías
-4945 . disposición
-4946 . responda
-4947 . avisar
-4948 . ordenes
-4949 . continua
-4950 . averiguarlo
-4951 . liberar
-4952 . quitado
-4953 . dispare
-4954 . saludable
-4955 . querrías
-4956 . rodar
-4957 . hablará
-4958 . comenzado
-4959 . pantano
-4960 . hacíamos
-4961 . necesitará
-4962 . moderna
-4963 . envío
-4964 . bigote
-4965 . asesinada
-4966 . mates
-4967 . instrumento
-4968 . atrapados
-4969 . modelos
-4970 . soñado
-4971 . sabré
-4972 . distintos
-4973 . tiburón
-4974 . grasa
-4975 . matemáticas
-4976 . honrado
-4977 . traerá
-4978 . diamante
-4979 . ocasiones
-4980 . informar
-4981 . mirado
-4982 . encontraba
-4983 . dieta
-4984 . cogió
-4985 . ésas
-4986 . salvación
-4987 . municiones
-4988 . directa
-4989 . increíblemente
-4990 . excusas
-4991 . sabrán
-4992 . lobos
-4993 . seriamente
-4994 . enano
-4995 . oriente
-4996 . águila
-4997 . justa
-4998 . déjelo
-4999 . clásico
-5000 . lámpara
-5001 . estadio
-5002 . quejas
-5003 . dejarle
-5004 . alimentar
-5005 . terminaste
-5006 . cuentan
-5007 . torpe
-5008 . ordenador
-5009 . presupuesto
-5010 . oido
-5011 . agujeros
-5012 . agenda
-5013 . pegar
-5014 . alianza
-5015 . dedica
-5016 . preferido
-5017 . criado
-5018 . marcho
-5019 . acompañe
-5020 . ida
-5021 . armados
-5022 . globo
-5023 . chistes
-5024 . tales
-5025 . locas
-5026 . milagros
-5027 . escuchan
-5028 . dinos
-5029 . necesites
-5030 . rebeldes
-5031 . tuyas
-5032 . explosivos
-5033 . estuviese
-5034 . mâs
-5035 . superar
-5036 . cajón
-5037 . quitó
-5038 . mandado
-5039 . lindas
-5040 . divina
-5041 . tirando
-5042 . tocaba
-5043 . objeción
-5044 . olvidarlo
-5045 . lees
-5046 . riqueza
-5047 . enseño
-5048 . aéreo
-5049 . receta
-5050 . granjero
-5051 . valientes
-5052 . jodidos
-5053 . famosos
-5054 . saquen
-5055 . martillo
-5056 . preocupados
-5057 . continuación
-5058 . volvía
-5059 . pásame
-5060 . servido
-5061 . principales
-5062 . ésos
-5063 . pintor
-5064 . encantó
-5065 . pagando
-5066 . elementos
-5067 . alcanza
-5068 . aquél
-5069 . lentes
-5070 . despertado
-5071 . déjanos
-5072 . presentó
-5073 . subido
-5074 . cañones
-5075 . constante
-5076 . oculta
-5077 . vigilar
-5078 . estarlo
-5079 . divino
-5080 . vapor
-5081 . comemos
-5082 . probando
-5083 . independiente
-5084 . anciana
-5085 . disparando
-5086 . ancianos
-5087 . sirvo
-5088 . pinturas
-5089 . piden
-5090 . ningun
-5091 . sucios
-5092 . ginebra
-5093 . ofrezco
-5094 . regresé
-5095 . reconocido
-5096 . arranca
-5097 . hígado
-5098 . apúrense
-5099 . teresa
-5100 . barro
-5101 . gentil
-5102 . matarnos
-5103 . metiste
-5104 . ocupo
-5105 . griego
-5106 . hablen
-5107 . tejado
-5108 . trataré
-5109 . dentista
-5110 . chimenea
-5111 . calcetines
-5112 . pariente
-5113 . maneja
-5114 . fuéramos
-5115 . planeando
-5116 . contaste
-5117 . tranquilidad
-5118 . precios
-5119 . baños
-5120 . haciéndolo
-5121 . galería
-5122 . cocinero
-5123 . cadenas
-5124 . posiciones
-5125 . pito
-5126 . amamos
-5127 . tenerla
-5128 . detengan
-5129 . siguientes
-5130 . callar
-5131 . escriba
-5132 . campesinos
-5133 . aprendiste
-5134 . deténgase
-5135 . lecciones
-5136 . molestado
-5137 . razon
-5138 . cargado
-5139 . liberación
-5140 . sufriendo
-5141 . confías
-5142 . envíe
-5143 . doloroso
-5144 . permanente
-5145 . lastimado
-5146 . escolar
-5147 . impedir
-5148 . bésame
-5149 . levantarse
-5150 . hueles
-5151 . reconoces
-5152 . diremos
-5153 . leon
-5154 . encantará
-5155 . vagabundo
-5156 . inteligentes
-5157 . suite
-5158 . observar
-5159 . imagínate
-5160 . odian
-5161 . busqué
-5162 . retirada
-5163 . sociales
-5164 . saludo
-5165 . jugado
-5166 . deberia
-5167 . vió
-5168 . encuentres
-5169 . episodio
-5170 . durar
-5171 . organizar
-5172 . empresas
-5173 . ligero
-5174 . champaña
-5175 . mátalo
-5176 . músculos
-5177 . misiles
-5178 . dados
-5179 . obispo
-5180 . presentado
-5181 . herencia
-5182 . monje
-5183 . pavos
-5184 . cerrados
-5185 . atravesar
-5186 . valioso
-5187 . tiroteo
-5188 . cordero
-5189 . fallado
-5190 . sello
-5191 . aplauso
-5192 . pensaré
-5193 . mientas
-5194 . invita
-5195 . píldoras
-5196 . puño
-5197 . recoge
-5198 . chiflado
-5199 . auténtica
-5200 . marea
-5201 . gustaria
-5202 . estimado
-5203 . disfraz
-5204 . navaja
-5205 . indica
-5206 . fracasado
-5207 . injusto
-5208 . tremendo
-5209 . jungla
-5210 . espectacular
-5211 . confesar
-5212 . bobo
-5213 . marchó
-5214 . soltera
-5215 . pasaremos
-5216 . sabés
-5217 . descubrimiento
-5218 . mosca
-5219 . creerme
-5220 . brujas
-5221 . pretende
-5222 . sincera
-5223 . preocupas
-5224 . pendiente
-5225 . atras
-5226 . lógico
-5227 . conocerle
-5228 . derrota
-5229 . can
-5230 . logré
-5231 . cuentes
-5232 . molestando
-5233 . dulzura
-5234 . lograste
-5235 . aceptarlo
-5236 . lance
-5237 . heredero
-5238 . cortinas
-5239 . toneladas
-5240 . sentiría
-5241 . irak
-5242 . marcharme
-5243 . adolescente
-5244 . interesantes
-5245 . azar
-5246 . federales
-5247 . salvaste
-5248 . querés
-5249 . hamburguesa
-5250 . queden
-5251 . jodiendo
-5252 . barata
-5253 . cuidando
-5254 . propietario
-5255 . entendemos
-5256 . llenas
-5257 . escuches
-5258 . ficción
-5259 . recto
-5260 . venecia
-5261 . cometí
-5262 . serpientes
-5263 . contratar
-5264 . piratas
-5265 . mentiste
-5266 . rubio
-5267 . lidiar
-5268 . recibirá
-5269 . goma
-5270 . llevara
-5271 . valen
-5272 . ataca
-5273 . bosques
-5274 . mintió
-5275 . pondría
-5276 . conozcas
-5277 . andan
-5278 . obreros
-5279 . encendido
-5280 . tapa
-5281 . avergonzado
-5282 . lotería
-5283 . término
-5284 . retirarse
-5285 . echaron
-5286 . automóvil
-5287 . contarme
-5288 . garantizo
-5289 . corea
-5290 . cállense
-5291 . presentarte
-5292 . cometió
-5293 . tatuaje
-5294 . satélite
-5295 . perfil
-5296 . romano
-5297 . veredicto
-5298 . bájate
-5299 . creías
-5300 . manta
-5301 . polo
-5302 . llegarán
-5303 . repite
-5304 . grabar
-5305 . mansión
-5306 . escribiste
-5307 . espléndido
-5308 . aceptas
-5309 . envidia
-5310 . privilegio
-5311 . vago
-5312 . aguja
-5313 . tortuga
-5314 . lavado
-5315 . construido
-5316 . obligación
-5317 . entienda
-5318 . niveles
-5319 . árabe
-5320 . culpo
-5321 . cohete
-5322 . llueve
-5323 . déjale
-5324 . debéis
-5325 . hilo
-5326 . acerque
-5327 . llámeme
-5328 . pudieran
-5329 . química
-5330 . bandidos
-5331 . fumo
-5332 . curar
-5333 . conflicto
-5334 . corresponde
-5335 . telefónica
-5336 . ocupa
-5337 . eligió
-5338 . votar
-5339 . conjunto
-5340 . huéspedes
-5341 . cogí
-5342 . admiro
-5343 . estaciones
-5344 . adora
-5345 . especialista
-5346 . preguntaste
-5347 . forense
-5348 . sacaron
-5349 . salvador
-5350 . candidato
-5351 . literatura
-5352 . expertos
-5353 . comenzaron
-5354 . roba
-5355 . rincón
-5356 . superiores
-5357 . volante
-5358 . solicitud
-5359 . casamos
-5360 . durará
-5361 . marino
-5362 . febrero
-5363 . aquellas
-5364 . existir
-5365 . ridícula
-5366 . debías
-5367 . brigada
-5368 . creíste
-5369 . aleluya
-5370 . propongo
-5371 . bellas
-5372 . cobardes
-5373 . entremos
-5374 . osos
-5375 . escribes
-5376 . impresionado
-5377 . velada
-5378 . certificado
-5379 . excitante
-5380 . sonreír
-5381 . divirtiendo
-5382 . olviden
-5383 . preocupaciones
-5384 . ayudarlos
-5385 . descuida
-5386 . unirse
-5387 . peligrosos
-5388 . conseguiremos
-5389 . adelantado
-5390 . borrachos
-5391 . cubre
-5392 . vestuario
-5393 . cheques
-5394 . cumple
-5395 . hechas
-5396 . deseando
-5397 . hacha
-5398 . invitar
-5399 . dormía
-5400 . sesos
-5401 . preguntarme
-5402 . espías
-5403 . preocupo
-5404 . suéltalo
-5405 . hermanito
-5406 . ajedrez
-5407 . quedara
-5408 . perspectiva
-5409 . lograrlo
-5410 . músico
-5411 . dispararle
-5412 . semillas
-5413 . reto
-5414 . fuegos
-5415 . fuma
-5416 . traducido
-5417 . talvez
-5418 . raros
-5419 . desee
-5420 . comí
-5421 . descripción
-5422 . asesinar
-5423 . trabajador
-5424 . perdonar
-5425 . escrita
-5426 . células
-5427 . sábanas
-5428 . decepcionado
-5429 . inocencia
-5430 . timbre
-5431 . récord
-5432 . posesión
-5433 . generaciones
-5434 . jueces
-5435 . preguntaré
-5436 . pagarle
-5437 . llamaban
-5438 . provisiones
-5439 . ayuntamiento
-5440 . soga
-5441 . debimos
-5442 . estuvieran
-5443 . juegan
-5444 . atado
-5445 . entraron
-5446 . sensacional
-5447 . caes
-5448 . cafetería
-5449 . llamarla
-5450 . reunir
-5451 . agotado
-5452 . produce
-5453 . extraordinaria
-5454 . rudo
-5455 . oímos
-5456 . talla
-5457 . verse
-5458 . destrozado
-5459 . pila
-5460 . creerá
-5461 . alimento
-5462 . sentar
-5463 . merecen
-5464 . cráneo
-5465 . senor
-5466 . busquen
-5467 . discúlpenme
-5468 . habitantes
-5469 . quite
-5470 . volumen
-5471 . toquen
-5472 . domingos
-5473 . girar
-5474 . tardará
-5475 . romanos
-5476 . considero
-5477 . beba
-5478 . llamará
-5479 . verlas
-5480 . pobreza
-5481 . británicos
-5482 . pulmones
-5483 . hueco
-5484 . hembra
-5485 . inusual
-5486 . suicidó
-5487 . cuidaré
-5488 . quinta
-5489 . brillo
-5490 . organizado
-5491 . gorra
-5492 . renta
-5493 . educado
-5494 . sentirlo
-5495 . matarlos
-5496 . turistas
-5497 . ligera
-5498 . diente
-5499 . correctamente
-5500 . camas
-5501 . dueños
-5502 . beca
-5503 . tristes
-5504 . sentirás
-5505 . novato
-5506 . ascenso
-5507 . incómodo
-5508 . responsables
-5509 . facultad
-5510 . portero
-5511 . mantenerlo
-5512 . dinamita
-5513 . equilibrio
-5514 . lastimar
-5515 . debamos
-5516 . insiste
-5517 . cortes
-5518 . increíbles
-5519 . permanece
-5520 . asesinados
-5521 . bajó
-5522 . terminemos
-5523 . escribiré
-5524 . multa
-5525 . signo
-5526 . cogeré
-5527 . intercambio
-5528 . espadas
-5529 . interesada
-5530 . temes
-5531 . divertirnos
-5532 . todopoderoso
-5533 . bañera
-5534 . detenerme
-5535 . conservar
-5536 . oyendo
-5537 . novedad
-5538 . viaja
-5539 . pensaría
-5540 . individuo
-5541 . cómico
-5542 . echarle
-5543 . acompaña
-5544 . retrocede
-5545 . bajos
-5546 . vientre
-5547 . gol
-5548 . lindos
-5549 . acercarse
-5550 . simples
-5551 . habríamos
-5552 . huelo
-5553 . permita
-5554 . inversión
-5555 . cuñado
-5556 . sencilla
-5557 . bastantes
-5558 . raya
-5559 . ansioso
-5560 . esfuerzos
-5561 . fotógrafo
-5562 . hazte
-5563 . occidental
-5564 . risas
-5565 . crítica
-5566 . bruto
-5567 . cortesía
-5568 . moriremos
-5569 . árabes
-5570 . chau
-5571 . cristianos
-5572 . gallinas
-5573 . plataforma
-5574 . caerá
-5575 . culpables
-5576 . capitan
-5577 . malentendido
-5578 . saldrás
-5579 . probabilidades
-5580 . acostarme
-5581 . experimentos
-5582 . torta
-5583 . oírte
-5584 . felicito
-5585 . delgado
-5586 . gusanos
-5587 . vergonzoso
-5588 . cal
-5589 . cirujano
-5590 . callate
-5591 . tela
-5592 . furia
-5593 . mostró
-5594 . siesta
-5595 . entusiasmo
-5596 . regresemos
-5597 . aprendiendo
-5598 . plumas
-5599 . aceptó
-5600 . esperes
-5601 . coco
-5602 . moscas
-5603 . escocia
-5604 . manchas
-5605 . andré
-5606 . afueras
-5607 . rompí
-5608 . arregla
-5609 . pidieron
-5610 . mírala
-5611 . vivas
-5612 . mañanas
-5613 . escoria
-5614 . ferrocarril
-5615 . costo
-5616 . necesitarás
-5617 . investigaciones
-5618 . margen
-5619 . dispuestos
-5620 . falda
-5621 . competir
-5622 . contrató
-5623 . fumando
-5624 . llamaría
-5625 . etapa
-5626 . audición
-5627 . construyó
-5628 . mecánico
-5629 . alfa
-5630 . verga
-5631 . merecía
-5632 . esencia
-5633 . judía
-5634 . inicio
-5635 . llover
-5636 . hacerles
-5637 . cruce
-5638 . bandido
-5639 . ocúpate
-5640 . sillas
-5641 . aliados
-5642 . entraste
-5643 . ofrecerle
-5644 . choque
-5645 . generales
-5646 . tierno
-5647 . inyección
-5648 . recibiendo
-5649 . pasteles
-5650 . computadoras
-5651 . presos
-5652 . pruebe
-5653 . técnico
-5654 . hechizo
-5655 . llevarnos
-5656 . escopeta
-5657 . comience
-5658 . sexto
-5659 . habré
-5660 . dámela
-5661 . hurra
-5662 . gallo
-5663 . denme
-5664 . hara
-5665 . bárbara
-5666 . pelos
-5667 . ardiendo
-5668 . rehén
-5669 . aventuras
-5670 . separado
-5671 . recorrido
-5672 . levantarme
-5673 . caballería
-5674 . fuí
-5675 . preparen
-5676 . viajando
-5677 . femenino
-5678 . partidos
-5679 . alá
-5680 . huyó
-5681 . arriesgado
-5682 . huye
-5683 . echas
-5684 . persiguiendo
-5685 . conocías
-5686 . retirado
-5687 . afortunada
-5688 . apunta
-5689 . morirán
-5690 . linterna
-5691 . acostarse
-5692 . encontrarnos
-5693 . almohada
-5694 . falsas
-5695 . vé
-5696 . sintiendo
-5697 . rama
-5698 . usé
-5699 . quitarme
-5700 . tendrían
-5701 . afortunadamente
-5702 . preocuparme
-5703 . bodega
-5704 . ebrio
-5705 . relacionado
-5706 . guardián
-5707 . muertas
-5708 . gratitud
-5709 . responsabilidades
-5710 . ejercito
-5711 . misericordia
-5712 . entierro
-5713 . invasión
-5714 . muestran
-5715 . conveniente
-5716 . pensará
-5717 . emocional
-5718 . dejarnos
-5719 . meto
-5720 . escudo
-5721 . esperábamos
-5722 . falsos
-5723 . masaje
-5724 . lejano
-5725 . cabe
-5726 . sándwich
-5727 . césped
-5728 . lana
-5729 . emocionado
-5730 . regreses
-5731 . despertó
-5732 . instrumentos
-5733 . comidas
-5734 . paisaje
-5735 . observación
-5736 . depresión
-5737 . artillería
-5738 . cruzado
-5739 . crecí
-5740 . gemelos
-5741 . voluntario
-5742 . fallo
-5743 . montones
-5744 . respetar
-5745 . creéis
-5746 . filas
-5747 . veis
-5748 . cubo
-5749 . geniales
-5750 . esencial
-5751 . negar
-5752 . concéntrate
-5753 . ruidos
-5754 . objetivos
-5755 . polonia
-5756 . andaba
-5757 . mariscal
-5758 . caravana
-5759 . desgraciadamente
-5760 . imaginado
-5761 . advertí
-5762 . tumbas
-5763 . ordena
-5764 . radiación
-5765 . accidentes
-5766 . revisa
-5767 . homicidios
-5768 . ácido
-5769 . suelen
-5770 . lesbiana
-5771 . leerlo
-5772 . identificar
-5773 . eventos
-5774 . respetable
-5775 . sentirte
-5776 . campanas
-5777 . propina
-5778 . desgraciados
-5779 . párate
-5780 . grites
-5781 . acepte
-5782 . maravillas
-5783 . bicho
-5784 . dormí
-5785 . amarilla
-5786 . cazadores
-5787 . suyas
-5788 . causó
-5789 . llamaremos
-5790 . ubicación
-5791 . quedarán
-5792 . sugerencia
-5793 . tomate
-5794 . rebelde
-5795 . previsto
-5796 . mandé
-5797 . asesinó
-5798 . amiguito
-5799 . comenzando
-5800 . discutiendo
-5801 . prioridad
-5802 . sonidos
-5803 . naciste
-5804 . estable
-5805 . posibles
-5806 . sacarme
-5807 . mear
-5808 . follar
-5809 . arrogante
-5810 . vendrías
-5811 . reza
-5812 . cagar
-5813 . expedición
-5814 . hermanita
-5815 . avance
-5816 . muñecas
-5817 . sostén
-5818 . niñita
-5819 . volviera
-5820 . oficinas
-5821 . llevarás
-5822 . ruina
-5823 . escondite
-5824 . basado
-5825 . mojado
-5826 . nº
-5827 . respiro
-5828 . trates
-5829 . viena
-5830 . estabamos
-5831 . atrae
-5832 . jamón
-5833 . botes
-5834 . insectos
-5835 . direcciones
-5836 . comunicaciones
-5837 . sácame
-5838 . propiedades
-5839 . triunfo
-5840 . entres
-5841 . vías
-5842 . manicomio
-5843 . amabilidad
-5844 . cicatriz
-5845 . pipa
-5846 . acababa
-5847 . éso
-5848 . insisto
-5849 . asistir
-5850 . llevarán
-5851 . marrón
-5852 . camarera
-5853 . huella
-5854 . vivirá
-5855 . vacías
-5856 . traicionado
-5857 . expresar
-5858 . estreno
-5859 . mascota
-5860 . regresamos
-5861 . asustaste
-5862 . políticas
-5863 . significaba
-5864 . escondidas
-5865 . entrenar
-5866 . paró
-5867 . peste
-5868 . supervivencia
-5869 . asquerosa
-5870 . mirarme
-5871 . ciencias
-5872 . sierra
-5873 . moriría
-5874 . ruinas
-5875 . vasos
-5876 . abro
-5877 . granero
-5878 . coartada
-5879 . ambición
-5880 . declarar
-5881 . celebración
-5882 . utiliza
-5883 . experiencias
-5884 . senado
-5885 . sentidos
-5886 . ultimo
-5887 . melodía
-5888 . reservado
-5889 . deténganse
-5890 . sida
-5891 . baúl
-5892 . leones
-5893 . consejero
-5894 . demostración
-5895 . lenta
-5896 . técnicamente
-5897 . concierne
-5898 . avanzar
-5899 . parecerá
-5900 . arrestar
-5901 . dedicado
-5902 . conejos
-5903 . vosotras
-5904 . puñado
-5905 . batallón
-5906 . estupideces
-5907 . sana
-5908 . coñac
-5909 . inspiración
-5910 . aparecen
-5911 . asustó
-5912 . vicepresidente
-5913 . muriera
-5914 . sacando
-5915 . mona
-5916 . pusimos
-5917 . músicos
-5918 . sacamos
-5919 . insoportable
-5920 . vagón
-5921 . mochila
-5922 . oscuras
-5923 . atracción
-5924 . contratado
-5925 . respondió
-5926 . ponme
-5927 . sorprendió
-5928 . torres
-5929 . levantó
-5930 . yenes
-5931 . evidentemente
-5932 . apuro
-5933 . mueven
-5934 . contaba
-5935 . cometa
-5936 . guardaespaldas
-5937 . encontraría
-5938 . asistencia
-5939 . aprendió
-5940 . manejo
-5941 . banquete
-5942 . establecer
-5943 . fáciles
-5944 . amenazas
-5945 . situaciones
-5946 . oculto
-5947 . deshacerse
-5948 . fórmula
-5949 . medicinas
-5950 . firmes
-5951 . aprovechar
-5952 . venas
-5953 . persigue
-5954 . entere
-5955 . atacado
-5956 . especialidad
-5957 . necesariamente
-5958 . tarzán
-5959 . convención
-5960 . directora
-5961 . hoteles
-5962 . tire
-5963 . atacaron
-5964 . álbum
-5965 . molestaría
-5966 . ahorrar
-5967 . gigantes
-5968 . venda
-5969 . mediante
-5970 . confidencial
-5971 . quedando
-5972 . pagamos
-5973 . parecían
-5974 . agradecer
-5975 . penas
-5976 . increible
-5977 . flecha
-5978 . virtud
-5979 . curva
-5980 . demente
-5981 . perdono
-5982 . usarla
-5983 . limón
-5984 . compramos
-5985 . lamentablemente
-5986 . disfrutando
-5987 . inferior
-5988 . asilo
-5989 . entregado
-5990 . deliciosa
-5991 . ordenar
-5992 . decida
-5993 . desesperación
-5994 . tomarlo
-5995 . prepare
-5996 . comprando
-5997 . corren
-5998 . posee
-5999 . despedir
-6000 . ángulo
-6001 . carruaje
-6002 . reparar
-6003 . enojar
-6004 . cancelar
-6005 . desear
-6006 . soltar
-6007 . pertenecen
-6008 . duerma
-6009 . solíamos
-6010 . resiste
-6011 . debían
-6012 . encantaba
-6013 . irlandés
-6014 . incluye
-6015 . eternamente
-6016 . castigado
-6017 . pirata
-6018 . terrorismo
-6019 . fritas
-6020 . anos
-6021 . rodaje
-6022 . desesperada
-6023 . cruzando
-6024 . permites
-6025 . fenomenal
-6026 . tiras
-6027 . reunido
-6028 . diviértete
-6029 . serios
-6030 . napoleón
-6031 . sorpresas
-6032 . garantía
-6033 . hada
-6034 . agáchate
-6035 . subo
-6036 . carnicero
-6037 . carajos
-6038 . reciente
-6039 . toqué
-6040 . duermas
-6041 . cayeron
-6042 . supuestamente
-6043 . asumir
-6044 . conque
-6045 . charlar
-6046 . escuchamos
-6047 . quitarle
-6048 . abandona
-6049 . debíamos
-6050 . alboroto
-6051 . sacarle
-6052 . comeré
-6053 . conseguirás
-6054 . buda
-6055 . rio
-6056 . salchichas
-6057 . agarró
-6058 . cuchillos
-6059 . boxeo
-6060 . primos
-6061 . inútiles
-6062 . intelectual
-6063 . rana
-6064 . inventado
-6065 . bienestar
-6066 . cercana
-6067 . leyó
-6068 . sirva
-6069 . taberna
-6070 . impulso
-6071 . levanten
-6072 . retrocedan
-6073 . dicha
-6074 . llevaste
-6075 . comprometido
-6076 . explique
-6077 . patadas
-6078 . pieles
-6079 . anuncios
-6080 . nucleares
-6081 . tuviéramos
-6082 . venían
-6083 . obedecer
-6084 . volved
-6085 . agárrate
-6086 . desnudos
-6087 . ramera
-6088 . fijo
-6089 . rodando
-6090 . enséñame
-6091 . grecia
-6092 . necesaria
-6093 . carros
-6094 . atento
-6095 . creció
-6096 . cansados
-6097 . perfección
-6098 . ejecutivo
-6099 . lloviendo
-6100 . orinar
-6101 . terminaron
-6102 . cuna
-6103 . dispositivo
-6104 . casaste
-6105 . sabias
-6106 . retirar
-6107 . mirá
-6108 . guardo
-6109 . conectado
-6110 . solitaria
-6111 . ocuparme
-6112 . cómplice
-6113 . atrapada
-6114 . sesenta
-6115 . alumno
-6116 . femenina
-6117 . conteste
-6118 . sinvergüenza
-6119 . capturado
-6120 . ocupar
-6121 . brisa
-6122 . violín
-6123 . bromeo
-6124 . menú
-6125 . tomarme
-6126 . decides
-6127 . basada
-6128 . conquistar
-6129 . tirador
-6130 . confuso
-6131 . descubre
-6132 . palos
-6133 . vístete
-6134 . promete
-6135 . conocidos
-6136 . pleno
-6137 . factura
-6138 . ardiente
-6139 . casaré
-6140 . salchicha
-6141 . billetera
-6142 . comunes
-6143 . extrañé
-6144 . sientan
-6145 . jerusalén
-6146 . combatir
-6147 . tiburones
-6148 . trabaje
-6149 . salvarte
-6150 . madrugada
-6151 . explicarte
-6152 . usaré
-6153 . inventó
-6154 . oraciones
-6155 . fingiendo
-6156 . dueña
-6157 . tardaré
-6158 . jorge
-6159 . naturales
-6160 . vecina
-6161 . síntomas
-6162 . deprimido
-6163 . terremoto
-6164 . grabado
-6165 . acostarte
-6166 . convertirme
-6167 . prepararé
-6168 . filme
-6169 . pudiese
-6170 . gastado
-6171 . encontrarse
-6172 . marqués
-6173 . tocan
-6174 . gustaban
-6175 . vestir
-6176 . absoluta
-6177 . vendí
-6178 . bata
-6179 . voló
-6180 . satisfacción
-6181 . cambiaron
-6182 . pacto
-6183 . patán
-6184 . apagado
-6185 . marchado
-6186 . temblando
-6187 . cômo
-6188 . empezaremos
-6189 . ignorante
-6190 . escucharlo
-6191 . manejando
-6192 . supremo
-6193 . navegar
-6194 . categoría
-6195 . bastón
-6196 . producir
-6197 . miento
-6198 . matarle
-6199 . marta
-6200 . luchador
-6201 . rencor
-6202 . zapatillas
-6203 . caramelos
-6204 . crítico
-6205 . what
-6206 . hamburguesas
-6207 . aprieta
-6208 . pónganse
-6209 . liberado
-6210 . avanza
-6211 . crecen
-6212 . cuelga
-6213 . correos
-6214 . establo
-6215 . declarado
-6216 . bate
-6217 . norma
-6218 . elemento
-6219 . mundos
-6220 . invento
-6221 . entendió
-6222 . comparado
-6223 . millonario
-6224 . duró
-6225 . anillos
-6226 . aumentar
-6227 . estudiado
-6228 . supermercado
-6229 . dirigida
-6230 . autorizado
-6231 . cuidadosamente
-6232 . promedio
-6233 . abogada
-6234 . suélteme
-6235 . explico
-6236 . this
-6237 . tenias
-6238 . saltó
-6239 . criar
-6240 . interrogatorio
-6241 . protegido
-6242 . estrés
-6243 . comencemos
-6244 . querrán
-6245 . leíste
-6246 . empiecen
-6247 . viví
-6248 . mandaré
-6249 . cógelo
-6250 . mito
-6251 . mesas
-6252 . crucero
-6253 . independencia
-6254 . declaro
-6255 . antiguas
-6256 . crío
-6257 . historial
-6258 . delicada
-6259 . costumbres
-6260 . jugaba
-6261 . bretaña
-6262 . perlas
-6263 . pensaron
-6264 . italiana
-6265 . calzones
-6266 . poemas
-6267 . bestias
-6268 . tarda
-6269 . tomaba
-6270 . enfades
-6271 . portada
-6272 . psicópata
-6273 . contactar
-6274 . chistoso
-6275 . relámpago
-6276 . tinta
-6277 . impide
-6278 . exacta
-6279 . fijado
-6280 . maravillosos
-6281 . acompañarme
-6282 . é
-6283 . baloncesto
-6284 . tiré
-6285 . principalmente
-6286 . guarde
-6287 . deseado
-6288 . duras
-6289 . guay
-6290 . leña
-6291 . acabemos
-6292 . ahorros
-6293 . logra
-6294 . autopsia
-6295 . amos
-6296 . uniformes
-6297 . obtuvo
-6298 . ganará
-6299 . cuernos
-6300 . flotando
-6301 . doncella
-6302 . tradicional
-6303 . renuncia
-6304 . llevaban
-6305 . estallar
-6306 . dejarlos
-6307 . recibiste
-6308 . acostumbrada
-6309 . cerró
-6310 . masacre
-6311 . preciosas
-6312 . misteriosa
-6313 . ofrecido
-6314 . colocar
-6315 . sopla
-6316 . diferencias
-6317 . pis
-6318 . poderosos
-6319 . debieron
-6320 . pongamos
-6321 . ocupación
-6322 . cambiarme
-6323 . confirmado
-6324 . infarto
-6325 . ejercicios
-6326 . culpar
-6327 . metiendo
-6328 . prudente
-6329 . vaqueros
-6330 . arrestaron
-6331 . sácalo
-6332 . bajado
-6333 . valentín
-6334 . enterrar
-6335 . demostrado
-6336 . vídeo
-6337 . voluntarios
-6338 . suavemente
-6339 . contenido
-6340 . guardado
-6341 . enseñé
-6342 . galaxia
-6343 . abiertas
-6344 . eco
-6345 . sugiere
-6346 . continente
-6347 . huésped
-6348 . disfruten
-6349 . claridad
-6350 . llevarle
-6351 . desaparición
-6352 . presentarles
-6353 . encaja
-6354 . difunto
-6355 . existía
-6356 . perderás
-6357 . indicado
-6358 . merecido
-6359 . sucias
-6360 . arreglos
-6361 . déjenlo
-6362 . insignificante
-6363 . molestarte
-6364 . engañando
-6365 . agradecida
-6366 . parlamento
-6367 . añadir
-6368 . premios
-6369 . ilusiones
-6370 . esperándote
-6371 . docenas
-6372 . agradecerle
-6373 . cacería
-6374 . mozo
-6375 . bromeaba
-6376 . favores
-6377 . matrícula
-6378 . farsa
-6379 . muñeco
-6380 . mayordomo
-6381 . obliga
-6382 . antepasados
-6383 . mantenerse
-6384 . disparan
-6385 . tiren
-6386 . oveja
-6387 . corra
-6388 . granada
-6389 . saliera
-6390 . automático
-6391 . solucionar
-6392 . tuviese
-6393 . revelar
-6394 . llegarás
-6395 . líquido
-6396 . mudo
-6397 . asesinaron
-6398 . traerlo
-6399 . trece
-6400 . dejaras
-6401 . deberias
-6402 . protector
-6403 . limpiando
-6404 . queriendo
-6405 . casamiento
-6406 . romántica
-6407 . hablabas
-6408 . quedate
-6409 . opiniones
-6410 . vientos
-6411 . arrancar
-6412 . manada
-6413 . enseñarme
-6414 . olvídelo
-6415 . què
-6416 . refrigerador
-6417 . persecución
-6418 . aparta
-6419 . protesta
-6420 . abuelita
-6421 . emergencias
-6422 . atacan
-6423 . montaje
-6424 . perdedores
-6425 . conseguirá
-6426 . sonriendo
-6427 . sígame
-6428 . excepcional
-6429 . pelicula
-6430 . extrañar
-6431 . conversaciones
-6432 . cuadra
-6433 . crecimiento
-6434 . drogado
-6435 . abrí
-6436 . obsesión
-6437 . cerradas
-6438 . institución
-6439 . excelentes
-6440 . mula
-6441 . aprobación
-6442 . frágil
-6443 . perderé
-6444 . mariposa
-6445 . bici
-6446 . paloma
-6447 . suelte
-6448 . sudor
-6449 . trágico
-6450 . nietos
-6451 . inicial
-6452 . perdonen
-6453 . invitada
-6454 . costillas
-6455 . quedaste
-6456 . vestíbulo
-6457 . empezaste
-6458 . fundación
-6459 . limpias
-6460 . ingresos
-6461 . durmió
-6462 . mutuamente
-6463 . únicamente
-6464 . decidieron
-6465 . enfermería
-6466 . traficante
-6467 . ocurren
-6468 . terraza
-6469 . sirena
-6470 . sirviente
-6471 . mares
-6472 . arreglaremos
-6473 . acabé
-6474 . escritura
-6475 . juegues
-6476 . periodo
-6477 . arde
-6478 . etiqueta
-6479 . llévalo
-6480 . religioso
-6481 . círculos
-6482 . frito
-6483 . reparto
-6484 . vehículos
-6485 . llegaría
-6486 . resfriado
-6487 . lloras
-6488 . noté
-6489 . sirvientes
-6490 . condenados
-6491 . sumamente
-6492 . delincuente
-6493 . divierte
-6494 . caigo
-6495 . habernos
-6496 . centímetros
-6497 . zar
-6498 . estupido
-6499 . zonas
-6500 . cargada
-6501 . signos
-6502 . enseñe
-6503 . barriga
-6504 . arriesgar
-6505 . presentarme
-6506 . llegaba
-6507 . comprarme
-6508 . ofender
-6509 . disfrute
-6510 . cerradura
-6511 . suene
-6512 . pendientes
-6513 . manejarlo
-6514 . tomaría
-6515 . maravillosas
-6516 . barrera
-6517 . preparo
-6518 . significan
-6519 . envían
-6520 . postura
-6521 . dolares
-6522 . necesitabas
-6523 . provecho
-6524 . aprisa
-6525 . convento
-6526 . suicida
-6527 . alturas
-6528 . ayudan
-6529 . traidores
-6530 . agradecería
-6531 . tardar
-6532 . desaparecieron
-6533 . camisas
-6534 . infantería
-6535 . salvarme
-6536 . hablábamos
-6537 . entregó
-6538 . practicando
-6539 . disparé
-6540 . artificiales
-6541 . dolió
-6542 . obligó
-6543 . monta
-6544 . lavandería
-6545 . envíen
-6546 . sôlo
-6547 . dude
-6548 . empezaba
-6549 . atraparon
-6550 . arroyo
-6551 . olvidaba
-6552 . lorenzo
-6553 . aconsejo
-6554 . eché
-6555 . detendrá
-6556 . visitantes
-6557 . diligencia
-6558 . operadora
-6559 . compartimos
-6560 . legales
-6561 . debas
-6562 . dorada
-6563 . ríos
-6564 . intentaron
-6565 . aiguien
-6566 . prostitutas
-6567 . estúpidas
-6568 . decís
-6569 . reservas
-6570 . creería
-6571 . sujetos
-6572 . pretendes
-6573 . construyendo
-6574 . fallar
-6575 . protegerte
-6576 . cavar
-6577 . desprecio
-6578 . acercan
-6579 . plaga
-6580 . aló
-6581 . proyectos
-6582 . separación
-6583 . asegurarse
-6584 . regaló
-6585 . esconderse
-6586 . cuidadoso
-6587 . sonaba
-6588 . acusa
-6589 . rápidos
-6590 . públicas
-6591 . recordaré
-6592 . encantar
-6593 . escolta
-6594 . legalmente
-6595 . recuperado
-6596 . nace
-6597 . mantienen
-6598 . dormiste
-6599 . científica
-6600 . incendios
-6601 . traía
-6602 . pollos
-6603 . monja
-6604 . atrevas
-6605 . declaraciones
-6606 . avanzando
-6607 . peinado
-6608 . marcar
-6609 . mande
-6610 . contratos
-6611 . sentirá
-6612 . batallas
-6613 . joya
-6614 . capilla
-6615 . preocupaba
-6616 . identificado
-6617 . perderte
-6618 . perderemos
-6619 . atentamente
-6620 . alcanzado
-6621 . agradecimiento
-6622 . interpretación
-6623 . pondrás
-6624 . cepillo
-6625 . hábito
-6626 . muros
-6627 . duermen
-6628 . consulta
-6629 . anunciar
-6630 . anual
-6631 . constitución
-6632 . quemó
-6633 . cambiamos
-6634 . nocturna
-6635 . barras
-6636 . televisor
-6637 . desconocida
-6638 . pillado
-6639 . hubieses
-6640 . herir
-6641 . aumenta
-6642 . despegue
-6643 . varón
-6644 . cambias
-6645 . halcón
-6646 . dispares
-6647 . materiales
-6648 . fino
-6649 . paquetes
-6650 . elefantes
-6651 . culto
-6652 . bichos
-6653 . adolescentes
-6654 . mierdas
-6655 . fabulosa
-6656 . acordamos
-6657 . calzoncillos
-6658 . jodidamente
-6659 . argumento
-6660 . atrevido
-6661 . barril
-6662 . llamados
-6663 . concreto
-6664 . hospitales
-6665 . capturar
-6666 . engañó
-6667 . abras
-6668 . cross
-6669 . devuélveme
-6670 . inventar
-6671 . pagarás
-6672 . pareciera
-6673 . destruyó
-6674 . enamoré
-6675 . milla
-6676 . pretendo
-6677 . meten
-6678 . pegarle
-6679 . preocupan
-6680 . timón
-6681 . corrió
-6682 . perderá
-6683 . posada
-6684 . eléctrico
-6685 . volvimos
-6686 . ballena
-6687 . hacienda
-6688 . órganos
-6689 . rechazado
-6690 . temen
-6691 . furiosa
-6692 . sonó
-6693 . cocinera
-6694 . mínima
-6695 . conociera
-6696 . confirmar
-6697 . autógrafo
-6698 . cuái
-6699 . recomiendo
-6700 . tráelo
-6701 . víbora
-6702 . anteojos
-6703 . transferencia
-6704 . ciegos
-6705 . despegar
-6706 . religiosa
-6707 . alquilar
-6708 . reportero
-6709 . sentarnos
-6710 . intimidad
-6711 . pobrecito
-6712 . coman
-6713 . séptimo
-6714 . sobrevivió
-6715 . parecería
-6716 . avisado
-6717 . comas
-6718 . tentación
-6719 . desconocidos
-6720 . actúas
-6721 . falleció
-6722 . controlado
-6723 . quitarte
-6724 . técnicas
-6725 . rompiste
-6726 . denuncia
-6727 . intenso
-6728 . campesino
-6729 . valga
-6730 . sospechas
-6731 . farmacia
-6732 . creando
-6733 . comerciales
-6734 . entiendas
-6735 . papás
-6736 . secuestrado
-6737 . gancho
-6738 . furgoneta
-6739 . sentiste
-6740 . comiste
-6741 . negó
-6742 . recuperación
-6743 . salidas
-6744 . separarnos
-6745 . comienzan
-6746 . dígales
-6747 . hondo
-6748 . fantasías
-6749 . echando
-6750 . ayudarles
-6751 . vuelan
-6752 . marciales
-6753 . sirvió
-6754 . héctor
-6755 . ricardo
-6756 . físicamente
-6757 . armar
-6758 . adicto
-6759 . soviética
-6760 . sorprendería
-6761 . deberás
-6762 . mantenido
-6763 . armadura
-6764 . marcado
-6765 . prestar
-6766 . describir
-6767 . embarazo
-6768 . cortas
-6769 . medicamentos
-6770 . enfermeras
-6771 . metieron
-6772 . ansiedad
-6773 . cueste
-6774 . práctico
-6775 . pagarme
-6776 . planetas
-6777 . complicada
-6778 . cachorro
-6779 . acusaciones
-6780 . destruye
-6781 . japonesa
-6782 . daban
-6783 . consiguen
-6784 . arquitecto
-6785 . lecho
-6786 . cantan
-6787 . delincuentes
-6788 . pausa
-6789 . orina
-6790 . irlanda
-6791 . tijeras
-6792 . cartero
-6793 . desperdicio
-6794 . iniciar
-6795 . musica
-6796 . latín
-6797 . atiende
-6798 . supuse
-6799 . verduras
-6800 . especies
-6801 . costar
-6802 . haríamos
-6803 . suicidarse
-6804 . firmó
-6805 . averigua
-6806 . mordió
-6807 . caramelo
-6808 . cásate
-6809 . ratones
-6810 . hábil
-6811 . terminan
-6812 . escucharon
-6813 . bares
-6814 . echarme
-6815 . pentágono
-6816 . contéstame
-6817 . seguid
-6818 . malvada
-6819 . frutas
-6820 . registrado
-6821 . mencionado
-6822 . quítame
-6823 . exige
-6824 . mortales
-6825 . aléjense
-6826 . convertirá
-6827 . tronco
-6828 . particularmente
-6829 . activo
-6830 . abuso
-6831 . moveos
-6832 . traseros
-6833 . tranquilamente
-6834 . explicarle
-6835 . católica
-6836 . gritó
-6837 . corazon
-6838 . entrevistas
-6839 . novias
-6840 . tímida
-6841 . cálmense
-6842 . dedicas
-6843 . acercando
-6844 . respirando
-6845 . recordarlo
-6846 . seguirán
-6847 . estudia
-6848 . hormigas
-6849 . internos
-6850 . levanto
-6851 . interno
-6852 . cargando
-6853 . asado
-6854 . moisés
-6855 . favoritos
-6856 . dirijo
-6857 . profeta
-6858 . cantaba
-6859 . creían
-6860 . griegos
-6861 . inspección
-6862 . acercó
-6863 . armonía
-6864 . equivocados
-6865 . paraguas
-6866 . muérete
-6867 . devuelve
-6868 . doscientos
-6869 . discursos
-6870 . esclava
-6871 . encendida
-6872 . asustes
-6873 . bandeja
-6874 . cristiana
-6875 . aterrador
-6876 . efectivamente
-6877 . oscuros
-6878 . tarado
-6879 . explorar
-6880 . arruinó
-6881 . podrido
-6882 . sendero
-6883 . pasajero
-6884 . pidas
-6885 . planea
-6886 . mudó
-6887 . cambiaría
-6888 . sacaremos
-6889 . escogido
-6890 . humanas
-6891 . contraseña
-6892 . corrupción
-6893 . polaco
-6894 . cortina
-6895 . mantenerme
-6896 . interna
-6897 . hicieran
-6898 . salvé
-6899 . perdería
-6900 . nieta
-6901 . necesitábamos
-6902 . tuvieran
-6903 . generador
-6904 . matanza
-6905 . gordos
-6906 . explicaciones
-6907 . cohetes
-6908 . muestre
-6909 . asustar
-6910 . mantuvo
-6911 . generosa
-6912 . exteriores
-6913 . apresúrate
-6914 . dirigen
-6915 . martín
-6916 . paja
-6917 . estribor
-6918 . elegí
-6919 . abejas
-6920 . perdon
-6921 . mantenerte
-6922 . infección
-6923 . sencillamente
-6924 . latas
-6925 . linea
-6926 . unico
-6927 . sombreros
-6928 . envidio
-6929 . claras
-6930 . regresaste
-6931 . demora
-6932 . referencia
-6933 . alba
-6934 . pólvora
-6935 . inmortal
-6936 . ayudes
-6937 . ies
-6938 . pertenezco
-6939 . mide
-6940 . facil
-6941 . hallamos
-6942 . regresas
-6943 . hablaron
-6944 . mandaron
-6945 . hablara
-6946 . coordenadas
-6947 . zoológico
-6948 . sacan
-6949 . permitió
-6950 . guante
-6951 . fumas
-6952 . porfavor
-6953 . paracaídas
-6954 . peluca
-6955 . descubrieron
-6956 . detén
-6957 . habiendo
-6958 . importará
-6959 . presentaré
-6960 . ganarse
-6961 . golpeando
-6962 . sacarla
-6963 . enteró
-6964 . quitaron
-6965 . marineros
-6966 . regresaremos
-6967 . lamentable
-6968 . despreciable
-6969 . ayudé
-6970 . contestó
-6971 . reciben
-6972 . parados
-6973 . pabellón
-6974 . viajado
-6975 . subtitulos
-6976 . uses
-6977 . borrar
-6978 . duquesa
-6979 . valía
-6980 . ofendido
-6981 . directores
-6982 . escúchenme
-6983 . falló
-6984 . congelado
-6985 . entenderá
-6986 . montado
-6987 . paramos
-6988 . raíz
-6989 . cosquillas
-6990 . chao
-6991 . silencioso
-6992 . tomarte
-6993 . pagaron
-6994 . botín
-6995 . deshazte
-6996 . dada
-6997 . orfanato
-6998 . comprarte
-6999 . cortos
-7000 . insulto
-7001 . visiones
-7002 . cifras
-7003 . futura
-7004 . natal
-7005 . próximas
-7006 . bendita
-7007 . granjeros
-7008 . localizar
-7009 . garras
-7010 . morimos
-7011 . exhibición
-7012 . podia
-7013 . detención
-7014 . libra
-7015 . trueno
-7016 . movido
-7017 . sobrio
-7018 . contador
-7019 . labor
-7020 . abuelos
-7021 . trigo
-7022 . cooperación
-7023 . novelas
-7024 . evolución
-7025 . cuerno
-7026 . surgió
-7027 . entretenimiento
-7028 . senos
-7029 . atacando
-7030 . serviría
-7031 . impaciente
-7032 . mantendré
-7033 . régimen
-7034 . mexicano
-7035 . deseamos
-7036 . helada
-7037 . maridos
-7038 . frases
-7039 . británica
-7040 . bombardeo
-7041 . tropa
-7042 . volverse
-7043 . vigilante
-7044 . pasarme
-7045 . cosita
-7046 . lastima
-7047 . puros
-7048 . reflejo
-7049 . creerás
-7050 . frenos
-7051 . lazo
-7052 . galleta
-7053 . abren
-7054 . madura
-7055 . plomo
-7056 . catorce
-7057 . rabino
-7058 . doler
-7059 . estudié
-7060 . afortunados
-7061 . levántese
-7062 . matones
-7063 . boxeador
-7064 . recado
-7065 . milán
-7066 . mapas
-7067 . resumen
-7068 . respetos
-7069 . apoyar
-7070 . relojes
-7071 . nadando
-7072 . delgada
-7073 . mascotas
-7074 . encontrarle
-7075 . provocar
-7076 . unir
-7077 . mantenimiento
-7078 . chatarra
-7079 . pascua
-7080 . busquemos
-7081 . aceptaré
-7082 . colgando
-7083 . márchate
-7084 . guardas
-7085 . masas
-7086 . camarote
-7087 . ofensiva
-7088 . cambiaste
-7089 . pm
-7090 . larguémonos
-7091 . balcón
-7092 . acelera
-7093 . privacidad
-7094 . sonando
-7095 . barca
-7096 . investigador
-7097 . exijo
-7098 . creyendo
-7099 . norteamericano
-7100 . veros
-7101 . aparezca
-7102 . chicle
-7103 . enseñando
-7104 . acordado
-7105 . cobertura
-7106 . olvidemos
-7107 . manga
-7108 . trataron
-7109 . velo
-7110 . conocieron
-7111 . santidad
-7112 . suéltala
-7113 . saldría
-7114 . tremenda
-7115 . empacar
-7116 . perras
-7117 . restaurantes
-7118 . áreas
-7119 . satanás
-7120 . traten
-7121 . completar
-7122 . tesoros
-7123 . carreteras
-7124 . simpática
-7125 . invité
-7126 . bailas
-7127 . cómodos
-7128 . comprensión
-7129 . supongamos
-7130 . nomás
-7131 . toallas
-7132 . estropeado
-7133 . respeta
-7134 . fruto
-7135 . piérdete
-7136 . ensayar
-7137 . rescatar
-7138 . aroma
-7139 . perímetro
-7140 . grandeza
-7141 . delantera
-7142 . escoge
-7143 . presentarle
-7144 . yate
-7145 . sofía
-7146 . abres
-7147 . ingenioso
-7148 . cortaron
-7149 . sentó
-7150 . atardecer
-7151 . consideración
-7152 . palma
-7153 . interpretar
-7154 . rezo
-7155 . suéltenme
-7156 . filmando
-7157 . quítese
-7158 . sostener
-7159 . molino
-7160 . sentamos
-7161 . surf
-7162 . perdonado
-7163 . cuan
-7164 . reunirse
-7165 . refugiados
-7166 . verificar
-7167 . hogares
-7168 . cargamento
-7169 . bloqueo
-7170 . saldrán
-7171 . payasos
-7172 . atascado
-7173 . pajarito
-7174 . reciba
-7175 . bando
-7176 . litros
-7177 . sobrevivientes
-7178 . ponla
-7179 . dirigido
-7180 . chaleco
-7181 . molestias
-7182 . agradecerte
-7183 . cría
-7184 . cualidades
-7185 . viviente
-7186 . traerte
-7187 . provincia
-7188 . mocoso
-7189 . ponernos
-7190 . despejen
-7191 . circuito
-7192 . atajo
-7193 . juntar
-7194 . examinar
-7195 . pedo
-7196 . besarte
-7197 . perteneces
-7198 . permítanme
-7199 . descansen
-7200 . noto
-7201 . teorías
-7202 . alabado
-7203 . moverte
-7204 . preciosos
-7205 . termines
-7206 . nerviosos
-7207 . paulo
-7208 . recta
-7209 . reducir
-7210 . podrias
-7211 . escritores
-7212 . mandan
-7213 . ilegales
-7214 . tobillo
-7215 . jinete
-7216 . conocernos
-7217 . convertí
-7218 . separar
-7219 . sujeta
-7220 . implica
-7221 . matara
-7222 . billar
-7223 . mantengo
-7224 . pondrán
-7225 . llévatelo
-7226 . solías
-7227 . odiar
-7228 . cierro
-7229 . usaremos
-7230 . funciones
-7231 . juana
-7232 . enviando
-7233 . suaves
-7234 . buque
-7235 . aceptamos
-7236 . atrapa
-7237 . descuento
-7238 . angustia
-7239 . bajaré
-7240 . jura
-7241 . pais
-7242 . cuervo
-7243 . unidas
-7244 . hablaban
-7245 . atraer
-7246 . entendía
-7247 . documental
-7248 . convirtiendo
-7249 . disculpo
-7250 . huido
-7251 . mirarte
-7252 . escuchame
-7253 . consiste
-7254 . ábrelo
-7255 . divertirme
-7256 . apártense
-7257 . engañarme
-7258 . rotos
-7259 . besado
-7260 . explotó
-7261 . apoya
-7262 . sobrevivido
-7263 . estancia
-7264 . descubrimos
-7265 . lanzó
-7266 . creador
-7267 . mejorando
-7268 . operar
-7269 . pedirme
-7270 . servirle
-7271 . bebamos
-7272 . despidieron
-7273 . realista
-7274 . discutimos
-7275 . aseguraré
-7276 . enseñaron
-7277 . bloque
-7278 . pasemos
-7279 . emboscada
-7280 . caía
-7281 . exceso
-7282 . acuéstate
-7283 . pulgar
-7284 . vivían
-7285 . vil
-7286 . agarré
-7287 . disparaste
-7288 . celestial
-7289 . comisionado
-7290 . quê
-7291 . ciclo
-7292 . descansando
-7293 . placas
-7294 . determinar
-7295 . cesar
-7296 . década
-7297 . colapso
-7298 . afganistán
-7299 . admitirlo
-7300 . encárgate
-7301 . sospecho
-7302 . sueña
-7303 . cigarros
-7304 . causas
-7305 . mejora
-7306 . chantaje
-7307 . engaña
-7308 . escondida
-7309 . queramos
-7310 . vistas
-7311 . coges
-7312 . turco
-7313 . cuestiones
-7314 . eminencia
-7315 . golfo
-7316 . extranjera
-7317 . renuncio
-7318 . horizonte
-7319 . muerde
-7320 . pálido
-7321 . separamos
-7322 . recorrer
-7323 . anochecer
-7324 . obsesionado
-7325 . recibes
-7326 . hallé
-7327 . solían
-7328 . ofrecen
-7329 . perseguir
-7330 . reno
-7331 . rechazar
-7332 . harina
-7333 . aleja
-7334 . dijeras
-7335 . cardenal
-7336 . rompiendo
-7337 . helados
-7338 . salid
-7339 . hermandad
-7340 . moverme
-7341 . cruza
-7342 . tejido
-7343 . escocés
-7344 . confíe
-7345 . escondiendo
-7346 . déjalos
-7347 . publicar
-7348 . únicas
-7349 . carreta
-7350 . reportaje
-7351 . compañia
-7352 . representación
-7353 . estelar
-7354 . notar
-7355 . curado
-7356 . nana
-7357 . escribía
-7358 . amé
-7359 . encerrada
-7360 . dibujar
-7361 . histórico
-7362 . conocimientos
-7363 . frio
-7364 . mostrado
-7365 . convertirte
-7366 . interesados
-7367 . pellejo
-7368 . corrí
-7369 . valentía
-7370 . eramos
-7371 . bailes
-7372 . afectado
-7373 . lastimarte
-7374 . anteriores
-7375 . avergonzada
-7376 . viviré
-7377 . dominio
-7378 . bailarín
-7379 . dudar
-7380 . confundida
-7381 . limonada
-7382 . aparecido
-7383 . entrenado
-7384 . tambor
-7385 . cambiarlo
-7386 . quemando
-7387 . avísame
-7388 . comprometida
-7389 . perfectos
-7390 . condenada
-7391 . refresco
-7392 . tû
-7393 . eventualmente
-7394 . desgraciada
-7395 . comeremos
-7396 . quienquiera
-7397 . declaró
-7398 . crueldad
-7399 . ensayos
-7400 . pala
-7401 . ríen
-7402 . intentaste
-7403 . encontrara
-7404 . instalaciones
-7405 . mérito
-7406 . enviaste
-7407 . fideos
-7408 . munición
-7409 . cicatrices
-7410 . trozos
-7411 . dormiré
-7412 . admirador
-7413 . significar
-7414 . dondequiera
-7415 . olvidamos
-7416 . roban
-7417 . admite
-7418 . nevera
-7419 . amarte
-7420 . veloz
-7421 . setenta
-7422 . necesitaría
-7423 . enfrentarse
-7424 . llevarlos
-7425 . infiel
-7426 . ondas
-7427 . tomates
-7428 . póngame
-7429 . aspectos
-7430 . discreción
-7431 . freno
-7432 . ajo
-7433 . remoto
-7434 . convierta
-7435 . camilla
-7436 . bailamos
-7437 . cuestan
-7438 . integridad
-7439 . informa
-7440 . inesperado
-7441 . revisión
-7442 . amenazó
-7443 . duérmete
-7444 . haced
-7445 . ballenas
-7446 . billones
-7447 . santuario
-7448 . abeja
-7449 . tocarme
-7450 . non
-7451 . tomarse
-7452 . impuesto
-7453 . corporación
-7454 . gripe
-7455 . permitirá
-7456 . patear
-7457 . órbita
-7458 . acepté
-7459 . fábricas
-7460 . estàs
-7461 . agarre
-7462 . ramas
-7463 . hallado
-7464 . opuesto
-7465 . fija
-7466 . lena
-7467 . tránsito
-7468 . ocuparse
-7469 . fugitivo
-7470 . ca
-7471 . llamara
-7472 . estuviéramos
-7473 . empezaré
-7474 . abriré
-7475 . pertenecía
-7476 . peleamos
-7477 . pagarán
-7478 . usaste
-7479 . echen
-7480 . calendario
-7481 . consecuencia
-7482 . destruida
-7483 . pañales
-7484 . hacerlos
-7485 . cemento
-7486 . retroceder
-7487 . suelten
-7488 . obstante
-7489 . subí
-7490 . basa
-7491 . cancha
-7492 . tardado
-7493 . devuelvo
-7494 . fusión
-7495 . púdrete
-7496 . basurero
-7497 . suministros
-7498 . códigos
-7499 . recordaba
-7500 . limpios
-7501 . calibre
-7502 . enteras
-7503 . fina
-7504 . protocolo
-7505 . hawai
-7506 . abrázame
-7507 . agresión
-7508 . camello
-7509 . selección
-7510 . ancho
-7511 . comunicado
-7512 . rodea
-7513 . hospitalidad
-7514 . avisaré
-7515 . adoran
-7516 . corres
-7517 . burla
-7518 . incluido
-7519 . filete
-7520 . dándole
-7521 . captura
-7522 . urgencia
-7523 . quitas
-7524 . besa
-7525 . acondicionado
-7526 . norteamericanos
-7527 . cálido
-7528 . ignorar
-7529 . grabando
-7530 . nueces
-7531 . láser
-7532 . és
-7533 . dispárale
-7534 . fronteras
-7535 . quítense
-7536 . asusté
-7537 . sirvienta
-7538 . divertirte
-7539 . trabajaré
-7540 . precisa
-7541 . evidencias
-7542 . canales
-7543 . protesto
-7544 . asumo
-7545 . libremente
-7546 . insecto
-7547 . niñez
-7548 . coloca
-7549 . abandono
-7550 . gritaba
-7551 . apuros
-7552 . provoca
-7553 . hierbas
-7554 . buscaremos
-7555 . pérdidas
-7556 . insistió
-7557 . abandonada
-7558 . cerrando
-7559 . jardinero
-7560 . háganlo
-7561 . utilizado
-7562 . hambrientos
-7563 . atraparlo
-7564 . destinado
-7565 . tia
-7566 . básico
-7567 . facilidad
-7568 . acercarme
-7569 . avanzado
-7570 . cargas
-7571 . recuerdes
-7572 . dominar
-7573 . yardas
-7574 . arruinaste
-7575 . pensaban
-7576 . grandote
-7577 . suenas
-7578 . salvarlo
-7579 . pensábamos
-7580 . enviamos
-7581 . banquero
-7582 . sabrías
-7583 . pregúntele
-7584 . instintos
-7585 . creencias
-7586 . violenta
-7587 . acabando
-7588 . sólido
-7589 . extraterrestres
-7590 . fichas
-7591 . clásica
-7592 . obligaciones
-7593 . esperaban
-7594 . máscaras
-7595 . tubos
-7596 . agradecemos
-7597 . hipoteca
-7598 . luchado
-7599 . estrictamente
-7600 . conforme
-7601 . cebolla
-7602 . burdel
-7603 . calmado
-7604 . poste
-7605 . pretendía
-7606 . honestidad
-7607 . rebaño
-7608 . acontecimientos
-7609 . díganme
-7610 . financiero
-7611 . decirse
-7612 . vendes
-7613 . excursión
-7614 . calvo
-7615 . primaria
-7616 . usen
-7617 . suecia
-7618 . apestoso
-7619 . mejilla
-7620 . gasolinera
-7621 . psicología
-7622 . seguidores
-7623 . drácula
-7624 . maricas
-7625 . telefono
-7626 . palanca
-7627 . establecido
-7628 . flaco
-7629 . tormentas
-7630 . perdidas
-7631 . subiré
-7632 . sorprendida
-7633 . pobrecita
-7634 . gotas
-7635 . perpetua
-7636 . nudos
-7637 . iniciativa
-7638 . levantarte
-7639 . usualmente
-7640 . relájese
-7641 . mueves
-7642 . medallas
-7643 . clavo
-7644 . universitario
-7645 . rastros
-7646 . arre
-7647 . persiguen
-7648 . continuamente
-7649 . talentos
-7650 . alterado
-7651 . núcleo
-7652 . anfitrión
-7653 . usaron
-7654 . aceptan
-7655 . decido
-7656 . llamarle
-7657 . hipócrita
-7658 . rehabilitación
-7659 . oía
-7660 . forman
-7661 . perderlo
-7662 . suprema
-7663 . indican
-7664 . digitales
-7665 . codo
-7666 . ladrillos
-7667 . tontas
-7668 . serias
-7669 . anteriormente
-7670 . viviremos
-7671 . mostrarles
-7672 . luchamos
-7673 . tenso
-7674 . curiosa
-7675 . vacíos
-7676 . trajimos
-7677 . amuleto
-7678 . realizado
-7679 . revolucionario
-7680 . funcionado
-7681 . derrotar
-7682 . alrededores
-7683 . enojes
-7684 . frijoles
-7685 . cuñada
-7686 . pensara
-7687 . derrotado
-7688 . modesto
-7689 . tómala
-7690 . cuaderno
-7691 . resultar
-7692 . rebelión
-7693 . metida
-7694 . distinguir
-7695 . huracán
-7696 . sinceridad
-7697 . conocerlos
-7698 . escucharte
-7699 . masculino
-7700 . acompañar
-7701 . echamos
-7702 . ancestros
-7703 . mecanismo
-7704 . cera
-7705 . estanque
-7706 . proa
-7707 . infinito
-7708 . negativa
-7709 . alojamiento
-7710 . jardines
-7711 . tigres
-7712 . bonos
-7713 . artístico
-7714 . satisfacer
-7715 . novedades
-7716 . rechazo
-7717 . deberán
-7718 . dificultad
-7719 . vivian
-7720 . comerciante
-7721 . asegurado
-7722 . mostrarme
-7723 . generosidad
-7724 . entorno
-7725 . ayuden
-7726 . amabas
-7727 . conclusiones
-7728 . pesados
-7729 . cuchara
-7730 . contárselo
-7731 . cortaré
-7732 . tramando
-7733 . cintura
-7734 . frances
-7735 . pagarlo
-7736 . peligrosas
-7737 . ventajas
-7738 . continúen
-7739 . cálculos
-7740 . ignorancia
-7741 . rostros
-7742 . detenerlos
-7743 . mantendrá
-7744 . consentimiento
-7745 . cometiendo
-7746 . partió
-7747 . apreciar
-7748 . seguirme
-7749 . ochenta
-7750 . reconocí
-7751 . ideales
-7752 . mataran
-7753 . defensor
-7754 . concha
-7755 . soñaba
-7756 . emocionada
-7757 . yerno
-7758 . suponer
-7759 . controles
-7760 . tripas
-7761 . puerco
-7762 . espuma
-7763 . decidiste
-7764 . taxista
-7765 . ausente
-7766 . confieso
-7767 . despido
-7768 . enterar
-7769 . ingeniería
-7770 . misiones
-7771 . conocéis
-7772 . abrid
-7773 . celebrando
-7774 . declara
-7775 . sepamos
-7776 . avanzada
-7777 . comete
-7778 . expulsado
-7779 . adelanto
-7780 . asamblea
-7781 . creerán
-7782 . diputado
-7783 . agregar
-7784 . devuelto
-7785 . rezando
-7786 . descarga
-7787 . volado
-7788 . dispararé
-7789 . puños
-7790 . diálogo
-7791 . autobuses
-7792 . cante
-7793 . helicópteros
-7794 . entregue
-7795 . gemelas
-7796 . ofrecerte
-7797 . paguen
-7798 . repita
-7799 . escuchaba
-7800 . documentación
-7801 . detuvieron
-7802 . comamos
-7803 . administrador
-7804 . conseguirte
-7805 . hallaron
-7806 . sillón
-7807 . superado
-7808 . atentos
-7809 . acuérdate
-7810 . faro
-7811 . públicos
-7812 . disfruto
-7813 . asegurarnos
-7814 . semilla
-7815 . matón
-7816 . enlace
-7817 . mejorado
-7818 . necesitaban
-7819 . seríamos
-7820 . semestre
-7821 . sta
-7822 . comprendí
-7823 . oposición
-7824 . inventé
-7825 . alambre
-7826 . pantalón
-7827 . católico
-7828 . pídele
-7829 . sacrificios
-7830 . misil
-7831 . tocarlo
-7832 . fijamente
-7833 . quitaré
-7834 . casará
-7835 . abrimos
-7836 . gorila
-7837 . envuelto
-7838 . arregle
-7839 . opino
-7840 . sentaos
-7841 . participación
-7842 . ejércitos
-7843 . valiosa
-7844 . tendréis
-7845 . hubiesen
-7846 . químicos
-7847 . asustando
-7848 . atrasado
-7849 . disponibles
-7850 . pésimo
-7851 . siguieron
-7852 . pasarán
-7853 . mueran
-7854 . contamos
-7855 . bragas
-7856 . baba
-7857 . comprarlo
-7858 . subtitulado
-7859 . casita
-7860 . halla
-7861 . llámalo
-7862 . mojada
-7863 . económica
-7864 . arrepiento
-7865 . enseñan
-7866 . orgasmo
-7867 . duelen
-7868 . abismo
-7869 . proteja
-7870 . feroz
-7871 . golpearon
-7872 . alimenta
-7873 . blusa
-7874 . violar
-7875 . evacuación
-7876 . preparé
-7877 . ética
-7878 . cuido
-7879 . fascista
-7880 . acabaré
-7881 . prácticas
-7882 . moviéndose
-7883 . pescador
-7884 . acérquense
-7885 . prefieren
-7886 . cantas
-7887 . irías
-7888 . apague
-7889 . lazos
-7890 . papito
-7891 . placeres
-7892 . perdonarme
-7893 . apertura
-7894 . caña
-7895 . corría
-7896 . terminaré
-7897 . pecadores
-7898 . suegra
-7899 . nuca
-7900 . explicarme
-7901 . valla
-7902 . dobles
-7903 . metan
-7904 . peleado
-7905 . convincente
-7906 . ruega
-7907 . convenció
-7908 . cuadras
-7909 . españoles
-7910 . aborto
-7911 . funcionario
-7912 . dramático
-7913 . meteré
-7914 . mostrador
-7915 . relajarte
-7916 . pensarán
-7917 . deprimente
-7918 . facturas
-7919 . cobre
-7920 . pensarás
-7921 . habiar
-7922 . lote
-7923 . oportuno
-7924 . arturo
-7925 . sermón
-7926 . prohibida
-7927 . atómica
-7928 . agradables
-7929 . gustos
-7930 . defecto
-7931 . proceder
-7932 . bóveda
-7933 . ganaron
-7934 . retira
-7935 . casera
-7936 . chulo
-7937 . conozcan
-7938 . agresivo
-7939 . ayudaste
-7940 . tías
-7941 . desesperadamente
-7942 . anormal
-7943 . llévala
-7944 . nativos
-7945 . enseñarles
-7946 . callarte
-7947 . convierten
-7948 . estrado
-7949 . aficionado
-7950 . apuntando
-7951 . creyeron
-7952 . éxtasis
-7953 . iluminación
-7954 . marcharte
-7955 . sábados
-7956 . explorador
-7957 . colchón
-7958 . tenerlos
-7959 . feas
-7960 . preguntaron
-7961 . lavabo
-7962 . forastero
-7963 . callada
-7964 . escondes
-7965 . regresan
-7966 . encontrarlos
-7967 . sensato
-7968 . entrará
-7969 . aparecerá
-7970 . homosexuales
-7971 . distante
-7972 . gobernar
-7973 . déjenos
-7974 . dobla
-7975 . votación
-7976 . inconveniente
-7977 . apodo
-7978 . rapidez
-7979 . ternura
-7980 . lunático
-7981 . lodo
-7982 . yace
-7983 . arreglará
-7984 . catástrofe
-7985 . brindar
-7986 . precisión
-7987 . embarazoso
-7988 . profecía
-7989 . pulgadas
-7990 . proviene
-7991 . normalidad
-7992 . practica
-7993 . comiencen
-7994 . calabozo
-7995 . levanté
-7996 . retorno
-7997 . chupa
-7998 . preparación
-7999 . asombrosa
-8000 . caderas
-8001 . emperatriz
-8002 . repentinamente
-8003 . contrabando
-8004 . defectos
-8005 . peligros
-8006 . confiado
-8007 . nudo
-8008 . tratos
-8009 . conciertos
-8010 . empujar
-8011 . deshacerme
-8012 . lloro
-8013 . disculpan
-8014 . forzado
-8015 . besarme
-8016 . fíjese
-8017 . debiera
-8018 . comía
-8019 . terminada
-8020 . luto
-8021 . cortada
-8022 . paces
-8023 . empuje
-8024 . musulmanes
-8025 . servidor
-8026 . agujas
-8027 . ingenieros
-8028 . podés
-8029 . torno
-8030 . malvados
-8031 . extiende
-8032 . asustados
-8033 . predicador
-8034 . exclusiva
-8035 . maligno
-8036 . desarrollar
-8037 . cortando
-8038 . corras
-8039 . intentaremos
-8040 . veinticinco
-8041 . ayudara
-8042 . fanático
-8043 . internacionales
-8044 . gramos
-8045 . echan
-8046 . adán
-8047 . cocinando
-8048 . explicado
-8049 . terminen
-8050 . aprobado
-8051 . frasco
-8052 . interruptor
-8053 . glorioso
-8054 . casarás
-8055 . pintado
-8056 . ganarme
-8057 . finca
-8058 . sacerdotes
-8059 . esclavitud
-8060 . precaución
-8061 . ganaremos
-8062 . fanáticos
-8063 . correspondencia
-8064 . dejémoslo
-8065 . económico
-8066 . cubiertos
-8067 . entrego
-8068 . cambies
-8069 . frías
-8070 . lila
-8071 . mentales
-8072 . ciervo
-8073 . palomas
-8074 . perla
-8075 . soplón
-8076 . optimista
-8077 . nápoles
-8078 . gimnasia
-8079 . separa
-8080 . detengas
-8081 . trofeo
-8082 . atrapó
-8083 . concedido
-8084 . pasaportes
-8085 . interese
-8086 . villano
-8087 . monumento
-8088 . activa
-8089 . abriendo
-8090 . mirándome
-8091 . arregló
-8092 . cuidarme
-8093 . salvavidas
-8094 . obstáculo
-8095 . reunidos
-8096 . rejas
-8097 . tomada
-8098 . creíamos
-8099 . ático
-8100 . porche
-8101 . finge
-8102 . acompañaré
-8103 . ponerla
-8104 . moría
-8105 . unica
-8106 . acusados
-8107 . cuarentena
-8108 . maletero
-8109 . arreglando
-8110 . theo
-8111 . protegerme
-8112 . gabinete
-8113 . lema
-8114 . paseando
-8115 . vendas
-8116 . cangrejo
-8117 . cumplió
-8118 . porcentaje
-8119 . prestas
-8120 . profundas
-8121 . reconoció
-8122 . detras
-8123 . clubes
-8124 . echemos
-8125 . olvidarte
-8126 . cuidará
-8127 . vieras
-8128 . enviaremos
-8129 . corté
-8130 . cocodrilo
-8131 . llanto
-8132 . fieles
-8133 . veían
-8134 . enfrenta
-8135 . robos
-8136 . compadre
-8137 . paranoico
-8138 . llévenselo
-8139 . invertir
-8140 . amorosa
-8141 . apretar
-8142 . comenzará
-8143 . contable
-8144 . cardíaco
-8145 . asustas
-8146 . plana
-8147 . dieciséis
-8148 . árbitro
-8149 . creativo
-8150 . buenísimo
-8151 . arca
-8152 . pasto
-8153 . arbustos
-8154 . sospechar
-8155 . atrapan
-8156 . pálida
-8157 . aceptaría
-8158 . ganaré
-8159 . lucía
-8160 . esperma
-8161 . celebrarlo
-8162 . apaguen
-8163 . exagerando
-8164 . tiraste
-8165 . enseñaste
-8166 . póquer
-8167 . borda
-8168 . corrientes
-8169 . privados
-8170 . comprobado
-8171 . individuos
-8172 . ahogado
-8173 . subterráneo
-8174 . masiva
-8175 . protegiendo
-8176 . legado
-8177 . buzón
-8178 . bárbaro
-8179 . atrevo
-8180 . escaparse
-8181 . fusil
-8182 . sutil
-8183 . venderlo
-8184 . carteles
-8185 . dirigía
-8186 . eliminado
-8187 . incorrecto
-8188 . aburrimiento
-8189 . compran
-8190 . yanqui
-8191 . acostar
-8192 . apropiada
-8193 . capataz
-8194 . aprendes
-8195 . apartamentos
-8196 . saltando
-8197 . sastre
-8198 . molestarme
-8199 . registrar
-8200 . devuelva
-8201 . injusticia
-8202 . planear
-8203 . subes
-8204 . pagarte
-8205 . sincronizado
-8206 . arañas
-8207 . subasta
-8208 . romperé
-8209 . miramos
-8210 . representar
-8211 . monjes
-8212 . grandiosa
-8213 . libera
-8214 . mienten
-8215 . nombrado
-8216 . inofensivo
-8217 . hostil
-8218 . ocurriera
-8219 . marsella
-8220 . definición
-8221 . ocupe
-8222 . crezca
-8223 . táctica
-8224 . campeones
-8225 . huelen
-8226 . creamos
-8227 . comprarle
-8228 . golpeé
-8229 . díganos
-8230 . evita
-8231 . repentino
-8232 . visitarme
-8233 . morena
-8234 . casero
-8235 . entregas
-8236 . marchas
-8237 . competición
-8238 . popa
-8239 . quiza
-8240 . langosta
-8241 . equivocó
-8242 . olla
-8243 . invitarte
-8244 . sexualmente
-8245 . tolerar
-8246 . encargarme
-8247 . diseñado
-8248 . legítimo
-8249 . desnudas
-8250 . atlántico
-8251 . ingenio
-8252 . reírse
-8253 . recomendación
-8254 . iniciales
-8255 . decepción
-8256 . librería
-8257 . variar
-8258 . racista
-8259 . girando
-8260 . buscarle
-8261 . sustancia
-8262 . hongos
-8263 . rodeados
-8264 . ambicioso
-8265 . culos
-8266 . discreto
-8267 . protagonista
-8268 . aparición
-8269 . reglamento
-8270 . conserje
-8271 . homenaje
-8272 . cuidarte
-8273 . encargará
-8274 . papeleo
-8275 . baterías
-8276 . figuras
-8277 . ejecutado
-8278 . cuéntanos
-8279 . empezará
-8280 . conduzco
-8281 . dedico
-8282 . morfina
-8283 . juvenil
-8284 . traslado
-8285 . ejemplar
-8286 . esperará
-8287 . probemos
-8288 . solicito
-8289 . nino
-8290 . desaparecida
-8291 . ganso
-8292 . trompeta
-8293 . morirse
-8294 . patos
-8295 . mostaza
-8296 . cerebros
-8297 . altamente
-8298 . picante
-8299 . ingenuo
-8300 . vuelos
-8301 . nasa
-8302 . seguirás
-8303 . escogió
-8304 . reúne
-8305 . misterios
-8306 . deportivo
-8307 . vestirme
-8308 . maniobra
-8309 . hemorragia
-8310 . babor
-8311 . pelean
-8312 . humedad
-8313 . túneles
-8314 . dígamelo
-8315 . banca
-8316 . célula
-8317 . respire
-8318 . levantes
-8319 . molestó
-8320 . notable
-8321 . aprenderás
-8322 . turista
-8323 . subimos
-8324 . mirarlo
-8325 . múltiples
-8326 . acera
-8327 . ano
-8328 . distracción
-8329 . positiva
-8330 . estafa
-8331 . locuras
-8332 . elegiste
-8333 . hombrecito
-8334 . acabarás
-8335 . tesis
-8336 . pureza
-8337 . suceden
-8338 . noventa
-8339 . monasterio
-8340 . húmedo
-8341 . cambiaré
-8342 . burbujas
-8343 . toros
-8344 . interesaba
-8345 . zumo
-8346 . empresario
-8347 . buscó
-8348 . quiebra
-8349 . portado
-8350 . lanzado
-8351 . utilizando
-8352 . causando
-8353 . sacrificar
-8354 . testificar
-8355 . firmas
-8356 . rendirse
-8357 . surge
-8358 . traerla
-8359 . tribunales
-8360 . margarita
-8361 . enrique
-8362 . himno
-8363 . defenderse
-8364 . tocino
-8365 . bajamos
-8366 . cerramos
-8367 . yegua
-8368 . enojo
-8369 . vendemos
-8370 . suenan
-8371 . salvará
-8372 . pagos
-8373 . panza
-8374 . cólera
-8375 . obrero
-8376 . pagaría
-8377 . encarga
-8378 . eches
-8379 . ostras
-8380 . americanas
-8381 . humillación
-8382 . presiento
-8383 . consiguieron
-8384 . dragones
-8385 . respecta
-8386 . medicación
-8387 . digna
-8388 . arreglé
-8389 . delitos
-8390 . tragar
-8391 . perdamos
-8392 . lancha
-8393 . uvas
-8394 . ardilla
-8395 . matarás
-8396 . experimentar
-8397 . huérfanos
-8398 . respóndeme
-8399 . escalar
-8400 . lré
-8401 . excita
-8402 . conquista
-8403 . originales
-8404 . muda
-8405 . terrestre
-8406 . género
-8407 . tomara
-8408 . existido
-8409 . comprobarlo
-8410 . afrontar
-8411 . satisfecha
-8412 . daga
-8413 . grúa
-8414 . flujo
-8415 . haberlos
-8416 . internado
-8417 . marchando
-8418 . apretado
-8419 . complace
-8420 . española
-8421 . tramposo
-8422 . bota
-8423 . destruyendo
-8424 . arruinando
-8425 . necesarios
-8426 . asustan
-8427 . motocicleta
-8428 . hostia
-8429 . perfectas
-8430 . ocultando
-8431 . salvarla
-8432 . mudamos
-8433 . mataremos
-8434 . cachorros
-8435 . químico
-8436 . sostiene
-8437 . honestos
-8438 . dure
-8439 . cooperar
-8440 . rastrear
-8441 . cuidados
-8442 . bagdad
-8443 . rompa
-8444 . absurda
-8445 . separe
-8446 . intuición
-8447 . pastilla
-8448 . desaparecen
-8449 . prestarme
-8450 . caros
-8451 . cogiste
-8452 . palomitas
-8453 . conocían
-8454 . apunten
-8455 . chispa
-8456 . volverme
-8457 . pagaremos
-8458 . contarles
-8459 . congresista
-8460 . conducía
-8461 . escaparon
-8462 . cenamos
-8463 . quité
-8464 . aislamiento
-8465 . hágame
-8466 . míreme
-8467 . traicionó
-8468 . muévase
-8469 . holanda
-8470 . garantizar
-8471 . colocado
-8472 . vayámonos
-8473 . intervención
-8474 . bloqueado
-8475 . tos
-8476 . cortés
-8477 . pruébalo
-8478 . morder
-8479 . rompo
-8480 . lastimó
-8481 . seguiría
-8482 . entenderás
-8483 . traigas
-8484 . salte
-8485 . tinieblas
-8486 . simpatía
-8487 . negado
-8488 . miserables
-8489 . bromea
-8490 . afirma
-8491 . tacto
-8492 . sueltes
-8493 . marchaos
-8494 . acompañado
-8495 . productores
-8496 . monjas
-8497 . mudarse
-8498 . acosté
-8499 . estabais
-8500 . décadas
-8501 . nombrar
-8502 . lesbianas
-8503 . específico
-8504 . tablas
-8505 . síndrome
-8506 . recogeré
-8507 . propone
-8508 . desperdiciar
-8509 . legión
-8510 . redonda
-8511 . estais
-8512 . fresas
-8513 . asesor
-8514 . canasta
-8515 . tambores
-8516 . granadas
-8517 . escondió
-8518 . ordene
-8519 . vals
-8520 . continúan
-8521 . quiten
-8522 . vivirás
-8523 . quedaras
-8524 . globos
-8525 . electrónico
-8526 . monseñor
-8527 . cinturones
-8528 . informó
-8529 . cierran
-8530 . cantidades
-8531 . lloraba
-8532 . escritora
-8533 . discutirlo
-8534 . manifestación
-8535 . mostrando
-8536 . veterinario
-8537 . caíste
-8538 . promoción
-8539 . definitiva
-8540 . crié
-8541 . técnicos
-8542 . escapando
-8543 . oponente
-8544 . reportes
-8545 . asegura
-8546 . retire
-8547 . ayudarás
-8548 . esconderte
-8549 . afirmativo
-8550 . pasados
-8551 . suspendido
-8552 . cogiendo
-8553 . recupere
-8554 . yanquis
-8555 . alegres
-8556 . movió
-8557 . salmón
-8558 . darías
-8559 . fraternidad
-8560 . inmediata
-8561 . sensibilidad
-8562 . espejos
-8563 . mermelada
-8564 . puñetazo
-8565 . creencia
-8566 . adoraba
-8567 . pimienta
-8568 . mantienes
-8569 . verónica
-8570 . impresionar
-8571 . aislado
-8572 . regresaron
-8573 . gustara
-8574 . sirves
-8575 . cansé
-8576 . suéter
-8577 . búfalo
-8578 . leeré
-8579 . unirme
-8580 . rompieron
-8581 . abrirá
-8582 . usada
-8583 . soporta
-8584 . resaca
-8585 . tregua
-8586 . satán
-8587 . entraré
-8588 . ingreso
-8589 . funcionarios
-8590 . vanidad
-8591 . repetirlo
-8592 . cazando
-8593 . parecemos
-8594 . demandas
-8595 . regresando
-8596 . vinos
-8597 . estima
-8598 . leve
-8599 . aceptará
-8600 . traerle
-8601 . espantosa
-8602 . dieciocho
-8603 . distinguido
-8604 . ocupará
-8605 . similares
-8606 . presidenta
-8607 . cora
-8608 . favoritas
-8609 . dejarías
-8610 . tara
-8611 . valer
-8612 . probaré
-8613 . luchas
-8614 . blando
-8615 . deberiamos
-8616 . picado
-8617 . trabajadora
-8618 . desaparezca
-8619 . disfrutado
-8620 . marchen
-8621 . herramienta
-8622 . celdas
-8623 . elija
-8624 . quinientos
-8625 . apágalo
-8626 . flanco
-8627 . bromear
-8628 . hijita
-8629 . construyeron
-8630 . unida
-8631 . viajero
-8632 . leyendas
-8633 . alejandro
-8634 . sientate
-8635 . anota
-8636 . fallecido
-8637 . movernos
-8638 . enseñas
-8639 . guapas
-8640 . carnaval
-8641 . holandés
-8642 . afeitar
-8643 . violentos
-8644 . lograron
-8645 . exitoso
+叫
+我叫大卫
+你叫什么名字
+姓
+我姓程
+他姓什么
+名字
+她的名字是玛丽
+他叫什么名字
+哪国人
+你是哪国人
+他是哪国人
+你
+你姓程
+吗
+你叫大卫吗
+我
+我不姓程
+我不叫大卫
+认识你很高兴
+我叫大卫
+认识你很高兴
+第一次见到你
+认识你很高兴
+是
+我不是美国人
+我是日本人
+他是中国人吗
+美国
+他是美国人吗
+你是哪国人
+我是美国人
+中国
+我不是中国人
+你是中国人吗
+忙
+你忙吗
+我很忙
+累
+我很累
+我不累
+好
+你好吗
+我很好
+你们
+你们都是学生吗
+你们是美国人吗
+学生
+我不是学生
+他是学生
+老师
+我的老师不是中国人
+我不是老师
+再见
+再见
+再见
+明天见
+日本
+他不是日本人
+我的老师是日本人
+他
+他累不累
+他不累
+要
+我要喝咖啡
+你要喝中国茶吗
+喜欢
+我喜欢中国茶
+我喜欢美国咖啡
+喝
+我很喜欢喝中国茶
+你喜欢喝日本茶吗
+吃
+你喜欢吃什么
+你喜不喜欢吃美国菜
+咖啡
+你喜不喜欢喝咖啡
+你要喝咖啡吗
+菜
+你喜欢哪国菜
+你喜欢日本菜吗
+茶
+我很喜欢喝茶
+我喜欢中国茶
+口
+我家有三口人
+他家有五口人
+个
+我有两个妹妹
+我有一个妹妹和一个弟弟
+爸爸
+我的爸爸有一个姐姐
+我的爸爸是中国人
+妈妈
+他的妈妈是玛丽
+他的妈妈和爸爸都是老师
+哥哥
+我有两个哥哥
+我的哥哥喜欢喝日本茶
+姐姐
+他的姐姐叫玛丽
+他有两个姐姐
+弟弟
+你有没有弟弟
+我和我弟弟都喜欢吃日本菜
+妹妹
+你的妹妹叫什么名字
+他的妹妹很好看
+家
+我家有三口人
+你家有几口人
+和
+我有一个哥哥和一个姐姐
+我和小程都有姐姐
+谁
+他是谁
+谁是你的老师
+狗
+平安的狗叫奶茶
+我们有一只狗
+他叫来福
+好看
+我的房子很好看
+他很好看
+书
+我有一本书
+我喜欢看书
+兄弟姐妹
+美美有三个兄弟姐妹
+你的兄弟姐妹都喜欢吃日本菜吗
+房子
+他喜欢他爸爸妈妈的房子
+你的爸爸妈妈的房子很好看
+家人
+我和我的家人都喜欢喝咖啡
+你的家人喜欢什么
+介绍
+请你介绍你的家人
+请介绍你自己
+漂亮
+你姐姐很漂亮
+他有很多漂亮的照片
+张
+我有很多张照片
+我很喜欢这张照片
+女儿
+我有一个漂亮的女儿
+这是我哥哥女儿的猫
+猫
+他有很多只猫
+我妹妹有猫也有狗
+照片
+我有很多照片
+这是谁的照片
+很好看
+多
+我有很多书
+我没有很多照片
+两
+我有两个女儿
+他有两张很漂亮的照片
+可爱
+他很可爱
+他的狗很可爱
+块
+我有两块钱
+这杯咖啡五十块
+杯
+我有一杯咖啡
+那杯茶三十块
+瓶
+我有一瓶牛奶
+一瓶水
+多少钱
+买
+我们去买东西
+他买什么东西
+钱
+那个东西多少钱
+这些不是我的钱
+东西
+这不是我的东西
+这些东西一共多少钱
+谢谢
+谢谢你
+你的家很漂亮
+谢谢你
+不客气
+谢谢你帮忙检查我的文章
+不客气
+随时都乐意
+些
+这些东西是谁的
+这些东西一共多少钱
+百
+这个东西一百块钱
+你有一百块吗
+一共
+三杯咖啡和一杯茶
+一共多少钱
+这些东西一共两百块
+今天
+我今天晚上看电影
+我们今天七点看电影
+几点
+现在几点
+你今天几点做饭
+分
+现在是两点十分
+我今天九点十分有中文课
+看
+他喜欢看电影
+你喜欢看什么书
+电影
+你喜欢看什么电影
+妹妹喜欢看电影
+上网
+我喜欢上网
+我不常上网
+可是我常看书
+现在
+现在是一点五十五分
+现在几点
+半
+现在是六点半
+我早上九点半去上课
+做
+你喜欢做什么
+你和你的家人喜欢做什么
+做饭
+你喜欢做饭吗
+你几点会做饭
+吃饭
+你今天几点吃饭
+他今天十二点吃饭
+请问
+请问这个东西多少钱
+请问现在几点
+饭馆
+这间饭馆好不好
+我和我的家人都喜欢这个饭馆
+服务员
+这家饭馆的服务员
+人很好
+这个服务员很漂亮
+杯子
+我们要两个杯子
+这个杯子多少钱
+真
+你妹妹真漂亮
+这个东西真贵
+点菜
+请服务员来帮我们点菜
+请你帮我点菜
+好吃
+我妈妈做的饭很好吃
+中国菜很好吃
+水
+我有一杯水
+请问一杯水多少钱
+少
+我们家书很少
+我们的照片很少
+买单
+服务员
+请买单
+这儿买单
+昨天
+昨天我跟我妈妈去看电影
+我们昨天去那家饭馆吃饭
+明天
+明天要不要去吃饭
+我们明天去买东西
+什么时候
+你什么时候去看电影
+你什么时候起床
+上午
+我上午要上课
+他上午跟妹妹做菜
+星期
+星期一我们要上课
+这个星期我们要去看电影
+起床
+我八点起床
+他七点起床
+十点睡觉
+早饭
+我们九点吃早饭
+我不吃早饭
+睡觉
+我爸爸十点睡觉
+他不睡觉也不吃饭
+上课
+我们明天要上课
+昨天我们去上课也去看电影
+想
+我想跟你看电影
+我今天想吃中国菜
+月
+明天是十二月六日
+三月七日是我的生日
+我想请你来我家
+日
+今天是十二月五日
+圣诞节是十二月二十五日
+下午
+你明天下午做什么
+你今天下午想做什么
+晚上
+你明天晚上看电影吗
+我今天晚上没有空
+请
+明天我请你去中国饭馆吃饭
+他想请你看电影
+来
+他来我家吃饭
+你什么时候来我家
+有空
+你有空吗
+他今天下午没有空
+对不起
+对不起
+没关系
+我只想说对不起
+没关系
+对不起
+没关系
+对不起
+今天晚上我没空
+没关系
+生日
+我的生日是二月十八号
+今天是你的生日
+我请你吃饭
+打球
+每个周末我都会跟朋友去打球
+我周末常打球
+篮球
+你打篮球吗
+我们明天早起去打篮球
+好不好
+球赛
+你喜欢看球赛吗
+你昨天看什么球赛
+逛街
+他喜欢去逛街
+你今天晚上有空去逛街吗
+周末
+周末他做什么
+星期五晚上运动的人很多
+周末呢
+早起
+我喜欢早起去打球
+你是早起的人
+觉得
+我觉得做饭很好玩儿
+你觉得学习中文好不好玩
+好玩儿
+打篮球很好玩儿
+这个电脑游戏很好玩儿
+运动
+你喜欢什么运动
+他常运动
+电影院
+我现在在电影院看电影
+你想什么时候去电影院
+学习
+他在中国学习中文
+我喜欢在图书馆学习
+酒吧
+晚上我们去酒吧喝啤酒
+我周末常去酒吧
+啤酒
+我们一起喝啤酒
+那家酒吧的啤酒很不错
+有意思
+我觉得出门很有意思
+我喜欢出门去运动
+我觉得学汉语很有意思
+无聊
+他觉得出门太麻烦了
+也觉得很无聊
+我觉得看电影很无聊
+我喜欢看书
+麻烦
+我是一个麻烦的人
+他觉得去电影院看电影很麻烦
+出门
+他早上九点出门去上课
+我今天晚上不想出门
+种
+你喜欢吃哪种菜
+那种电影很无聊
+一起
+星期二我们一起去吃日本菜
+我常跟女朋友一起去看电影
+算了
+外面下雨
+我不能跟你出去
+算了
+我跟玛丽去
+票要是卖完了
+就算了
+下雨
+今天
+明天都下雨
+明天会下雨吗
+外面
+他现在在外面
+不在家
+电影院外面有很多人
+没问题
+你有空吗
+我们一起去打球
+好不好
+没问题
+能请你和我一起去买东西吗
+没问题
+什么时候去
+可是
+我想出去
+可是外面下雨
+很多人喜欢那个电影
+可是我觉得很无聊
+做菜
+妹妹喜欢做菜
+他做菜
+做得不错
+唱歌
+我们一起去唱歌
+好吗
+你唱歌唱的真好听
+说
+请您再说一次
+他说英文
+说得怎么样
+汉语
+我明天有汉语课
+他想学汉语
+英语
+我不会说英语
+我会说法语
+英语和汉语
+不错
+她唱得不错
+你说中文
+说得不错
+教
+你可以教我怎么说英语吗
+大学打工的时候我在一家补习班教德语
+写字
+汉语老师教我们怎么写字
+我忘记带写字的本子了
+快
+他走得很快
+我写汉字
+写得不快
+功课
+我今天有很多功课
+我的朋友每天都有中文功课
+图书馆
+他星期一去图书馆看书
+他在图书馆上网
+中饭
+我们一起吃中饭吧
+你吃中饭了吗
+晚饭
+我没有时间做晚饭
+我昨天没有吃晚饭
+中午
+我中午上英语课
+他中午不在家
+也没去图书馆
+非常
+他非常喜欢看书
+也喜欢运动
+他做饭
+做得非常好吃
+题
+这题好难
+我不会
+这题非常简单
+难
+写汉字很难
+说汉语也很难
+我不会做饭
+我觉得很难
+新
+这是一支新手机
+这是我的新车
+旧
+我有一支旧手机
+我的旧手机坏了
+大
+这支手机有一点大
+我不喜欢
+我家很大
+支
+我有一支新手机
+我有一支旧手机
+商店
+这家商店卖一些手机
+我想去商店
+手机
+这不是我的手机
+我想买手机
+看一看
+我去商店看一看
+看一看这封信
+万
+我有一万三千元
+我有三万四千元
+千
+我有四千元
+我有两千元
+能
+哪支手机能上网
+这里能上网吗
+上面
+你的猫在我的房子上面
+我家上面是图书馆
+下面是饭馆
+常常有很多人
+下面
+照片在杯子下面
+你的手机在书的下面
+旁边
+饭馆旁边是图书馆
+电影院旁边有商店
+里面
+图书馆里面有很多书
+酒吧里面有很多人
+大楼
+我家旁边有很多大楼
+我住在那个大楼
+海边
+我们一起去海边玩儿吧
+他有一个房子
+那个房子在海边
+住
+我住在那个大楼里面
+你想住在山上还是海边
+知道
+我知道他家在哪儿
+你知道他是谁吗
+欢迎
+欢迎你来我家玩儿
+明天是一成的生日
+欢迎你一起跟我去他家喝啤酒
+玩儿
+我喜欢去海边玩儿
+我明年想要去中国玩儿
+公共汽车
+我每个星期都坐公共汽车去上汉语课
+我不喜欢坐公共汽车
+自行车
+我喜欢骑自行车
+我没有自行车
+走路
+我的朋友每天都走路去学校
+他女朋友每天走路去上课
+站
+从我家到图书馆坐公共汽车要三站
+从邮局到图书馆要坐五站
+椅子
+你家有几把椅子
+我想买两把椅子
+休息
+你中午几点休息
+我们可以休息到几点
+上班
+你在哪儿上班
+我在邮局上班
+坐
+我坐公共汽车去电影院
+我坐公共汽车来上汉语课
+骑
+我常骑自行车去上课
+骑自行车能运动
+超市
+我想去超市买鸡蛋
+我家旁边有超市和邮局
+件
+这件衣服是我妹妹的
+这件衣服很好看
+衣服
+他昨天买了很多漂亮的衣服
+我有一件漂亮的衣服
+对了
+对了
+他昨天告诉我他不来学校
+明天会有三个人去上课
+对了
+美美说他也来
+一共四个人去上课
+告诉
+她没有告诉我这件事情
+他告诉我从他家到超市往前走十分钟就到了
+鸡蛋
+我的早餐是鸡蛋和牛奶
+请你去超市买鸡蛋和牛奶
+忘了
+我昨天忘了去超市
+对不起
+我忘了买你的鸡蛋了
+牛奶
+我每天早上都喝一杯咖啡和一瓶牛奶
+我家有三瓶牛奶
+怎么
+这个字非常难
+我不知道怎么写
+你知道他家怎么走吗
+走
+从这儿往前走就到他家了
+我想去邮局
+可是我不知道怎么走
+前
+往前走就是我家
+往前看
+可以看到我的房子
+就
+图书馆
+往前走右拐就到了
+就等一会儿
+邮局
+图书馆在邮局的旁边
+这个大楼里面有邮局
+认识
+我不认识那个人
+你认识这条路吗
+路
+我知道这条路的名字
+从这条路往前走
+就到了
+左拐
+那条路左拐就到我家
+这条路往左拐不是邮局
+是我家
+右拐
+邮局在前面那条路右拐
+我往右拐的
+从
+从这儿往左走就是邮局
+他从杭州来
+到
+从这里往前走
+就到了
+从我家到学校需要五十分钟
+事情
+这件事情很难也很麻烦
+你今天下午有事情吗
+得
+我得出门去上课
+我明天有考试
+我得学习
+时间
+我有很多时间写功课
+这个周末我有一些时间
+我想出门做一些有意思的事情
+怕
+学生都很怕老师
+我想试试看四川菜
+可是我怕辣
+担心
+我很担心今年的汉语考试考得不好
+我担心他
+考试
+你明天考试考什么
+明天有汉语考试
+今年
+今年我要跟家人去中国玩儿
+他今年二十八岁
+不好意思
+不好意思
+请问这儿可以照相吗
+不好意思
+请问这儿可以吃东西吗
+听音乐
+我喜欢听音乐
+你跑步时听音乐吗
+附近
+你家附近有商店吗
+小程住在我家附近
+我们周末常一起去运动
+照相
+他周末喜欢去爬山
+照相
+我可以帮你照相吗
+博物馆
+博物馆里面不可以照相
+博物馆里面有很多有意思的东西
+朋友
+我跟我朋友明天要一起去博物馆
+我有很多朋友跟我一起学汉语
+天
+一个星期有七天
+我每天早上都喝一杯咖啡
+等一会儿
+我跟我朋友等一会儿要一起去逛街
+我们等一会儿去外面照相
+地方
+那个地方在哪儿
+这个地方不可以吃东西
+远
+图书馆离邮局很远
+我的家不远
+图书馆往左拐就到了
+近
+图书馆离我家很近
+你家离电影院近吗
+小时
+从我家到图书馆要三个小时
+他每天学习两小时的英语
+山
+我家旁边有一座山
+山的下面是海边
+爬山
+我们这个周末要去爬山
+我家附近有一座山
+我的家人常去爬山
+公司
+我爸爸的公司离我们家很远
+你的公司离你家远不远
+分钟
+从这儿去那儿要走三十分钟
+我的公司离我家很近
+走路十分钟就到了
+要
+从我家到公司要走半小时
+这杯咖啡要一百块钱
+太贵了
+方便
+我家旁边有一些餐厅
+也有超市和图书馆
+住在那里很方便
+我的公司附近很方便
+饭馆
+咖啡店和超市都有
+车票
+坐公共汽车要买车票
+中国的车票很便宜
+出租车
+中国有很多出租车
+在美国坐出租车很贵
+地铁
+我每天都坐地铁去上班
+他家附近没有地铁
+载
+我姐姐载我去超市买东西
+妈妈载弟弟去上汉语课
+汽车
+我有三辆汽车
+这辆新的汽车太贵了
+开
+我爸爸每天都开车去上班
+开车的时候
+我喜欢听音乐
+风景
+这儿的风景很漂亮
+你比较喜欢山上的风景还是海边的风景
+便宜
+汽车在中国很便宜
+在中国去饭馆吃饭很便宜
+等
+请你等我一起去上课
+可以请你等我吗
+迟到
+他上班迟到了
+上汉语课的时候
+不可以迟到
+从不
+我从不爬山
+他上班从不迟到
+约
+他朋友约我一起去爬山
+老师约我们下课一起去吃饭
+上次
+上次我们看电影的时候
+他也迟到了
+你上次已经迟到了
+今天还是迟到
+已经
+今天早上我去等公交车
+我到公车站的时候
+公车已经走了
+我已经开车去超市了
+慢
+他说中文
+说得很慢
+你为什么那么慢
+多久
+请问从超市到邮局要多久
+从你家到博物馆坐地铁要多久
+练习
+我常在家练习做菜
+老师说我们要多练习写汉字
+说话
+他喜欢跟美国人说话
+练习英语
+我喜欢跟中国人说话
+练习我的汉语
+为什么
+现在已经晚上十二点了
+你为什么不睡觉
+你为什么想学汉语
+有用
+这个东西很有用也很方便
+你觉得学汉语有用吗
+放假
+我明天放假
+我从星期一到星期五都放假
+因为
+因为我喜欢吃中国菜
+所以我常去中国饭馆
+因为我放三天假
+所以我想出去玩儿
+所以
+因为我喜欢爬山
+所以周末我都去
+他常练习说中文
+所以说得不错
+刚
+我刚放假
+你想去哪儿玩儿
+我刚起床
+我们一起去吃早饭吧
+看见
+你昨天看见什么了
+我刚看见他和他的朋友在一起逛街
+以前
+我三年以前不会说汉语
+现在说得很好
+他两天以前还在美国
+现在已经在中国了
+书法
+我喜欢写书法
+我妈妈写的书法很漂亮
+开始
+从明天开始
+我不上汉语课了
+篮球比赛三点开始
+你要来看比赛吗
+学校
+这是我的学校
+很漂亮吧
+我弟弟的学校在那条路
+往前走右拐就到了
+课
+你今天上什么课
+我明天没课
+我们一起去爬山吧
+可能
+我可能不能去他家玩儿
+他可能会迟到
+我们等他吧
+最近
+他最近工作很忙
+不常给我打电话
+最近我很忙
+喂
+喂
+你好
+请问有什么事
+喂
+我现在不方便接电话
+你可以三十分钟之后再打吗
+开会
+我下午一点要开会
+我们公司每个下午都开会
+打电话
+你晚上可以打电话来我家
+他喜欢打电话跟朋友聊天
+那
+今天外面下雨
+不能打篮球
+那我们去看电影吧
+那个东西多少钱
+五十元
+那这个东西要多少钱
+桌子
+我家有三张桌子
+他公司有很多桌子和椅子
+生日会
+他的生日会是一月二十五日
+你会去他的生日会吗
+苹果派
+我不喜欢吃苹果派
+我妈妈做的苹果派很好吃
+邀请
+我想邀请你跟你的家人来我的生日会
+他邀请朋友一起去看篮球比赛
+好久不见
+好久不见
+你好吗
+好久不见
+你最近新工作怎么样
+给
+因为我要考试
+所以他给我很多书
+你要给他什么
+礼物
+我不知道他喜欢什么礼物
+你想要什么礼物
+蓝色
+我有一件蓝色的衣服
+我有很多蓝色的杯子
+饺子
+饺子是中国菜的一种
+我不喜欢吃饺子
+旅游
+我喜欢和我的朋友一起去旅游
+下个星期我们家要去美国旅游
+经验
+他的工作经验不多
+他的旅游经验很多
+次
+这件事情我说了三次了
+我们公司每周都开一次会
+快乐
+旅游是一件很快乐的事情
+生日快乐
+这是给你的礼物
+最
+我最喜欢的人是我爸爸妈妈
+离我家最远的商店要走一小时
+有名
+这是这儿最有名的饭馆
+我家附近的海边很有名
+放假的时候常常很多人来玩儿
+飞机
+从美国到中国要坐十几个小时的飞机
+我常坐飞机去旅游
+听说
+听说你去过中国很多次
+我听说你弹吉他
+高兴
+很高兴你也喜欢日本菜
+我太高兴了
+旅馆
+你去旅游的时候喜欢住哪种旅馆
+旅馆在哪里
+纪念品
+你会买纪念品给你家人吗
+外国人常到这里来买纪念品
+计划
+你计划去哪几个国家旅游
+他今年有一个旅游的计划
+习惯
+你习惯吃哪国菜
+我刚到这里的时候
+不习惯的事有很多
+去年
+你去年去过哪些国家
+去年她在日本
+回国
+他二月三日回国
+你什么时候回国
+打算
+我打算三点去图书馆看书
+他打算三月回国
+北京
+我爸爸的公司在北京
+他在那儿工作
+我们放假的时候打算去北京玩儿
+外国
+我跟我的朋友放假要去外国旅游
+外国的饭馆都很贵
+可是很好吃
+只
+放假的时候
+他的家人只喜欢在家休息
+我只喜欢去这家饭馆吃饭
+后天
+因为他后天要去北京工作
+所以明天晚上我们一起去酒吧喝酒聊天吧
+你后天有空吗
+女朋友
+我的女朋友是美国人
+我的女朋友后天要回国了
+走
+真舍不得你走
+要常回来看我们
+他要走了
+你去说再见吧
+舍不得
+我们舍不得你回国
+我爸爸妈妈舍不得我到外国去学习
+同学
+我汉语课的同学是美国人
+我同学已经在图书馆等我们了
+想
+他到中国去工作三年了
+他的家人都很想他
+我女朋友回国了
+我很想他
+写信
+你回国以后要常写信给我
+我很喜欢写信
+看电视
+搭
+从美国搭飞机到中国要十三个小时
+我们要一起搭飞机到日本去玩儿
+回来
+已经很晚了
+你妹妹怎么还没回来
+我爸爸刚从美国回来
+天气
+今天天气不错
+我们要不要一起出门去玩儿
+昨天的天气不好
+很冷
+我们都在家里没有出门
+冷
+今天外面很冷
+早一点儿回来
+北京的天气很冷
+因为开车出门不方便
+所以很多人都搭地铁
+热
+天气很热
+我们去游泳吧
+我有一点儿热
+你可以给我一点儿水吗
+滑雪
+放假的时候
+我都跟我的家人去日本滑雪
+滑雪不难
+可是很累
+游泳
+天气很热的时候
+我们都喜欢去游泳
+我游泳之后都会吃很多东西
+下雪
+外面下雪了
+真漂亮
+因为下雪的时候
+开车不方便
+所以很多人会坐地铁上班
+舒服
+今天的天气不冷也不热
+很舒服
+他今天不来上汉语课
+因为他可能不太舒服
+岁
+你是几岁开始学中文的
+你几岁开始旅游
+高
+你的家人都比你高吗
+这个大楼比那个大楼高吗
+那么
+为什么你的中文说得那么好
+为什么你那么喜欢中国菜
+胖
+哪个比较胖
+哪个比较不那么胖
+矮
+弟弟比较矮
+哥哥没有弟弟那么矮
+瘦
+瘦的人健康吗
+你家人没有你那么瘦吗
+长
+那条路不长
+他学中文的时间很长
+头发
+他的头发很长吗
+他的头发没有我的那么长
+医生
+我今天不舒服
+我想我得去看医生
+我想做医生
+生病
+他生病了
+所以今天不来上班
+我昨天生病了
+看病
+我跟我妹妹今天都不舒服
+所以我们下午的时候就一起去看病了
+我们打算今天下午去看病
+听说那个医生很有名
+可是很早就休息了
+药
+这个药每天上午
+中午
+晚上都要吃一次
+医生说吃完饭要吃药
+身体
+我爸爸的身体不太好
+所以他常常生病
+从外国回来以后
+我的身体很好
+所以不要担心
+水果
+你生病要多吃点儿水果
+我喜欢吃水果
+也喜欢吃蔬菜
+蔬菜
+谁都喜欢吃蔬菜水果
+他不太吃蔬菜
+所以常生病
+医院
+医院离我家不近
+坐公交车要一小时
+我们这个周末打算去医院看我们的朋友
+他因为生病所以住院了
+请假
+我们后天要去旅游
+所以我要请假
+生病了就请假在家里休息
+一
+我有一个弟弟
+今天是星期一
+一点儿
+今天有一点儿累
+水果有一点儿贵
+七
+这有七个人
+他七点钟才下班
+三
+我每天喝三杯咖啡
+那三杯黑咖啡都是我的
+上
+桌上有一本书
+桌上有二十多本书
+下
+窗下有一只猫
+我们一起下去搭公交车吧
+不
+我不吃牛肉
+弟弟不把衣服挂在衣柜里
+九
+我的爸爸有九个姐姐
+明天九点从家里出发
+了
+这件衣服太贵了
+我工作一天了
+现在我只想睡觉放松
+二
+昨天星期二
+这是一张二手沙发
+但是看起来很新
+五
+我家有五口人
+这个包是爸爸送给我的
+我已经用了五年了
+人
+你是挪威人吗
+这个男人很有魅力
+大家都很喜欢他
+什么
+这是什么
+在你们国家
+什么东西代表着幸运
+会
+我会说一点儿汉语
+你几点会做饭
+儿子
+我的儿子叫王阳
+我对儿子的教育十分操心
+八
+我有八本中文书
+我已经说得很明白了
+今天八点见
+为什么你还是迟到了
+六
+中国人喜欢数字六
+我早上六点起床
+写
+我会写我的中文名字
+这个字我写错了
+几
+你要几个苹果
+这几年世界各地的天气都反常
+前面
+我家前面是咖啡店
+前面有车祸
+快点报警
+十
+一瓶水十元
+我今天要跟朋友去演唱会
+大概晚上十点回来
+去
+昨天我没去学校
+他为什么这么排斥去海边
+号
+我的鞋是二十四号
+我的生日是二月十八号
+后面
+学校后面是山
+在我家后面以及右边都有新的大楼
+吗
+你好吗
+你是老师吗
+听
+我喜欢听音乐
+过马路的时候玩手机
+听音乐都很危险
+呢
+我要喝咖啡
+你呢
+身体健康比工作重要
+你觉得呢
+哪
+哪杯咖啡
+哪儿
+你想把画挂在哪儿
+我想把画挂在这儿
+我忘了我把刚刚买的衣服放在哪儿了
+四
+中国人不喜欢数字四
+她的体温只有三十四度
+回
+我晚上九点回家
+我想要自由地在国外生活一年再回国
+在
+我有时候会待在图书馆里看书
+你要待在房间里面多久
+多少
+这个多少钱
+你的水瓶能装多少水
+太
+这件衣服太贵了
+这附近交通不太方便
+我想换房子
+她
+她的手机很好
+她唱得不错
+字
+写汉字不太难
+汉语老师教我们怎么写字
+小
+我要小杯的绿茶
+我家很小
+没有厨房
+小姐
+张小姐
+您好
+工作压力很大的黄小姐
+常常在假日去大自然度假
+放松自己
+工作
+我的工作是医生
+他根本没有工作经验
+我觉得他在骗人
+年
+今年是羊年
+新年快乐
+干杯
+很
+我今天很累
+他有很多法国朋友
+怎么样
+今天晚餐吃牛肉
+怎么样
+你觉得这座城市的环境怎么样
+我们
+我们是姐妹
+我们有一只狗
+他叫来福
+时候
+七月的时候
+我去新加坡
+你什么时候去看电影
+有
+他有很多法国朋友
+我今天晚上没有空
+本
+这是一本旅游杂志
+我忘记带写字的本子了
+没有
+我没有妹妹
+我没有时间做晚饭
+点
+现在是五点十分
+你中午几点休息
+电视
+我家没电视
+有时候爸爸会打开电视看篮球比赛
+的
+她的名字是玛丽
+我的老师不是中国人
+米饭
+我喜欢吃米饭
+苹果
+我喜欢苹果口味的甜食
+这颗苹果的表面很漂亮
+读
+读中文书不太难
+熬夜读书对身体不好
+这
+这是我妈妈
+这本杂志卖得很好
+都
+他们都是我的朋友
+她笑起来很漂亮
+大家都很喜欢她
+里
+我的包里有一瓶水
+谁扔了冰箱里的鸡蛋
+饭店
+这是一间新开的饭店
+这家饭店的菜是具有代表性和地方特色的菜
+特别
+你是哪国人
+你的名字真特别
+他喜欢看特别的电影
+演唱会
+你今天晚上要跟我们一起去演唱会吗
+我们坐公共汽车去演唱会
+大家
+虽然美美不漂亮
+但是大家都很喜欢她
+大家都觉得这首歌很好听
+开心
+可以跟你一起逛街
+真开心
+今天是他的生日
+但是为什么他看起来不太开心
+跳舞
+我们一起唱歌跳舞吧
+昨天我跟他去酒吧跳舞
+真好玩儿
+有名
+这附近有一间有名的饭馆
+这位歌手唱歌唱得很好听
+但是他不有名
+歌手
+这位歌手很有名
+他的爸爸是一位歌手
+元
+搭地铁比搭出租车便宜
+车票只要五十元钱
+一共是伍佰元钱
+好像
+好像快下雨了
+我们回家吧
+这个演唱会好像很好玩
+干杯
+新年快乐
+干杯
+我们来干杯吧
+待
+我有时候会待在图书馆里看书
+你要待在房间里面多久
+放松
+我工作一天了
+现在我只想睡觉放松
+这周末我们去逛街放松
+好吗
+毕业
+我毕业以后
+打算回国
+我明年六月毕业
+交往
+我听说他们交往了
+大家都想跟美美交往
+曾经
+虽然她曾经很喜欢李强
+但是现在她跟一成在交往
+他曾经是一位老师
+马上
+我到了车站
+就马上打电话给你
+我得马上回家
+房间
+从我的房间可以看见外面漂亮的风景
+我家有四个房间
+阴天
+今天是阴天
+明天不会下雨
+是阴天
+厨房
+妹妹在厨房里做菜
+我家很小
+没有厨房
+蛋糕
+这是我买给你的生日蛋糕
+这个店的蛋糕很有名
+很好吃
+饿
+他吃了好几个蛋糕了
+他可能很饿
+我不怎么饿
+牛奶
+我要去超市买牛奶
+他不喝牛奶
+出去
+待在家真无聊
+我要出去逛街
+外面天气好冷
+大家都不想出去
+游戏
+你常玩手机游戏吗
+听说你很喜欢玩游戏
+安静
+因为我家附近车不太多
+所以很安静
+昨天晚上很安静
+我很早就去睡觉了
+公园
+你跟家人吃完晚饭后会去公园走走吗
+你喜欢去公园做什么
+发现
+我发现我新家附近有医院
+博物馆跟电影院
+太方便了
+我发现一个新的手机游戏
+过马路
+过马路的时候不要玩手机
+一边玩手机一边过马路很危险
+专心
+开车不专心会很危险
+专心做事
+不要一边上网
+一边做事
+危险
+过马路的时候玩手机
+听音乐都很危险
+一边玩手机一边过马路很危险
+新闻
+你看今天的新闻了吗
+我发现今天的新闻很有意思
+景点
+你最喜欢的景点在哪个国家
+很多景点我还没去过
+城市
+你去过的城市
+哪个最有意思
+我最喜欢的城市是热闹的城市
+建筑
+你觉得哪个国家的建筑最漂亮
+这里的建筑很有名
+季节
+你喜欢在哪个季节去旅行
+这个季节很舒服
+不太热
+夏天
+夏天的时候你常做什么
+夏天的时候我喜欢去海边
+排队
+这家店很有名
+常常需要排队
+夏天的时候
+海边附近的商店常常需要排队
+热闹
+你喜欢热闹的地方吗
+我想去热闹的地方旅游
+晒太阳
+你喜欢去海边晒太阳吗
+夏天的时候
+大家都喜欢去海边晒太阳
+甜食
+你常吃甜食吗
+我家附近有一家店有很好吃的甜食
+健康
+要是吃太多甜食
+会不健康
+要是你要健康的身体
+应该要多运动和少吃甜食
+垃圾食物
+我不常吃垃圾食物
+吃太多垃圾食物会不健康
+熬夜
+因为工作很多
+我每天都得熬夜
+太常熬夜身体会不健康
+去年
+去年夏天我常去海边晒太阳
+去年因为我有汉语考试
+所以我常熬夜学习
+爱
+我很爱看电影
+所以周末常跟朋友或家人去电影院看电影
+他不爱运动
+也不爱吃蔬菜水果
+所以身体不健康
+减肥
+要是你想减肥
+多吃健康的食物和多运动
+他觉得自己需要减肥
+因为吃太多垃圾食物
+胖
+我不爱运动
+也不爱吃蔬菜水果
+现在我胖了
+我的哥哥最近在减肥
+因为他觉得自己太胖了
+重要
+身体健康比工作重要
+你觉得呢
+这件事很重要
+你不能忘了
+留学
+现在有很多人想到国外去留学
+我的姐姐去年去中国留学
+认识很多中国朋友
+友好
+虽然我不太会说汉语
+但是我的中国朋友都很友好
+你是一个友好的人吗
+封
+我写了三封信给我的朋友们
+因为我很想我的爸爸妈妈
+所以我常写很多封信给他们
+筷子
+很多人不太会用筷子
+中国人常用筷子吃饭
+刀叉
+西方人习惯用刀叉吃饭
+我不习惯用刀叉吃饭
+我习惯用筷子
+西方
+我很喜欢西方的音乐
+可是我爸妈不喜欢
+现在很多西方人喜欢到中国来旅游
+口味
+中国菜和韩国菜的口味不一样
+我喜欢苹果口味的甜食
+差不多
+每个国家的麦当劳都差不多
+这家咖啡店和我家附近的咖啡店的咖啡口味差不多
+一样
+他跟他哥哥一样高
+中国菜和美国菜一样好吃
+风
+今天雨很大
+风也很大
+外面风有点儿大
+出门要小心
+预报
+你看明天的天气预报了吗
+我看天气预报了
+今天会很冷
+月底
+听说这个月月底会很冷
+每个月底我都会去学校考试
+湿
+湿冷的天气非常不舒服
+今天忘了带伞出门
+所以衣服都湿了
+干
+这儿的冬天很干
+没有那么冷
+这里的空气很干
+我觉得不舒服
+讨厌
+我讨厌下雨天
+因为去旅游不方便
+我的弟弟讨厌吃蔬菜
+只喜欢吃肉
+气温
+今天气温几度
+今天的气温很舒服
+不冷也不热
+冬天
+冬天的时候常常下雨
+出门很麻烦
+我讨厌冬天去旅游
+因为要带很多衣服
+打伞
+昨天我帮一位老太太打伞
+下雨了
+快打伞吧
+带
+我带你去附近的海边看看漂亮的风景吧
+她有时候会带两个可爱的女儿去公园玩
+欢迎
+我们明天要去海边玩
+欢迎你一起来
+这是我们的新同学
+大家一起来欢迎他
+搬
+我爸爸妈妈下个月要搬到博物馆旁边的大楼
+你打算什么时候要搬来北京住
+楼
+请拿这些鸡蛋给住在三楼的美美
+不好意思
+请问真真咖啡店在几楼
+邻居
+我的邻居是个中国人
+他有两个可爱的女儿
+虽然我的邻居八十岁了
+但是他还是每年去旅游
+帮忙
+虽然我很想帮忙
+但是我现在没空
+这几题好难
+我需要你的帮忙
+花
+我看见山上有很多蓝色的小花
+这个商店卖的花最美
+但是最贵
+扔
+谁扔了冰箱里的鸡蛋
+因为这些衣服太小了
+所以我把他们扔了
+衣柜
+我的衣柜太旧了
+我想买一个新的
+我帮我的邻居搬衣柜
+家具店
+我听说在地铁站附近有一家不错的家具店
+我最喜欢这家家具店
+他们的家具质量都很好
+床
+听说这家家具店卖的床不贵
+这张床睡起来很舒服
+重
+我的衣柜太重了
+得请人来帮我搬上去
+这张床太重了
+我一个人搬不上去
+需要
+如果你需要我帮忙
+什么时候都可以打电话给我
+我需要一个新的衣柜
+这个太小了
+发
+我妈妈昨天发了一封短信给我
+我很久没给家人发短信了
+短信
+我最近不方便接电话
+你给我发短信吧
+我明天下午要开会
+要是你有事
+就给我发短信
+质量
+这个包包的质量不错
+质量不错的东西会比较贵
+记
+上课的东西
+我都会记在本子上
+我把重要的事情记在本子上
+笔记本
+这是我新买的笔记本
+这本笔记本质量不错
+我也想买
+记得
+你记得今天是什么日子吗
+我不记得我什么时候开始学开车的
+如果
+如果这个周末你有空
+我们就一起出去走走吧
+如果你明天去家具店
+就给我发短信吧
+我也想买床
+建议
+如果你去北京玩
+我建议你去万里长城看看
+如果你想买质量好的床
+我建议你可以多去看看
+黑板
+老师写在黑板上的东西你都记在笔记本上了吗
+我看不到黑板上写的汉字
+方法
+要是你常忘了事情
+你会用什么方法试着记得
+你学习汉语的方法是什么
+挂
+你知道那里挂着什么吗
+你想把画挂在哪里
+画
+你想把画挂在哪儿
+我想把画挂在这儿
+这幅画很漂亮
+你喜欢吗
+客厅
+她家的客厅很漂亮
+他拿着水
+走到客厅了
+窗户
+我把画挂在窗户旁边
+把沙发搬到窗户边
+沙发
+可以帮我搬沙发吗
+这张沙发是你买的吗
+整齐
+这样看起来整齐多了
+请把杯子放整齐
+灯
+把画挂在灯下面
+这个灯坏了
+怎么办
+椅子
+帮我搬张椅子吧
+我拿太多东西了
+这张椅子坏了
+把它搬出去
+放
+我忘了我把刚刚买的衣服放在哪儿了
+我放了一个蛋糕在厨房的桌子上
+要是你饿了
+可以拿去吃
+鱼
+冰箱里的鱼是什么时候买的
+他拿了几条鱼给他的猫吃
+虾
+这些虾好大一只
+一定不便宜
+请你把这些虾放进锅子里
+煮
+这道菜真好吃
+请问是怎么煮的
+因为妈妈生病了
+所以今天晚上我煮晚餐
+牛肉
+听说这家饭馆的牛肉煮得很好吃
+所以很多人排队
+今天晚餐吃牛肉
+怎么样
+羊肉
+你运动完后
+可以帮我去超市买羊肉吗
+今天好冷
+晚上我们来吃羊肉火锅吧
+做法
+这苹果派的做法不难
+你可以上网找找
+你记得这道菜的做法是什么吗
+桌
+去年新年我们家煮了一桌好吃的菜
+你们昨天晚上做了什么
+怎么有一桌的垃圾
+原因
+明天他就要回国了
+原因是他妈妈生病了
+我这次迟到是有特别的原因
+夹
+中国人和日本人都习惯用筷子夹菜吃
+可以帮我夹一些菜吗
+装
+我装了一些牛奶在杯子里
+你装了什么在锅子里
+打开
+今天天气真好
+我们把窗户打开
+晒晒太阳吧
+有时候爸爸会打开电视看篮球比赛
+拿
+请把我的水瓶拿给我
+谢谢
+你手上拿的东西是什么
+行李
+请问我可以带多重的行李
+请问你的行李几公斤
+口袋
+安全检查的时候
+请把口袋里的东西拿出来
+我常把重要的东西放在口袋里
+水瓶
+安全检查的时候
+不能把水瓶带进去
+你的水瓶能装多少水
+钱币
+你喜欢搜集你去过的国家的钱币吗
+我昨天买东西的时候
+店员给我很多钱币
+护照
+出国前
+不要忘了带护照
+我忘了我的护照放在哪里
+请帮我找一找
+钥匙
+出门以前记得要带钥匙
+我忘了我把钥匙放在哪里
+签证
+我的护照跟签证都在口袋里
+出国以前要检查你的护照和签证有没有问题
+机场
+出国前要早两到三个小时到机场
+从你家到机场远不远
+看到
+昨天我在公园里看到他在打球
+你多久没看到他了
+久
+他什么时候回来
+他出去很久了
+很久以前我去过日本旅游
+大概
+他好像很不舒服
+大概是生病了
+我今天要跟朋友去演唱会
+大概晚上十点回来
+这么
+虽然他住在北京这么久了
+但是还是会迷路
+你不是要去朋友家吃火锅
+怎么这么快就回来了
+一定
+要是你每天练习汉语
+不久以后一定可以说得很好的
+要是你不早点睡
+明天一定会迟到
+接
+我刚刚没接到他的电话
+我在做饭
+你可以帮忙接电话吗
+空
+你家还有没有空的房间
+我家已经没有空房间了
+房东
+我不喜欢我的房东
+因为我有问题的时候他都不帮我
+我的房东常常自己开门进来
+我该怎么办
+房客
+我房间旁边的房客是大学生
+我楼上的房客晚上常常唱歌
+我都不能睡觉
+交通
+这附近的交通方便吗
+这附近交通不太方便
+我想换房子
+帮助
+你有什么问题我都可以帮助你
+昨天我的房东帮助我把床搬上去
+合适
+我最近想换房子
+你家附近有没有合适的空房子
+我帮你问问我朋友这附近有没有合适的空房子
+换
+我想换一间交通比较方便的房子
+我没有硬币了
+可以去银行换钱吗
+间
+听说那间房子交通很方便也很便宜
+这间房间很大也很安静
+吵
+这间房子在火车站附近
+所以很吵
+大家都不喜欢住在很吵的地方
+其他
+我觉得这间房子不够大
+我想看其他间
+他没有其他朋友
+平常
+他平常都自己做饭
+我平常不去很贵的餐厅
+洗手间
+这间房子的洗手间很大
+这间学校没有很多洗手间
+文化
+用筷子吃饭是中国的文化
+每个国家的文化都有不一样的特色
+相信
+你不应该相信他
+他说的话都不是真的
+我相信我会把汉语学好
+机会
+看中国电影是学习汉语的好机会
+我很开心有机会到中国去工作
+复习
+你每天复习汉语吗
+老师说我们应该要每天复习汉语
+下次
+我们下次一起去看京剧吧
+下次我想去北京旅游
+懂
+老师说的话
+你都懂吗
+我看不懂这部电影的意思
+自己
+我常自己一个人去旅游
+放假的时候
+我喜欢自己在家看书
+京剧
+我的房东觉得京剧很有意思
+京剧是中国很重要的文化
+表演
+你看楼下有一个表演
+看起来很热闹
+她表演得很好
+精彩
+这个演唱会非常精彩
+这么精彩的表演
+下次我还要来看
+怎么了
+怎么了
+你的身体不舒服吗
+你昨天怎么了
+为什么没来学校
+吵架
+因为他们的做法不一样
+所以吵架了
+你知道他们吵架的原因是什么吗
+脸色
+她生病了
+所以脸色不太好
+你的脸色看起来不错
+发生了什么好事吗
+男朋友
+我的男朋友现在在国外工作
+我非常想他
+她的男朋友虽然胖
+但是比你高得多了
+哭
+他的女儿因为太饿
+所以哭了
+他已经跟你说对不起了
+你不要再哭了
+谈一谈
+你看起来很难过
+要跟我谈一谈吗
+跟我们谈一谈昨天的英语课吧
+难看
+你的脸色真难看
+要不要休息一下
+你写的字好难看
+你要多练习
+发生
+为什么你们都不跟他说话
+可以告诉我发生了什么事吗
+要是你不专心过马路
+危险的事就会发生
+误会
+你们误会他了
+他没有迟到
+对不起
+我们误会你了
+电脑
+这台电脑是谁的
+你知道吗
+我想买电脑
+你有什么想法
+台
+这台电视是他的
+但是坏了
+他买了一台电脑
+是新的
+打折
+今天百货公司在打折
+打折以后是三百人民币
+陪
+今天谢谢你陪我回家
+今天天气很好
+他陪我走去学校
+银行
+我明天会把钱拿去银行
+今天早上我去银行
+发现银行没开门
+父母
+这是我的父母
+他们第一次来这间餐厅
+我的父母一直都很忙
+我们很少一起吃饭
+百货公司
+明天一起去百货公司看看
+这间百货公司有很多日本商店
+冰箱
+冰箱里有很多牛奶
+你可以喝
+明天下午要去百货公司买冰箱
+二手
+这是一张二手沙发
+但是看起来很新
+在哪里可以买二手冰箱
+原来
+我原来的电脑坏了
+所以买新的
+原来放在这里的冰箱去哪里了
+轻松
+他的工作很轻松
+他觉得夏天旅游比冬天旅游轻松多了
+出发
+明天九点从家里出发
+你要几点出发去公司呢
+历史
+这座城市有许多历史古迹
+你听过哪些历史故事
+现代
+你了解现代艺术吗
+这座城市有很多现代风格的大楼
+市中心
+明天十点我们出发去市中心
+他家住在市中心里
+禁止
+这里禁止吃东西
+公车里禁止大声说话
+逛
+我最喜欢出门逛逛
+明天我会去市场逛逛
+风格
+这件衣服有中国的风格
+我很喜欢现代风格的大楼
+当然
+我们可以谈一谈吗
+当然
+我们当然要去美美的生日会啊
+迷路
+因为我迷路
+所以迟到了
+他昨天在百货公司里迷路
+上车
+上车吧
+我开车带你去公司
+他上车以后发现坐错车了
+晴天
+你喜欢晴天还是雨天呢
+今天是晴天
+我们一起去走走吧
+来不及
+来不及了
+快一点儿
+要迟到了
+上班来不及了
+快上车
+然后
+煮火锅的方法不难
+先把火打开
+再把蔬菜
+肉放进去锅子里
+然后等一会儿就可以吃了
+我喜欢先喝汽水跟汤
+然后再吃饭
+赶快
+我们赶快走吧
+要下雨了
+你看
+公共汽车来了
+赶快跑
+下车
+你下车以后
+往右拐
+医院就在那儿
+赶快下车
+大家都在等你呢
+急
+这件事很急
+我今天一定要做完
+今天早上太晚起床
+急得把衣服穿错了
+弄
+妈妈弄了一碗面
+她把画弄坏了
+坏
+他把东西弄坏了
+妈妈很生气
+这台电脑坏了
+已经不能用了
+生气
+他看起来很生气
+发生什么事了
+东西坏了
+他很生气
+不小心
+我不小心把东西打破了
+他不小心弄坏了椅子
+妈妈很生气
+搬家
+我昨天刚搬家
+现在想去二手商店买一些东西
+谢谢你帮我搬家
+我请你吃东西吧
+请客
+今天我请客
+你想吃什么呢
+他昨天请客吗
+你们去哪间餐厅吃呢
+整理
+把房间整理好
+就可以吃晚餐
+你赶快整理东西
+妈妈要回家了
+扫地
+他喜欢扫地和整理房间
+弟弟每个星期都帮妈妈扫地
+打破
+他把我最喜欢的杯子打破了
+整理房间的时候
+他不小心打破了东西
+丢
+我的手机丢了
+我好难过
+他怕丢钱
+出事
+出事了
+快打电话回家
+为什么都不接电话
+是不是出事了
+奇怪
+真奇怪
+今天他没有来上班
+今天的天气很奇怪
+刚是雨天
+现在是晴天
+糊涂
+你真糊涂
+手机不是在你的包包里吗
+我的弟弟很糊涂
+常忘了带钱包出门
+不见
+我的手机不见了
+快帮我找一找
+我买的鱼怎么不见了
+难过
+我最喜欢的杯子被打破了
+我很难过
+我的手机不见了
+所以我很难过
+好在
+好在你找到了手机
+没有手机真不方便
+好在我今天没出门
+外面现在下大雨
+别急
+别急
+时间还没到呢
+你可以慢慢来
+别急
+你的汉语会慢慢进步的
+小偷
+我看到小偷跑了
+快打电话给警察
+昨天我家的东西都让小偷给偷了
+偷
+我家的电视让小偷给偷了
+我放在桌上的电脑被偷了
+戴
+那个人戴着红色的帽子
+走得很快
+太奇怪了
+如果不戴眼镜
+我看不到老师写在黑板的字
+背
+我背了太多东西
+好重
+你可以帮我吗
+今天我哥哥背着昨天买的新书包
+帽子
+这是我最喜欢的帽子
+是我妈妈送给我的
+我每天都戴着帽子去上课
+眼镜
+这副眼镜
+很漂亮
+我很喜欢
+放在洗手间的眼镜是谁的
+背包
+这个背包是爸爸送给我的
+我已经用了五年了
+这个背包很大
+能装很多东西
+鞋
+明天你陪我去百货公司买鞋吧
+穿这双鞋去公司不太合适
+衬衫
+这件衬衫我在百货公司买的
+我真糊涂
+今天穿错衬衫去公司
+裤子
+这件裤子被他弄破了
+妈妈很生气
+我昨天整理房间的时候
+发现小时候穿过的裤子
+双
+这里有好多鞋子
+你喜欢哪一双鞋呢
+这双筷子是我在北京买的
+跑
+公共汽车要来了
+快跑
+上班来不及了
+晴天的时候
+我喜欢到我家附近的公园跑一跑
+警察
+我迷路了
+好在有警察的帮忙
+警察先生
+请问这附近的历史博物馆在哪儿
+怪不得
+原来今天是他的生日
+怪不得他这么开心
+我昨天喝酒喝太多
+怪不得今天早上头痛
+左右
+我昨天十二点左右才睡
+我学了三个月左右的汉语
+比赛
+今天晚上是足球比赛
+你要一起看吗
+明天晚上比赛才开始
+下班以后一起去酒吧看吧
+赢
+我最喜欢的球队赢了
+我太高兴了
+我相信他们一定会赢
+进球
+是他踢进球的
+真的是太厉害了
+进球了
+我们赢了
+秃
+他的头有点儿秃
+但是很帅
+我的爸爸头有点儿秃
+魅力
+这个男人很有魅力
+大家都很喜欢他
+他笑起来很有魅力
+球星
+这是我最喜欢的球星
+他很厉害
+虽然这位球星不高
+可是非常有魅力
+经过
+昨天经过学校的时候
+我看见美美在打篮球
+我每天去学校都会经过一家很漂亮的咖啡店
+圆
+这张桌子是圆的
+我很喜欢
+他的脸圆圆的
+很好看
+丈夫
+那位穿白衬衫的是我的丈夫
+我的丈夫是导游
+位
+那位戴红色的帽子的男生是我的弟弟
+今天有几位同事要一起去看电影呢
+眼睛
+他的眼睛圆圆的
+很漂亮
+他的眼睛是蓝色的
+妻子
+我的妻子喜欢吃蛋糕
+我的妻子是长头发
+脸
+这位脸红红的
+笑得很开心的是谁
+你的脸怎么了
+个子
+爸爸的个子高高的
+脸胖胖的
+他的个子好高
+先生
+我的先生在医院工作
+这位先生瘦瘦的
+头发长长的
+差不多
+从我家到历史博物馆走路差不多十分钟
+你的哥哥跟你差不多高
+厉害
+他学汉语才三个月
+就这么厉害了
+你很厉害
+这么难的汉字都会写
+听力
+我的听力不好
+也很怕跟中国人说话
+你平常怎么练习听力的
+努力
+因为想去中国
+所以他每天都努力学习汉语
+每天努力学习
+多练习就会很厉害了
+进步
+你的汉语怎么进步这么快
+跟谁学的
+每天努力学习
+就会进步很快了
+不要担心
+紧张
+你不要紧张
+妈妈很快就会来接你了
+我每次跟中国人说话都会紧张
+你会吗
+难
+这个汉字很难
+我写了好久还是不会
+你觉得汉语难吗
+为什么
+容易
+这个汉字非常容易
+你一定也会写
+这个字真不容易写
+过
+你每天多看多听和多说
+过不久汉语就会进步了
+时间过得真慢
+现在才三点
+明白
+你听明白老师说什么了吗
+请再说一次
+我已经说得很明白了
+今天八点见
+为什么你还是迟到了
+认为
+在中国认为八是吉利的数字
+所以大家都喜欢
+你认为在哪儿学汉语最好
+吉利
+我很喜欢九
+因为长长久久
+听起来很吉利
+妈妈认为打破杯子很不吉利
+发财
+他每天只想着发财
+但是不努力工作
+在中国
+数字八听起来就跟发财的意思是一样的
+数字
+你看得到那张纸上的数字是三还是二吗
+我最喜欢数字九
+你喜欢那个数字呢
+意思
+你知道这个汉字的意思吗
+请说一说
+你明白他说的意思吗
+友谊
+你认为友谊重要吗
+友谊对我很重要
+活
+这只猫活了十多年了
+到现在身体还很好
+中国人喜欢九
+因为希望活得很久
+约会
+你昨天跟女朋有去哪儿约会呢
+情人节你去哪儿约会
+预订
+你打电话预订餐厅了吗
+我已经预订餐厅了
+七点去接你
+餐厅
+这家餐厅在这座城市很有名
+我们今天去餐厅吃美食
+准时
+他每天都准时七点钟出门
+今天晚上八点请准时到百货公司门口
+笑
+她笑起来很漂亮
+大家都很喜欢她
+他很喜欢笑
+人也很好
+门口
+我在餐厅门口等你很久了
+你怎么还不来
+今天五点在银行门口见
+家
+这家餐厅的蛋糕很好吃
+这家百货公司的美食很有名
+情人节
+你知道中国的情人节是几月几号吗
+今天是情人节
+我们去吃饭吧
+一下儿
+因为今天你生日
+所以我们去酒吧庆祝一下儿吧
+你等一下儿
+我现在就从百货公司出来
+庆祝
+今年的生日
+你想要怎么庆祝呢
+我找到工作了
+一起出来庆祝吧
+同事
+这是我的新同事
+他是中国人
+今天我和同事一起去酒吧庆祝生日
+找到
+我找到新工作了
+明天就开始上班
+我好不容易找到这张特别的椅子
+别再弄坏了
+恭喜
+恭喜你买到最喜欢的电脑了
+恭喜你找到工作了
+下班
+今天下班后
+我们一起去百货公司吧
+你昨天下班以后
+去了哪里
+环境
+这间公司的环境很好
+我很喜欢
+你觉得这座城市的环境怎么样
+导游
+他的工作是导游
+导游的工作不容易做
+美食
+我喜欢吃美食
+你喜欢吃美食吗
+读书
+熬夜读书对身体不好
+我喜欢在图书馆读书
+家里太吵了
+杂志
+我的妈妈喜欢读健康杂志
+这本杂志卖得很好
+躺
+我有点儿不舒服
+我躺下来休息一会儿吧
+别躺着用手机
+对身体不好
+睡着
+昨天上课的时候
+我不小心睡着了
+今天喝太多咖啡
+凌晨三点才睡着
+咳嗽
+医生
+我有点儿咳嗽
+我咳嗽得很厉害
+结果
+我今天喝太多茶了
+结果晚上都睡不着
+我昨天熬夜念书
+结果今天迟到了
+整个
+因为今天要考试
+我昨天整个晚上都在念书
+她整个月都不在中国
+糟糕
+真糟糕
+我忘记带钱
+不能买晚餐了
+他迟到了
+真是太糟糕了
+感动
+他收到你的礼物
+一定会很感动
+谢谢你的蛋糕
+我太感动了
+遗憾
+没和他一起去中国玩
+我觉得有点儿遗憾
+来到中国
+没吃到美食
+真是太遗憾了
+见面
+明天一点在银行门口见面
+不要忘了
+我跟他约在百货公司见面
+聚会
+他的生日聚会你会来吗
+下个星期天
+我有一个聚会
+联系
+我跟他已经三年没有联系了
+要记得联系大家
+下个星期天到餐厅聚会
+抱歉
+非常抱歉我迟到了
+这一餐我请客
+真是抱歉
+弄坏你的画
+准备
+他的生日会你都准备好了吗
+今天的晚餐我都准备好了
+惊喜
+我想要给他一个生日惊喜
+好久不见
+没想到你会来
+真是让我太惊喜了
+钱包
+我的钱包不见了
+快帮我找一找
+这是我新买的钱包
+很漂亮吧
+颜色
+这件衣服有很多颜色
+你想要哪一种颜色
+这张桌子有三种颜色
+你想要哪种
+服务台
+你去服务台问一问
+有没有人看见你的钱包
+我把东西放在服务台
+你晚一点去拿
+证件
+我的钱包里有证件还有信用卡
+你的钱包里面会放证件吗
+现金
+你有现金吗
+还是要用信用卡买东西呢
+出门要记得带现金
+买东西比较方便
+拿走
+我的电脑被妹妹拿走了
+今天不能写作业了
+这件衣服不要拿走
+我等一会儿要穿
+信用卡
+你喜欢用现金买东西
+还是用信用卡
+我有三张信用卡
+但是每张都不能用
+收到
+你收到我寄给你的礼物了吗
+今天我收到他寄给我的照片了
+地址
+我不知道你家的地址
+你可以写给我吗
+我写错他家的地址了
+所以他没有收到信
+寄
+我想把这张照片寄给在外国工作的爸爸
+今天下午我会把信寄出去
+包裹
+这个包裹是谁的
+放在这里已经十天了
+你收到我寄给你的包裹了吗
+毛衣
+这件毛衣你穿起来一定很好看
+这件毛衣太小件了
+试
+我这里有一台新的电脑
+你要不要试试看
+这件裤子我试穿了
+我非常喜欢
+盒子
+这个盒子很漂亮
+你可以给我吗
+这个盒子里面有什么
+注意
+你要注意身体
+早点儿睡觉
+过马路的时候
+要注意有没有车
+照顾
+爸爸生病了
+我要回家照顾他
+你要自己照顾自己
+不要让妈妈担心
+精神
+你看起来精神不好
+发生什么事了
+他每天都运动
+所以看起来精神很好
+体力
+他的体力很好
+游泳游了三个小时也不会累
+他每天吃很多东西也不运动
+所以体力很差
+影响
+不要让其他事影响到你的心情
+每天精神不好
+已经影响到我上课了
+作业
+我今天的作业很多
+已经写了三个小时了
+还没写完
+你会写今天的汉语作业吗
+我觉得很难
+功夫
+我最近想学功夫
+你有什么建议吗
+起来
+你快起来
+不要一直睡觉
+我今天下午才起来
+因为昨天太晚睡了
+希望
+希望你的汉语越来越好
+希望你回家以后
+快写作业
+趁
+我要趁妈妈不在家的时候
+把房子整理好
+我要趁他不在中国的这些日子
+好好学习汉语
+日子
+非常谢谢这些日子
+有你的照顾
+你去中国旅行的这些日子
+这里发生了很多事
+继续
+我回到美国后
+还要继续学习汉语
+等我吃完饭了
+再继续写作业
+这样
+我们一起去买菜吧
+这样也可以一起做饭
+他有你这样的朋友
+一定很开心
+告别
+我要回美国了
+所以今天要向汉语老师告别
+我今天是来向你告别的
+因为明天我要去旅行了
+有的
+我喜欢美食
+但是有的食物我不喜欢吃
+我喜欢读汉语书
+但是有的字我不认识
+所以看不懂
+送
+我的老师要回中国了
+我们去机场送他
+今天我爸爸送我来学校
+向
+他向我学习英语
+我向他学习汉语
+你很会做菜
+我可以向你学习吗
+欢送会
+因为他要回国了
+所以这个周末有一个欢送会
+我想为他办一场欢送会
+你想一起来吗
+结婚
+我明年要结婚了
+现在的年轻人很晚结婚
+完全
+他完全不会说汉语
+他完全不知道我在说什么
+倒
+杯子被妹妹弄倒了
+我不小心跌倒了
+传说
+今天老师告诉我们中国很有意思的传说
+中国每一个节日都有传说
+建
+图书馆旁边建了一个新的大楼
+我买的新房子建好了
+抓
+小偷被警察抓到了
+他去海边抓鱼
+全国
+全国都在庆祝新年
+全国的大学都在考试
+长城
+中国最有名的是长城
+大家都在排队看长城
+故事
+睡觉以前妈妈都会说故事给我听
+这个故事听起来很有意思
+一下
+等一下
+我去拿手机
+这个问题虽然比较愚蠢
+但是我还是要问一下
+也
+我有一本书
+他也有一本书
+他不睡觉也不吃饭
+再
+再见
+请您再说一次
+出
+出口在哪儿
+我得出门去上课
+别
+别说话
+大家都睡了
+别急
+时间还没到呢
+你可以慢慢来
+卖
+我们不卖酒
+这本杂志卖得很好
+可以
+我可以去厕所吗
+你可以教我怎么说英语吗
+右边
+地铁站右边有一间饭店
+在我家后面以及右边都有新的大楼
+吧
+我们一起吃中饭吧
+这是我的学校
+很漂亮吧
+因为
+所以
+因为他后天要去北京工作
+所以明天晚上我们一起去酒吧喝酒聊天吧
+北京的天气很冷
+因为开车出门不方便
+所以很多人都搭地铁
+外
+门外有一只狗
+外面下雪了
+真漂亮
+女
+王铎是女生的名字吗
+你昨天跟女朋有去哪儿约会呢
+它
+它三岁
+名字叫小黑
+这张椅子坏了
+把它搬出去
+完
+我写完作业了
+这件事很急
+我今天一定要做完
+宾馆
+师傅
+我要去你好宾馆
+对
+你是大卫
+对吗
+对了
+他昨天告诉我他不来学校
+左边
+我家的左边是银行
+往
+往前走
+第二个路口左拐
+请往这边走
+有更多的商品可以看
+您
+您好
+这是我的名片
+今天下午我给您发送了一封邮件
+不知道您收到了吗
+手表
+我的手表不见了
+我不喜欢收藏手表
+打篮球
+星期天我都去公园打篮球
+你打篮球吗
+找
+找您五毛
+谢谢
+我忘了我的护照放在哪里
+请帮我找一找
+教室
+这间教室不大
+教室里有二十个座位
+早上
+我早上六点起床
+明天早上我们要去故宫参观
+晴
+昨天是晴天
+晴天的时候
+我喜欢到我家附近的公园跑一跑
+正在
+他正在睡觉
+他正在争取出国念书的机会
+每
+我每天喝茶
+每个周末我都会跟朋友去打球
+比
+她不比我高
+你的家人都比你高吗
+洗
+吃饭前先洗手
+洗完菜以后
+下一步就是准备放到锅子里炒了
+火车站
+我的酒店旁边有火车站
+这间房子在火车站附近
+所以很吵
+玩
+我们常常一起去公园玩
+我觉得做饭很好玩儿
+男
+请问男厕在哪儿
+我的男朋友现在在国外工作
+我非常想他
+着
+今天我哥哥背着昨天买的新背包
+你知道那里挂着什么吗
+票
+我有两张电影票
+中国的车票很便宜
+离
+地铁站离学校三百公尺
+离我家最远的商店要走一小时
+穿
+穿红色衣服的人是我哥哥
+这件毛衣你穿起来一定很好看
+第一
+小志每天都第一个到办公室的人
+这是我的父母
+他们第一次来这间餐厅
+红
+红色的杯子不是小锦的
+那位戴红色的帽子的男生是我的弟弟
+虽然
+但是
+她的男朋友虽然胖
+但是比你高得多了
+虽然他住在北京这么久了
+但是还是会迷路
+西瓜
+我要去买西瓜汁
+你去不去
+让
+他常常忘东忘西
+让妈妈很生气
+这个工作不轻松
+让我从早忙到晚
+贵
+这件衣服都很贵
+但是质量很好
+这个东西真贵
+跑步
+我每天跑步六十分钟
+你跑步时听音乐吗
+踢足球
+他不会踢足球
+但是喜欢看足球比赛
+他踢足球的技术进步多了
+跟三年前完全不一样
+还
+这件裤子还有别的颜色吗
+你想住在山上还是海边
+进
+请进
+请坐
+我的房东常常自己开门进来
+我该怎么办
+铅笔
+可以借我一支铅笔吗
+错
+这个字我写错了
+我写错他家的地址了
+所以他没有收到信
+门
+请关门
+谢谢
+门外有一只狗
+问
+有没有问题
+你去服务台问一问
+有没有人看见你的钱包
+阴
+这个星期每天都是阴天
+明天不会下雨
+是阴天
+雪
+你看
+下雪了
+外面下雪了
+真漂亮
+零
+今年是二零一七年
+谁能想到他二零一一年的时候竟然意外死亡了
+面条
+面条是我们的主食
+我在中国上学的时候
+特别喜欢吃面条
+黑
+我喜欢这件黑色的衣服
+这个电影是黑色幽默类型的电影
+做梦
+我最近常常做梦
+梦见我在海边晒太阳
+同屋说我做梦时都会说梦话
+叫
+下个星期天把朋友们都叫来一起吃饭
+爸爸叫我多跟他们一起出去
+没错
+我想他喜欢吃面条和蛋糕
+没错
+你都说对了
+他喜欢吃面条和蛋糕
+你说的没错
+我明天就会搬出去住
+小看
+你不要小看他了
+他是会功夫的
+不能小看这一份工作
+虽然不难但是非常重要
+说定了
+就这么说定了
+这个星期六我们一起去海边
+说定了下一次同学会由你主办
+汤
+在冬天
+喝一碗热汤
+能让身体温暖
+我的拿手菜是西红柿汤
+露一手
+现在换你做饭了
+快露一手让我们看看
+他跆拳道国手
+可以叫他露一手给你看
+养
+妈妈做的饭很好吃
+把妹妹养得白白胖胖的
+我一直都很想养一只哈士奇
+终于
+我终于学会开车了
+弟弟终于会骑自行车了
+放心
+你就放心地去旅游吧
+我会好好照顾自己的
+请你放心
+我会照顾好自己的
+报名
+我已经报名学开车了
+这场活动的报名费很贵
+敢
+你敢吃辣吗
+我不敢一个人睡觉
+害怕
+我很害怕一个人开车
+他不好好学习
+所以害怕考试
+街道
+今天是假日
+街道上都没有人
+街道上有很多出租车
+辆
+他家有两辆汽车
+爸爸买了一辆新车
+驾照
+我才刚考到驾照
+我是去年拿到汽车驾照的
+原来
+我原来不喜欢吃辣
+现在渐渐地喜欢了
+我原来在北京工作
+但是现在在美国学习
+门票
+电影的门票一张是三百元
+请问一张门票多少钱
+费用
+今天晚上旅馆的费用是五百元
+在这李学习游泳的费用不太便宜
+保险
+我出国都会买保险
+保险虽然有一点儿贵
+可是在国外可以不用担心看病的费用
+游客
+中国每年都有很多游客来旅游
+这里的游客太多了
+我们下次来吧
+过期
+买东西的时候
+要看一看东西过期了没有
+这瓶牛奶已经过期了
+旅行社
+这家旅行社有很多旅游的地方
+我们去看一看吧
+这次旅游你打算去旅行社买机票还是上网买
+古迹
+中国有很多漂亮的古迹
+你有空的时候得去看一看
+我不喜欢念古迹的书
+可是我很喜欢去看古迹
+亚洲
+中国
+日本都在亚洲
+亚洲不但有很的古迹也有很多也有很多有特色的城市
+旅行团
+你这次跟旅行团一起去旅游吗
+我不喜欢跟旅行团去旅游
+我喜欢跟我的家人计划旅游以后一起去
+地点
+你想要约在哪个地点见面
+他们想选一个好的地点
+办一场派对
+欧洲
+欧洲的风景很漂亮可是也有很多小偷
+我喜欢去欧洲旅行
+因为那里有很多古老的古迹
+意大利
+我是从意大利来的学生
+我学习中文两年了
+很多去欧洲旅游的人喜欢去意大利
+因为气候很舒服
+不冷也不热
+德国
+德国的冬天很冷
+我不喜欢冬天去德国
+德国在欧洲
+从中国坐十小时的飞机就到了
+特色
+欧洲每个国家都很有特色
+你得自己去看看才知道
+中国的特色有很多
+万里长城就是之一
+安排
+下星期我安排了我们家人一起去欧洲旅游
+所以我想要请假
+麻烦你明天安排开会的时间从十点到十二点
+行程
+这次去德国的行程很短
+可是我们要去的地方很多
+所以路上要自己找时间多休息
+我不喜欢这次你安排的行程
+太赶太累了
+气候
+他不习惯这儿的气候
+太常下雨了
+今年的气候很奇怪
+因为夏天不应该这么冷
+比如说
+欧洲的国家有很多比如说
+德国
+意大利
+我的工作有很多比如说安排开会
+计划行程
+之一
+安排开会时间是我的工作之一
+去万里长城是我们的行程之一
+古老
+罗马是意大利一个古老的城市
+中国是一个古老的国家
+比如说万里长城几千年以前就有了
+参加
+我们要一起参加学校的活动
+我喜欢参加你们每个周末的行程
+比如说去爬山
+去唱歌还是去海边
+我都很喜欢
+西班牙
+夏天的时候
+我喜欢到西班牙去旅游
+我会说一点西班牙语
+合同
+请你看看这份合同有没有问题
+如果没有请你在这儿签你的名字
+这是我们公司的合同
+你可以看一看
+专业
+我是工程学专业毕业
+我有三年的工作经验
+我们公司需要专业的人来做这个工作
+通知
+如果公司要用你
+我们会再给你通知
+那家公司今天通知我下星期去工作了
+同意
+我爸妈同意我出国去读书了
+请你看一看这份合同
+如果你同意里面的工作
+请你跟我联系
+当
+我毕业以后
+当过老师也当过秘书
+我想当医生
+可是医科很难考
+我得努力读书才行
+消息
+他出国以后他妈妈都没有他的消息
+他很担心
+如果你见到他请他给他妈妈打电话
+我很久没有听到你的消息了
+你最近好吗
+烦恼
+看你每天都很累
+你是不是有很多烦恼
+他最近工作很忙
+事情很多
+问题也很多
+这些都让他烦恼得不得了
+发展
+这里交通方便
+所以发展得很快
+你不努力念书
+以后能有什么发展
+感冒
+最近很多人感冒了
+妹妹感冒了
+所以不去学校
+打针
+医生给我打针了
+我的狗很害怕打针
+严重
+她得了严重感冒
+要请两天假
+他不知道这件事是很严重的
+发烧
+她不但感冒
+还发烧
+哥哥昨天发烧到三十九度
+难受
+感冒了
+睡觉的时候也难受
+天气非常热
+我觉得很难受
+检查
+医生刚刚给我检查了身体
+老师在检查我的作业
+嗓子
+老师嗓子疼
+不太方便说话
+他生病了
+嗓子不舒服
+不能说话
+晚睡
+你最好别晚睡了
+对身体不好
+他喜欢晚睡
+不喜欢运动
+着急
+妹妹出国以后都没有跟我们联系
+爸妈都很着急
+希望妹妹赶快跟我们联系
+她的护照不见了
+她着急的不得了
+打工
+我打算下个月去超市打工
+赚一点儿钱
+你曾经在这家公司打工吗
+赚钱
+你为了工作赚钱看起来很忙也很累
+你是什么时候开始赚钱的
+学历
+最近这公司找了很多高学历的人进去工作
+如果想要找到好工作
+好学历很重要
+请
+我们公司因为事情很多决定要请两个人来帮忙
+夏天到了
+我们海边的工作要请个打工的人来帮忙
+简单
+学生的生活很简单
+不太需要但心太多事
+这件衣服的款式简单
+我很喜欢
+决定
+我决定毕业以后要继续念书不工作了
+我已经决定明天要去看什么电影了
+吃苦头
+大家都听老板的话
+没人想吃苦头
+你如果不听我的话
+一定会吃苦头
+做生意
+我爸爸在北京做生意
+每个月才回家一次
+做生意没有你想的这么容易
+有意义
+虽然这个工作钱不多
+可是对我是一个很有意义的工作
+你应该做一个对你有意义的工作
+这样才会快乐
+宅男
+我的男朋友是个宅男
+他不喜欢出门只喜欢在家看电视
+上网
+你觉得做什么事
+我们可以说他是宅男
+整天
+他整天都在工作
+等他回到家的时候大家都已经睡了
+他整天在家上网
+爱好
+我跟他有一样的爱好
+我们都喜欢旅游
+下次我们打算一起去中国旅游
+我的爱好是打乒乓球
+经常
+他经常排队买演唱会的门票
+我经常去那家饭馆吃饭
+外卖
+我今天晚上没有时间做饭
+我们叫外卖吧
+这里有很多饭馆都可以叫外卖
+享受
+放假的时候就是要好好享受才行
+我喜欢游泳
+享受夏天
+活泼
+他个性很活泼
+所以很容易交到新朋友
+我的狗非常活泼
+户外
+多去户外走一走
+这对你的身体很好
+放假时我们都会到户外走一走
+活动
+我们公司常常有很多活动
+希望大家都可以参加
+这个公园
+每个星期天都有活动
+假日
+我们假日的时候要不要一起去爬山
+假日的时候
+我总是和朋友去看电影
+同屋
+他是我的同屋
+他来自日本
+我和三个同屋一起住
+交
+他是我在中国第一个交到的朋友
+我喜欢交新朋友
+遇到
+我今天已经遇到他三次了
+我上个星期六在公园遇到他
+好巧
+好巧
+没想到会在这里遇到你
+好巧
+我们的名字都叫锺宛芸
+交换学生
+你也是今年到中国的交换学生吗
+我希望明年可以到加拿大当交换学生
+宿舍
+我今天才搬到宿舍
+我们的宿舍是六人房
+熟悉
+我对这里的路很熟悉
+我带你走吧
+热情
+他妈妈对做菜很有热情
+所以他每天都有很多好吃的菜可以吃
+穿着
+你的穿着很可爱
+你的男朋友一定会喜欢
+打扮
+我姐姐很喜欢打扮
+每天都要花三十分钟打扮自己才出门
+变
+天气变冷了
+你要多穿一点儿
+时髦
+这件衣服看起来真时髦
+一定很适合你
+感到
+看到你终于毕业了
+我感到很开心
+我感到孤独
+价钱
+去美国的机票价钱贵吗
+价钱高的东西
+不一定好
+假期
+下次假期我想去西班牙
+你要一起来吗
+我们下个月有十天的假期
+沙滩
+夏天的时候
+他喜欢在沙滩上晒太阳
+我最喜欢金黄色的沙滩
+游泳池
+我家附近有一个游泳池
+夏天的时候都很多人
+这间酒店有游泳池
+难忘
+你应该很久没有出国去玩儿了吧
+希望你有一个难忘的假期
+三年前在墨西哥的夏天
+是我最难忘假期
+南
+他家在中国的南部
+他一年回家一次
+法国南方是最多人去旅行的地方
+北
+北京在中国的北部
+墨西哥北部有非常大的沙漠
+东
+美国东部的城市有纽约
+华盛顿
+多伦多在加拿大的东部
+西
+美国的西南部有一个很漂亮的沙滩
+墨西哥西部有非常美的沙滩
+好处
+多喝水
+多运动对健康有好处
+这件事有好处也有坏处
+兴趣
+你有没有兴趣周末一起去健身房锻炼身体
+我对古典音乐没兴趣
+锻炼
+他常常生病
+应该多锻炼一下身体
+每天十个小时的锻炼
+他得到了这次的第一名
+健身房
+最近越来越多人发现身体健康很重要
+所以也越来越多人去健身房锻炼身体
+这家健身房的费用
+一个月五百人民币
+登山
+登山对身体很好
+虽然很累
+可是在山上可以看到漂亮的风景
+也可以运动
+是一个很好的户外活动
+气象报告说明天不适合登山
+选择
+现代人因为工作忙碌很多人都选择上健身房运动
+不到户外去运动了
+你有两个选择
+一是跟我们一起去看电影
+二是在家睡觉
+坏处
+你不要都往坏处想
+事情也有可能是好的
+听爸爸妈妈的话
+是没有坏处的
+坚持
+你一定要坚持把这个工作做完
+哥哥坚持每天锻链身体一个小时
+完成
+老师说只要完成今天的作业就可以下课了
+我今天下午三点就完成工作了
+必须
+如果想要买这个东西就必须努力工作赚钱
+星期天我必须去学校
+不过
+虽然我觉得生病应该多休息
+不过如果你已经觉得好多了
+就开始工作吧
+明天我可一跟你们一起吃晚餐
+不过我得先离开
+刚才
+你刚才说什么
+我没有听到
+可以请你再说一次吗
+我刚才买了一本书
+半夜
+他的工作常常要工作到半夜
+所以他每天看起来都很累
+昨天晚上半夜的时候
+我听到很多狗在叫
+应征
+我想要应征这份工作
+不知道有什么要求
+这份工作有非常多人来应征
+广告
+这家公司应征工作的广告已经在这儿一个月了
+看起来是还没找到适合的人
+你可以帮忙我们广告一下我们公司的新手机吗
+到处
+中国到处都是饭馆
+不怕找不到东西吃
+我的家到处都是狗毛
+容易
+对美国人来说想要学习汉语不容易
+除了得学习写汉字
+也得记得汉字怎么写
+从我家到机场很容易
+清楚
+我刚才没有听清楚你说什么
+可以再说一次吗
+我换了新眼镜
+看得非常清楚
+第一步
+应征工作的第一步是先看清楚应征工作的要求
+运动的第一步是暖身
+下一步
+洗完菜以后
+下一步就是准备放到锅子里炒了
+我旅行的下一步是哥伦比亚
+炒
+中国菜很多都必须要炒
+炒的方法有很多
+但是最常见的就是快炒
+这道菜在炒的时候
+我不小心放入太多的油
+西红柿
+西红柿是一种很健康的蔬菜
+墨西哥菜里用了大量的西红柿
+食谱
+我这里有一本中国菜的食谱
+你要拿去看一看吗
+这个蛋糕我是看食谱做的
+倒
+可以请你把水倒进去里面吗
+我倒茶给你喝
+油
+做中国菜的时候需要用到很多油
+有的人喜欢
+有的人不喜欢
+爸爸做菜时不喜欢加太多的油
+道
+这道菜是我最喜欢的菜
+很容易也很好做
+你试试看
+西班牙海鲜饭
+其实这道菜不难做
+油腻
+很多人觉得中国菜很油腻
+可是这是中国菜的特色之一
+吃完油腻的东西
+我都会喝茶
+盐
+你放太多盐了
+下次得放少一点
+这道菜很咸
+是不是放了很多盐
+清淡
+爸爸妈妈年纪大了
+吃清淡一点的东西比较好
+我喜欢吃清淡的菜
+不喜欢油腻的菜
+切
+切菜的时候要小心一点
+不要切到手了
+切肉和切水果不能用一样的刀子
+得
+你得的是感冒
+得吃三天的药才行
+在这次比赛中
+她得到了第三名
+症状
+感冒的症状有很多
+如果不舒服就要去看医生
+她有头疼和发烧的症状
+没事
+我听说你生病了
+还好吗
+没事
+没事
+没事
+只是有一点累
+体温
+你的体温有一点儿高
+是不是发烧了
+她的体温只有三十四度
+量
+你生病了
+要不要量体温看一看是不是发烧了
+中文的量词不太难
+我觉得很有趣
+没用
+虽然已经吃了一些药
+可是我觉得那些药没用
+我还是需要去看医生
+这些东西很没用
+不要乱买
+要紧
+我不要紧
+只是有一点儿难受
+请问她在吗
+我有要紧的是要跟她说
+必要
+他很忙
+如果没有必要的事就不要去吵他
+你没有必要为这件事生气
+耽误
+请问这个病很严重吗
+会不会耽误我去上班
+因为今天下大雨
+所以在路上耽误了一点时间
+站住
+小偷
+站住
+站住
+你怎么可以对妈妈说种些话
+办法
+我没有什么办法
+我们再想想吧
+这真是一个好办法
+了解
+我了解你的困难
+但是我不知道怎么帮你
+我的妈妈很了解我
+秋天
+我最喜欢的季节是秋天
+因为很漂亮
+这里的秋天不太冷
+年轻
+你还年轻
+不要这么快就决定以后要做什么
+她看起来非常年轻
+问题
+请问你有时间吗
+我有些问题想要问你
+这真是一个很大的问题
+解决
+你有解决这个问题的办法吗
+哭是解决不了问题的
+生意人
+我爸爸是个生意人
+所以常常在外国工作
+她是一个聪明的生意人
+黑心
+现在很多黑心的生意人常常卖不好的东西
+所以我们自己得小心选择我们要买的东西
+现在有很多有问题或是黑心的产品
+全家
+我们全家昨天晚上一起去阿姨家吃饭
+我全家除了我
+其他人都不会游泳
+报警
+他的邻居看到他家被偷了就赶快报警
+前面有车祸
+快点报警
+失败
+虽然她努力工作
+可是还是失败了
+失败是成功之母
+难得
+我难得可以放十天假
+我已经订好去西班牙的机票了
+真难得今天可以六点以前到家
+也许
+如果你很用功
+也许可以上好大学
+也许明天她会打电话给我
+停
+我的车停在前面
+我们一起走过去吧
+我的手表停了
+总是
+我妈妈总是跟说要努力读书以后才会有好工作
+爸爸去电影院看电影的时候总是睡着
+饱
+你做得饭真好吃
+我吃得很饱
+今天早上太忙
+早饭没吃饱
+抽空
+他虽然工作很忙
+可是每天还是会抽空看书
+请你抽空参加我们的活动
+国王
+以前的国王常常会收到很多礼物
+以前
+在中国的国王我们叫皇帝
+从前
+我跟他很久不见
+他跟从前都不一样了
+从前
+有一个老人住在这里
+动物
+有些小动物很可爱
+可是很危险
+我们得小心
+熊猫是中国的保育动物
+大象
+大象是世界上最大的动物
+大象有长长的鼻子
+好奇
+妈妈常说做人不要太好奇
+做好自己的事情就好
+才不会有麻烦
+她最近刚来到巴西
+所以对很多事情都很好奇
+记号
+请你在坏掉的地方做个记号
+这样我们才知道哪里有问题
+我在地图上做了记号
+我们不会迷路的
+画
+这是图书馆的书
+请不要在书上画记号
+下个星期六
+在国家博物馆一个画展
+船
+我不喜欢坐船
+因为坐船会让我头痛
+船上的旅客兴奋地看着海中的鲸鲨
+主意
+这个主意很不错
+我们试试看吧
+我有一个主意
+但不知道好不好
+下沉
+大象一上船
+船就下沉了
+冒险途中他们的小船开始下沉
+流行
+这件衣服是今年流行的款式
+你一定会喜欢
+医生说小明得了流行性感冒
+要好好休息
+打扮
+日本人影响着每年流行的衣服款式和打扮
+今天妹妹打扮得非常特别
+绿
+绿衬衫配上蓝裙子真的很好看
+在中国
+戴绿色的帽子有一种不好的意思
+配
+这件衣服配这件裤子很好看
+我喝咖啡的时候喜欢配可乐
+紫
+这副紫眼镜是我妹妹送我的生日礼物
+五月的时候
+街道开满了小紫花
+操心
+别操心这么多
+这样穿起来很好看的
+你男朋友一定也会喜欢
+爸爸妈妈对孩子的教育十分操心
+魅力
+你的女朋友是一个很有魅力的女生
+我觉得去健身房运动的女生非常有魅力
+在乎
+我不在乎其他人怎么想
+我只在乎你怎么想
+他怎么想
+我不在乎
+理想
+我的理想工作是当一个可以帮助别人的医生
+当一名记者是我的理想
+司机
+司机的工作很辛苦
+有时候得很早起床去工作
+为了安全
+司机都会请我们系安全带
+外交官
+我以后想当一位有名的外交官
+他的爸爸是外交官
+长期在国外工作
+工资
+秘书的工资不多可是事情很多
+我理想的工资是一万五人民币
+留
+你要不要留在这里吃晚饭再回家
+他刚才给你打了电话
+可是你不在
+我请他留言给你
+护士
+护士的工资没有医生多
+可是对病人来说他们很重要
+这位护士是第一天上班
+他看起来很紧张
+为
+老师
+警察
+医生都是为大家服务的工作
+他为我写了一首歌
+服务
+这家饭馆的服务很好
+服务员
+请给我一杯可乐
+愿望
+我的愿望是可以到中国学习汉语
+我小时候的愿望是当一名厨师
+实现
+如果你希望这个愿望可以实现就要努力
+虽然我的愿望都没实现
+但是我还是很快乐
+因为我有我的朋友和家人
+瞒
+如果你有什么事情都可以找我聊一聊
+不要瞒着我去做
+我非常了解我的朋友
+他没有事可以瞒过我
+独生女
+我是家里的独生女
+从小就很希望有兄弟姐妹
+她的个性很像独生女
+自由
+我想要自由地在国外生活一年再回国
+鸟儿自由的在天空飞翔
+商量
+如果你有什么烦恼的事情都可以找我商量
+我已经和我的律师商量过了
+实话
+他说的每一句话都不是实话
+你不要相信他
+在我面前你可以说实话
+不用担心
+离别
+他想到要跟朋友离别就很难过
+人们说
+每一次离别
+都是为了下一次相聚
+网上
+我喜欢在网上买衣服
+因为比较便宜也比较方便
+网上常常可以找到很多学习西班牙语的资料
+购物
+购物的方法有很多种
+有的人喜欢在网上购物
+有的人喜欢去店里买
+在网上购物容易又方便
+退
+一般的网路商店如果尺寸不合
+都可以退货
+我们将会在七天之后退钱到你的信用卡里面
+可靠
+你是一个可靠的人吗
+我可以把这个工作交给你吗
+这个资讯可靠吗
+牌子
+有很多有名的牌子都是来自美国
+很多人都说错了这个牌子的念法
+试穿
+我觉得买衣服的时候得自己去买才可以
+因为得试穿才知道尺寸合不合适
+想试穿的话里面有更衣间
+用品
+这里卖了很多生活用品
+价钱都很便宜
+厨房的用品这里都有
+可以自己拿去用
+差
+这件衣服看起来质量很差
+我觉得还是不要买了吧
+她的能力不差
+但是需要有人帮她一把
+户头
+到中国以后
+我想去开一个户头
+我在美国的户头有一点问题
+需要打一通电话到美国
+办
+我现在赶着要到银行办一些事情
+我的护照不见了
+明天要去重新办一本
+手续
+我想要去中国
+可是我不知道办签证有哪些手续
+办户头的手续费用是一百人民币
+转账
+现在付款的方式也有很多种
+银行转账也是其中之一
+今晚我会将之前跟你借的钱转账给你
+自动
+你可以到银行办自动转帐
+这样不用担心电话费是不是又忘了缴
+吃完饭后
+请自动把碗洗一洗
+收据
+我刚刚忘了跟店员要收据
+现在得马上回去
+收据上的日期写错了
+请你重新写一张
+缴费
+除了去便利商店缴费
+我们也可以用微信缴费
+缴费时间只到十月三十一日
+骂
+我知道了
+别骂我了
+他上班迟到被骂了
+考虑
+你考虑一下
+要不要跟我们去海边
+可以给我时间考虑吗
+推荐
+我非常推荐这间餐厅的牛肉面
+我想申请这一间大学
+请您帮我写一封推荐信
+可惜
+真是太可惜了
+明天你不能跟我们去吃饭
+差一点就得到第一名了
+真可惜
+划算
+今天电脑在打折
+现在买很划算
+十月一日到十月七日买一送一
+非常划算
+保证
+我向你保证
+下次不会迟到
+这是新电视的保证书
+如果电视任何有问题
+可以带着这本保证书回去
+换一台新电视
+耳机
+这副耳机是你的吗
+我的耳机坏了
+需要去买一副新的
+修
+他可以帮你修电脑
+我的好像有一点问题
+你能不能帮我看一看
+是不是一定要拿去修
+防水
+这件外套不但防水
+还很温暖
+我的手机防水但是在水中不能使用
+要求
+你对于食物有什么要求吗
+我租房子的要求很高
+隔音要好
+一定要是新房子
+邻居必须是上班族
+意见
+我的意见是先去吃饭再继续念书
+在我不知道怎么办的时候
+妈妈会给我她的意见
+情况
+遇到这样的情况
+你会怎么做
+现在的情况很紧急
+必须要赶快离开
+长辈
+爸爸
+妈妈
+叔叔和阿姨都是我的长辈
+过年的时候长辈会给我们红包
+晚辈
+晚辈的意见有时候不被接受
+过年的时候晚辈要和长辈拜年
+各
+我的数学好
+哥哥的体育好
+我们各有各的专长
+红的书包大
+绿的书包美
+它们各有各的优点
+上一代
+上一代的人都习惯早睡早起
+上一代的人的想法有时候和我们不同
+背景
+这个故事的背景很有趣
+他负责画这部漫画的背景
+总之
+今天天气热又下雨
+总之是一趟不愉快的旅游
+这堂课的作业很多又很难
+总之是一趟很累的课
+想法
+以前的老师觉得学生只要读书
+不需要有其他想法
+我的老师会问我们对中文课的想法
+幸亏
+幸亏有你跟我一起旅行
+幸亏今天我带了伞
+不然就会变成落汤鸡了
+严重
+这个问题不严重
+我们可以慢慢地解决
+他这次生病好像很严重
+必须住院一段时间
+受伤
+他受伤了
+所以今天不来公司了
+我的手受伤了
+不能碰水
+撞到
+他骑车的时候
+不小心撞到树
+今天太急了
+走路撞到一个学生
+树
+这棵树已经有五百年的历史
+妈妈想在家门种一棵树
+事故
+学校的门口发生了交通事故
+由于火车发生事故
+所以交通大乱
+救护车
+有人受伤了
+快叫救护车
+救护车的声音从右后方传来
+我们应该往左移
+给救护车过
+棵
+公园里有很多棵树
+地铁站前有一棵樱花树
+声音
+你听见什么声音了吗
+你听到了吗
+那是猫头鹰的声音
+染
+我这个星期想去染头发
+你觉得染什么颜色好
+他四十年来
+每天都喝咖啡
+牙齿都染黄了
+醒目
+为什么你要染这个颜色的头发
+因为醒目啊
+你今天穿了一身的荧光绿
+真醒目
+私生活
+有些人不喜欢在公司谈自己的私生活
+我的私生活很简单
+运动和在家休息
+干涉
+我的妈妈有时候会干涉我做的决定
+不过我知道那是因为他在乎我
+请不要干涉他人的私事
+让步
+他已经让步了
+且接受我的看法
+这个部分你不可以让步
+因为不是你的错
+吃坏肚子
+我想我吃坏肚子了
+今天早上起来肚子一直不太舒服
+到了新的国家
+刚开始难免吃坏肚子
+新鲜
+趁这些食物还新鲜
+赶快把它吃完
+这里的海鲜非常新鲜
+爸爸都在这里买鱼
+拉肚子
+吃了不新鲜的食物
+你当然拉肚子
+我到智利的第一个星期
+每天拉肚子
+疼
+昨天吃了那个海鲜以后
+我就开始肚子疼了
+昨天晚上喝了很多酒
+今天头很疼
+急诊
+现在这么晚了
+现在只能去医院看急诊
+星期天晚上
+诊所都休息
+现在只能看急诊
+打针
+你的病需要打针
+才能快一点好
+他已经三十岁了
+但是还是很害怕打针
+熟
+这猪肉还没熟
+再等一下吧
+我喜欢吃五分熟的牛排
+羊肉
+我不太喜欢这羊肉的味道
+闻起来不新鲜
+今天的晚餐是羊肉炒饭
+海鲜
+你喜欢吃哪些海鲜
+我喜欢吃鱼和螃蟹
+弟弟对海鲜过敏
+表
+我有一块古老的表
+我的表没电了
+等一下要去换电池
+块
+这块蛋糕是你吃的吗
+你的衣服有一块污渍
+是不是沾到咖啡了
+样式
+这件衣服的样式很特别
+我非常喜欢
+这种样式太旧了
+我们想买现代一点的
+这边
+请往这边走
+有更多的商品可以看
+走这边
+那边不是厕所
+是厨房
+名贵
+这双鞋子太名贵
+我买不起
+这辆名贵的车是我爸爸的
+包装
+请帮我把这件礼物包装好
+蛋糕我要直接吃
+就不需要包装了
+产
+这台电脑是美国产的
+墨西哥夏天产仙人掌果
+愿意
+他不愿意让妹妹一个人出国旅行
+她不愿意跟我说话

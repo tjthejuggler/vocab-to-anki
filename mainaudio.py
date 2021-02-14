@@ -26,6 +26,10 @@ number_of_languages_given = 0
 number_of_languages_to_download = 0
 api_calls = 0
 max_api_calls = 10000
+list_of_not_downloaded_mp3s = []
+list_of_downloaded_mp3s = []
+list_of_already_had_mp3s = []
+list_of_previously_failed_mp3s = []
 # if len(sys.argv) > 1:
 # 	first_lang = sys.argv[1]
 # else:
@@ -232,19 +236,20 @@ def mp3_exists(translation, lang):
 		pass
 	return exists
 
-def add_translation_to_local_dictionary(src_text, dest_text):
+def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang):
 	#print('add_translation_to_local_dictionary', dest_text)
-	local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
+	#local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
+	local_dict_file = src_lang+'_'+dest_lang+'.json'
 	local_dict = {}
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			local_dict = json.load(json_file)
-	if swapped:
-		first_text = dest_text
-		second_text = src_text
-	else:
-		first_text = src_text
-		second_text = dest_text
+	# if swapped:
+	# 	first_text = dest_text
+	# 	second_text = src_text
+	# else:
+	first_text = src_text
+	second_text = dest_text
 	if not first_text in local_dict:
 		#print('!!!',first_text,second_text)
 		local_dict[first_text] = second_text
@@ -254,18 +259,21 @@ def add_translation_to_local_dictionary(src_text, dest_text):
 		f.close()
 
 def get_translation_from_local_library(src_text):
-	local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
+	#local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
+	local_dict_file = first_lang+'_'+second_lang+'.json'
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			#print(json_file)
 			local_dict = json.load(json_file)
-			if swapped:
-				if src_text in local_dict:
-					dest_text = local_dict[src_text]
-					#print('local dict used', dest_text)				
-			else:
-				dest_text = list(local_dict.keys())[list(local_dict.values()).index(src_text)]
+			dest_text = local_dict[src_text]
+
+			# if swapped:
+			# 	if src_text in local_dict:
+			# 		dest_text = local_dict[src_text]
+			# 		#print('local dict used', dest_text)				
+			# else:
+			# 	dest_text = list(local_dict.keys())[list(local_dict.values()).index(src_text)]
 
 
 	return dest_text
@@ -273,9 +281,10 @@ def get_translation_from_local_library(src_text):
 def get_translation(src_text):
 	dest_text = get_translation_from_local_library(src_text)
 	if dest_text == '':
-		dest_text = translate_text(second_lang, src_text)
+		dest_text = translate_text(second_lang, src_text).lower()
+		print('got from google', src_text, dest_text)
 	else:
-		print('got from local dict', src_text, dest_text)
+		print(' '*20+'got from local dict', src_text, dest_text)
 	#UNCOMMENTTHIS IF NOT USING GOOGLE CLOUD TRANSLATE
 	# if dest_text == '':	
 	# 	translation_attempt = 1
@@ -287,7 +296,8 @@ def get_translation(src_text):
 	# 		else:
 	# 			translation_attempt = 16
 	if dest_text != '' and dest_text != "None":
-		add_translation_to_local_dictionary(src_text, dest_text)
+		add_translation_to_local_dictionary(src_text, dest_text, first_lang, second_lang)
+		add_translation_to_local_dictionary(dest_text, src_text, second_lang, first_lang)
 	return dest_text
 
 def get_local_dictionary(first_lang, second_lang):
@@ -314,23 +324,47 @@ def translate_text(target, text):
 
 def download_if_needed(word, lang):
 	global api_calls
+	global list_of_already_had_mp3s
+	global list_of_previously_failed_mp3s
+	global list_of_downloaded_mp3s
+	global list_of_not_downloaded_mp3s
 	if api_calls < max_api_calls:
 		if not has_previously_failed(word, lang):
 			if not mp3_exists(word, lang):
 				#print('did download',line)
-				api_calls = api_calls + DownloadMp3ForAnki(word, lang)
+				new_api_calls = DownloadMp3ForAnki(word, lang)
+				api_calls = api_calls + new_api_calls
+				if new_api_calls == 1:
+					list_of_not_downloaded_mp3s.append(word)
+				else:
+					list_of_downloaded_mp3s.append(word)
 			else:
+				list_of_already_had_mp3s.append(word)
 				print(' '*60,'MP3 already exists',word)
 		else:
+			list_of_previously_failed_mp3s.append(word)
 			print(' '*40,'has previously failed',word)
 	else:
-		print('Max API calls reached.')
-		sys.exit()
+		print('\nMax API calls reached!')
+		program_end()
 
-def create_output_file(output_lines):
-	with open('new_source.txt', 'w') as f:
+def program_end():
+	print('\n')
+	print('API calls: ' + str(api_calls))
+	print('successfully downloaded: '+str(len(list_of_downloaded_mp3s)))
+	print('failed to download: '+str(len(list_of_not_downloaded_mp3s)))
+	print('previously failed to download: '+str(len(list_of_previously_failed_mp3s)))
+	print('already had: '+str(len(list_of_already_had_mp3s)))
+	create_output_file('download_succeed', list_of_downloaded_mp3s)
+	create_output_file('download_failed', list_of_not_downloaded_mp3s)
+	create_output_file('download_previously', list_of_previously_failed_mp3s)
+	create_output_file('download_already_have', list_of_already_had_mp3s)	
+	sys.exit()
+
+def create_output_file(filename, output_lines):
+	with open(filename + '.txt', 'w') as f:
 		for item in output_lines:
-			f.write("%s" % item)
+			f.write("%s\n" % item)
 #last word downloaded - yenilikler
 
 all_audio_files = []
@@ -356,7 +390,7 @@ for line in lines:
 			if should_download:
 				download_if_needed(word, first_lang)
 		if should_translate:
-			create_output_file(output_lines)
+			create_output_file('new_source',output_lines)
 			
 
 		# 	if should_make_cards:
@@ -402,4 +436,4 @@ for line in lines:
 if should_make_cards:
 	create_anki_deck(deck, all_audio_files)
 
-#make a github for this
+program_end()

@@ -1,27 +1,30 @@
+-test the new opposite local dict setup
+	-if it works fine then use tool to make opposite dicts from current local dicts
+
 -allow for extra fields to be input so i can do stuff like this chart
 	https://www.tutormandarin.net/en/1000-most-common-chinese-words/
+	-these extra fields can go into hint and be seperated with \n
+	-eventually these fields could be possible question/answers
 
 -make a combine _failed_words program
 
--make a program that gets makes all audio files lowercase
+-find out how pretty printed jsons can be used
+	
 
--allow download max input to prevent maxing out the days forvo quota
+-we should have an es_en dict and and en_es dict because of the querer/quiero issue
+	-this means undoing some of that complicated alphabetical switch thing
+	-this can be jumpstarted by flipping current dictionaries with dictionary_formatter.py
 
 -make everything get changed to lower case before being added to dictionaries, lists, mp3s, and when we look at these things
 
 -we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
 
 -make a confirmation of how many words will be downloaded/translated
-	-it could quickly tell
+	-it could quickly tell (this is a little complicated and based on settings)
 		how many of the words we already have
 		how many have previously failed
 		how may it is going to attempt
-	-at the end it can give a report that says
-		how many were successfully download
-		how many failed
-	-it can also give a file printout that tells
-		 which words were download
-		 which words failed
+
 -for now lets either make an unformated to formatted setup
 	and
 	formatted to cards setup
@@ -57,3 +60,9 @@ the swapper could have a smaller name and it could do smart swapping to put turk
 
 
 check to see if video has subtitles, if it does, then find the timestamp on the first instance of each word and make the url automatically have that timestamp built in
+
+EVENTUALLY:
+get pronunciations for common words in top MANY languages
+write a scraper that finds out which language pairs are missing from anki shared decks
+	use local dictionaries/translations to get the names of all popular languages in different languages
+make decks for those pairs

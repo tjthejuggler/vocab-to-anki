@@ -43,6 +43,7 @@ def fileChoose():
       filename = askopenfilename() # show an "Open" dialog box and return the path to the selected file
       return filename
 from pathlib import Path
+
 def addToFailedList(word, lang):
       lines=''
       Path(pron_fold+'/'+lang).mkdir(parents=True, exist_ok=True)
