@@ -96,7 +96,7 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
-already_formatted = False
+#already_formatted = False
 
 # if __name__ == "__main__":
 #    main(sys.argv[1:])
@@ -266,7 +266,8 @@ def get_translation_from_local_library(src_text):
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			#print(json_file)
 			local_dict = json.load(json_file)
-			dest_text = local_dict[src_text]
+			if src_text in local_dict:
+				dest_text = local_dict[src_text]
 
 			# if swapped:
 			# 	if src_text in local_dict:
@@ -372,10 +373,10 @@ all_audio_files = []
 output_lines = []
 for line in lines:
 	line = line.strip('\n')
-	line = re.sub(r'[^\w\s]','',line)
 	line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
 	line = line.lower()
 	if already_formatted == False :
+		line = re.sub(r'[^\w\s]','',line)
 		#print(line)
 		words = line.split()
 		for word in words:
@@ -398,37 +399,57 @@ for line in lines:
 
 
 	else:
+		print('not already formatted')
 		if should_make_cards:
 			tag = lines[0].replace(' ','_') #this should actually be the first line with text
 			url = lines[1]		
 		if ' - ' in line:
-			split_line = line.split(' - ')		
-			if len(word.split()) < 3:
-				if not has_previously_failed(word, first_lang):
-					if not mp3_exists(word, first_lang):
-						#print('did download',word)
-						DownloadMp3ForAnki(word, first_lang)
-				# 	else:
-				# 		print('MP3 already exists',word)
-				# else:
-				# 	print('has previously failed',word)
-			translation = split_line[1]
-			if using_two_langs:
-				if len(translation.split()) < 3:
-					if not has_previously_failed(translation, second_lang):
-						if not mp3_exists(translation, second_lang):
-							#print('did download',translation)
-							DownloadMp3ForAnki(translation, second_lang)
-					# 	else:
-					# 		print('MP3 already exists',translation)
-					# else:
-					# 	print('has previously failed',translation)			
-			hint = ""
-			if len(split_line) > 2:
-				hint = split_line[2]
-			if should_make_cards:
-				note, all_audio_files = create_anki_note(word, translation, hint, tag, url, all_audio_files)
-				deck.add_note(note)
+			split_line = line.split(' - ')
+			first_word = split_line[0]
+			linefirst_word = re.sub(r'[^\w\s]','',first_word)
+			print('first_word', first_word)
+			if len(first_word.split()) < 3:
+				if should_translate:
+					print('should translate')
+					translation = get_translation(first_word).replace('-','/')
+					print(translation)
+					if translation:
+						output_lines.append(first_word + ' - ' + translation + ' - no hint')
+					#translate word and append(word - translation - no hint) to output_lines
+						#we may also want a choice for append(word - translation - ENGLISH,no hint)
+				if should_download:
+					download_if_needed(first_word, first_lang)
+			if should_translate:
+				create_output_file('new_source',output_lines)
+
+
+
+
+			# 	if not has_previously_failed(word, first_lang):
+			# 		if not mp3_exists(word, first_lang):
+			# 			#print('did download',word)
+			# 			DownloadMp3ForAnki(word, first_lang)
+			# 	# 	else:
+			# 	# 		print('MP3 already exists',word)
+			# 	# else:
+			# 	# 	print('has previously failed',word)
+			# translation = split_line[1]
+			# if using_two_langs:
+			# 	if len(translation.split()) < 3:
+			# 		if not has_previously_failed(translation, second_lang):
+			# 			if not mp3_exists(translation, second_lang):
+			# 				#print('did download',translation)
+			# 				DownloadMp3ForAnki(translation, second_lang)
+			# 		# 	else:
+			# 		# 		print('MP3 already exists',translation)
+			# 		# else:
+			# 		# 	print('has previously failed',translation)			
+			# hint = ""
+			# if len(split_line) > 2:
+			# 	hint = split_line[2]
+			# if should_make_cards:
+			# 	note, all_audio_files = create_anki_note(word, translation, hint, tag, url, all_audio_files)
+			# 	deck.add_note(note)
 
 
 	
