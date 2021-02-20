@@ -10,6 +10,9 @@ import six
 from google.cloud import translate_v2 as translate
 import json
 from pydub import AudioSegment
+from difflib import SequenceMatcher
+import sys, getopt
+import random
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -21,13 +24,15 @@ third_lang = ''
 should_make_cards = False
 should_download = False
 should_translate = False
+should_randomize_order = False
 already_formatted = True
-should_make_audio_lesson = True
+should_make_audio_lesson = False
 first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 number_of_languages_given = 0
 number_of_languages_to_download = 0
 api_calls = 0
 max_api_calls = 10000
+max_lines = 100000
 list_of_not_downloaded_mp3s = []
 list_of_downloaded_mp3s = []
 list_of_already_had_mp3s = []
@@ -42,7 +47,7 @@ list_of_previously_failed_mp3s = []
 # 	second_lang = sys.argv[2]
 # 	using_two_langs = True
 
-import sys, getopt
+
 
 	# -l1 first language
 	# -l2 second language
@@ -56,7 +61,7 @@ import sys, getopt
 inputfile = ''
 outputfile = ''
 try:
-	opts, args = getopt.getopt(sys.argv[1:],"htm1:2:3:d:x:")
+	opts, args = getopt.getopt(sys.argv[1:],"htmar1:2:3:d:x:y:")
 	print(opts)
 except getopt.GetoptError:
 	print ('test.py -i <inputfile> -o <outputfile>')
@@ -83,10 +88,17 @@ for opt, arg in opts:
 	elif opt in ("-x"):
 		max_api_calls = int(arg)		
 		print('max_api_calls', max_api_calls)
+	elif opt in ("-y"):
+		max_lines = int(arg)		
+		print('max_lines', max_lines)		
 	elif opt in ("-t"):
 		should_translate = True
 	elif opt in ("-m"):
 		should_make_cards = True
+	elif opt in ("-a"):
+		should_make_audio_lesson = True
+	elif opt in ("-r"):
+		should_randomize_order = True
 if number_of_languages_to_download == '':
 	number_of_languages_to_download = number_of_languages_given				
 print('l1', first_lang)
@@ -101,14 +113,19 @@ print('number_of_languages_to_download', number_of_languages_to_download)
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
 cwd = os.getcwd()
-#add andoird studio to path or figure out how to make an icon
 file = open( "source.txt", "r")
 lines = file.readlines()
 file.close()
 
-deckName = lines[0].replace(' ','_')
+deck_name = lines[0].replace(' ','_')
+url = lines[1]
 
-deck = genanki.Deck(round(time.time()), deckName)
+lines = lines[2:]
+
+if should_randomize_order == True:
+	random.shuffle(lines)
+
+deck = genanki.Deck(round(time.time()), deck_name)
 
 deck_model = genanki.Model(
 	163335419,
@@ -136,7 +153,7 @@ deck_model = genanki.Model(
 def create_anki_deck(my_deck, all_audio_files):
 	my_package = genanki.Package(deck)
 	my_package.media_files = all_audio_files
-	my_package.write_to_file(deckName+'.apkg')
+	my_package.write_to_file(deck_name+'.apkg')
 
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	word_audio_file = word+'.mp3'
@@ -328,13 +345,13 @@ def create_output_file(filename, output_lines):
 def concatenate_words_into_mp3(word_list, lang):
 	mp3_to_export = []
 	for word in word_list.split():
-		print('conc word', word)
+		print('conc word', word, lang)
 		if mp3_exists(word, lang):
 			print('making segment', word)
-			mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+word+'.mp3')))
+			mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+lang+'/'+word+'.mp3')))
 	if mp3_to_export:
 		cominedMP3 = sum(mp3_to_export)
-		cominedMP3.export(pron_fold+'/'+first_lang+'/'+word_list+'.mp3', format="mp3")
+		cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'.mp3', format="mp3")
 
 
 def detect_leading_silence(sound, silence_threshold=-45.0, chunk_size=400):
@@ -362,12 +379,22 @@ def remove_silence(sound):
 	trimmed_sound_with_silence = trimmed_sound + silence
 	return trimmed_sound
 
+def string_similarity(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
+
 
 all_audio_files = []
 output_lines = []
+audio_text = []
 audio_lesson_output = AudioSegment.silent(duration=2000)
 audio_lesson_name = ''
+total_lines = 0
 for line in lines:
+	total_lines+=1
+	print(total_lines)
+	if total_lines == max_lines:
+		break
 	line = line.strip('\n')
 	line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
 	line = line.lower()
@@ -394,11 +421,8 @@ for line in lines:
 
 
 	else:
-		if should_make_audio_lesson:
-			audio_lesson_name = lines[0].replace(' ','_')
 		if should_make_cards:
-			tag = lines[0].replace(' ','_') #this should actually be the first line with text
-			url = lines[1]		
+			tag = deck_name #this should actually be the first line with text
 		if ' - ' in line:
 			split_line = line.split(' - ')
 			first_word = split_line[0]
@@ -455,29 +479,39 @@ for line in lines:
 				note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files)
 				deck.add_note(note)
 			if should_make_audio_lesson:
+				if not mp3_exists(first_word, first_lang):
+					concatenate_words_into_mp3(first_word, first_lang)
+				if not mp3_exists(second_word, second_lang):
+					print(second_word, second_lang)
+					concatenate_words_into_mp3(second_word, second_lang)
 				have_all_mp3s = True
-				#TODO in addition to these files needing to exist, they also need to be what they say they are
-				#	we may even want to write a script that marks every multi word mp3 that is not what it says
-				# it is. the reason it might not be is that some words may be missing
+				for word in first_word.split():
+					if not mp3_exists(word, first_lang):
+						have_all_mp3s = False
+				for word in second_word.split():
+					if not mp3_exists(word, second_lang):
+						have_all_mp3s = False
 				if not mp3_exists(first_word, first_lang):
 					print(first_word, first_lang, "doesnt exist1")
-					have_all_mp3s = False
+					have_all_mp3s = False										
 				if not mp3_exists(second_word, second_lang):
 					print(second_word, second_lang, "doesnt exist2")
 					have_all_mp3s = False
 				if have_all_mp3s:
 					print('making audio', first_word, second_word)
 					first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'.mp3')
-					long_silence = AudioSegment.silent(duration=first_sound.duration_seconds*2000)
 					second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'.mp3')
+					long_silence = AudioSegment.silent(duration=second_sound.duration_seconds*2000)					
 					short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
 					audio_lesson_output += first_sound + long_silence + second_sound + short_silence
 					audio_lesson_output += second_sound + long_silence + second_sound + short_silence + second_sound
+					audio_text.append(first_word + ' - ' + second_word + ' - ' + hint)
 
-					
+if should_make_audio_lesson:
+	create_output_file(deck_name+'_text', audio_text)					
 					
 if should_make_audio_lesson:
-	audio_lesson_output.export(audio_lesson_name+"_audio.mp3", format="mp3")
+	audio_lesson_output.export(deck_name+"_audio.mp3", format="mp3")
 
 if should_make_cards:
 	create_anki_deck(deck, all_audio_files)

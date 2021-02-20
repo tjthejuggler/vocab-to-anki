@@ -1,3 +1,13 @@
+-if most lines have a - in them, them, then set already_formatted = True
+-make an option for audio lesson to make a random order
+-make a print out of word pairs that actually got added to the audio lesson
+-times and numbers should be written out from now on instea of using digits
+make it possible to download the second language
+-fix the naming of variables
+-make the main loop be in a function
+	-and break it down
+-make 'already formatted' either an option or automatically detect it
+
 -test the new opposite local dict setup
 	-if it works fine then use tool to make opposite dicts from current local dicts
 

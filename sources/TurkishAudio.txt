@@ -649,7 +649,7 @@ dijital - digital
 diplomat - diplomat
 diplomatik - diplomatic
 dezavantaj - disadvantage
-disk - disk
+disk - disk / disc
 diploma - diploma
 direkt - direct
 disiplin - discipline
@@ -711,7 +711,7 @@ geometrik - geometric
 global - global
 gol - goal (in football)
 golf - golf
-gram - gram
+gram - gram / gramme
 gramer - grammar
 grup - group
 gri - grey
@@ -910,7 +910,7 @@ problem - problem
 profesyonel - professional
 profesör - professor (in a British university)
 profil - profile
-program - program
+program - programme / program
 proje - project
 prosedür - procedure
 promosyon - promotion (the activity of advertising)

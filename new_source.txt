@@ -8,3 +8,26 @@ girmek - enter - no hint
 bile - even - no hint
 çabuk - quickly - no hint
 koşuya - to run - no hint
+acımak - pity - no hint
+açtırmak - open - no hint
+çalışmıyor - not working - no hint
+düşündüm - i thought - no hint
+geçirdim - i spent - no hint
+giyiyordu - was wearing - no hint
+hayatım - sweetheart - no hint
+hisset - feel - no hint
+ihtiyacın - your need - no hint
+kütüphanenin - your library - no hint
+olduğun - you are - no hint
+oynayacağım - i will play - no hint
+param - stop - no hint
+seviyor - love - no hint
+utandım - embarrassed - no hint
+uyumadım - i did not sleep - no hint
+varacak - will arrive - no hint
+yayın - broadcasting - no hint
+zorundayım - i have to - no hint
+biliyordu - he knew - no hint
+gerçekleştirmiştir - has realized - no hint
+gözüküyor - it seems - no hint
+yapmadık - we didn&#39;t - no hint
