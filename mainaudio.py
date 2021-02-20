@@ -9,6 +9,7 @@ import sys
 import six
 from google.cloud import translate_v2 as translate
 import json
+from pydub import AudioSegment
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -21,6 +22,7 @@ should_make_cards = False
 should_download = False
 should_translate = False
 already_formatted = True
+should_make_audio_lesson = True
 first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 number_of_languages_given = 0
 number_of_languages_to_download = 0
@@ -96,56 +98,6 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
-#already_formatted = False
-
-# if __name__ == "__main__":
-#    main(sys.argv[1:])
-
-# print('1. Download only(first language - second language - third language)')
-# print('2. Translate only(first language -> second language: output.txt)')
-# print('3. Translate and download first language(first language -> second language: output.txt)')
-# print('4. Translate and download two languages(first language -> second language: output.txt)')
-# print('5. Translate, download, and make cards(output.txt)')
-# print('6. Download and make cards(word - translation - hint)')
-
-# while True:
-# 	format_choice = input()
-# 	if format_choice in ('1', '2', '3', '4', '5', '6'):
-# 		break
-# 	else:
-# 		print('invalid choice')
-# 		print('1. Download only(first language - second language - third language)')
-# 		print('2. Translate only(first language -> second language: output.txt)')
-# 		print('3. Translate and download first language(first language -> second language: output.txt)')
-# 		print('4. Translate and download two languages(first language -> second language: output.txt)')
-# 		print('5. Translate, download, and make cards(output.txt)')
-# 		print('6. Download and make cards(word - translation - hint)')
-
-# print(format_choice)
-
-# format_choice = int(format_choice)
-
-# if format_choice > 4:
-# 	should_make_cards = False
-
-# if format_choice != 2:
-# 	should_download = True	
-
-# if format_choice != 1 and format_choice != 5:
-# 	should_translate =  True
-
-# if format_choice == 6:
-# 	already_formatted == True
-
-# if format_choice == 1:
-# 	number_of_languages_to_download = len(sys.argv) - 1
-
-# if format_choice == 3:
-# 	number_of_languages_to_download = 1
-
-# if format_choice > 3:
-# 	number_of_languages_to_download = 2
-
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
 cwd = os.getcwd()
@@ -165,18 +117,19 @@ deck_model = genanki.Model(
 		{'name': 'Question'},
 		{'name': 'Answer'},
 		{'name': 'Hint'},
-		{'name': 'URL'},
+		{'name': 'URL'},		
+		{'name': 'Audio'},
 	],
 	templates=[
 		{
 			'name': 'Card 1',
 			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>{{Audio}}',
 		},
 		{
 			'name': 'Card 2',
 			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>{{Audio}}',
 		}
 	])
 
@@ -185,8 +138,11 @@ def create_anki_deck(my_deck, all_audio_files):
 	my_package.media_files = all_audio_files
 	my_package.write_to_file(deckName+'.apkg')
 
-def create_anki_note(word, translation, hint, tag, url, all_audio_files):	
+def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	word_audio_file = word+'.mp3'
+	each_audios = []
+	for each in word:
+		each_audios.append('[sound:'+each+'.mp3]')
 	translation_audio_file = translation+'.mp3'
 	if mp3_exists(word, first_lang):
 		all_audio_files.append(pron_fold+'/'+first_lang+'/'+word_audio_file)
@@ -202,12 +158,13 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 			model=deck_model,
 			tags=[tag],
 			fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
+			#fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
 
 	#all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)
-	my_note = genanki.Note(
-		model=deck_model,
-		tags=[tag],
-		fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
+	# my_note = genanki.Note(
+	# 	model=deck_model,
+	# 	tags=[tag],
+	# 	fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
 	return my_note, all_audio_files
 
 def has_previously_failed(word, lang):
@@ -368,9 +325,48 @@ def create_output_file(filename, output_lines):
 			f.write("%s\n" % item)
 #last word downloaded - yenilikler
 
-all_audio_files = []
+def concatenate_words_into_mp3(word_list, lang):
+	mp3_to_export = []
+	for word in word_list.split():
+		print('conc word', word)
+		if mp3_exists(word, lang):
+			print('making segment', word)
+			mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+word+'.mp3')))
+	if mp3_to_export:
+		cominedMP3 = sum(mp3_to_export)
+		cominedMP3.export(pron_fold+'/'+first_lang+'/'+word_list+'.mp3', format="mp3")
 
+
+def detect_leading_silence(sound, silence_threshold=-45.0, chunk_size=400):
+    '''
+    sound is a pydub.AudioSegment
+    silence_threshold in dB
+    chunk_size in ms
+
+    iterate over chunks until you find the first one with sound
+    '''
+    trim_ms = 0 # ms
+
+    assert chunk_size > 0 # to avoid infinite loop
+    while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
+        trim_ms += chunk_size
+
+    return trim_ms
+
+def remove_silence(sound):
+	start_trim = detect_leading_silence(sound)
+	end_trim = detect_leading_silence(sound.reverse())
+	duration = len(sound)    
+	trimmed_sound = sound[start_trim:duration-end_trim]
+	silence = AudioSegment.silent(duration=500)
+	trimmed_sound_with_silence = trimmed_sound + silence
+	return trimmed_sound
+
+
+all_audio_files = []
 output_lines = []
+audio_lesson_output = AudioSegment.silent(duration=2000)
+audio_lesson_name = ''
 for line in lines:
 	line = line.strip('\n')
 	line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
@@ -381,7 +377,6 @@ for line in lines:
 		words = line.split()
 		for word in words:
 			if should_translate:
-				print('should translate')
 				translation = get_translation(word).replace('-','/')
 				print(translation)
 				if translation:
@@ -399,27 +394,34 @@ for line in lines:
 
 
 	else:
-		print('not already formatted')
+		if should_make_audio_lesson:
+			audio_lesson_name = lines[0].replace(' ','_')
 		if should_make_cards:
 			tag = lines[0].replace(' ','_') #this should actually be the first line with text
 			url = lines[1]		
 		if ' - ' in line:
 			split_line = line.split(' - ')
 			first_word = split_line[0]
-			linefirst_word = re.sub(r'[^\w\s]','',first_word)
-			print('first_word', first_word)
-			if len(first_word.split()) < 3:
-				if should_translate:
-					print('should translate')
-					translation = get_translation(first_word).replace('-','/')
-					print(translation)
-					if translation:
-						output_lines.append(first_word + ' - ' + translation + ' - no hint')
-					#translate word and append(word - translation - no hint) to output_lines
-						#we may also want a choice for append(word - translation - ENGLISH,no hint)
-				if should_download:
+			first_word = re.sub(r'[^\w\s]','',first_word)
+			second_word = split_line[1]
+			second_word = re.sub(r'[^\w\s]','',second_word)
+			if should_download:
+				if len(first_word.split()) < 3:
 					download_if_needed(first_word, first_lang)
+					if not mp3_exists(first_word, first_lang) and len(first_word.split()) == 2:
+						download_if_needed(first_word.split()[0], first_lang)
+						download_if_needed(first_word.split()[1], first_lang)
+						#concatenate_words_into_mp3(first_word, first_lang)
+				else:
+					for word in first_word.split():
+						download_if_needed(word, first_lang)
+					#concatenate_words_into_mp3(first_word, first_lang)
 			if should_translate:
+				translation = get_translation(first_word).replace('-','/')
+				if translation:
+					output_lines.append(first_word + ' - ' + translation + ' - no hint')
+				#translate word and append(word - translation - no hint) to output_lines
+					#we may also want a choice for append(word - translation - ENGLISH,no hint)
 				create_output_file('new_source',output_lines)
 
 
@@ -444,15 +446,38 @@ for line in lines:
 			# 		# 		print('MP3 already exists',translation)
 			# 		# else:
 			# 		# 	print('has previously failed',translation)			
-			# hint = ""
-			# if len(split_line) > 2:
-			# 	hint = split_line[2]
-			# if should_make_cards:
-			# 	note, all_audio_files = create_anki_note(word, translation, hint, tag, url, all_audio_files)
-			# 	deck.add_note(note)
+			hint = ""
+			if len(split_line) > 2:
+				hint = split_line[2]
+			if should_make_cards:
+				if not mp3_exists(first_word, first_lang):
+					concatenate_words_into_mp3(first_word, first_lang)
+				note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files)
+				deck.add_note(note)
+			if should_make_audio_lesson:
+				have_all_mp3s = True
+				#TODO in addition to these files needing to exist, they also need to be what they say they are
+				#	we may even want to write a script that marks every multi word mp3 that is not what it says
+				# it is. the reason it might not be is that some words may be missing
+				if not mp3_exists(first_word, first_lang):
+					print(first_word, first_lang, "doesnt exist1")
+					have_all_mp3s = False
+				if not mp3_exists(second_word, second_lang):
+					print(second_word, second_lang, "doesnt exist2")
+					have_all_mp3s = False
+				if have_all_mp3s:
+					print('making audio', first_word, second_word)
+					first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'.mp3')
+					long_silence = AudioSegment.silent(duration=first_sound.duration_seconds*2000)
+					second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'.mp3')
+					short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
+					audio_lesson_output += first_sound + long_silence + second_sound + short_silence
+					audio_lesson_output += second_sound + long_silence + second_sound + short_silence + second_sound
 
-
-	
+					
+					
+if should_make_audio_lesson:
+	audio_lesson_output.export(audio_lesson_name+"_audio.mp3", format="mp3")
 
 if should_make_cards:
 	create_anki_deck(deck, all_audio_files)
