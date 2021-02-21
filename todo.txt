@@ -1,4 +1,4 @@
--make an apkg forlder that is in gitignore
+
 -if most lines have a - in them, them, then set already_formatted = True
 -make an option for audio lesson to make a random order
 -make a print out of word pairs that actually got added to the audio lesson

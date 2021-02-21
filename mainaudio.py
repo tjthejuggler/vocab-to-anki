@@ -25,7 +25,7 @@ should_make_cards = False
 should_download = False
 should_translate = False
 should_randomize_order = False
-already_formatted = True
+is_formatted = False
 should_make_audio_lesson = False
 first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 number_of_languages_given = 0
@@ -122,6 +122,20 @@ url = lines[1]
 
 lines = lines[2:]
 
+def determine_if_formatted(lines):
+	formatted_line_count = 0
+	is_formatted = True
+	for line in lines:
+		if ' - ' in line:
+			formatted_line_count+=1
+	percent_formatted = formatted_line_count / len(lines)
+	if percent_formatted < .9:
+		is_formatted = False
+	print('isformatted',is_formatted)
+	return is_formatted
+
+is_formatted = determine_if_formatted(lines)
+
 if should_randomize_order == True:
 	random.shuffle(lines)
 
@@ -149,6 +163,9 @@ deck_model = genanki.Model(
 			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>{{Audio}}',
 		}
 	])
+
+
+
 
 def create_anki_deck(my_deck, all_audio_files):
 	my_package = genanki.Package(deck)
@@ -398,7 +415,7 @@ for line in lines:
 	line = line.strip('\n')
 	line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
 	line = line.lower()
-	if already_formatted == False :
+	if is_formatted == False :
 		line = re.sub(r'[^\w\s]','',line)
 		#print(line)
 		words = line.split()
@@ -508,7 +525,7 @@ for line in lines:
 					audio_text.append(first_word + ' - ' + second_word + ' - ' + hint)
 
 if should_make_audio_lesson:
-	create_output_file(deck_name+'_text', audio_text)					
+	create_output_file("mp3/"+deck_name+'_text.txt', audio_text)					
 					
 if should_make_audio_lesson:
 	audio_lesson_output.export("mp3/"+deck_name+"_audio.mp3", format="mp3")
