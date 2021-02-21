@@ -117,7 +117,7 @@ file = open( "source.txt", "r")
 lines = file.readlines()
 file.close()
 
-deck_name = lines[0].replace(' ','_')
+deck_name = lines[0].replace(' ','_').strip()
 url = lines[1]
 
 lines = lines[2:]
@@ -153,7 +153,7 @@ deck_model = genanki.Model(
 def create_anki_deck(my_deck, all_audio_files):
 	my_package = genanki.Package(deck)
 	my_package.media_files = all_audio_files
-	my_package.write_to_file(deck_name+'.apkg')
+	my_package.write_to_file("anki/"+deck_name+'.apkg')
 
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	word_audio_file = word+'.mp3'
@@ -511,7 +511,7 @@ if should_make_audio_lesson:
 	create_output_file(deck_name+'_text', audio_text)					
 					
 if should_make_audio_lesson:
-	audio_lesson_output.export(deck_name+"_audio.mp3", format="mp3")
+	audio_lesson_output.export("mp3/"+deck_name+"_audio.mp3", format="mp3")
 
 if should_make_cards:
 	create_anki_deck(deck, all_audio_files)
