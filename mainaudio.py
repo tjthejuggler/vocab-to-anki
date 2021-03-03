@@ -13,6 +13,8 @@ from pydub import AudioSegment
 from difflib import SequenceMatcher
 import sys, getopt
 import random
+import sqlite3
+from operator import itemgetter
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -37,31 +39,13 @@ list_of_not_downloaded_mp3s = []
 list_of_downloaded_mp3s = []
 list_of_already_had_mp3s = []
 list_of_previously_failed_mp3s = []
-# if len(sys.argv) > 1:
-# 	first_lang = sys.argv[1]
-# else:
-# 	print('you need at least one language')
-# 	quit()
+use_anki_file = False
+deck_name = ''
+lines = []
+url = ''
 
-# if len(sys.argv) > 2:
-# 	second_lang = sys.argv[2]
-# 	using_two_langs = True
-
-
-
-	# -l1 first language
-	# -l2 second language
-	# -l3 third language
-	# -d download
-	# -dl1 only download first language
-	# -tr translate
-	# -mc make cards
-
-#def main(argv):
-inputfile = ''
-outputfile = ''
 try:
-	opts, args = getopt.getopt(sys.argv[1:],"htmar1:2:3:d:x:y:")
+	opts, args = getopt.getopt(sys.argv[1:],"htmar1:2:3:d:x:y:k:")
 	print(opts)
 except getopt.GetoptError:
 	print ('test.py -i <inputfile> -o <outputfile>')
@@ -90,7 +74,11 @@ for opt, arg in opts:
 		print('max_api_calls', max_api_calls)
 	elif opt in ("-y"):
 		max_lines = int(arg)		
-		print('max_lines', max_lines)		
+		print('max_lines', max_lines)
+	elif opt in ("-k"):
+		use_anki_file = True
+		deck_name = arg		
+		print('deck_name', deck_name)			
 	elif opt in ("-t"):
 		should_translate = True
 	elif opt in ("-m"):
@@ -110,17 +98,50 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
+def get_word_list_from_anki2(filename):
+	accepted_cards = []
+	connection = sqlite3.connect(filename+".anki2")  # connect to your DB
+	cursor = connection.cursor()  # get a cursor
+	cursor.execute("SELECT nid,ivl,factor FROM cards")  # execute a simple SQL select query
+	card_selection = cursor.fetchall()  # get all the results from the above query
+	for nid,ivl,factor in card_selection:
+		cursor2 = connection.cursor()
+		cursor2.execute("SELECT flds FROM notes WHERE id="+str(nid))
+		flds_selection = cursor2.fetchall()
+		fld = ' '.join(flds_selection[0])
+		split_fld = fld.split('\x1f')
+		word = re.sub("[\(\[].*?[\)\]]", "", split_fld[0]).strip()
+		translation = split_fld[1]
+		card_info = [word, translation, ivl, factor]
+		if ivl != 0:
+			accepted_cards.append(card_info)
+		#print('word:',word,' translation:',translation,' ivl:',ivl,' factor:',factor)
+	print(accepted_cards)
+	accepted_cards = sorted(accepted_cards, key=itemgetter(2))
+	print('--------------------')
+	print(accepted_cards)
+	print('!!!!!!!')
+	accepted_cards = accepted_cards[:max_lines]
+	print(accepted_cards)
+	lines_to_return = []
+	for accepted_card in accepted_cards:
+		lines_to_return.append(accepted_card[0]+' - '+accepted_card[1])
+	return lines_to_return
+
+
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
 cwd = os.getcwd()
-file = open( "source.txt", "r")
-lines = file.readlines()
-file.close()
-
-deck_name = lines[0].replace(' ','_').strip()
-url = lines[1]
-
-lines = lines[2:]
+if use_anki_file:
+	lines = get_word_list_from_anki2(deck_name)
+	print(lines)
+else:	
+	file = open( "source.txt", "r")
+	lines = file.readlines()
+	file.close()
+	deck_name = lines[0].replace(' ','_').strip()
+	url = lines[1]
+	lines = lines[2:]
 
 def determine_if_formatted(lines):
 	formatted_line_count = 0
@@ -200,6 +221,8 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	# 	tags=[tag],
 	# 	fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
 	return my_note, all_audio_files
+
+
 
 def has_previously_failed(word, lang):
 	has_failed = False
@@ -528,7 +551,9 @@ if should_make_audio_lesson:
 	create_output_file("mp3/"+deck_name+'_text.txt', audio_text)					
 					
 if should_make_audio_lesson:
+	print('len(audio_lesson_output)',len(audio_lesson_output))
 	audio_lesson_output.export("mp3/"+deck_name+"_audio.mp3", format="mp3")
+	print(deck_name+"_audio.mp3 created")
 
 if should_make_cards:
 	create_anki_deck(deck, all_audio_files)

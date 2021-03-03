@@ -1,13 +1,15 @@
+-make audio output also print transcription
+-see if there is a randomizer for making randomly ordered audios, 
+	if not then make one
 
--if most lines have a - in them, them, then set already_formatted = True
--make an option for audio lesson to make a random order
--make a print out of word pairs that actually got added to the audio lesson
 -times and numbers should be written out from now on instea of using digits
+
 make it possible to download the second language
--fix the naming of variables
+
+-fix variable names
+
 -make the main loop be in a function
 	-and break it down
--make 'already formatted' either an option or automatically detect it
 
 -test the new opposite local dict setup
 	-if it works fine then use tool to make opposite dicts from current local dicts
@@ -17,7 +19,7 @@ make it possible to download the second language
 	-these extra fields can go into hint and be seperated with \n
 	-eventually these fields could be possible question/answers
 
--make a combine _failed_words program
+-make a combine_failed_words program
 
 -find out how pretty printed jsons can be used
 	
