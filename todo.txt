@@ -1,3 +1,7 @@
+-move all unrelated scripts into a scripts folder
+-split mainaudio into different files
+-make sure all pronunciations are lowercase
+-make everything be lowercase when we try to get pronunciations
 -make audio output also print transcription
 -see if there is a randomizer for making randomly ordered audios, 
 	if not then make one

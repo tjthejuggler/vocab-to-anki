@@ -11,32 +11,6 @@ pron_fold = home+'/pronunciations'
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
 
-
-#lang = 'es'
-
-# def Main(lang,limit):
-#       #APIKEY is stored separately in another file called apikey
-#       with open('apikey.txt') as a:
-#         APIKEY=a.read()
-
-#       myfile = fileChoose()
-      
-#       with open(myfile) as words:
-#             #We will create a directory to store downloaded mp3, it will be named /home/user/forvo/...
-#             home        = os.path.expanduser('~/forvo')
-#             lang_dir    = os.path.join(home,lang)
-            
-#             for i in words:
-                  
-#                   r = ForvoRequest(i,lang,APIKEY)
-
-#                   if r:
-#                         DownloadMp3(r, limit, i, lang_dir)
-#                   else:                        
-#                         file_name = os.path.join(lang_dir,'word_not_found.txt')
-#                         with open(file_name,'a') as out:
-#                               out.write(i)
-
 def fileChoose():
       #show a file choose dialog box
       Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
@@ -102,5 +76,3 @@ def DownloadMp3(urlList, limit, word, folder):
                         #we open a new mp3 file and we name it after the word we're downloading.
                         #The file it's opened in write-binary mode
                         out.write(mp3.content)
-      
-# Main('tr',1)
