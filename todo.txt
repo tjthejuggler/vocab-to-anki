@@ -1,10 +1,17 @@
--move all unrelated scripts into a scripts folder
+-make exporting an audio lesson show stats
 -split mainaudio into different files
--make sure all pronunciations are lowercase
--make everything be lowercase when we try to get pronunciations
+
 -make audio output also print transcription
--see if there is a randomizer for making randomly ordered audios, 
-	if not then make one
+
+-put instructions in readme
+	by default source.txt is used
+	explain the difference of formatted and not
+	the the args and opts
+-rename stuff in sources
+-figure out how big/how many chunks can go into a pydub audio file and make 
+-figure out exactly what is not working
+-make single word mp3s out of turkish101 chunks
+
 
 -times and numbers should be written out from now on instea of using digits
 
@@ -12,8 +19,7 @@ make it possible to download the second language
 
 -fix variable names
 
--make the main loop be in a function
-	-and break it down
+-break down the main loop
 
 -test the new opposite local dict setup
 	-if it works fine then use tool to make opposite dicts from current local dicts

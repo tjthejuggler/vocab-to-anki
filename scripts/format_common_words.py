@@ -1,7 +1,7 @@
 from os import path
 
 lang = 'tr'
-file = open( "source.txt", "r")
+file = open( "script_source.txt", "r")
 lines = file.readlines()
 file.close()
 
@@ -15,7 +15,7 @@ for linenumber in range (0,len(lines)):
 	formated_lines.append(word)
 
 
-with open('commonwords_formated.txt', 'w') as f:
+with open('script_source_output.txt', 'w') as f:
     for item in formated_lines:
         f.write("%s" % item+'\n')
 
