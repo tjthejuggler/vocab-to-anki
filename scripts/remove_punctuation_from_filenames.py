@@ -9,7 +9,7 @@ def contains_punc(name):
 	return not bool(re.match('^[a-zA-Z0-9]*$',name))
 
 home = str(Path.home())
-pron_fold = home+'/pronunciations'
+pron_fold = home+'/projects/audio_lesson_extender'
 lang = 'en'
 parent_dir = pron_fold+'/'+lang+'/'
 

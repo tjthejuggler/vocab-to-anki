@@ -447,7 +447,7 @@ def main(lines):
 		line = ' '.join(s for s in line.split() if not any(c.isdigit() for c in s))
 		line = line.lower()
 		if is_formatted == False :
-			line = re.sub(r'[^\w\s]','',line)
+			line = re.sub(r"[^\w\d'\s]",'',line)
 			#print(line)
 			words = line.split()
 			for word in words:
@@ -474,9 +474,9 @@ def main(lines):
 			if ' - ' in line:
 				split_line = line.split(' - ')
 				first_word = split_line[0]
-				first_word = re.sub(r'[^\w\s]','',first_word)
+				first_word = re.sub(r"[^\w\d'\s]",'',first_word)
 				second_word = split_line[1]
-				second_word = re.sub(r'[^\w\s]','',second_word)
+				second_word = re.sub(r"[^\w\d'\s]",'',second_word)
 				if should_download:
 					if len(first_word.split()) < 3:
 						download_if_needed(first_word, first_lang)
