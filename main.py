@@ -424,6 +424,17 @@ def remove_silence(sound):
 def string_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
+def add_apostrophe_if_needed(line):
+	to_return = line
+	file = line+'.mp3'
+	local_dict_file = 'apos_previously_changed.json'
+	if path.exists(cwd+'/scripts/'+local_dict_file):			
+		with open(cwd+'/scripts/'+local_dict_file) as json_file:
+			local_dict = json.load(json_file)
+			if file in local_dict:
+				to_return = local_dict[file].replace(".mp3","")
+	print(to_return, 'ret')
+	return to_return
 
 def main(lines):
 	is_formatted = determine_if_formatted(lines)
@@ -451,6 +462,7 @@ def main(lines):
 			#print(line)
 			words = line.split()
 			for word in words:
+				word = add_apostrophe_if_needed(word)
 				if should_translate:
 					translation = get_translation(word).replace('-','/')
 					print(translation)
@@ -475,8 +487,10 @@ def main(lines):
 				split_line = line.split(' - ')
 				first_word = split_line[0]
 				first_word = re.sub(r"[^\w\d'\s]",'',first_word)
+				first_word = add_apostrophe_if_needed(first_word)
 				second_word = split_line[1]
 				second_word = re.sub(r"[^\w\d'\s]",'',second_word)
+				second_word = add_apostrophe_if_needed(second_word)
 				if should_download:
 					if len(first_word.split()) < 3:
 						download_if_needed(first_word, first_lang)
