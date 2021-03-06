@@ -15,6 +15,7 @@ import sys, getopt
 import random
 import sqlite3
 from operator import itemgetter
+import zipfile
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -101,9 +102,11 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
-def get_word_list_from_anki2(filename):
+def get_word_list_from_apkg(filename):
+	with zipfile.ZipFile(filename+".apkg", 'r') as zip_ref:
+		zip_ref.extractall(cwd+"/unzipped_apkg/"+filename)
 	accepted_cards = []
-	connection = sqlite3.connect(filename+".anki2")  # connect to your DB
+	connection = sqlite3.connect(cwd+"/unzipped_apkg/"+filename+"/collection.anki2")  # connect to your DB
 	cursor = connection.cursor()  # get a cursor
 	cursor.execute("SELECT nid,ivl,due,factor FROM cards")  # execute a simple SQL select query
 	card_selection = cursor.fetchall()  # get all the results from the above query
@@ -138,7 +141,7 @@ home = str(Path.home())
 pron_fold = home+'/pronunciations'
 cwd = os.getcwd()
 if use_anki_file:
-	lines = get_word_list_from_anki2(deck_name)
+	lines = get_word_list_from_apkg(deck_name)
 	print(lines)
 else:	
 	file = open( "source.txt", "r")
@@ -433,16 +436,16 @@ def add_apostrophe_if_needed(line):
 			local_dict = json.load(json_file)
 			if file in local_dict:
 				to_return = local_dict[file].replace(".mp3","")
-	print(to_return, 'ret')
+	#print(to_return, 'ret')
 	return to_return
 
 def main(lines):
 	is_formatted = determine_if_formatted(lines)
-	print(lines)
+	#print(lines)
 	if should_randomize_order == True:
 		print("randomized lines")
 		random.shuffle(lines)
-	print(lines)
+	#print(lines)
 	all_audio_files = []
 	output_lines = []
 	audio_text = []
@@ -451,7 +454,7 @@ def main(lines):
 	total_lines = 0
 	for line in lines:
 		total_lines+=1
-		print(total_lines)
+		#print(total_lines)
 		if total_lines == max_lines:
 			break
 		line = line.strip('\n')
@@ -465,7 +468,7 @@ def main(lines):
 				word = add_apostrophe_if_needed(word)
 				if should_translate:
 					translation = get_translation(word).replace('-','/')
-					print(translation)
+					#print(translation)
 					if translation:
 						output_lines.append(word + ' - ' + translation + ' - no hint\n')
 					#translate word and append(word - translation - no hint) to output_lines
@@ -544,7 +547,7 @@ def main(lines):
 					if not mp3_exists(first_word, first_lang):
 						concatenate_words_into_mp3(first_word, first_lang)
 					if not mp3_exists(second_word, second_lang):
-						print(second_word, second_lang)
+						#print(second_word, second_lang)
 						concatenate_words_into_mp3(second_word, second_lang)
 					have_all_mp3s = True
 					for word in first_word.split():
@@ -584,7 +587,7 @@ def main(lines):
 						
 	if should_make_audio_lesson:
 		print('len(audio_lesson_output)',len(audio_lesson_output))
-		audio_lesson_output.export(cwd+'/output/'+deck_name+rand_num+"_audio.mp3", format="mp3")
+		audio_lesson_output.export(cwd+'/mp3_output/'+deck_name+rand_num+"_audio.mp3", format="mp3")
 		print(deck_name+rand_num+"_audio.mp3 created")
 
 	if should_make_cards:

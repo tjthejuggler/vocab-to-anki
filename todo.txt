@@ -1,14 +1,10 @@
--run the apos script
+-shalu
+	ask if longer mp3s are better, or shorter ones
+	make a smple where it says the hindi once before the en and the turkish
 
--make mp3 transcripts be saved to github
+-figure out how to tell which way a card is going, and make audio entry able to be based on it so we can have foreign....foreign....native
+	-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
 
-Make a script that automatically puts punctuation back it en pronunciation filenames, and make the re.sub updated to allow apostrophes to stay.
-The script will need to ask for help on some words, like we're and it's - get a list of apostrophe engl words.
-Remember to use the new re.sub in any other programs of scripts that need it
-
--be able to use .apkg file directly
--rename stuff in sources
--remove cluttery prints
 -make an opt for showing prints
 -make exporting an audio lesson show stats
 -split mainaudio into different files
