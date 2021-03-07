@@ -1,3784 +1,2250 @@
-हद - to the extent - no hint
-
-कहन - saying - no hint
-
-बल - the force - no hint
-
-कहनय - story - no hint
-
-पचततर - seventy five - no hint
-
-मरख - the dead - no hint
-
-मतरपचततर - मतरपचततर - no hint
-
-सध - union - no hint
-
-और - and - no hint
-
-चहपचततर - twitter - no hint
-
-बनदर - monkey - no hint
-
-और - and - no hint
-
-लकड़ - wood - no hint
-
-क - k - no hint
-
-खटपचततर - khatpathar - no hint
-
-मरख - the dead - no hint
-
-सध - union - no hint
-
-और - and - no hint
-
-ठगपचततर - impostor - no hint
-
-लडत - fight - no hint
-
-बकर - baker - no hint
-
-और - and - no hint
-
-सयरपचततर - post/mortem - no hint
-
-वयपर - viper - no hint
-
-क - k - no hint
-
-पतन - the fall - no hint
-
-और - and - no hint
-
-उदयपचततर - udaypachhtar - no hint
-
-सयर - sawyer - no hint
-
-और - and - no hint
-
-ढलपचततर - sloping - no hint
-
-चतर - chatter - no hint
-
-खरगश - kharagash - no hint
-
-और - and - no hint
-
-शरपचततर - sharpachattar - no hint
-
-दषट - dasht - no hint
-
-सरप - sir - no hint
-
-और - and - no hint
-
-कवपचततर - fungiform - no hint
-
-बगल - next - no hint
-
-भगत - follower - no hint
-
-और - and - no hint
-
-ककडपचततर - katchapittar - no hint
-
-खटमल - bedbugs - no hint
-
-और - and - no hint
-
-बचर - butcher - no hint
-
-जपचततर - chanting - no hint
-
-टटहर - pony - no hint
-
-क - k - no hint
-
-जड़ - the root - no hint
-
-और - and - no hint
-
-समदर - respect - no hint
-
-क - k - no hint
-
-अभमनपचततर - non/intrusive - no hint
-
-मरख - the dead - no hint
-
-बतन - batan - no hint
-
-कछआपचततर - turtle - no hint
-
-रग - vena - no hint
-
-सयरपचततर - post/mortem - no hint
-
-शर - shar - no hint
-
-ऊट - the camel - no hint
-
-सयर - sawyer - no hint
-
-औरकवपचततर - and poetry - no hint
-
-गरय - done - no hint
-
-और - and - no hint
-
-बनदरपचततर - banardpachhtar - no hint
-
-चड़य - mud - no hint
-
-और - and - no hint
-
-बनदरपचततर - banardpachhtar - no hint
-
-तन - body - no hint
-
-मछलयपचततर - fishpatch - no hint
-
-सह - the co - no hint
-
-और - and - no hint
-
-सयरपचततर - post/mortem - no hint
-
-हथ - hath - no hint
-
-और - and - no hint
-
-गरयपचततर - गरयपचततर - no hint
-
-गजरज - gajraj - no hint
-
-और - and - no hint
-
-मषकरजपचततर - mashkarjapatchatar - no hint
-
-जस - jus - no hint
-
-क - k - no hint
-
-तसपचततर - तसपचततर - no hint
-
-बरहमण - the blast - no hint
-
-और - and - no hint
-
-तल - the floor - no hint
-
-क - k - no hint
-
-बजपचततर - budgetary - no hint
-
-मतरदरह - catarrh - no hint
-
-क - k - no hint
-
-फलपचततर - fruitful - no hint
-
-मरख - the dead - no hint
-
-बगल - next - no hint
-
-और - and - no hint
-
-नवलपचततर - नवलपचततर - no hint
-
-अभग - abhag - no hint
-
-बनकरपचततर - post/mortar - no hint
-
-कव - cove - no hint
-
-और - and - no hint
-
-उलल - ulal - no hint
-
-क - k - no hint
-
-बरपचततर - barpachattar - no hint
-
-बकर - baker - no hint
-
-बरहमण - the blast - no hint
-
-और - and - no hint
-
-तन - body - no hint
-
-ठगपचततर - impostor - no hint
-
-बलल - force - no hint
-
-क - k - no hint
-
-नययपचततर - post/mortem - no hint
-
-हथ - hath - no hint
-
-और - and - no hint
-
-चतर - chatter - no hint
-
-खरगशपचततर - kharagashpchatkar - no hint
-
-कबतर - the pigeon - no hint
-
-क - k - no hint
-
-जड़ - the root - no hint
-
-और - and - no hint
-
-शकरपचततर - शकरपचततर - no hint
-
-चहय - chhaya - no hint
-
-क - k - no hint
-
-सवयवरपचततर - सवयवरपचततर - no hint
-
-बढ़ - increased - no hint
-
-आदम - adam - no hint
-
-यव - yava - no hint
-
-पतन - the fall - no hint
-
-और - and - no hint
-
-चरपचततर - चरपचततर - no hint
-
-बरहमण - the blast - no hint
-
-और - and - no hint
-
-सरपपचततर - सरपपचततर - no hint
-
-बरहमण - the blast - no hint
-
-चर - variable - no hint
-
-और - and - no hint
-
-दनवपचततर - दनवपचततर - no hint
-
-कव - cove - no hint
-
-और - and - no hint
-
-उलल - ulal - no hint
-
-क - k - no hint
-
-यदधपचततर - if at all - no hint
-
-घर - house - no hint
-
-क - k - no hint
-
-भदपचततर - bhadpachatar - no hint
-
-बलन - balan - no hint
-
-वल - val - no hint
-
-गफपचततर - gossip - no hint
-
-मरखमडलपचततर - मरखमडलपचततर - no hint
-
-वश - tame - no hint
-
-क - k - no hint
-
-रकषपचततर - rakhshpathar - no hint
-
-बदर - badar - no hint
-
-और - and - no hint
-
-मगरमचछपचततर - crocodile - no hint
-
-मढकरज - madhakaraj - no hint
-
-और - and - no hint
-
-नगपचततर - nagpatchatar - no hint
-
-शर - shar - no hint
-
-गदड़ - mace - no hint
-
-और - and - no hint
-
-मरख - the dead - no hint
-
-गधपचततर - गधपचततर - no hint
-
-गदड़ - mace - no hint
-
-गदड़ - mace - no hint
-
-ह - h - no hint
-
-और - and - no hint
-
-शर - shar - no hint
-
-शरपचततर - sharpachattar - no hint
-
-कमहर - kamhar - no hint
-
-क - k - no hint
-
-कहनपचततर - where - no hint
-
-शर - shar - no hint
-
-क - k - no hint
-
-खल - disruption - no hint
-
-म - m - no hint
-
-गधपचततर - गधपचततर - no hint
-
-घमड - boast - no hint
-
-क - k - no hint
-
-सर - head - no hint
-
-नचपचततर - nachpatchatar - no hint
-
-सयर - sawyer - no hint
-
-क - k - no hint
-
-रणनतपचततर - रणनतपचततर - no hint
-
-कतत - qat - no hint
-
-क - k - no hint
-
-वर - on - no hint
-
-कततपचततर - step by step - no hint
-
-सतर - seventy - no hint
-
-क - k - no hint
-
-वशवसपचततर - वशवसपचततर - no hint
-
-सतरभकत - truthfulness - no hint
-
-रजपचततर - rajpatchatar - no hint
-
-हमश - always - no hint
-
-सच - truth - no hint
-
-समझ - understand - no hint
-
-कर - tax - no hint
-
-कम - less - no hint
-
-करपचततर - taxable - no hint
-
-बरहमण - the blast - no hint
-
-और - and - no hint
-
-नवलपचततर - नवलपचततर - no hint
-
-मसतक - master - no hint
-
-पर - on - no hint
-
-चकरपचततर - चकरपचततर - no hint
-
-जब - when - no hint
-
-शर - shar - no hint
-
-ज - j - no hint
-
-उठपचततर - up and down - no hint
-
-चर - variable - no hint
-
-मरख - the dead - no hint
-
-पडतपचततर - पडतपचततर - no hint
-
-द - the - no hint
-
-मछलय - fish - no hint
-
-और - and - no hint
-
-एक - one - no hint
-
-मढकपचततर - paddock - no hint
-
-सगतमय - consistent - no hint
-
-गधपचततर - गधपचततर - no hint
-
-बरहमण - the blast - no hint
-
-क - k - no hint
-
-सपनपचततर - dreamer - no hint
-
-द - the - no hint
-
-सर - head - no hint
-
-वल - val - no hint
-
-जलहपचततर - water logger - no hint
-
-वनररज - vanararaj - no hint
-
-क - k - no hint
-
-बदलपचततर - changeable - no hint
-
-रकषस - monster - no hint
-
-क - k - no hint
-
-भयपचततर - in awe - no hint
-
-द - the - no hint
-
-सर - head - no hint
-
-वल - val - no hint
-
-पकषपचततर - seventy five - no hint
-
-तनलरम - tannalaram - no hint
-
-क - k - no hint
-
-कहनय - story - no hint
-
-अचछ - good - no hint
-
-त - so - no hint
-
-म - m - no hint
-
-स - s - no hint
-
-भ - bh - no hint
-
-मजक - fun - no hint
-
-करग - karg - no hint
-
-हर - every - no hint
-
-क - k - no hint
-
-सच - truth - no hint
-
-सबब - cause - no hint
-
-शसतर - shantar - no hint
-
-क - k - no hint
-
-सबक - lesson - no hint
-
-मल - feces - no hint
-
-बरहमण - the blast - no hint
-
-कसक - tight - no hint
-
-पज - pause - no hint
-
-कर - tax - no hint
-
-अनतम - last - no hint
-
-इचछ - will - no hint
-
-लल - lal - no hint
-
-मर - die - no hint
-
-महमरख - peacock - no hint
-
-पडस - padas - no hint
-
-रज - raj - no hint
+अगठ - agath - no hint
 
 अगठ - agath - no hint
 
-चर - variable - no hint
-
-जदगर - jadagar - no hint
-
-क - k - no hint
-
-घमड - boast - no hint
-
-कछ - some - no hint
-
-नह - no - no hint
-
-बबपर - bbpar - no hint
-
-क - k - no hint
-
-रमलल - ramallah - no hint
-
-बशकमत - of course not - no hint
-
-फलदन - fulton - no hint
-
-मत - vote - no hint
-
-क - k - no hint
-
-सज - decorate - no hint
-
-नलकत - nalqat - no hint
-
-और - and - no hint
-
-तनलरम - tannalaram - no hint
-
-रगबरग - rubber - no hint
-
-नखन - nails - no hint
-
-कव - cove - no hint
-
-क - k - no hint
-
-गनत - gannat - no hint
-
-मनहस - manhsa - no hint
-
-कन - can - no hint
-
-रजगर - rajgar - no hint
-
-क - k - no hint
-
-चल - walk - no hint
-
-रशवत - bribe - no hint
-
-क - k - no hint
-
-खल - disruption - no hint
-
-तनलरम - tannalaram - no hint
-
-क - k - no hint
-
-खज - khaj - no hint
-
-तनलरम - tannalaram - no hint
-
-मटक - matk - no hint
-
-म - m - no hint
-
-सत - the truth - no hint
-
-जत - jat - no hint
-
-मरन - die - no hint
-
-वल - val - no hint
-
-चमल - chaumal - no hint
-
-तनलरम - tannalaram - no hint
-
-क - k - no hint
-
-मनपसनद - favorite - no hint
-
-मठई - mathai - no hint
-
-बढ - increased - no hint
-
-भखर - bhakhar - no hint
-
-और - and - no hint
-
-महरज - maharaj - no hint
-
-कषणदवरय - कषणदवरय - no hint
-
-क - k - no hint
-
-उदरत - udrat - no hint
-
-दध - thoracic - no hint
-
-न - not - no hint
-
-पन - pun - no hint
-
-वल - val - no hint
-
-बलल - force - no hint
-
-नल - tap - no hint
-
-क - k - no hint
-
-कमल - lotus - no hint
-
-मतयदड - vote - no hint
-
-क - k - no hint
-
-धमक - bully - no hint
-
-रगबरग - rubber - no hint
-
-मठइय - matthi - no hint
-
-शखचलल - shakhachalal - no hint
-
-क - k - no hint
-
-कहनय - story - no hint
-
-कस - tight - no hint
-
-नम - moist - no hint
-
-पड - pad - no hint
-
-सडक - the road - no hint
-
-यह - this - no hint
-
-रहत - rahat - no hint
-
-ह - h - no hint
-
-बखर - bakhar - no hint
-
-क - k - no hint
-
-इलज - ill - no hint
-
-शखचलल - shakhachalal - no hint
-
-क - k - no hint
-
-खर - really - no hint
-
-शखचलल - shakhachalal - no hint
-
-और - and - no hint
-
-कए - what - no hint
-
-क - k - no hint
-
-परय - paray - no hint
-
-खयल - khayal - no hint
-
-पलव - palav - no hint
-
-सबस - all - no hint
-
-झठ - stubbornness - no hint
-
-कन - can - no hint
-
-तदए - taday - no hint
-
-क - k - no hint
-
-शकर - sugar - no hint
-
-जतक - jatak - no hint
-
-कथए - the stories - no hint
-
-चद - chad - no hint
-
-पर - on - no hint
-
-खरगश - kharagash - no hint
-
-सन - sun - no hint
-
-क - k - no hint
-
-हस - laugh - no hint
-
-द - the - no hint
-
-हस - laugh - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-बदध - baddh - no hint
-
-क - k - no hint
-
-चमतकर - glowing - no hint
-
-रर - rr - no hint
-
-मग - then - no hint
-
-क - k - no hint
-
-कथ - story - no hint
-
-बदधमन - baddhaman - no hint
-
-वनर - monkey - no hint
-
-छददनत - छददनत - no hint
-
-हथ - hath - no hint
-
-लकखण - hymn - no hint
-
-मग - then - no hint
-
-महकप - smell - no hint
-
-क - k - no hint
-
-बलदन - baldan - no hint
-
-सत - the truth - no hint
-
-भस - bhas - no hint
-
-और - and - no hint
-
-नटखट - naughty - no hint
-
-बदर - badar - no hint
-
-सलव - salav - no hint
-
-हथ - hath - no hint
-
-और - and - no hint
-
-लभ - love - no hint
-
-मतर - matar - no hint
-
-कपरज - kaparaj - no hint
-
-कव - cove - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-महन - mahan - no hint
-
-मरकट - emerald - no hint
-
-महन - mahan - no hint
-
-मतसय - matsay - no hint
-
-सह - the co - no hint
-
-और - and - no hint
-
-सयर - sawyer - no hint
-
-समदनत - samdanat - no hint
-
-कलबह - kalbah - no hint
-
-ननदवसल - nandavasal - no hint
-
-नगरध - city ward - no hint
-
-मग - then - no hint
-
-उलल - ulal - no hint
-
-क - k - no hint
-
-रजयभषक - rhinoceros - no hint
-
-वनरबनध - forest ban - no hint
-
-बदर - badar - no hint
-
-क - k - no hint
-
-हदय - haday - no hint
-
-बदधमन - baddhaman - no hint
-
-मरग - marg - no hint
-
-कबतर - the pigeon - no hint
-
-और - and - no hint
-
-कव - cove - no hint
-
-रमक - ramak - no hint
-
-कबतर - the pigeon - no hint
-
-ररदय - blood - no hint
-
-हरण - haran - no hint
-
-वयघरकथ - age story - no hint
-
-चमड़ - skin - no hint
-
-क - k - no hint
-
-धत - god - no hint
-
-कछए - the tortoises - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-कतघन - cauldron - no hint
-
-वनर - monkey - no hint
-
-मरख - the dead - no hint
-
-बदधमन - baddhaman - no hint
-
-सपर - supper - no hint
-
-और - and - no hint
-
-बदर - badar - no hint
-
-सयर - sawyer - no hint
-
-नययधश - plan - no hint
-
-दनवककड़ - clap - no hint
-
-करधवजय - kardhavajaya - no hint
-
-चललबध - available - no hint
-
-महलमख - palace - no hint
-
-हथ - hath - no hint
-
-वससनतर - postpartum - no hint
-
-क - k - no hint
-
-तयग - fixed - no hint
-
-वधर - there - no hint
-
-वनलक - forest - no hint
-
-कशनगर - kashanagar - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-मतग - mtg - no hint
-
-महजनक - tasty - no hint
-
-क - k - no hint
-
-सयस - sayes - no hint
-
-सहषणत - tolerant - no hint
-
-क - k - no hint
-
-वरत - vrat - no hint
-
-शकर - sugar - no hint
-
-क - k - no hint
-
-उड़न - flying - no hint
-
-दतय - datya - no hint
-
-क - k - no hint
-
-सदक - southwark - no hint
-
-कशलककड़ - kalashkad - no hint
-
-सव - all - no hint
-
-क - k - no hint
-
-तयग - fixed - no hint
-
-सरकभ - sarkabh - no hint
-
-बवर - beaver - no hint
-
-दवप - dava - no hint
-
-चपयय - moot - no hint
-
-नग - gems - no hint
-
-घतकमर - thrashing - no hint
-
-नगरज - nagaraj - no hint
-
-सखपल - strict - no hint
-
-नवक - newcomer - no hint
-
-सपपरक - supporter - no hint
-
-आम - mango - no hint
-
-चर - variable - no hint
-
-गग - the gig - no hint
-
-रजकमर - rajkamar - no hint
-
-कशल - kashal - no hint
-
-जआर - jr - no hint
-
-मणवल - manaval - no hint
-
-सप - sp - no hint
-
-लक - luck - no hint
-
-कथए - the stories - no hint
-
-फररफरर - furrer - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-तन - body - no hint
-
-पतल - patl - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-चतरई - chattarai - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-पछ - back - no hint
-
-बल - the force - no hint
-
-चर - variable - no hint
-
-पहर - time - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-आलसय - laziness - no hint
-
-क - k - no hint
-
-आशरम - ashram - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-दरखत - tree - no hint
-
-रन - run - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-लह - lah - no hint
-
-ख - b - no hint
-
-गय - guy - no hint
-
-घन - cube - no hint
-
-हद - to the extent - no hint
-
-लककथ - the script - no hint
-
-बरश - rain - no hint
-
-हई - hai - no hint
-
-मर - die - no hint
-
-बन - become - no hint
-
-असम - assam - no hint
-
-ईरषयल - irsial - no hint
-
-चच - munch - no hint
-
-असम - assam - no hint
-
-पल - moment - no hint
-
-खल - disruption - no hint
-
-गई - has gone - no hint
-
-असम - assam - no hint
-
-ननयनव - ninety nine - no hint
-
-क - k - no hint
-
-चककर - in shock - no hint
-
-असम - assam - no hint
-
-शवज - svj - no hint
-
-क - k - no hint
-
-वहन - affordable - no hint
-
-असम - assam - no hint
-
-अनमल - anmal - no hint
-
-रय - the chariot - no hint
-
-असम - assam - no hint
-
-एक - one - no hint
-
-थ - th - no hint
-
-सरम - shame - no hint
-
-असम - assam - no hint
-
-ललच - temptation - no hint
-
-बर - groom - no hint
-
-बल - the force - no hint
-
-असम - assam - no hint
-
-तजमल - tajmal - no hint
-
-क - k - no hint
-
-वपस - back - no hint
-
-असम - assam - no hint
-
-शरक - sugar - no hint
-
-क - k - no hint
-
-जनम - birth - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-जब - when - no hint
-
-पड - pad - no hint
-
-चलत - ongoing - no hint
-
-थ - th - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-सरज - saraj - no hint
-
-क - k - no hint
-
-ओर - and - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-नरयल - hell - no hint
-
-क - k - no hint
-
-जनम - birth - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-चमगदड - bats - no hint
-
-क - k - no hint
-
-जनम - birth - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-गर - gar - no hint
-
-और - and - no hint
-
-शआन - shaan - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-सरज - saraj - no hint
-
-और - and - no hint
-
-चद - chad - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-चर - variable - no hint
-
-हआ - haaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh. - no hint
-
-टप - drip - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-बन - become - no hint
-
-क - k - no hint
-
-दश - ten - no hint
-
-अडमन - adaman - no hint
-
-नकबर - naqbar - no hint
-
-चटर - chatter - no hint
-
-भनमत - bhanmat - no hint
-
-आधर - adhar - no hint
-
-परदश - purdah - no hint
-
-मलणण - malanan - no hint
-
-क - k - no hint
-
-बल - the force - no hint
-
-आधर - adhar - no hint
-
-परदश - purdah - no hint
-
-घ - d - no hint
-
-सड - rud - no hint
-
-गय - guy - no hint
-
-आधर - adhar - no hint
-
-परदश - purdah - no hint
-
-ईशवर - god - no hint
-
-बड - bud - no hint
-
-ह - h - no hint
-
-आधर - adhar - no hint
-
-परदश - purdah - no hint
-
-नगपचम - nagpacham - no hint
-
-और - and - no hint
-
-नग - gems - no hint
-
-आधर - adhar - no hint
-
-परदश - purdah - no hint
-
-सचच - really - no hint
-
-मन - the mind - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-चतर - chatter - no hint
-
-चमर - skin - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-शखचलल - shakhachalal - no hint
-
-और - and - no hint
-
-कए - what - no hint
-
-क - k - no hint
-
-परय - paray - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-टपटपव - dripping - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-धन - wealth - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-सन - sun - no hint
-
-क - k - no hint
-
-भकषपतर - bhakshapatra - no hint
-
-उततर - north - no hint
-
-परदश - purdah - no hint
-
-दरभवन - darbhavan - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-उततरखड - uttarakhand - no hint
-
-फल - the fruit - no hint
-
-क - k - no hint
-
-घट - ghat - no hint
-
-उततरखड - uttarakhand - no hint
-
-बर - groom - no hint
-
-बण - arrow - no hint
-
-बहन - sister - no hint
-
-उततरखड - uttarakhand - no hint
-
-गय - guy - no hint
-
-बछड़ - the calf - no hint
-
-और - and - no hint
-
-बघ - look - no hint
-
-कमऊ - earn - no hint
-
-उततरखड - uttarakhand - no hint
-
-दवदर - godfather - no hint
-
-और - and - no hint
-
-उम - um - no hint
-
-उततरखड - uttarakhand - no hint
-
-फयल - fail - no hint
-
-रतल - the rat - no hint
-
-उततरखड - uttarakhand - no hint
-
-ह - h - no hint
-
-दद - pain - no hint
-
-ह - h - no hint
-
-उततरखड - uttarakhand - no hint
-
-परनद - great grandfather - no hint
-
-क - k - no hint
-
-पप - pop - no hint
-
-ओडआओडश - odoadush - no hint
-
-ठगरज - trickery - no hint
-
-ओडआओडश - odoadush - no hint
-
-गडय - gaday - no hint
-
-क - k - no hint
-
-मल - feces - no hint
-
-करनटक - currant - no hint
-
-मरख - the dead - no hint
-
-नलमम - nalamam - no hint
-
-करनटक - currant - no hint
-
-अकक - akak - no hint
-
-और - and - no hint
-
-रकषस - monster - no hint
-
-रज - raj - no hint
-
-करनटक - currant - no hint
-
-दन - day - no hint
-
-भवन - the building - no hint
-
-करनटक - currant - no hint
-
-पणयकट - panayakat - no hint
-
-गय - guy - no hint
-
-करनटककननड - karntakkananad - no hint
-
-कहन - saying - no hint
-
-और - and - no hint
-
-गत - past - no hint
-
-करनटककननड - karntakkananad - no hint
-
-दयशम - dayasham - no hint
-
-क - k - no hint
-
-भकत - devotion - no hint
-
-करनटककननड - karntakkananad - no hint
-
-जयललत - jayalat - no hint
-
-क - k - no hint
-
-सस - mother in law - no hint
-
-म - m - no hint
-
-करनटक - currant - no hint
-
-हसन - hasan - no hint
-
-वल - val - no hint
-
-मछल - fish - no hint
-
-कशमर - kashmar - no hint
-
-चलस - chalas - no hint
-
-भइय - brother - no hint
-
-क - k - no hint
-
-पहड़ - watch - no hint
-
-कशमर - kashmar - no hint
-
-बदधमन - baddhaman - no hint
-
-कज - hinge - no hint
-
-कशमर - kashmar - no hint
-
-अललह - allah - no hint
-
-क - k - no hint
-
-बदधमन - baddhaman - no hint
-
-कशमर - kashmar - no hint
-
-अकनदन - akadan - no hint
-
-कशमर - kashmar - no hint
-
-रससय - juice - no hint
-
-जकड़ - grip - no hint
-
-डणड - dand - no hint
-
-मर - die - no hint
-
-कशमर - kashmar - no hint
-
-सनक - fad - no hint
-
-अजबमल - ajambal - no hint
-
-कशमर - kashmar - no hint
-
-भलनथ - bhalanath - no hint
-
-क - k - no hint
-
-चलक - variable - no hint
-
-कशमर - kashmar - no hint
-
-बलल - force - no hint
-
-क - k - no hint
-
-जद - range - no hint
-
-कशमर - kashmar - no hint
-
-बदल - change - no hint
-
-गई - has gone - no hint
-
-रज - raj - no hint
-
-कशमर - kashmar - no hint
-
-पजब - when - no hint
-
-भजन - hymn - no hint
-
-कशमर - kashmar - no hint
-
-महबल - mahabal - no hint
-
-क - k - no hint
-
-आगमन - arrival - no hint
-
-करल - karl - no hint
-
-गर - gar - no hint
-
-खरगश - kharagash - no hint
-
-करल - karl - no hint
-
-चलक - variable - no hint
-
-चद - chad - no hint
-
-करल - karl - no hint
-
-ईच - each - no hint
-
-पच - digested - no hint
-
-करलमलयलम - करलमलयलम - no hint
-
-अययपपन - ayapapan - no hint
-
-क - k - no hint
-
-अवतर - avatar - no hint
-
-करल - karl - no hint
-
-भदरकल - bhadarkal - no hint
-
-क - k - no hint
-
-वरदन - boon - no hint
-
-करल - karl - no hint
-
-कर - tax - no hint
-
-भल - well - no hint
-
-ह - h - no hint
-
-भल - well - no hint
-
-करल - karl - no hint
-
-दषट - dasht - no hint
-
-शर - shar - no hint
-
-करल - karl - no hint
-
-बदध - baddh - no hint
-
-क - k - no hint
-
-सदगर - sdgr - no hint
-
-गजरत - gajrat - no hint
-
-बह - flow - no hint
-
-क - k - no hint
-
-चतरई - chattarai - no hint
-
-गजरत - gajrat - no hint
-
-बकर - baker - no hint
-
-और - and - no hint
-
-बघन - pubic - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-चमप - champs - no hint
-
-और - and - no hint
-
-बस - just - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-दह - dah - no hint
-
-त - so - no hint
-
-कपल - couple - no hint
-
-क - k - no hint
-
-करह - groan - no hint
-
-गपल - gapple - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-मर - die - no hint
-
-क - k - no hint
-
-आग - the fire - no hint
-
-भत - allowance - no hint
-
-भग - part - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-महआ - mah - no hint
-
-क - k - no hint
-
-पड़ - fall - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-अनख - ankh - no hint
-
-दसत - diarrhea - no hint
-
-कआ - kah - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-बकर - baker - no hint
-
-और - and - no hint
-
-सयर - sawyer - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-बकर - baker - no hint
-
-ल - le - no hint
-
-ककड - cuck - no hint
-
-छततसगढ़ - chhattisgarh - no hint
-
-शर - shar - no hint
-
-क - k - no hint
-
-दल - the team - no hint
-
-जममडगर - jammadgar - no hint
-
-द - the - no hint
-
-चतर - chatter - no hint
-
-झरखणडमडर - jharkhand - no hint
-
-ईरषय - jealousy - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-झरखणडमडर - jharkhand - no hint
-
-तन - body - no hint
-
-बद - bad - no hint
-
-हड़य - haray - no hint
-
-तन - body - no hint
-
-बद - bad - no hint
-
-खन - khan - no hint
-
-झरखणडमडर - jharkhand - no hint
-
-तयग - fixed - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-झरखणडमडर - jharkhand - no hint
-
-गग - the gig - no hint
-
-और - and - no hint
-
-छतर - umbrella - no hint
-
-झरखणडमडर - jharkhand - no hint
-
-गरम - hot - no hint
-
-जमन - jaman - no hint
-
-तमलनड - tamil nadu - no hint
-
-कणणगकवलन - कणणगकवलन - no hint
-
-तमलनड - tamil nadu - no hint
-
-दषट - dasht - no hint
-
-कणणक - particle - no hint
-
-तमलनड - tamil nadu - no hint
-
-शरनवस - sharanavas - no hint
-
-क - k - no hint
-
-बईमन - baiman - no hint
-
-तमलनड - tamil nadu - no hint
-
-बड - bud - no hint
-
-क - k - no hint
-
-सतकर - sankar - no hint
-
-तमलनड - tamil nadu - no hint
-
-ईमनदर - honest - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-तलगन - तलगन - no hint
-
-उपहर - fury - no hint
-
-नगलड - nagalad - no hint
-
-दषटत - dashtat - no hint
-
-क - k - no hint
-
-परणम - consequences - no hint
-
-नगलड - nagalad - no hint
-
-मगसन - magasan - no hint
-
-परवज - parvaj - no hint
-
-कथ - story - no hint
-
-नगलड - nagalad - no hint
-
-चगल - chagall - no hint
-
-परवज - parvaj - no hint
-
-कथ - story - no hint
-
-नगलड - nagalad - no hint
-
-मरग - marg - no hint
-
-क - k - no hint
-
-बग - the bug - no hint
-
-और - and - no hint
-
-सरयदय - saraday - no hint
-
-नगलड - nagalad - no hint
-
-चह - chah - no hint
-
-धन - wealth - no hint
-
-कय - what - no hint
-
-खत - letter - no hint
-
-ह - h - no hint
-
-नगलड - nagalad - no hint
-
-धन - wealth - no hint
-
-और - and - no hint
-
-सअर - the pig - no hint
-
-क - k - no hint
-
-समबध - related - no hint
-
-नगलड - nagalad - no hint
-
-भकमप - भकमप - no hint
-
-नगलड - nagalad - no hint
-
-द - the - no hint
-
-मखय - makhay - no hint
-
-नगलड - nagalad - no hint
-
-खय - khay - no hint
-
-नगलड - nagalad - no hint
-
-नकपलब - duplicate - no hint
-
-क - k - no hint
-
-तयग - fixed - no hint
-
-नगलड - nagalad - no hint
-
-सरप - sir - no hint
-
-कथ - story - no hint
-
-नगलड - nagalad - no hint
-
-आभर - thank you - no hint
-
-हरण - haran - no hint
-
-नगलड - nagalad - no hint
-
-धरत - holding - no hint
-
-बनदर - monkey - no hint
-
-नगलड - nagalad - no hint
-
-ललच - temptation - no hint
-
-मनव - manav - no hint
-
-नगलड - nagalad - no hint
-
-इतवन - fifty one - no hint
-
-चनसगब - chanasgab - no hint
-
-नगलड - nagalad - no hint
-
-लहड़ - tearing - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-पजब - when - no hint
-
-कढ़ - stiff - no hint
-
-रज - raj - no hint
-
-पजब - when - no hint
-
-रज - raj - no hint
-
-और - and - no hint
-
-मरस - maras - no hint
-
-पजब - when - no hint
-
-सयर - sawyer - no hint
-
-क - k - no hint
-
-बदल - change - no hint
-
-उडस - udas - no hint
-
-व - and - no hint
-
-बगल - next - no hint
-
-सवपनवकष - dreamy - no hint
-
-बहर - bahar - no hint
-
-खट - khat - no hint
-
-म - m - no hint
-
-मर - die - no hint
-
-दल - the team - no hint
-
-ह - h - no hint
-
-बहर - bahar - no hint
-
-शत - century - no hint
-
-बसत - sitting - no hint
-
-बहर - bahar - no hint
-
-बहलवषहर - bahlsahar - no hint
-
-बहर - bahar - no hint
-
-खजड - khajd - no hint
-
-क - k - no hint
-
-खनक - tinker - no hint
-
-मगधबहर - magadbahar - no hint
-
-रज - raj - no hint
-
-क - k - no hint
-
-चनव - chanav - no hint
-
-मणपर - manapar - no hint
-
-कबई - kabai - no hint
-
-क - k - no hint
-
-जद - range - no hint
-
-मणपर - manapar - no hint
-
-तन - body - no hint
-
-शकषए - teachers - no hint
-
-मणपर - manapar - no hint
-
-बदधमन - baddhaman - no hint
-
-सध - union - no hint
-
-मणपर - manapar - no hint
-
-चदरसख - chadarsakh - no hint
-
-मणपर - manapar - no hint
-
-चउरन - churan - no hint
-
-और - and - no hint
-
-बढई - carpenter - no hint
-
-मणपर - manapar - no hint
-
-सचचई - truth - no hint
-
-क - k - no hint
-
-जत - jat - no hint
-
-मणपर - manapar - no hint
-
-गरमनङ - garmanang - no hint
-
-और - and - no hint
-
-गइरमन - guirman - no hint
-
-मणपर - manapar - no hint
-
-खलर - khler - no hint
-
-मणपर - manapar - no hint
-
-सनतल - plane - no hint
-
-क - k - no hint
-
-जद - range - no hint
-
-मणपर - manapar - no hint
-
-बढबढ - more and more - no hint
-
-चद - chad - no hint
-
-पर - on - no hint
-
-मणपर - manapar - no hint
-
-रप - rape - no hint
-
-क - k - no hint
-
-चतरई - chattarai - no hint
-
-मणपर - manapar - no hint
-
-दवत - feast - no hint
-
-और - and - no hint
-
-असर - effect - no hint
-
-मणपर - manapar - no hint
-
-यओजम - yojum - no hint
-
-क - k - no hint
-
-अत - therefore - no hint
-
-मणपर - manapar - no hint
-
-सहस - sahas - no hint
-
-इबहल - ibahl - no hint
-
-मणपर - manapar - no hint
-
-तमहर - you - no hint
-
-बट - but - no hint
-
-मणपर - manapar - no hint
-
-भत - allowance - no hint
-
-आय - income - no hint
-
-मणपर - manapar - no hint
-
-एबथई - ebthai - no hint
-
-क - k - no hint
-
-दसत - diarrhea - no hint
-
-मणपर - manapar - no hint
-
-मरख - the dead - no hint
-
-कन - can - no hint
-
-मधयपरदश - mid/day - no hint
-
-आत - inside - no hint
-
-वसतर - vastar - no hint
-
-जत - jat - no hint
-
-गण - count - no hint
-
-मधयपरदश - mid/day - no hint
-
-कजस - cajas - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-मधयपरदश - mid/day - no hint
-
-मछआर - fisherman - no hint
-
-और - and - no hint
-
-जदई - jadai - no hint
-
-मछल - fish - no hint
-
-मधयपरदश - mid/day - no hint
-
-सवक - server - no hint
-
-बन - become - no hint
-
-जओ - live - no hint
-
-मधयपरदश - mid/day - no hint
-
-चर - variable - no hint
-
-मतर - matar - no hint
-
-महरषटर - maharashtra - no hint
-
-दवरन - davaran - no hint
-
-जठन - the reading - no hint
-
-महरषटर - maharashtra - no hint
-
-चह - chah - no hint
-
-क - k - no hint
-
-अहसन - ahsan - no hint
-
-मजरम - mazram - no hint
-
-उ - a - no hint
-
-सयर - sawyer - no hint
-
-लपलग - lappalag - no hint
-
-मघलय - maghalaya - no hint
-
-चद - chad - no hint
-
-म - m - no hint
-
-दग - the stag - no hint
-
-मघलय - maghalaya - no hint
-
-पतल - patl - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-रजसथन - rajasthan - no hint
-
-एक - one - no hint
-
-बढय - increased - no hint
-
-क - k - no hint
-
-कहन - saying - no hint
-
-रजसथन - rajasthan - no hint
-
-चर - variable - no hint
-
-और - and - no hint
-
-रज - raj - no hint
-
-रजसथन - rajasthan - no hint
-
-असल - original - no hint
-
-सवरग - heaven - no hint
-
-रजसथन - rajasthan - no hint
-
-बआज - interest - no hint
-
-क - k - no hint
-
-आख - the eye - no hint
-
-रजसथन - rajasthan - no hint
-
-हकर - hucker - no hint
-
-क - k - no hint
-
-कलग - kalag - no hint
-
-रजसथन - rajasthan - no hint
-
-सतडसतलसथल - सतडसतलसथल - no hint
-
-जनजत - janjat - no hint
-
-परचय - introduction - no hint
-
-लध - ladh - no hint
-
-और - and - no hint
-
-तदआ - tada - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-अनव - anav - no hint
-
-और - and - no hint
-
-उसक - his - no hint
-
-म - m - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-ईरषयल - irsial - no hint
-
-सतल - sutle - no hint
-
-म - m - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-करम - karam - no hint
-
-और - and - no hint
-
-धरम - dharam - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-नरदय - heart - no hint
-
-सतल - sutle - no hint
-
-म - m - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-रजकमर - rajkamar - no hint
-
-क - k - no hint
-
-जञन - baby - no hint
-
-मल - feces - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-बनदर - monkey - no hint
-
-बट - but - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-चरवह - shepherd - no hint
-
-क - k - no hint
-
-कस - tight - no hint
-
-दलहन - pulses - no hint
-
-मल - feces - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-हसन - hasan - no hint
-
-वल - val - no hint
-
-मछल - fish - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-जदई - jadai - no hint
-
-गय - guy - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-कजस - cajas - no hint
-
-नकर - nakar - no hint
-
-सथलसतल - ground floor - no hint
-
-परगन - pargan - no hint
-
-कहन - saying - no hint
-
-पड - pad - no hint
-
-क - k - no hint
-
-सककम - sakkam - no hint
-
-करतवय - doings - no hint
-
-क - k - no hint
-
-उपकष - lesson - no hint
-
-हरयण - harayan - no hint
-
-जतन - jatan - no hint
-
-मह - meh - no hint
-
-उतन - upturn - no hint
-
-बत - gall - no hint
-
-हरयण - harayan - no hint
-
-आपण - you - no hint
-
-क - k - no hint
-
-चट - chut - no hint
-
-हरयण - harayan - no hint
-
-बमहण - bamhan - no hint
-
-अर - ar - no hint
-
-बणय - banyan - no hint
-
-हरयण - harayan - no hint
-
-महदपरवत - mahdaparvat - no hint
-
-हरयण - harayan - no hint
-
-पणहर - panahar - no hint
-
-और - and - no hint
-
-मसफर - mosfar - no hint
-
-हरयण - harayan - no hint
-
-सनकस - the sun - no hint
-
-हमचल - fellow - no hint
-
-परदश - purdah - no hint
-
-धर - dhar - no hint
-
-चल - walk - no hint
-
-कगड़हमचल - kagadhamachal - no hint
-
-परदश - purdah - no hint
-
-मण - man - no hint
-
-और - and - no hint
-
-रकषस - monster - no hint
-
-मकख - mook - no hint
-
-तरपर - the way - no hint
-
-खरच - really - no hint
-
-पज - pause - no hint
-
-तरपर - the way - no hint
-
-रहसय - mystery - no hint
-
-क - k - no hint
-
-बत - gall - no hint
-
-तरपर - the way - no hint
-
-अदभत - amazing - no hint
-
-नययकरत - नययकरत - no hint
-
-तरपर - the way - no hint
-
-बहर - bahar - no hint
-
-परवर - prvr - no hint
-
-तरपर - the way - no hint
-
-हथ - hath - no hint
-
-क - k - no hint
-
-घमणड - arrogance - no hint
-
-तरपर - the way - no hint
-
-सवरणकश - सवरनकश - no hint
-
-नपल - napalm - no hint
-
-सव - all - no hint
-
-और - and - no hint
-
-भकत - devotion - no hint
-
-नपल - napalm - no hint
-
-छट - chat - no hint
-
-स - s - no hint
-
-चज़ - chas - no hint
-
-नपल - napalm - no hint
-
-कसमत - judgment - no hint
-
-नपल - napalm - no hint
-
-मफत - mafat - no hint
-
-क - k - no hint
-
-चकर - chucker - no hint
-
-नपल - napalm - no hint
-
-सयर - sawyer - no hint
-
-क - k - no hint
-
-फसल - crop - no hint
-
-नपल - napalm - no hint
-
-कजस - cajas - no hint
-
-मकखचस - makkhachus - no hint
-
-बगलदश - sideways - no hint
-
-खररम - kharam - no hint
-
-और - and - no hint
-
-कटहल - jackfruit - no hint
-
-बगलदश - sideways - no hint
-
-वचतर - scripture - no hint
-
-टप - drip - no hint
-
-शरलक - sherlock - no hint
-
-अनख - ankh - no hint
-
-तरकब - trick - no hint
-
-शरलक - sherlock - no hint
-
-कस - tight - no hint
-
-बन - become - no hint
-
-तब - then - no hint
-
-झल - jhal - no hint
-
-इडनशय - indestructible - no hint
-
-हदय - haday - no hint
-
-परवरतन - reflection - no hint
-
-इडनशय - indestructible - no hint
-
-लश - lash - no hint
-
-क - k - no hint
-
-सफई - sweep - no hint
-
-क - k - no hint
-
-तयहर - tayhar - no hint
-
-इडनशय - indestructible - no hint
-
-झपड - slap - no hint
-
-और - and - no hint
-
-महल - palace - no hint
-
-पकसतन - baking - no hint
-
-सजद - sajd - no hint
-
-अफगनसतन - afghansatan - no hint
-
-बदसरत - badrta - no hint
-
-मढक - paddock - no hint
-
-इरक - irk - no hint
-
-एक - one - no hint
-
-अनख - ankh - no hint
-
-नयय - judgment - no hint
-
-इरक - irk - no hint
-
-नज - nudge - no hint
-
-सपतत - seven - no hint
-
-ईरन - iran - no hint
-
-मखमल - velvet - no hint
-
-चपपल - flirtatious - no hint
-
-ईरन - iran - no hint
-
-मढक - paddock - no hint
-
-रजकमर - rajkamar - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-रख - keep - no hint
-
-क - k - no hint
-
-रसस - rasas - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-बदधपरकष - baddhaparaksh - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-द - the - no hint
-
-बहन - sister - no hint
-
-और - and - no hint
-
-एक - one - no hint
-
-भई - yes - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-मत - vote - no hint
-
-क - k - no hint
-
-वदन - day - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-नल - tap - no hint
-
-लमड - lamed - no hint
-
-रज - raj - no hint
-
-बन - become - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-सनन - sanan - no hint
-
-उतसव - fest - no hint
-
-तबबत - then - no hint
-
-लककथ - the script - no hint
-
-गलगल - galgal - no hint
-
-रस - juice - no hint
-
-लककथ - the script - no hint
-
-चर - variable - no hint
-
-क - k - no hint
-
-सज - decorate - no hint
-
-रस - juice - no hint
-
-लककथ - the script - no hint
-
-मकत - makat - no hint
-
-रस - juice - no hint
-
-लककथ - the script - no hint
-
-अनत - end - no hint
-
-इचछ - will - no hint
-
-इटल - italy - no hint
-
-खश - happy - no hint
-
-क - k - no hint
-
-तलश - talash - no hint
-
-इटल - italy - no hint
-
-छट - chat - no hint
-
-नडर - nadar - no hint
-
-जन - people - no hint
-
-इटल - italy - no hint
-
-तन - body - no hint
-
-सदधनत - saddanat - no hint
-
-इटलरम - italram - no hint
-
-एडरकलज - adarklaj - no hint
-
-और - and - no hint
-
-शर - shar - no hint
-
-इटलरम - italram - no hint
-
-धप - an incandescence - no hint
-
-नकल - copy - no hint
-
-बरश - rain - no hint
-
-ह - h - no hint
-
-तरकसतनतरक - circulator - no hint
-
-मनमज - manmad - no hint
-
-डमरल - dummer - no hint
-
-तरकसतनतरक - circulator - no hint
-
-तमर - tamar - no hint
-
-लग - look - no hint
-
-क - k - no hint
-
-कमत - kamat - no hint
-
-तरकसतनतरक - circulator - no hint
-
-सतष - satish - no hint
-
-तरकसतनतरक - circulator - no hint
-
-महनत - mahanat - no hint
-
-लड़क - the boys - no hint
-
-बरटन - burton - no hint
-
-यद - if - no hint
-
-ऐस - ace - no hint
-
-हत - hat - no hint
-
-बरटन - burton - no hint
-
-चममच - spoon - no hint
-
-क - k - no hint
-
-सप - sp - no hint
-
-आइसलड - islead - no hint
-
-सन - sun - no hint
-
-क - k - no hint
-
-सपरश - saprash - no hint
-
-यनन - yann - no hint
-
-सदगर - sdgr - no hint
-
-यनन - yann - no hint
-
-वसत - vasat - no hint
-
-ऋत - credit - no hint
-
-यनन - yann - no hint
-
-बसर - basar - no hint
-
-क - k - no hint
-
-धन - wealth - no hint
-
-लककथ - the script - no hint
-
-अमरक - amark - no hint
-
-शसत - sasat - no hint
-
-परवत - mountain - no hint
-
-लककथ - the script - no hint
-
-अमरक - amark - no hint
-
-चल - walk - no hint
-
-और - and - no hint
-
-रज - raj - no hint
-
-लककथ - the script - no hint
-
-अलबनय - albany - no hint
-
-मरख - the dead - no hint
-
-क - k - no hint
-
-दनय - merciful - no hint
-
-बलगरय - balgray - no hint
-
-बब - bub - no hint
-
-मरत - die - no hint
-
-बलगरय - balgray - no hint
-
-एक - one - no hint
-
-तरकब - trick - no hint
-
-बलगरय - balgray - no hint
-
-ईरषय - jealousy - no hint
-
-बलगरय - balgray - no hint
-
-सन - sun - no hint
-
-सरह - like - no hint
-
-सपन - dream - no hint
-
-सन - sun - no hint
-
-वहइट - white - no hint
-
-और - and - no hint
-
-सत - the truth - no hint
-
-बन - become - no hint
-
-जरमन - gerry - no hint
-
-नल - tap - no hint
-
-रशन - ration - no hint
-
-जरमन - gerry - no hint
-
-सनहर - sunhar - no hint
-
-हस - laugh - no hint
-
-जरमन - gerry - no hint
-
-बन - become - no hint
-
-और - and - no hint
-
-मच - mach - no hint
-
-जरमन - gerry - no hint
-
-सडरल - saderal - no hint
-
-जरमन - gerry - no hint
-
-महनत - mahanat - no hint
-
-क - k - no hint
-
-फल - the fruit - no hint
-
-जरमन - gerry - no hint
-
-मददगर - helpful - no hint
-
-बरह - barh - no hint
-
-महन - mahan - no hint
-
-सलवकचकसलवकय - सलवकचकसलवकय - no hint
-
-नरयल - hell - no hint
-
-क - k - no hint
-
-खत - letter - no hint
-
-फज - fudge - no hint
-
-मउई - maui - no hint
-
-आग - the fire - no hint
-
-लन - lan - no hint
-
-वल - val - no hint
-
-नयजलड - new zealand - no hint
-
-वकष - वक्ष - no hint
-
-क - k - no hint
-
-लए - bring - no hint
-
-पततय - pattha - no hint
-
-नयजलड - new zealand - no hint
-
-बन - become - no hint
-
-म - m - no hint
-
-क - k - no hint
-
-बचच - child - no hint
-
-मसर - masar - no hint
-
-जस - jus - no hint
-
-क - k - no hint
-
-तस - this - no hint
-
-मसर - masar - no hint
-
-आसमन - asman - no hint
-
-बजल - bajal - no hint
-
-और - and - no hint
-
-तफन - slap - no hint
-
-अफरक - afrak - no hint
-
-लककथ - the script - no hint
-
-अमर - immortal - no hint
-
-और - and - no hint
-
-गरब - garb - no hint
-
-क - k - no hint
-
-पतनय - decadent - no hint
-
-अफरक - afrak - no hint
-
-लककथ - the script - no hint
-
-अननस - pineapple - no hint
-
-और - and - no hint
-
-जद - range - no hint
-
-क - k - no hint
-
-हड - hud - no hint
-
-अफरक - afrak - no hint
-
-लककथ - the script - no hint
-
-चटय - the mat - no hint
-
-भर - filled - no hint
-
-बझ - buzz - no hint
-
-कय - what - no hint
-
-ढत - dhat - no hint
-
-ह - h - no hint
-
-अफरक - afrak - no hint
-
-लककथ - the script - no hint
-
-मनषय - intent - no hint
-
-क - k - no hint
-
-जञन - baby - no hint
-
-परपत - greatness - no hint
-
-अफरक - afrak - no hint
-
-लककथ - the script - no hint
-
-अमरत - amarat - no hint
-
-क - k - no hint
-
-इचछक - will - no hint
-
-सटर - shutter - no hint
-
-जपन - japan - no hint
-
-लककथ - the script - no hint
-
-बलन - balan - no hint
-
-वल - val - no hint
-
-रजई - quilt - no hint
-
-जपन - japan - no hint
-
-लककथ - the script - no hint
-
-बजरग - bajraag - no hint
-
-बझ - buzz - no hint
-
-नह - no - no hint
-
-अनमल - anmal - no hint
-
-धरहर - tower - no hint
-
-जपन - japan - no hint
-
-लककथ - the script - no hint
-
-मल - feces - no hint
-
-कपड़ - the clothes - no hint
-
-जपन - japan - no hint
-
-लककथ - the script - no hint
-
-समरट - summer - no hint
-
-और - and - no hint
-
-बढ - increased - no hint
-
-आदम - adam - no hint
-
-जपन - japan - no hint
-
-लककथ - the script - no hint
-
-हर - every - no hint
-
-मढक - paddock - no hint
-
-क - k - no hint
-
-पछतव - regret - no hint
-
-लककथ - the script - no hint
-
-करय - do - no hint
-
-हशयर - hasher - no hint
-
-लड़क - the boys - no hint
-
-लककथ - the script - no hint
-
-करय - do - no hint
-
-टट - tut - no hint
-
-पख - the fort - no hint
-
-लककथ - the script - no hint
-
-करय - do - no hint
-
-चग - chug - no hint
-
-और - and - no hint
-
-मग - then - no hint
-
-चन - chan - no hint
-
-लककथ - the script - no hint
-
-चतकबर - chattakbar - no hint
-
-जत - jat - no hint
-
-चन - chan - no hint
-
-लककथ - the script - no hint
-
-आग - the fire - no hint
-
-क - k - no hint
-
-बज - buzz - no hint
-
-चन - chan - no hint
-
-लककथ - the script - no hint
-
-जस - jus - no hint
-
-करन - karan - no hint
-
-वस - fat - no hint
-
-भरन - stuffing - no hint
-
-मरशस - marsh - no hint
-
-सतबसनत - satbasanat - no hint
-
-मरशस - marsh - no hint
-
-मरच - chili - no hint
-
-दश - ten - no hint
-
-मरशस - marsh - no hint
-
-मगकणड - magakanad - no hint
-
-मरशस - marsh - no hint
-
-शमहरल - shamharl - no hint
-
-मरशस - marsh - no hint
-
-तलततम - the ultimate - no hint
-
-क - k - no hint
-
-रतनमल - ratanmal - no hint
-
-मरशस - marsh - no hint
-
-अकबरबरबल - akbarbarbal - no hint
-
-क - k - no hint
-
-कहनय - story - no hint
-
-आदम - adam - no hint
-
-एक - one - no hint
-
-खबय - news - no hint
-
-तन - body - no hint
-
-बरबल - barbal - no hint
-
-न - not - no hint
-
-चर - variable - no hint
-
-क - k - no hint
-
-पकड़ - hold - no hint
-
-कए - what - no hint
-
-क - k - no hint
-
-पन - pun - no hint
-
-मम - mm - no hint
-
-क - k - no hint
-
-शर - shar - no hint
-
-तत - teat - no hint
-
-क - k - no hint
-
-मत - vote - no hint
-
-ईसप - aesop - no hint
-
-क - k - no hint
-
-कहनय - story - no hint
+अगर - if - no hint
 
 अगर - if - no hint
 
-खटट - knock - no hint
+अगल - next - no hint
 
-ह - h - no hint
+अगल - next - no hint
 
-भडय - the rage - no hint
+अजल - ajal - no hint
 
-और - and - no hint
+अजल - ajal - no hint
 
-सह - the co - no hint
+अजन - ajna - no hint
 
-छप - splash - no hint
+अनजन - anjan - no hint
 
-हआ - haaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh. - no hint
+अतरकष - adrakash - no hint
 
-धन - wealth - no hint
+अतरकष - adrakash - no hint
 
-हर - every - no hint
+अतरधयन - additional - no hint
 
-चमकत - shine - no hint
+अतरधन - extra - no hint
 
-चज - chaj - no hint
+अतररषटरय - extravagant - no hint
 
-सन - sun - no hint
+अतररषटरय - extravagant - no hint
 
-नह - no - no hint
+अतयषठ - sixty six - no hint
 
-हत - hat - no hint
+अतयषट - astral - no hint
 
-ललच - temptation - no hint
+अककष - akash - no hint
 
-कतत - qat - no hint
+आककष - attraction - no hint
 
-गतम - past - no hint
+अकश - akash - no hint
 
-बदध - baddh - no hint
+आकश - ash - no hint
 
-स - s - no hint
+अकडमक - stubborn - no hint
 
-सबधत - referred - no hint
+एकडमक - ekdamak - no hint
 
-कहनय - story - no hint
+अकदमक - accidental - no hint
 
-वकष - वक्ष - no hint
+अगम - unreachable - no hint
 
-क - k - no hint
+आगम - augment - no hint
 
-सममन - saman - no hint
+अजवन - ajavan - no hint
 
-बदध - baddh - no hint
+आजवन - aajvan - no hint
 
-आम - mango - no hint
+अटखलय - spill - no hint
 
-और - and - no hint
+अठखलय - hospice - no hint
 
-बचच - child - no hint
+अतकरमण - atkaraman - no hint
 
-परशरम - parashram - no hint
+अतकरमण - atkaraman - no hint
 
-क - k - no hint
+अतथ - at - no hint
 
-सथ - sath - no hint
+अतथ - at - no hint
 
-धरय - disgusting - no hint
+अततफक - so/called - no hint
 
-भ - bh - no hint
+इततफक - by chance - no hint
 
-सदधरथ - sadharath - no hint
+इततफक - by chance - no hint
 
-और - and - no hint
+अतम - great - no hint
 
-हस - laugh - no hint
+आतम - last - no hint
 
-अगलमल - agalmal - no hint
+अतयधक - more - no hint
 
-और - and - no hint
+अतयधक - more - no hint
 
-गतम - past - no hint
+अधरत - unsupervised - no hint
 
-बदध - baddh - no hint
+आधरत - based - no hint
 
-बदध - baddh - no hint
+अधकरत - half/baked - no hint
 
-और - and - no hint
+आधकरत - based on - no hint
 
-नलगर - nalagar - no hint
+अधकषक - parent - no hint
 
-हथ - hath - no hint
+अधकषक - parent - no hint
 
-कलयण - kalyan - no hint
+अधकर - half - no hint
 
-मतर - matar - no hint
+अधकर - half - no hint
 
-गलय - malay - no hint
+अधर - the balance - no hint
 
-क - k - no hint
+अधर - the balance - no hint
 
-परभव - prabhav - no hint
+अधयतमक - extracurricular - no hint
 
-धरय - disgusting - no hint
+आधयतमक - spiritual - no hint
 
-अछत - untouched - no hint
+अनधकर - blindly - no hint
 
-कन - can - no hint
+अनधकर - blindly - no hint
 
-कनय - kanay - no hint
+अनशचत - unsure - no hint
 
-अछत - untouched - no hint
+अनशचत - unsure - no hint
 
-नह - no - no hint
+अनकल - uncle - no hint
 
-गलहर - galhar - no hint
+अनकल - uncle - no hint
 
-और - and - no hint
+अनगरहत - non/partisan - no hint
 
-बदध - baddh - no hint
+अनगहत - underground - no hint
 
-इचछशकत - willful - no hint
+अनशरण - asylum - no hint
 
-सकरत - active - no hint
+अनसरण - unsurprising - no hint
 
-स - s - no hint
+अनषगर - non/ferocious - no hint
 
-सबधत - referred - no hint
+आनषगर - aashgar - no hint
 
-कहनय - story - no hint
+अफससजनक - depressing - no hint
 
-बदध - baddh - no hint
+अफससनक - apocalypse - no hint
 
-क - k - no hint
+अबनत - abnat - no hint
 
-बल - the force - no hint
+अभनत - unassuming - no hint
 
-सफलत - succeed - no hint
+अभसक - abhasak - no hint
 
-क - k - no hint
+अभषक - assembler - no hint
 
-रहसय - mystery - no hint
+अभषठ - abbey - no hint
 
-सकरत - active - no hint
+अभषट - abhisht - no hint
 
-और - and - no hint
+अमवशय - of course - no hint
+
+अमवसय - new moon - no hint
+
+अरमद - armad - no hint
+
+अमरद - amrad - no hint
+
+अरजन - arjan - no hint
+
+अरजन - arjan - no hint
+
+अरयवरत - aryavarat - no hint
+
+आरयवरत - aryavrat - no hint
+
+अलपन - alapan - no hint
+
+आलपन - laziness - no hint
+
+अवयसक - minors - no hint
+
+अवयसक - minors - no hint
+
+अवशयकत - of course - no hint
+
+आवशयकत - required - no hint
+
+अवज - avaj - no hint
+
+आवज - voice - no hint
+
+अवर - inferior - no hint
+
+आवर - hour - no hint
+
+अवषकर - disgusting - no hint
+
+आवषकर - necessary - no hint
+
+अशष - ash - no hint
+
+आशष - aash - no hint
+
+अषठगयग - asthagaayag - no hint
+
+अषटगयग - ashtagayag - no hint
+
+असमन - asman - no hint
+
+आसमन - asman - no hint
+
+असतन - astan - no hint
+
+आसतन - distillation - no hint
+
+असथन - asthan - no hint
+
+सथन - location - no hint
+
+अहसस - ahsus - no hint
+
+एहसस - ahsus - no hint
+
+अहर - ahar - no hint
+
+आहर - aahar - no hint
+
+अहलद - ahlad - no hint
+
+आहलद - ahlad - no hint
+
+आट - flour - no hint
+
+आट - flour - no hint
+
+आतकवद - adatavad - no hint
+
+आतकवद - adatavad - no hint
+
+आसओ - aso - no hint
+
+आसओ - aso - no hint
+
+आईए - please come - no hint
+
+आइए - come - no hint
 
 आईन - warrantable - no hint
 
-मश - mush - no hint
+आइन - ain - no hint
 
-परम - the ultimate - no hint
+आकट - aakat - no hint
 
-चद - chad - no hint
+आकठ - incredible - no hint
 
-कतत - qat - no hint
+आखर - promise - no hint
+
+आखर - promise - no hint
+
+आगम - augment - no hint
+
+आगम - augment - no hint
+
+आडवन - advan - no hint
+
+आडवण - advana - no hint
+
+आदरणय - reverend - no hint
+
+आदरणय - reverend - no hint
+
+आदरस - adorable - no hint
+
+आदरश - respect - no hint
+
+आधन - adhan - no hint
+
+अधन - adhan - no hint
+
+आधयतम - advanced - no hint
+
+अधयतम - maximum - no hint
+
+आबटन - allocation - no hint
+
+आवटन - allotment - no hint
+
+आय - income - no hint
+
+आय - income - no hint
+
+आरढ - ascending - no hint
+
+आरढ - ascending - no hint
+
+आरद - arad - no hint
+
+आरदर - ardar - no hint
+
+आरदत - ardat - no hint
+
+आरदरत - ardrat - no hint
+
+आवम - awam - no hint
+
+अवम - avam - no hint
+
+आशरवद - asharvad - no hint
+
+आशरवद - asharvad - no hint
+
+आसम - asam - no hint
+
+असम - assam - no hint
+
+आसस - asus - no hint
+
+आशष - aash - no hint
+
+आशष - aash - no hint
+
+आहत - hurt - no hint
+
+आहत - hurt - no hint
+
+इकर - ikar - no hint
+
+इनकर - inkar - no hint
+
+इगलड - igald - no hint
+
+इगलड - igald - no hint
+
+इजकशन - erection - no hint
+
+इजकशन - erection - no hint
+
+इकठठ - sixty one - no hint
+
+इकटठ - collect - no hint
+
+इजद - ijad - no hint
+
+ईजद - ijd - no hint
+
+इमनदर - earnest - no hint
+
+ईमनदर - honest - no hint
+
+इमनदर - earnest - no hint
+
+ईमनदर - honest - no hint
+
+इशवर - god - no hint
+
+ईशवर - god - no hint
+
+इसई - christian - no hint
+
+ईसई - christ - no hint
+
+इसकल - only - no hint
+
+सकल - gross - no hint
+
+ईचछ - i want - no hint
+
+इचछ - will - no hint
+
+ईमरत - emirate - no hint
+
+इमरत - love - no hint
+
+ईसलए - as - no hint
+
+इसलए - that&#39;s why - no hint
+
+उगल - spewing - no hint
+
+ऊगल - foggy - no hint
+
+उतस - uts - no hint
+
+उनतस - twenty nine - no hint
+
+उजवल - bright - no hint
+
+उजजवल - bright - no hint
+
+उदघटन - inauguration - no hint
+
+उदघटन - inauguration - no hint
+
+उददत - example - no hint
+
+उदयत - purpose - no hint
+
+उधम - hustle - no hint
+
+ऊधम - hustle - no hint
+
+उधहरण - example - no hint
+
+उदहरण - e.g. - no hint
+
+उनचस - twenty nine - no hint
+
+उनचस - twenty nine - no hint
+
+उपजउ - produce - no hint
+
+उपजऊ - produce - no hint
+
+उपरकत - above - no hint
+
+उपयरकत - upayarkat - no hint
+
+उपलकष - upalaksh - no hint
+
+उपलकषय - upalakshay - no hint
+
+उमरन - umran - no hint
+
+उमड़न - stiffness - no hint
+
+उषम - usham - no hint
+
+ऊषम - heat - no hint
+
+उहपह - uhh - no hint
+
+ऊहपह - oops - no hint
+
+ऊगलय - ogliya - no hint
+
+उगलय - ugalaya - no hint
+
+एकर - acres - no hint
+
+ऐकर - acre - no hint
+
+एजस - ages - no hint
+
+एजस - ages - no hint
+
+एपयर - aper - no hint
+
+अपयर - apare - no hint
+
+एकतरत - either way - no hint
+
+एकतर - either way - no hint
+
+एकट - act - no hint
+
+ऐकट - aikat - no hint
+
+एचछक - hiccup - no hint
+
+ऐचछक - hitch - no hint
+
+एतहसक - historical - no hint
+
+ऐतहसक - historical - no hint
+
+एनकउनटर - encounter - no hint
+
+एनकउटर - encounter - no hint
+
+एनकउणटर - encounter - no hint
+
+ऐहतयत - precaution - no hint
+
+एहतयत - as a precaution - no hint
+
+ऒपचरक - assistant - no hint
+
+औपचरक - formal - no hint
+
+कपयटर - cupboard - no hint
+
+कपयटर - cupboard - no hint
+
+कठनईय - difficult - no hint
+
+कठनइय - difficult - no hint
+
+कनषट - kanshat - no hint
+
+कनषठ - kanishth - no hint
+
+करएग - will do - no hint
+
+कजएग - kazeg - no hint
+
+करए - do it - no hint
+
+कजए - what - no hint
+
+कवयतर - poetry - no hint
+
+कवयतर - poetry - no hint
+
+कव - cove - no hint
+
+कव - cove - no hint
+
+कसट - cast - no hint
+
+कसट - cast - no hint
+
+कगजत - paper - no hint
+
+कगजत - paper - no hint
+
+कबलयत - kabalayat - no hint
+
+कबलयत - kabalayat - no hint
+
+करगरह - cargarah - no hint
+
+करगह - cart - no hint
+
+करयवई - karavai - no hint
+
+कररवई - karvai - no hint
+
+कलदस - kaldas - no hint
+
+कलदस - kaldas - no hint
+
+कमदन - kamdan - no hint
+
+कमसन - kamson - no hint
+
+कआ - kah - no hint
+
+कआ - kah - no hint
+
+कआ - kah - no hint
+
+कबत - till when - no hint
+
+कवत - कवत - no hint
+
+कतयकतय - certainty - no hint
+
+कतकतय - katakati - no hint
+
+कपय - cupful - no hint
+
+कपय - cupful - no hint
+
+कदरय - kindly - no hint
+
+कदरय - kindly - no hint
+
+कबनट - cabbage - no hint
+
+कबनट - cabbage - no hint
+
+कस - tight - no hint
+
+कश - puff - no hint
+
+कट - cut - no hint
+
+कट - cut - no hint
+
+कवव - kavav - no hint
+
+कआ - kah - no hint
+
+कयक - kayak - no hint
+
+कयक - kayak - no hint
+
+कषतरय - qashtarya - no hint
+
+कषतरय - qashtarya - no hint
+
+कषमत - luck - no hint
+
+कषमत - luck - no hint
+
+खटय - khatay - no hint
+
+खटई - khatai - no hint
+
+खन - khan - no hint
+
+खन - khan - no hint
+
+खबरनबस - news - no hint
+
+खबरनवस - news - no hint
+
+खरच - really - no hint
+
+खरच - really - no hint
+
+खलवट - disruption - no hint
+
+खलवट - disruption - no hint
+
+खबन - mine - no hint
+
+खबन - mine - no hint
+
+खखर - खखर - no hint
+
+खखर - खखर - no hint
+
+खयल - khayal - no hint
+
+खयल - khayal - no hint
+
+गठजड - alliance - no hint
+
+गठजड - alliance - no hint
+
+गदगद - gazade - no hint
+
+गदगद - gazade - no hint
+
+गनत - gannat - no hint
+
+गणत - calculation - no hint
+
+गलघट - thaw - no hint
+
+गलघट - thaw - no hint
+
+गवन - gavan - no hint
+
+गवन - gavan - no hint
+
+गवन - gavan - no hint
+
+गतजल - ghatjal - no hint
+
+गतजल - ghatjal - no hint
+
+गनत - gannat - no hint
+
+गनत - gannat - no hint
+
+गर - gar - no hint
+
+गर - gar - no hint
+
+गहण - mortgage - no hint
+
+गहण - mortgage - no hint
+
+गरसममनजनक - गरसममनजनक - no hint
+
+असममनजनक - asymmetrical - no hint
+
+गड़ - fort - no hint
+
+घड़ - the pitcher - no hint
+
+गरहकरय - household - no hint
+
+गहकरय - jewel - no hint
+
+घनषट - solid - no hint
+
+घनषठ - cube - no hint
+
+घनट - cube - no hint
+
+घट - ghat - no hint
+
+घणट - hour - no hint
+
+घबडन - gabdan - no hint
+
+घबरन - nervousness - no hint
+
+घरद - gharad - no hint
+
+घरद - gharad - no hint
+
+घट - ghat - no hint
+
+घट - ghat - no hint
+
+चहए - to - no hint
+
+चहए - to - no hint
+
+चरगह - chargah - no hint
+
+चरगह - chargah - no hint
+
+चत - chat - no hint
+
+चतत - wry - no hint
+
+चनह - chenah - no hint
+
+चहन - tasting - no hint
+
+चषठ - four hundred - no hint
+
+चषट - chest - no hint
+
+छपकल - splash - no hint
+
+छपकल - splash - no hint
+
+छआछत - छआछत - no hint
+
+छआछत - छआछत - no hint
+
+छडछड - छडछड - no hint
+
+छडछड - छडछड - no hint
+
+छडछड - छडछड - no hint
+
+जड - heavy - no hint
+
+झड़ - the fall - no hint
+
+जबव - jab - no hint
+
+जवब - answer - no hint
+
+जमन - jaman - no hint
+
+ज़मन - the ground - no hint
+
+जयत - jayat - no hint
+
+जयत - jayat - no hint
+
+जरर - by the way - no hint
+
+जरर - by the way - no hint
+
+जत - jat - no hint
+
+पत - pet - no hint
+
+जत - jat - no hint
+
+पत - pet - no hint
+
+जत - jat - no hint
+
+पत - pet - no hint
+
+जत - jat - no hint
+
+पत - pet - no hint
+
+जरणदधर - jarnadadhar - no hint
+
+जरणदधर - jarnadadhar - no hint
+
+जआड - jaad - no hint
+
+जआर - jr - no hint
+
+जयतष - jayatash - no hint
+
+जयतष - jayatash - no hint
+
+जयतसन - jayatasan - no hint
+
+जयतसन - jayatasan - no hint
+
+झपन - jhapan - no hint
+
+झपन - jhapan - no hint
+
+झग - the fight - no hint
+
+झग - the fight - no hint
+
+झझलन - tussle - no hint
+
+झझलन - tussle - no hint
+
+झठ - stubbornness - no hint
+
+खन - khan - no hint
+
+जठ - jath - no hint
+
+खन - khan - no hint
+
+झक - fad - no hint
+
+झक - fad - no hint
+
+झपड - slap - no hint
+
+झपड - slap - no hint
+
+टपपड - tappad - no hint
+
+टपपण - tappan - no hint
+
+टलवजन - postponement - no hint
+
+टलवजन - postponement - no hint
+
+ठक - knock - no hint
+
+ठक - knock - no hint
+
+डकओ - hold on - no hint
+
+डकओ - hold on - no hint
+
+डरईवर - dweevers - no hint
+
+डरइवर - duriver - no hint
+
+ढकल - push - no hint
+
+धकल - push - no hint
+
+ढकन - lid - no hint
+
+ढकन - lid - no hint
+
+ढढन - readiness - no hint
+
+ढढन - readiness - no hint
+
+ततकलक - tatkalak - no hint
+
+ततकलक - tatkalak - no hint
+
+ततव - element - no hint
+
+तततव - element - no hint
+
+ततवधन - augmentation - no hint
+
+तततववधन - तततववधन - no hint
+
+तबयत - health - no hint
+
+तबयत - health - no hint
+
+तक - till - no hint
+
+तक - till - no hint
+
+तबत - tabat - no hint
+
+तबत - tabat - no hint
+
+तथ - the fact - no hint
+
+तथ - the fact - no hint
+
+तलसम - talasam - no hint
+
+तलसम - talasam - no hint
+
+तनतरफ - well/to/do - no hint
+
+तनतरफ - well/to/do - no hint
+
+तफन - slap - no hint
+
+तफन - slap - no hint
+
+तमहर - you - no hint
 
 क - k - no hint
 
-कहनमश - kahnmush - no hint
+तमह - tamah - no hint
 
-परम - the ultimate - no hint
+तमक - tmak - no hint
 
-चद - chad - no hint
+तषटकरण - warming - no hint
 
-मटठमश - beige - no hint
+तषटकरण - warming - no hint
 
-परम - the ultimate - no hint
+तकलदरश - matter/of/fact - no hint
 
-चद - chad - no hint
+तरकलदरश - tactical - no hint
 
-पगल - pagal - no hint
+ततस - tetas - no hint
 
-हथमश - hand in hand - no hint
+ततस - tetas - no hint
 
-परम - the ultimate - no hint
+तयर - tire - no hint
 
-चद - chad - no hint
+तयर - tire - no hint
 
-सलन - salan - no hint
+तयहर - tayhar - no hint
 
-बदरमश - rascal - no hint
+तयहर - tayhar - no hint
 
-परम - the ultimate - no hint
+तरतय - trend - no hint
 
-चद - chad - no hint
+ततय - definitely - no hint
 
-रकष - raksha - no hint
+थरमकल - thermal - no hint
 
-म - m - no hint
+थरमकल - thermal - no hint
 
-हतयमश - unashamedly - no hint
+थगल - the thug - no hint
 
-परम - the ultimate - no hint
+थगल - the thug - no hint
 
-चद - chad - no hint
+थसस - thassus - no hint
 
-गललडडमश - gilded - no hint
+थसस - thassus - no hint
 
-परम - the ultimate - no hint
+थकन - thunk - no hint
 
-चद - chad - no hint
+थकन - thunk - no hint
+
+थतकर - totally - no hint
+
+थतकर - totally - no hint
+
+थयर - thier - no hint
+
+थयर - thier - no hint
+
+थरलर - therler - no hint
+
+थरलर - therler - no hint
+
+दपतत - dapat - no hint
+
+दपत - dipat - no hint
+
+दपत - dipat - no hint
+
+दमद - power - no hint
+
+दमद - power - no hint
+
+दयल - plea - no hint
+
+दयल - plea - no hint
+
+दरयय - darya - no hint
+
+दरयई - daryai - no hint
+
+दवइ - dewi - no hint
+
+दवई - dawai - no hint
+
+दवईय - drug - no hint
+
+दवइय - the deity - no hint
+
+दसतबज - dastabaj - no hint
+
+दसतवज - dastavaj - no hint
+
+दयततव - speculative - no hint
+
+दयतव - dayatv - no hint
+
+दवपच - दवपच - no hint
+
+दवपच - दवपच - no hint
+
+दजए - enter - no hint
+
+दजए - enter - no hint
+
+दपक - sw - no hint
+
+दपक - sw - no hint
+
+दवनग - davange - no hint
+
+दवनग - davange - no hint
+
+दवल - dawal - no hint
+
+दवल - dawal - no hint
+
+दकन - deccan - no hint
+
+दकन - deccan - no hint
+
+दनय - merciful - no hint
+
+दनय - merciful - no hint
+
+दरदरशन - dardarshan - no hint
+
+दरदरशन - dardarshan - no hint
+
+दरवसथ - every day - no hint
+
+दरवसथ - every day - no hint
+
+दरपयग - in due - no hint
+
+दरपयग - in due - no hint
+
+दरह - darh - no hint
+
+दरह - darh - no hint
+
+दलह - pulses - no hint
+
+दलह - pulses - no hint
+
+दसर - ten - no hint
+
+दसर - ten - no hint
+
+दषट - dasht - no hint
+
+दरषट - darshat - no hint
+
+दषय - view - no hint
+
+दशय - dashay - no hint
+
+दस - ten - no hint
+
+दश - ten - no hint
+
+दपहय - दपहय - no hint
+
+दपहय - दपहय - no hint
+
+दवद - davad - no hint
+
+दवदव - दवदव - no hint
+
+धतए - goddamn - no hint
+
+धतए - goddamn - no hint
+
+धरदर - dhardar - no hint
+
+धरधर - dhardhar - no hint
+
+धकन - thunder - no hint
+
+धकन - thunder - no hint
+
+धस - collapsed - no hint
+
+धस - collapsed - no hint
+
+धररत - dharat - no hint
+
+धरत - holding - no hint
+
+धरपद - dharpad - no hint
+
+धरपद - dharpad - no hint
+
+नकर - nakar - no hint
+
+नकर - nakar - no hint
+
+नकषरत - naksharat - no hint
+
+नकषतर - nakshatra - no hint
+
+नगद - cash - no hint
+
+नकद - cash - no hint
 
 नदन - nadan - no hint
 
-दसतमश - tenth - no hint
+नदन - nadan - no hint
 
-परमचद - supreme - no hint
+नपथय - नपथय - no hint
 
-शर - shar - no hint
+नपथय - नपथय - no hint
 
-और - and - no hint
+नबब - nabb - no hint
 
-लडकमश - boy boy - no hint
+नवब - navab - no hint
 
-परमचद - supreme - no hint
+नय - new - no hint
 
-बनमनस - banamanas - no hint
+नई - new - no hint
 
-क - k - no hint
+नरज - naraj - no hint
 
-दरदनक - dardanak - no hint
+नरज - naraj - no hint
 
-कहनमश - kahnmush - no hint
+नरक - hell - no hint
 
-परमचद - supreme - no hint
+नरक - hell - no hint
 
-दकषण - decor - no hint
+नवरतर - navratar - no hint
 
-अफरक - afrak - no hint
+नवरतर - navratar - no hint
 
-म - m - no hint
+नह - no - no hint
 
-शर - shar - no hint
+नह - no - no hint
 
-क - k - no hint
+नकदम - step by step - no hint
 
-शकरमश - sweet potato - no hint
+नकदम - step by step - no hint
 
-परमचद - supreme - no hint
+नस - vein - no hint
 
-गबबर - gabbar - no hint
+नश - destruction - no hint
 
-पर - on - no hint
+नरमल - soft - no hint
 
-चतमश - chatamash - no hint
+नरमल - soft - no hint
 
-परमचद - supreme - no hint
+नरपम - narpam - no hint
 
-सप - sp - no hint
+नरपम - narpam - no hint
 
-क - k - no hint
+नरग - narg - no hint
 
-मणमश - manamash - no hint
+नरग - narg - no hint
 
-परमचद - supreme - no hint
+नरमणधन - narmadhan - no hint
 
-बनमनस - banamanas - no hint
+नरमणधन - narmadhan - no hint
 
-खनसममश - scourge - no hint
+नलवत - नलवत - no hint
 
-परमचद - supreme - no hint
+नलबत - nalbat - no hint
 
-पलत - flip - no hint
+नशलक - nashlak - no hint
 
-भलमश - faerie - no hint
+नशलक - nashlak - no hint
 
-परमचद - supreme - no hint
+नकसनदय - naksanday - no hint
 
-बघ - look - no hint
+नकसनदह - cash flow - no hint
 
-क - k - no hint
+नपर - napar - no hint
 
-खलमश - silence - no hint
+नपर - napar - no hint
 
-परमचद - supreme - no hint
+नसतनबत - nastanatbat - no hint
 
-मगर - but - no hint
+नसतनबद - ventilator - no hint
 
-क - k - no hint
+नकर - nakar - no hint
 
-शकरमश - sweet potato - no hint
+नकर - nakar - no hint
 
-परमचद - supreme - no hint
+नसखय - snuff - no hint
 
-जडव - jadav - no hint
+नसखय - snuff - no hint
 
-भईमश - bhaimash - no hint
+नयलय - the court - no hint
 
-परमचद - supreme - no hint
+नययलय - court - no hint
 
-कशमर - kashmar - no hint
+नयछवर - नयछवर - no hint
 
-सबमश - submash - no hint
+नयछवर - नयछवर - no hint
 
-परम - the ultimate - no hint
+नयत - nayat - no hint
 
-चद - chad - no hint
+नयत - nayat - no hint
 
-ईदगहमश - idgash - no hint
+पकषगण - quarter - no hint
 
-परम - the ultimate - no hint
+पकषगण - quarter - no hint
 
-चद - chad - no hint
+पजम - pajam - no hint
 
-पररणमश - result - no hint
+पजम - pajam - no hint
 
-परम - the ultimate - no hint
+पडस - padas - no hint
 
-चद - chad - no hint
+पडस - padas - no hint
 
-रबनदरनथ - rabandaranath - no hint
+पतन - the fall - no hint
 
-टगर - tugger - no hint
+पतन - the fall - no hint
 
-ततरबनदरनथ - tatarbandarnath - no hint
+परखचच - test - no hint
 
-टगर - tugger - no hint
+परखच - test - no hint
 
-कबलवलरबनदरनथ - कबलवलरबनदरनथ - no hint
+परणम - consequences - no hint
 
-टगर - tugger - no hint
+परणम - consequences - no hint
 
-अनमल - anmal - no hint
+परलकक - detector - no hint
 
-भटमनन - bhatmanan - no hint
+परलकक - detector - no hint
 
-क - k - no hint
+परपकषय - purgative - no hint
 
-वपसरबनदरनथ - vapsarbanandaranath - no hint
+परपरकषय - subjective - no hint
 
-टगर - tugger - no hint
+परवरक - parvarak - no hint
 
-यह - this - no hint
+परवरक - parvarak - no hint
 
-सवतनतरतघर - aeration - no hint
+परशषठ - parshath - no hint
 
-वपसरबनदरनथ - vapsarbanandaranath - no hint
+परशषट - parshat - no hint
 
-टगर - tugger - no hint
+परसथत - located - no hint
 
-पसटमसटररवनदरनथ - पस्टमसटररवनदरनथ - no hint
+परसथत - located - no hint
 
-ठकर - thunk - no hint
+परकश - test - no hint
 
-गननरवनदरनथ - gunnervanantharanath - no hint
+परकष - test - no hint
 
-ठकर - thunk - no hint
+परचय - introduction - no hint
 
-फल - the fruit - no hint
+परचय - introduction - no hint
 
-क - k - no hint
+परवर - prvr - no hint
 
-मलयरवनदरनथ - मलयरवनदरनथ - no hint
+परवर - prvr - no hint
 
-ठकर - thunk - no hint
+परदश - purdah - no hint
 
-महन - mahan - no hint
+परदश - purdah - no hint
 
-रकश - raksh - no hint
+पशचतप - husbandry - no hint
 
-गरगट - gargat - no hint
+पशचततप - पशचततप - no hint
 
-क - k - no hint
+पचव - digestion - no hint
 
-सपनमहन - dream - no hint
+पचव - digestion - no hint
 
-रकश - raksh - no hint
+पड - pad - no hint
 
-सरयकत - सरयकत - no hint
+पडय - fall - no hint
 
-तरपठ - text - no hint
+पतबर - petber - no hint
 
-नरल - naral - no hint
+पतबर - petber - no hint
 
-भडय - the rage - no hint
+परणम - consequences - no hint
 
-भडयसरयकनत - भडयसरयकनत - no hint
+परणम - consequences - no hint
 
-तरपठ - text - no hint
+परनजनम - paranjanam - no hint
 
-नरल - naral - no hint
+पनरजनम - panarajanam - no hint
 
-द - the - no hint
+परनमतदन - poll - no hint
 
-घडसरयकनत - घडसरयकनत - no hint
+पनरमतदन - watertight - no hint
 
-तरपठ - text - no hint
+परनवस - last - no hint
 
-नरल - naral - no hint
+पनरवस - parnavas - no hint
 
-गध - donkey - no hint
+परनतथन - paranthan - no hint
 
-और - and - no hint
+पनरतथन - rebirth - no hint
 
-मढकसरयकनत - मढकसरयकनत - no hint
+पषपजल - potable water - no hint
 
-तरपठ - text - no hint
+पषपजल - potable water - no hint
 
-नरल - naral - no hint
+पसतक - system - no hint
 
-कजस - cajas - no hint
+पसतक - system - no hint
 
-और - and - no hint
+पछकर - after - no hint
 
-सनसरयकनत - sunrise - no hint
+पछकर - after - no hint
 
-तरपठ - text - no hint
+पछन - back - no hint
 
-नरल - naral - no hint
+पछन - back - no hint
 
-महवर - mahavar - no hint
+पजयनय - legion - no hint
 
-और - and - no hint
+पजनय - dear - no hint
 
-गडवनसरयकनत - gadvansarayakanat - no hint
+परत - back - no hint
 
-तरपठ - text - no hint
+परत - back - no hint
 
-नरल - naral - no hint
+परवरद - lover - no hint
 
-सदगर - sdgr - no hint
+परवरध - protection - no hint
 
-और - and - no hint
+परवरदध - adversity - no hint
 
-कपतनसरयकनत - dilemma - no hint
+पचद - fifty five - no hint
 
-तरपठ - text - no hint
+पचद - fifty five - no hint
 
-नरल - naral - no hint
+पध - position - no hint
 
-शकर - sugar - no hint
+पध - position - no hint
 
-क - k - no hint
+परकतक - fallow - no hint
 
-नकल - copy - no hint
+परकतक - fallow - no hint
 
-शरसरयकनत - sycophantic - no hint
+परकरत - perkart - no hint
 
-तरपठ - text - no hint
+परकत - perk - no hint
 
-नरल - naral - no hint
+परतकष - proof - no hint
 
-कमलशवर - lotus - no hint
+परतकष - proof - no hint
 
-अपन - your - no hint
+परतनध - change - no hint
 
-ह - h - no hint
+परतनध - change - no hint
 
-दसतकमलशवर - dasatkamalashwar - no hint
+परदरशन - conflation - no hint
 
-मकबलकमलशवर - makbalkamalaswar - no hint
+परदरशन - conflation - no hint
 
-अपनअपन - our own - no hint
+परदस - pardas - no hint
 
-दलतकमलशवर - dalatkamalashwar - no hint
+परदश - purdah - no hint
 
-सपह - sp - no hint
+परमणक - paramanak - no hint
 
-और - and - no hint
+परमणक - paramanak - no hint
 
-हसकमलशवर - haskamalshwar - no hint
+परमतम - the ultimate - no hint
 
-पतथर - pathar - no hint
+परमतम - the ultimate - no hint
 
-क - k - no hint
+पररदशन - reflection - no hint
 
-आखकमलशवर - akhkamalshwar - no hint
+परदरशन - conflation - no hint
 
-सखकमलशवर - sakhakamalaswar - no hint
+परवन - parvan - no hint
 
-सबह - sabah - no hint
+परवण - parvan - no hint
 
-क - k - no hint
+परवषठ - altar - no hint
 
-सपनकमलशवर - sapankamalasvara - no hint
+परवषट - abyss - no hint
 
-हस - laugh - no hint
+परससकरत - philanthropy - no hint
 
-करशचयन - taxation - no hint
+परससकत - philanthropy - no hint
 
-एडरसन - ederson - no hint
+परचनतम - last - no hint
 
-बलबलहस - balabhus - no hint
+परचनतम - last - no hint
 
-करशचयन - taxation - no hint
+परन - paran - no hint
 
-एडरसन - ederson - no hint
+परण - paran - no hint
 
-रज - raj - no hint
+परढ - frog - no hint
 
-क - k - no hint
+परढ - frog - no hint
 
-नए - new - no hint
+फस - fuss - no hint
 
-कपडहस - kapadhas - no hint
+फस - fuss - no hint
 
-करशचयन - taxation - no hint
+फट - burst - no hint
 
-एडरसन - ederson - no hint
+फट - burst - no hint
 
-मचस - matches - no hint
+फहरशत - listed - no hint
+
+फहरसत - index - no hint
+
+बगल - next - no hint
+
+बगल - next - no hint
+
+भष - fiendish - no hint
+
+बदरबट - badarbut - no hint
+
+बदरबट - badarbut - no hint
+
+बइमन - biman - no hint
+
+बईमन - baiman - no hint
+
+बकयद - bakyad - no hint
+
+बकयद - bakyad - no hint
+
+बजए - rang - no hint
+
+बजय - buzzy - no hint
+
+बजर - buzzer - no hint
+
+बजर - buzzer - no hint
+
+बढततर - better - no hint
+
+बढतर - better - no hint
+
+बदम - badam - no hint
+
+बदम - badam - no hint
+
+बनसपत - vegetation - no hint
+
+बनसबत - against - no hint
+
+बरदशतबरदसत - rainy day - no hint
+
+बरदशत - rain - no hint
+
+बलव - rebellion - no hint
+
+बलब - balab - no hint
+
+बह - flow - no hint
+
+बह - flow - no hint
+
+बहबरह - bahbarah - no hint
+
+बहवरह - bahravah - no hint
+
+बनर - baner - no hint
+
+वनर - monkey - no hint
+
+बरत - watering - no hint
+
+बरत - watering - no hint
+
+बरश - rain - no hint
+
+बरश - rain - no hint
+
+बवत - bawat - no hint
+
+बबत - about - no hint
+
+बकरल - bakral - no hint
+
+वकरल - vakral - no hint
+
+बमर - bummer - no hint
+
+बमर - bummer - no hint
+
+बयग - pay - no hint
+
+वयग - age - no hint
+
+बलस - balas - no hint
+
+वलस - valas - no hint
+
+बसव - settle down - no hint
+
+बसव - settle down - no hint
+
+बहर - bahar - no hint
+
+वहर - wahr - no hint
+
+बब - bub - no hint
+
+बव - bava - no hint
+
+पतन - the fall - no hint
 
 बचन - child - no hint
 
-वल - val - no hint
+बचन - child - no hint
 
-छट - chat - no hint
+बफजल - bufjal - no hint
 
-स - s - no hint
+फजल - fazal - no hint
 
-लडकहस - boy - no hint
+बरमह - burmah - no hint
 
-करशचयन - taxation - no hint
+बरहम - burm - no hint
 
-एडरसन - ederson - no hint
+बरहमण - the blast - no hint
 
-रजकमर - rajkamar - no hint
+बरहमण - the blast - no hint
 
-और - and - no hint
+भडकऊ - inflame - no hint
 
-मटर - peas - no hint
+भडकऊ - inflame - no hint
 
-क - k - no hint
+भगवतपरम - bhagavataparam - no hint
 
-दनहस - gnome - no hint
+भगवतपरम - bhagavataparam - no hint
 
-करशचयन - taxation - no hint
+भगदर - cataclysm - no hint
 
-एडरसन - ederson - no hint
+भगदर - cataclysm - no hint
 
-ननह - teeny - no hint
+भरतय - bharataya - no hint
 
-जलपरहस - waterfowl - no hint
+भरतय - bharataya - no hint
 
-करशचयन - taxation - no hint
+भरतय - bharataya - no hint
 
-एडरसन - ederson - no hint
+भरतय - bharataya - no hint
 
-बततख - duck - no hint
+भलओ - forget - no hint
 
-क - k - no hint
+भलओ - forget - no hint
 
-बदसरत - badrta - no hint
+भषऐ - भषऐ - no hint
 
-बचचहस - childless - no hint
+भषए - disgusting - no hint
 
-करशचयन - taxation - no hint
+भषकर - disgusting - no hint
 
-एडरसन - ederson - no hint
+भसकर - bhasakan - no hint
 
-फल - the fruit - no hint
+भसकर - bhasakan - no hint
 
-क - k - no hint
+भसकर - bhasakan - no hint
 
-रजकमर - rajkamar - no hint
+भखमर - bhakhamar - no hint
 
-थबलनहस - thabalnahas - no hint
+भखमर - bhakhamar - no hint
 
-करशचयन - taxation - no hint
+भड - भड - no hint
 
-एडरसन - ederson - no hint
+भड - भड - no hint
 
-तरलक - liquid - no hint
+भक - bhak - no hint
 
-सह - the co - no hint
+भक - bhak - no hint
 
-ठकरल - thakral - no hint
+मज - maj - no hint
 
-दवत - feast - no hint
+मज - maj - no hint
 
-क - k - no hint
+मतरपरषद - matar parishad - no hint
 
-सख - strong - no hint
+मतरपरषद - matar parishad - no hint
 
-एकत - unity - no hint
+मतरचर - mother/in/law - no hint
 
-क - k - no hint
+मतरचचर - mother/in/law - no hint
 
-तकत - takt - no hint
+महग - expensive - no hint
 
-रज - raj - no hint
+महग - expensive - no hint
 
-क - k - no hint
+मजबर - mazbar - no hint
 
-आदश - ideal - no hint
+मजबर - mazbar - no hint
 
-करमजत - karamjat - no hint
-
-सह - the co - no hint
-
-गठवल - coalition - no hint
+मनशय - intent - no hint
 
 मनषय - intent - no hint
 
-कब - when - no hint
+मसतक - master - no hint
 
-समझगकरमजत - understand - no hint
+मसतक - master - no hint
 
-सह - the co - no hint
+महतव - significance - no hint
 
-गठवल - coalition - no hint
+महततव - importance - no hint
+
+महबल - mahabal - no hint
+
+महबल - mahabal - no hint
+
+महरथ - mehrat - no hint
+
+महरत - maharat - no hint
+
+मस - muss - no hint
+
+मस - muss - no hint
+
+मखल - makhal - no hint
+
+मखल - makhal - no hint
+
+मलन - malan - no hint
+
+मलन - malan - no hint
+
+मलम - ointment - no hint
+
+मलम - ointment - no hint
+
+मठइय - matthi - no hint
+
+मठइय - matthi - no hint
+
+मषठन - mashtan - no hint
+
+मषटनन - mashtanan - no hint
+
+मतर - matar - no hint
+
+मतर - matar - no hint
+
+मकद - maqd - no hint
+
+मकद - maqd - no hint
+
+मकदम - step - no hint
+
+मकदम - step - no hint
+
+मखलफत - makhlafat - no hint
+
+मखलफत - makhlafat - no hint
+
+मन - the mind - no hint
+
+मन - the mind - no hint
+
+मननण - contemplation - no hint
+
+मननण - contemplation - no hint
+
+मलय - malay - no hint
+
+मलय - malay - no hint
+
+मलयकन - malayakan - no hint
+
+मलयकन - malayakan - no hint
+
+महरतत - mehrat - no hint
+
+महरत - maharat - no hint
+
+मथल - muthal - no hint
+
+मथल - muthal - no hint
+
+मलव - excreta - no hint
+
+मलव - excreta - no hint
+
+यथवत - as it is - no hint
+
+यथवत - as it is - no hint
+
+यथषठ - proper - no hint
+
+यथषट - as a matter of fact - no hint
+
+यथचत - as it is - no hint
+
+यथचत - as it is - no hint
+
+यन - yan - no hint
+
+यन - yan - no hint
+
+यगरज - love - no hint
+
+यगरज - love - no hint
+
+रणबकर - ranbkar - no hint
+
+रणबकर - ranbkar - no hint
+
+रबदर - rabdar - no hint
+
+रवदर - ravadar - no hint
+
+रववर - on sunday - no hint
+
+रववर - on sunday - no hint
+
+रसयनक - rasanaka - no hint
+
+रसयनक - rasanaka - no hint
+
+रजसतन - rajasthan - no hint
+
+रजसथन - rajasthan - no hint
+
+रतर - रतर - no hint
+
+रतर - रतर - no hint
+
+रमयन - ramayan - no hint
+
+रमयण - ramayana - no hint
+
+रमयन - ramayan - no hint
+
+रमयण - ramayana - no hint
+
+रशफल - the horoscope - no hint
+
+रशफल - the horoscope - no hint
+
+रषटरय - rashtraya - no hint
+
+रषटरय - rashtraya - no hint
+
+रख - keep - no hint
+
+रख - keep - no hint
+
+रठ - the chariot - no hint
+
+रठ - the chariot - no hint
+
+रपय - rhyme - no hint
+
+रपए - rape - no hint
+
+रपय - rhyme - no hint
+
+रपहल - raphael - no hint
+
+रपहल - raphael - no hint
+
+रण - battle - no hint
+
+रण - battle - no hint
+
+रतल - the rat - no hint
+
+रतल - the rat - no hint
+
+रसतर - juice - no hint
+
+रसतर - juice - no hint
+
+लकषदप - woodcut - no hint
+
+लकषदवप - luck - no hint
+
+लडय - battle - no hint
+
+लडई - fight - no hint
+
+लबधपरतषठत - लबधपरतषठत - no hint
+
+लबधपरतषठ - लबधपरतषठ - no hint
+
+लहलहन - bouncy - no hint
+
+लहलहन - bouncy - no hint
+
+लख - lakh - no hint
+
+लख - lakh - no hint
+
+लप - lap - no hint
+
+लप - lap - no hint
+
+लवर - lover - no hint
+
+लवर - lover - no hint
+
+लकन - but - no hint
+
+लकन - but - no hint
+
+लश - lash - no hint
+
+लस - gluten - no hint
+
+लगसभ - almost all - no hint
+
+लकसभ - luck - no hint
+
+वध - kill - no hint
+
+वध - kill - no hint
+
+वरश - boar - no hint
+
+वरष - year - no hint
+
+वरषट - year - no hint
+
+वरषठ - year - no hint
+
+वरण - selection - no hint
+
+वरण - selection - no hint
+
+वरश - boar - no hint
+
+वरष - year - no hint
+
+वरषगठ - anniversary - no hint
+
+वरषगठ - anniversary - no hint
+
+वसतओ - vastao - no hint
+
+वसतओ - vastao - no hint
+
+वपस - back - no hint
+
+वपस - back - no hint
+
+वलमक - antiperspirant - no hint
+
+वलमक - antiperspirant - no hint
+
+वएतनम - vaitanam - no hint
+
+वयतनम - vayatanam - no hint
+
+वजई - weighing - no hint
+
+वजय - wajay - no hint
+
+वजञनक - weighing - no hint
+
+वजञनक - weighing - no hint
+
+वपतत - वपतत - no hint
+
+वपतत - वपतत - no hint
+
+वरकश - workshop - no hint
+
+वकष - वक्ष - no hint
+
+वरहण - varhan - no hint
+
+वरहण - varhan - no hint
+
+वरजमन - varjaman - no hint
+
+वरजमन - varjaman - no hint
+
+वशय - dress - no hint
+
+वषय - the subject - no hint
+
+वषश - year - no hint
+
+वशष - year - no hint
+
+वसवस - vasavas - no hint
+
+वशवस - trust me - no hint
+
+वजय - wajay - no hint
+
+वजय - wajay - no hint
+
+वज - weight - no hint
+
+वरज - varaj - no hint
+
+वशयगमन - intercourse - no hint
+
+वशयगमन - intercourse - no hint
+
+वषभष - year - no hint
+
+वशभष - the year - no hint
+
+वयकरण - grammar - no hint
+
+वयकरण - grammar - no hint
+
+वयकत - age - no hint
+
+वयकत - age - no hint
+
+वयवसयक - commercial - no hint
+
+वयवसयक - commercial - no hint
+
+शभ - body - no hint
+
+शभ - body - no hint
+
+शकत - can&#39;t - no hint
+
+शकत - can&#39;t - no hint
+
+शमशन - shamishan - no hint
+
+शमशन - shamishan - no hint
+
+शशकत - power - no hint
+
+शशकत - power - no hint
+
+शतमय - woeful - no hint
+
+शतमय - woeful - no hint
+
+शत - century - no hint
+
+शत - century - no hint
+
+शररक - shark - no hint
+
+शररक - shark - no hint
+
+शखर - shakhar - no hint
+
+शखर - shakhar - no hint
+
+शवर - shower - no hint
+
+शवर - shower - no hint
+
+शश - sash - no hint
+
+शश - sash - no hint
+
+शषरक - cephalic - no hint
+
+शरषक - sharas - no hint
+
+शघरत - shagharat - no hint
+
+शघरत - shagharat - no hint
+
+शरवद - sharavad - no hint
+
+आशरवद - asharvad - no hint
+
+शनय - shanay - no hint
+
+शनय - shanay - no hint
+
+शरआत - sharia - no hint
+
+शरआत - sharia - no hint
+
+शय - bed - no hint
+
+शयय - bed - no hint
+
+शरमत - shame - no hint
+
+शरमत - shame - no hint
+
+शरगर - shargar - no hint
+
+शरगर - shargar - no hint
+
+षडयतर - conspiracy - no hint
+
+षडयतर - conspiracy - no hint
+
+षषठ - best - no hint
+
+षषट - seven - no hint
+
+षषठपरत - seventy seven - no hint
+
+षषटपरत - seven hundred - no hint
+
+सकय - can - no hint
+
+सखय - strict - no hint
+
+सगरहत - with respect - no hint
+
+सगरहत - with respect - no hint
+
+सतरश - satrash - no hint
+
+सतरश - satrash - no hint
+
+सदस - member - no hint
+
+सदश - sad - no hint
+
+सपतत - seven - no hint
+
+सपतत - seven - no hint
+
+समन - summons - no hint
+
+सममन - saman - no hint
+
+सवरदन - all day - no hint
+
+सवरधन - savardhan - no hint
+
+सवरदधन - savardhan - no hint
+
+ससरक - sasarak - no hint
+
+ससरक - sasarak - no hint
+
+सदशय - member - no hint
+
+सदश - sad - no hint
+
+सननयस - sunnys - no hint
+
+सननयस - sunnys - no hint
+
+सनयस - sunrise - no hint
+
+सनयस - sunrise - no hint
+
+सनसर - sunser - no hint
+
+ससर - ssar - no hint
+
+सपदक - spices - no hint
+
+सपदक - spices - no hint
+
+सपतहक - week - no hint
+
+सपतहक - week - no hint
+
+समध - samadh - no hint
+
+समध - samadh - no hint
+
+समन - summons - no hint
+
+समन - summons - no hint
+
+समनलग - simultaneous - no hint
+
+समलग - companion - no hint
+
+सममनत - committee - no hint
+
+सममनत - committee - no hint
+
+समवद - samvad - no hint
+
+सवद - savvad - no hint
+
+सरवनम - saravanam - no hint
+
+सरवनम - saravanam - no hint
+
+सरर - sarer - no hint
+
+शरर - body - no hint
+
+सरतक - sartak - no hint
+
+सतरक - satrak - no hint
+
+सशकतकरण - empowerment - no hint
+
+सशकतकरण - empowerment - no hint
+
+सईबर - cyber - no hint
+
+सइबर - cyber - no hint
+
+सतयक - truthful - no hint
+
+सहतयक - co/worker - no hint
+
+सध - union - no hint
+
+सध - union - no hint
+
+सम - even - no hint
+
+शम - sham - no hint
+
+समरथ - samrath - no hint
+
+समरथय - support - no hint
+
+सयकल - bicycle - no hint
+
+सइकल - saikal - no hint
+
+सशक - strong - no hint
+
+शसक - sasak - no hint
+
+सहवहन - convection - no hint
+
+सहवहन - convection - no hint
+
+सकई - sakai - no hint
+
+सकई - sakai - no hint
+
+समत - samat - no hint
+
+समत - samat - no hint
+
+ससय - rabbit - no hint
+
+शषय - thesis - no hint
+
+सरज - saraj - no hint
+
+सरज - saraj - no hint
+
+सचर - true - no hint
+
+सचर - true - no hint
+
+सनन - sanan - no hint
+
+सनन - sanan - no hint
+
+सबदर - subadar - no hint
+
+सबदर - subadar - no hint
+
+समर - war - no hint
+
+समर - war - no hint
+
+सरज - saraj - no hint
+
+सरज - saraj - no hint
+
+सरय - head - no hint
+
+सरय - head - no hint
+
+सच - truth - no hint
+
+सच - truth - no hint
+
+सचबदध - truthful - no hint
+
+सचबदध - truthful - no hint
+
+सनसन - sunson - no hint
+
+सनसन - sunson - no hint
+
+सनम - beloved - no hint
+
+सनम - beloved - no hint
+
+सवनवतत - सवनवतत - no hint
+
+सवनवतत - सवनवतत - no hint
+
+सचग - the truth - no hint
+
+सचग - the truth - no hint
+
+सदरयत - sadrayat - no hint
+
+सदरय - kindly - no hint
+
+सकल - gross - no hint
+
+सकल - gross - no hint
+
+सतबधत - true - no hint
+
+सतबधत - true - no hint
+
+सथई - sathai - no hint
+
+सथय - satya - no hint
+
+सथत - status - no hint
+
+सथत - status - no hint
+
+समरन - samran - no hint
+
+समरण - commemoration - no hint
+
+सवछ - clean - no hint
+
+सवचछ - clean - no hint
+
+सवपनदषट - dreamy - no hint
+
+सवपनदरषट - dream - no hint
+
+सवलबन - savalban - no hint
+
+सववलबन - savvalban - no hint
+
+सवलब - swalab - no hint
+
+सववलब - subvalb - no hint
+
+सवसथ - healthy - no hint
+
+सवसथय - health - no hint
+
+सवसथय - health - no hint
+
+सवसथय - health - no hint
+
+हमर - hummer - no hint
+
+पर - on - no hint
+
+हम - we - no hint
+
+पर - on - no hint
+
+हरईन - harain - no hint
+
+हरइन - every - no hint
+
+हसर - hasar - no hint
+
+हशर - hashar - no hint
+
+हशर - hashar - no hint
+
+हऊस - house - no hint
+
+हउस - haus - no hint
+
+हथ - hath - no hint
+
+हथ - hath - no hint
+
+हथन - hthan - no hint
+
+हथन - hthan - no hint
+
+हद - to the extent - no hint
+
+हद - to the extent - no hint
+
+हदओ - hadao - no hint
+
+हदओ - hadao - no hint
+
+हनस - hanas - no hint
+
+हस - laugh - no hint
+
+हमचल - fellow - no hint
+
+हमचल - fellow - no hint
+
+हदय - haday - no hint
+
+हदय - haday - no hint
+
+हत - hat - no hint
+
+हत - hat - no hint
 
