@@ -1,6 +1,8 @@
 TODO
 	export current turkish101audio apkg
 		make identical lesson, but move question into hint, and add audio for both sides
+			this is an option for arg.makeankideck
+				test it
 
 test
 	second language downloading
