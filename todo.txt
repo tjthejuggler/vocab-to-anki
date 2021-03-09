@@ -1,76 +1,76 @@
--test
+TODO
+	export current turkish101audio apkg
+		make identical lesson, but move question into hint, and add audio for both sides
+
+test
 	second language downloading
 	everything because we just refactored the main loop
 
--shalu
+shalu
 	ask if longer mp3s are better, or shorter ones
 	make a smple where it says the hindi once before the en and the turkish
 
-should make cards - only available for formatted source
-	is it available for apkg?
+Information gathering
+	should make cards - only available for formatted source
+		is it available for apkg?
+	figure out how big/how many chunks can go into a pydub audio file and make
+	find out how pretty printed jsons can be used
 
--figure out how to tell which way a card is going, and make audio entry able to be based on it so we can have foreign....foreign....native
-	-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
+New Functionality
+	-figure out how to tell which way a card is going, and make audio entry able to be based on it so we can have foreign....foreign....native
+		-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
+	-make a confirmation of how many words will be downloaded/translated
+		-it could quickly tell (this is a little complicated and based on settings)
+			how many of the words we already have
+			how many have previously failed
+			how may it is going to attempt
+	make optional "hint" language when making cards
+		it puts a 3rd langugae in the hint automatically		
 
--look into a way to make this usable by people, at least the anki file -> audio lesson
+Simple
+	-make an opt for showing prints
+	-make exporting an audio lesson show stats
+	-put instructions in readme 
+		by default source.txt is used
+		explain the difference of formatted and not
+		the the args and opts
 
--make an opt for showing prints
--make exporting an audio lesson show stats
--split main into different files
--put instructions in readme
-	by default source.txt is used
-	explain the difference of formatted and not
-	the the args and opts
--figure out how big/how many chunks can go into a pydub audio file and make 
--figure out exactly what is not working
--make single word mp3s out of turkish101 chunks
+Eventually
+	-make single word mp3s out of turkish101 chunks
+	-make times and digits automatically converted to words
+	-look into a way to make this usable by people, at least the anki file -> audio lesson
+	-allow for extra fields to be input so i can do stuff like this chart
+		https://www.tutormandarin.net/en/1000-most-common-chinese-words/
+		-these extra fields can go into hint and be seperated with \n
+		-eventually these fields could be possible question/answers
 
--times and numbers should be written out from now on instea of using digits
+Refactoring
+	-fix variable names
+	-split main into different files
 
--fix variable names
 
--test the new opposite local dict setup
-	-if it works fine then use tool to make opposite dicts from current local dicts
+Maybe
+	make a combine_failed_words program
 
--allow for extra fields to be input so i can do stuff like this chart
-	https://www.tutormandarin.net/en/1000-most-common-chinese-words/
-	-these extra fields can go into hint and be seperated with \n
-	-eventually these fields could be possible question/answers
 
--make a combine_failed_words program
-
--find out how pretty printed jsons can be used
 	
-
--we should have an es_en dict and and en_es dict because of the querer/quiero issue
-	-this means undoing some of that complicated alphabetical switch thing
-	-this can be jumpstarted by flipping current dictionaries with dictionary_formatter.py
-
--make everything get changed to lower case before being added to dictionaries, lists, mp3s, and when we look at these things
-
--we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
-
--make a confirmation of how many words will be downloaded/translated
-	-it could quickly tell (this is a little complicated and based on settings)
-		how many of the words we already have
-		how many have previously failed
-		how may it is going to attempt
-
--for now lets either make an unformated to formatted setup
-	and
-	formatted to cards setup
-	we can combine them later
--make optional "hint" language when making cards
--make instructions for translation export
+Misc Thoughts
+	we should have an es_en dict and and en_es dict because of the querer/quiero issue
+		-this means undoing some of that complicated alphabetical switch thing
+		-this can be jumpstarted by flipping current dictionaries with dictionary_formatter.py
+	-we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
 
 
--clean up mainaudio.py to make it more readable
 
-PRONUNCIATION PLAYER
--We could also make every word have a pronunciation with a button for each word. 
--If there are just two words we could make them be pronounced seperately with two recordings if they don't exist together as a single recording.
 
--We should automatically make lists of unpronounced words, words that forvo doesn't have pronunciations for so we can request them
+
+
+
+
+
+
+
+
 
 
 
@@ -84,8 +84,7 @@ run other turkish 101 stuff through here:
 do this for single words in turkish_conversation
 	TurkishClass101 Word Power Audible (in turkish_vocab)
 
-replace original txt lists with swapped versions
-the swapper could have a smaller name and it could do smart swapping to put turkish words first(or whatever foreign words)
+
 
 
 
@@ -93,7 +92,7 @@ the swapper could have a smaller name and it could do smart swapping to put turk
 check to see if video has subtitles, if it does, then find the timestamp on the first instance of each word and make the url automatically have that timestamp built in
 
 EVENTUALLY:
-get pronunciations for common words in top MANY languages
+
 write a scraper that finds out which language pairs are missing from anki shared decks
 	use local dictionaries/translations to get the names of all popular languages in different languages
 make decks for those pairs

@@ -16,10 +16,15 @@ import random
 import sqlite3
 from operator import itemgetter
 import zipfile
+import argparse
+
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
 
+home = str(Path.home())
+pron_fold = home+'/pronunciations'
+cwd = os.getcwd()
 using_two_langs = False
 first_lang = ''
 second_lang = ''
@@ -46,53 +51,63 @@ deck_name = ''
 lines = []
 url = ''
 
-try:
-	opts, args = getopt.getopt(sys.argv[1:],"htmarq1:2:3:d:x:y:k:")
-	print(opts)
-except getopt.GetoptError:
-	print ('test.py -i <inputfile> -o <outputfile>')
-	sys.exit(2)
-for opt, arg in opts:
-	print(opt)
-	if opt == '-h':
-		print ('help')
-		sys.exit()
-	elif opt in ("-1"):
-		print('1',arg)
-		first_lang = arg
-		number_of_languages_given = number_of_languages_given+1
-	elif opt in ("-2"):
-		second_lang = arg
-		number_of_languages_given = number_of_languages_given+1
-	elif opt in ("-3"):
-		third_lang = arg
-		number_of_languages_given = number_of_languages_given+1
-	elif opt in ("-d"):
-		print('should_download')
-		should_download = True
-		number_of_languages_to_download = arg
-	elif opt in ("-x"):
-		max_api_calls = int(arg)		
-		print('max_api_calls', max_api_calls)
-	elif opt in ("-y"):
-		max_lines = int(arg)		
-		print('max_lines', max_lines)
-	elif opt in ("-k"):
-		use_anki_file = True
-		deck_name = arg		
-		print('deck_name', deck_name)			
-	elif opt in ("-t"):
-		should_translate = True
-	elif opt in ("-m"):
-		should_make_cards = True
-	elif opt in ("-a"):
-		should_make_audio_lesson = True
-	elif opt in ("-r"):
-		should_randomize_order = True
-	elif opt in ("-q"):
-		require_individual_words_for_audio = False		
+parser = argparse.ArgumentParser()
+parser.add_argument("language1", help="first language code (en = english)")
+parser.add_argument("-2", "--language2", help="second language code (en = english)")
+parser.add_argument("-3", "--language3", help="third language code (en = english)")
+parser.add_argument("-d", "--download", type = int,
+						help="should download pronunciations from forvo, \
+						number of languages to download, max number of api calls")
+parser.add_argument("-l", "--linesmax", type = int,
+						help="maximum number of lines to be processed")
+parser.add_argument("-x", "--maxapis", type = int,
+						help="maximum number of api calls allowed")
+parser.add_argument("-k", "--apkgsource", help="use apkg file as source, \
+						name of apkg file to use")
+parser.add_argument("-t", "--translate", action="store_true",help="translate words and output formatted list")
+parser.add_argument("-m", "--makeankideck", action="store_true",help="make an anki deck from formatted list")
+parser.add_argument("-a", "--audiolesson", action="store_true",help="make audio lesson from formatted list")
+parser.add_argument("-r", "--randomorder", action="store_true",help="randomize the order of the words being processed")
+parser.add_argument("-q", "--requireindivwords", action="store_true",help="only make an audio lesson entry if all \
+						individual words have been downloaded")
+
+
+args = parser.parse_args()
+first_lang = args.language1
+if args.language2:
+	second_lang = args.language2
+	number_of_languages_given = number_of_languages_given+1
+if args.language3:
+	second_lang = args.language3
+	number_of_languages_given = number_of_languages_given+1
+if args.download:
+	print('should_download')
+	should_download = True
+	number_of_languages_to_download = args.download
+if args.maxapis:
+	max_api_calls = args.maxapis
+	print('max_api_calls', max_api_calls)
+if args.linesmax:
+	max_lines = args.linesmax		
+	print('max_lines', max_lines)
+if args.apkgsource:
+	use_anki_file = True
+	deck_name = args.apkgsource		
+	print('deck_name', deck_name)		
+if args.translate:
+	should_translate = True
+if args.makeankideck:
+	should_make_cards = True
+if args.audiolesson:
+	should_make_audio_lesson = True
+if args.requireindivwords:
+	require_individual_words_for_audio = True	
+if args.randomorder:
+	should_randomize_order = True
+
 if number_of_languages_to_download == '':
-	number_of_languages_to_download = number_of_languages_given				
+	number_of_languages_to_download = number_of_languages_given	
+		
 print('l1', first_lang)
 print('21', second_lang)
 print('3l', third_lang)
@@ -135,21 +150,6 @@ def get_word_list_from_apkg(filename):
 	for accepted_card in accepted_cards:
 		lines_to_return.append(accepted_card[0]+' - '+accepted_card[1])
 	return lines_to_return
-
-
-home = str(Path.home())
-pron_fold = home+'/pronunciations'
-cwd = os.getcwd()
-if use_anki_file:
-	lines = get_word_list_from_apkg(deck_name)
-	print(lines)
-else:	
-	file = open( "source.txt", "r")
-	lines = file.readlines()
-	file.close()
-	deck_name = lines[0].replace(' ','_').strip()
-	url = lines[1]
-	lines = lines[2:]
 
 def determine_if_formatted(lines):
 	formatted_line_count = 0
@@ -500,7 +500,21 @@ def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang):
 	text = first_word + ' - ' + second_word + ' - ' + hint
 	return audio, text
 
-def main(lines):
+def get_lines_from_source():
+	if use_anki_file:
+		lines = get_word_list_from_apkg(deck_name)
+		print(lines)
+	else:	
+		file = open( "source.txt", "r")
+		lines = file.readlines()
+		file.close()
+		deck_name = lines[0].replace(' ','_').strip()
+		url = lines[1]
+		lines = lines[2:]
+	return lines
+
+def main():
+	lines = get_lines_from_source()
 	is_formatted = determine_if_formatted(lines)
 	if should_randomize_order == True:
 		print("randomized lines")
@@ -568,4 +582,5 @@ def main(lines):
 	if should_make_cards:
 		create_anki_deck(deck, all_audio_files)
 	program_end()
-main(lines)
+
+main()
