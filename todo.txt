@@ -48,11 +48,8 @@ Refactoring
 	-fix variable names
 	-split main into different files
 
-
 Maybe
 	make a combine_failed_words program
-
-
 	
 Misc Thoughts
 	we should have an es_en dict and and en_es dict because of the querer/quiero issue

@@ -1,2250 +1,788 @@
-अगठ - agath - no hint
-
-अगठ - agath - no hint
-
-अगर - if - no hint
-
-अगर - if - no hint
-
-अगल - next - no hint
-
-अगल - next - no hint
-
-अजल - ajal - no hint
-
-अजल - ajal - no hint
-
-अजन - ajna - no hint
-
-अनजन - anjan - no hint
-
-अतरकष - adrakash - no hint
-
-अतरकष - adrakash - no hint
-
-अतरधयन - additional - no hint
-
-अतरधन - extra - no hint
-
-अतररषटरय - extravagant - no hint
-
-अतररषटरय - extravagant - no hint
-
-अतयषठ - sixty six - no hint
-
-अतयषट - astral - no hint
-
-अककष - akash - no hint
-
-आककष - attraction - no hint
-
-अकश - akash - no hint
-
-आकश - ash - no hint
-
-अकडमक - stubborn - no hint
-
-एकडमक - ekdamak - no hint
-
-अकदमक - accidental - no hint
-
-अगम - unreachable - no hint
-
-आगम - augment - no hint
-
-अजवन - ajavan - no hint
-
-आजवन - aajvan - no hint
-
-अटखलय - spill - no hint
-
-अठखलय - hospice - no hint
-
-अतकरमण - atkaraman - no hint
-
-अतकरमण - atkaraman - no hint
-
-अतथ - at - no hint
-
-अतथ - at - no hint
-
-अततफक - so/called - no hint
-
-इततफक - by chance - no hint
-
-इततफक - by chance - no hint
-
-अतम - great - no hint
-
-आतम - last - no hint
-
-अतयधक - more - no hint
-
-अतयधक - more - no hint
-
-अधरत - unsupervised - no hint
-
-आधरत - based - no hint
-
-अधकरत - half/baked - no hint
-
-आधकरत - based on - no hint
-
-अधकषक - parent - no hint
-
-अधकषक - parent - no hint
-
-अधकर - half - no hint
-
-अधकर - half - no hint
-
-अधर - the balance - no hint
-
-अधर - the balance - no hint
-
-अधयतमक - extracurricular - no hint
-
-आधयतमक - spiritual - no hint
-
-अनधकर - blindly - no hint
-
-अनधकर - blindly - no hint
-
-अनशचत - unsure - no hint
-
-अनशचत - unsure - no hint
-
-अनकल - uncle - no hint
-
-अनकल - uncle - no hint
-
-अनगरहत - non/partisan - no hint
-
-अनगहत - underground - no hint
-
-अनशरण - asylum - no hint
-
-अनसरण - unsurprising - no hint
-
-अनषगर - non/ferocious - no hint
-
-आनषगर - aashgar - no hint
-
-अफससजनक - depressing - no hint
-
-अफससनक - apocalypse - no hint
-
-अबनत - abnat - no hint
-
-अभनत - unassuming - no hint
-
-अभसक - abhasak - no hint
-
-अभषक - assembler - no hint
-
-अभषठ - abbey - no hint
-
-अभषट - abhisht - no hint
-
-अमवशय - of course - no hint
-
-अमवसय - new moon - no hint
-
-अरमद - armad - no hint
-
-अमरद - amrad - no hint
-
-अरजन - arjan - no hint
-
-अरजन - arjan - no hint
-
-अरयवरत - aryavarat - no hint
-
-आरयवरत - aryavrat - no hint
-
-अलपन - alapan - no hint
-
-आलपन - laziness - no hint
-
-अवयसक - minors - no hint
-
-अवयसक - minors - no hint
-
-अवशयकत - of course - no hint
-
-आवशयकत - required - no hint
-
-अवज - avaj - no hint
-
-आवज - voice - no hint
-
-अवर - inferior - no hint
-
-आवर - hour - no hint
-
-अवषकर - disgusting - no hint
-
-आवषकर - necessary - no hint
-
-अशष - ash - no hint
-
-आशष - aash - no hint
-
-अषठगयग - asthagaayag - no hint
-
-अषटगयग - ashtagayag - no hint
-
-असमन - asman - no hint
-
-आसमन - asman - no hint
-
-असतन - astan - no hint
-
-आसतन - distillation - no hint
-
-असथन - asthan - no hint
-
-सथन - location - no hint
-
-अहसस - ahsus - no hint
-
-एहसस - ahsus - no hint
-
-अहर - ahar - no hint
-
-आहर - aahar - no hint
-
-अहलद - ahlad - no hint
-
-आहलद - ahlad - no hint
-
-आट - flour - no hint
-
-आट - flour - no hint
-
-आतकवद - adatavad - no hint
-
-आतकवद - adatavad - no hint
-
-आसओ - aso - no hint
-
-आसओ - aso - no hint
-
-आईए - please come - no hint
-
-आइए - come - no hint
-
-आईन - warrantable - no hint
-
-आइन - ain - no hint
-
-आकट - aakat - no hint
-
-आकठ - incredible - no hint
-
-आखर - promise - no hint
-
-आखर - promise - no hint
-
-आगम - augment - no hint
-
-आगम - augment - no hint
-
-आडवन - advan - no hint
-
-आडवण - advana - no hint
-
-आदरणय - reverend - no hint
-
-आदरणय - reverend - no hint
-
-आदरस - adorable - no hint
-
-आदरश - respect - no hint
-
-आधन - adhan - no hint
-
-अधन - adhan - no hint
-
-आधयतम - advanced - no hint
-
-अधयतम - maximum - no hint
-
-आबटन - allocation - no hint
-
-आवटन - allotment - no hint
-
-आय - income - no hint
-
-आय - income - no hint
-
-आरढ - ascending - no hint
-
-आरढ - ascending - no hint
-
-आरद - arad - no hint
-
-आरदर - ardar - no hint
-
-आरदत - ardat - no hint
-
-आरदरत - ardrat - no hint
-
-आवम - awam - no hint
-
-अवम - avam - no hint
-
-आशरवद - asharvad - no hint
-
-आशरवद - asharvad - no hint
-
-आसम - asam - no hint
-
-असम - assam - no hint
-
-आसस - asus - no hint
-
-आशष - aash - no hint
-
-आशष - aash - no hint
-
-आहत - hurt - no hint
-
-आहत - hurt - no hint
-
-इकर - ikar - no hint
-
-इनकर - inkar - no hint
-
-इगलड - igald - no hint
-
-इगलड - igald - no hint
-
-इजकशन - erection - no hint
-
-इजकशन - erection - no hint
-
-इकठठ - sixty one - no hint
-
-इकटठ - collect - no hint
-
-इजद - ijad - no hint
-
-ईजद - ijd - no hint
-
-इमनदर - earnest - no hint
-
-ईमनदर - honest - no hint
-
-इमनदर - earnest - no hint
-
-ईमनदर - honest - no hint
-
-इशवर - god - no hint
-
-ईशवर - god - no hint
-
-इसई - christian - no hint
-
-ईसई - christ - no hint
-
-इसकल - only - no hint
-
-सकल - gross - no hint
-
-ईचछ - i want - no hint
-
-इचछ - will - no hint
-
-ईमरत - emirate - no hint
-
-इमरत - love - no hint
-
-ईसलए - as - no hint
-
-इसलए - that&#39;s why - no hint
-
-उगल - spewing - no hint
-
-ऊगल - foggy - no hint
-
-उतस - uts - no hint
-
-उनतस - twenty nine - no hint
-
-उजवल - bright - no hint
-
-उजजवल - bright - no hint
-
-उदघटन - inauguration - no hint
-
-उदघटन - inauguration - no hint
-
-उददत - example - no hint
-
-उदयत - purpose - no hint
-
-उधम - hustle - no hint
-
-ऊधम - hustle - no hint
-
-उधहरण - example - no hint
-
-उदहरण - e.g. - no hint
-
-उनचस - twenty nine - no hint
-
-उनचस - twenty nine - no hint
-
-उपजउ - produce - no hint
-
-उपजऊ - produce - no hint
-
-उपरकत - above - no hint
-
-उपयरकत - upayarkat - no hint
-
-उपलकष - upalaksh - no hint
-
-उपलकषय - upalakshay - no hint
-
-उमरन - umran - no hint
-
-उमड़न - stiffness - no hint
-
-उषम - usham - no hint
-
-ऊषम - heat - no hint
-
-उहपह - uhh - no hint
-
-ऊहपह - oops - no hint
-
-ऊगलय - ogliya - no hint
-
-उगलय - ugalaya - no hint
-
-एकर - acres - no hint
-
-ऐकर - acre - no hint
-
-एजस - ages - no hint
-
-एजस - ages - no hint
-
-एपयर - aper - no hint
-
-अपयर - apare - no hint
-
-एकतरत - either way - no hint
-
-एकतर - either way - no hint
-
-एकट - act - no hint
-
-ऐकट - aikat - no hint
-
-एचछक - hiccup - no hint
-
-ऐचछक - hitch - no hint
-
-एतहसक - historical - no hint
-
-ऐतहसक - historical - no hint
-
-एनकउनटर - encounter - no hint
-
-एनकउटर - encounter - no hint
-
-एनकउणटर - encounter - no hint
-
-ऐहतयत - precaution - no hint
-
-एहतयत - as a precaution - no hint
-
-ऒपचरक - assistant - no hint
-
-औपचरक - formal - no hint
-
-कपयटर - cupboard - no hint
-
-कपयटर - cupboard - no hint
-
-कठनईय - difficult - no hint
-
-कठनइय - difficult - no hint
-
-कनषट - kanshat - no hint
-
-कनषठ - kanishth - no hint
-
-करएग - will do - no hint
-
-कजएग - kazeg - no hint
-
-करए - do it - no hint
-
-कजए - what - no hint
-
-कवयतर - poetry - no hint
-
-कवयतर - poetry - no hint
-
-कव - cove - no hint
-
-कव - cove - no hint
-
-कसट - cast - no hint
-
-कसट - cast - no hint
-
-कगजत - paper - no hint
-
-कगजत - paper - no hint
-
-कबलयत - kabalayat - no hint
-
-कबलयत - kabalayat - no hint
-
-करगरह - cargarah - no hint
-
-करगह - cart - no hint
-
-करयवई - karavai - no hint
-
-कररवई - karvai - no hint
-
-कलदस - kaldas - no hint
-
-कलदस - kaldas - no hint
-
-कमदन - kamdan - no hint
-
-कमसन - kamson - no hint
-
-कआ - kah - no hint
-
-कआ - kah - no hint
-
-कआ - kah - no hint
-
-कबत - till when - no hint
-
-कवत - कवत - no hint
-
-कतयकतय - certainty - no hint
-
-कतकतय - katakati - no hint
-
-कपय - cupful - no hint
-
-कपय - cupful - no hint
-
-कदरय - kindly - no hint
-
-कदरय - kindly - no hint
-
-कबनट - cabbage - no hint
-
-कबनट - cabbage - no hint
-
-कस - tight - no hint
-
-कश - puff - no hint
-
-कट - cut - no hint
-
-कट - cut - no hint
-
-कवव - kavav - no hint
-
-कआ - kah - no hint
-
-कयक - kayak - no hint
-
-कयक - kayak - no hint
-
-कषतरय - qashtarya - no hint
-
-कषतरय - qashtarya - no hint
-
-कषमत - luck - no hint
-
-कषमत - luck - no hint
-
-खटय - khatay - no hint
-
-खटई - khatai - no hint
-
-खन - khan - no hint
-
-खन - khan - no hint
-
-खबरनबस - news - no hint
-
-खबरनवस - news - no hint
-
-खरच - really - no hint
-
-खरच - really - no hint
-
-खलवट - disruption - no hint
-
-खलवट - disruption - no hint
-
-खबन - mine - no hint
-
-खबन - mine - no hint
-
-खखर - खखर - no hint
-
-खखर - खखर - no hint
-
-खयल - khayal - no hint
-
-खयल - khayal - no hint
-
-गठजड - alliance - no hint
-
-गठजड - alliance - no hint
-
-गदगद - gazade - no hint
-
-गदगद - gazade - no hint
-
-गनत - gannat - no hint
-
-गणत - calculation - no hint
-
-गलघट - thaw - no hint
-
-गलघट - thaw - no hint
-
-गवन - gavan - no hint
-
-गवन - gavan - no hint
-
-गवन - gavan - no hint
-
-गतजल - ghatjal - no hint
-
-गतजल - ghatjal - no hint
-
-गनत - gannat - no hint
-
-गनत - gannat - no hint
-
-गर - gar - no hint
-
-गर - gar - no hint
-
-गहण - mortgage - no hint
-
-गहण - mortgage - no hint
-
-गरसममनजनक - गरसममनजनक - no hint
-
-असममनजनक - asymmetrical - no hint
-
-गड़ - fort - no hint
-
-घड़ - the pitcher - no hint
-
-गरहकरय - household - no hint
-
-गहकरय - jewel - no hint
-
-घनषट - solid - no hint
-
-घनषठ - cube - no hint
-
-घनट - cube - no hint
-
-घट - ghat - no hint
-
-घणट - hour - no hint
-
-घबडन - gabdan - no hint
-
-घबरन - nervousness - no hint
-
-घरद - gharad - no hint
-
-घरद - gharad - no hint
-
-घट - ghat - no hint
-
-घट - ghat - no hint
-
-चहए - to - no hint
-
-चहए - to - no hint
-
-चरगह - chargah - no hint
-
-चरगह - chargah - no hint
-
-चत - chat - no hint
-
-चतत - wry - no hint
-
-चनह - chenah - no hint
-
-चहन - tasting - no hint
-
-चषठ - four hundred - no hint
-
-चषट - chest - no hint
-
-छपकल - splash - no hint
-
-छपकल - splash - no hint
-
-छआछत - छआछत - no hint
-
-छआछत - छआछत - no hint
-
-छडछड - छडछड - no hint
-
-छडछड - छडछड - no hint
-
-छडछड - छडछड - no hint
-
-जड - heavy - no hint
-
-झड़ - the fall - no hint
-
-जबव - jab - no hint
-
-जवब - answer - no hint
-
-जमन - jaman - no hint
-
-ज़मन - the ground - no hint
-
-जयत - jayat - no hint
-
-जयत - jayat - no hint
-
-जरर - by the way - no hint
-
-जरर - by the way - no hint
-
-जत - jat - no hint
-
-पत - pet - no hint
-
-जत - jat - no hint
-
-पत - pet - no hint
-
-जत - jat - no hint
-
-पत - pet - no hint
-
-जत - jat - no hint
-
-पत - pet - no hint
-
-जरणदधर - jarnadadhar - no hint
-
-जरणदधर - jarnadadhar - no hint
-
-जआड - jaad - no hint
-
-जआर - jr - no hint
-
-जयतष - jayatash - no hint
-
-जयतष - jayatash - no hint
-
-जयतसन - jayatasan - no hint
-
-जयतसन - jayatasan - no hint
-
-झपन - jhapan - no hint
-
-झपन - jhapan - no hint
-
-झग - the fight - no hint
-
-झग - the fight - no hint
-
-झझलन - tussle - no hint
-
-झझलन - tussle - no hint
-
-झठ - stubbornness - no hint
-
-खन - khan - no hint
-
-जठ - jath - no hint
-
-खन - khan - no hint
-
-झक - fad - no hint
-
-झक - fad - no hint
-
-झपड - slap - no hint
-
-झपड - slap - no hint
-
-टपपड - tappad - no hint
-
-टपपण - tappan - no hint
-
-टलवजन - postponement - no hint
-
-टलवजन - postponement - no hint
-
-ठक - knock - no hint
-
-ठक - knock - no hint
-
-डकओ - hold on - no hint
-
-डकओ - hold on - no hint
-
-डरईवर - dweevers - no hint
-
-डरइवर - duriver - no hint
-
-ढकल - push - no hint
-
-धकल - push - no hint
-
-ढकन - lid - no hint
-
-ढकन - lid - no hint
-
-ढढन - readiness - no hint
-
-ढढन - readiness - no hint
-
-ततकलक - tatkalak - no hint
-
-ततकलक - tatkalak - no hint
-
-ततव - element - no hint
-
-तततव - element - no hint
-
-ततवधन - augmentation - no hint
-
-तततववधन - तततववधन - no hint
-
-तबयत - health - no hint
-
-तबयत - health - no hint
-
-तक - till - no hint
-
-तक - till - no hint
-
-तबत - tabat - no hint
-
-तबत - tabat - no hint
-
-तथ - the fact - no hint
-
-तथ - the fact - no hint
-
-तलसम - talasam - no hint
-
-तलसम - talasam - no hint
-
-तनतरफ - well/to/do - no hint
-
-तनतरफ - well/to/do - no hint
-
-तफन - slap - no hint
-
-तफन - slap - no hint
-
-तमहर - you - no hint
-
-क - k - no hint
-
-तमह - tamah - no hint
-
-तमक - tmak - no hint
-
-तषटकरण - warming - no hint
-
-तषटकरण - warming - no hint
-
-तकलदरश - matter/of/fact - no hint
-
-तरकलदरश - tactical - no hint
-
-ततस - tetas - no hint
-
-ततस - tetas - no hint
-
-तयर - tire - no hint
-
-तयर - tire - no hint
-
-तयहर - tayhar - no hint
-
-तयहर - tayhar - no hint
-
-तरतय - trend - no hint
-
-ततय - definitely - no hint
-
-थरमकल - thermal - no hint
-
-थरमकल - thermal - no hint
-
-थगल - the thug - no hint
-
-थगल - the thug - no hint
-
-थसस - thassus - no hint
-
-थसस - thassus - no hint
-
-थकन - thunk - no hint
-
-थकन - thunk - no hint
-
-थतकर - totally - no hint
-
-थतकर - totally - no hint
-
-थयर - thier - no hint
-
-थयर - thier - no hint
-
-थरलर - therler - no hint
-
-थरलर - therler - no hint
-
-दपतत - dapat - no hint
-
-दपत - dipat - no hint
-
-दपत - dipat - no hint
-
-दमद - power - no hint
-
-दमद - power - no hint
-
-दयल - plea - no hint
-
-दयल - plea - no hint
-
-दरयय - darya - no hint
-
-दरयई - daryai - no hint
-
-दवइ - dewi - no hint
-
-दवई - dawai - no hint
-
-दवईय - drug - no hint
-
-दवइय - the deity - no hint
-
-दसतबज - dastabaj - no hint
-
-दसतवज - dastavaj - no hint
-
-दयततव - speculative - no hint
-
-दयतव - dayatv - no hint
-
-दवपच - दवपच - no hint
-
-दवपच - दवपच - no hint
-
-दजए - enter - no hint
-
-दजए - enter - no hint
-
-दपक - sw - no hint
-
-दपक - sw - no hint
-
-दवनग - davange - no hint
-
-दवनग - davange - no hint
-
-दवल - dawal - no hint
-
-दवल - dawal - no hint
-
-दकन - deccan - no hint
-
-दकन - deccan - no hint
-
-दनय - merciful - no hint
-
-दनय - merciful - no hint
-
-दरदरशन - dardarshan - no hint
-
-दरदरशन - dardarshan - no hint
-
-दरवसथ - every day - no hint
-
-दरवसथ - every day - no hint
-
-दरपयग - in due - no hint
-
-दरपयग - in due - no hint
-
-दरह - darh - no hint
-
-दरह - darh - no hint
-
-दलह - pulses - no hint
-
-दलह - pulses - no hint
-
-दसर - ten - no hint
-
-दसर - ten - no hint
-
-दषट - dasht - no hint
-
-दरषट - darshat - no hint
-
-दषय - view - no hint
-
-दशय - dashay - no hint
-
-दस - ten - no hint
-
-दश - ten - no hint
-
-दपहय - दपहय - no hint
-
-दपहय - दपहय - no hint
-
-दवद - davad - no hint
-
-दवदव - दवदव - no hint
-
-धतए - goddamn - no hint
-
-धतए - goddamn - no hint
-
-धरदर - dhardar - no hint
-
-धरधर - dhardhar - no hint
-
-धकन - thunder - no hint
-
-धकन - thunder - no hint
-
-धस - collapsed - no hint
-
-धस - collapsed - no hint
-
-धररत - dharat - no hint
-
-धरत - holding - no hint
-
-धरपद - dharpad - no hint
-
-धरपद - dharpad - no hint
-
-नकर - nakar - no hint
-
-नकर - nakar - no hint
-
-नकषरत - naksharat - no hint
-
-नकषतर - nakshatra - no hint
-
-नगद - cash - no hint
-
-नकद - cash - no hint
-
-नदन - nadan - no hint
-
-नदन - nadan - no hint
-
-नपथय - नपथय - no hint
-
-नपथय - नपथय - no hint
-
-नबब - nabb - no hint
-
-नवब - navab - no hint
-
-नय - new - no hint
-
-नई - new - no hint
-
-नरज - naraj - no hint
-
-नरज - naraj - no hint
-
-नरक - hell - no hint
-
-नरक - hell - no hint
-
-नवरतर - navratar - no hint
-
-नवरतर - navratar - no hint
-
-नह - no - no hint
-
-नह - no - no hint
-
-नकदम - step by step - no hint
-
-नकदम - step by step - no hint
-
-नस - vein - no hint
-
-नश - destruction - no hint
-
-नरमल - soft - no hint
-
-नरमल - soft - no hint
-
-नरपम - narpam - no hint
-
-नरपम - narpam - no hint
-
-नरग - narg - no hint
-
-नरग - narg - no hint
-
-नरमणधन - narmadhan - no hint
-
-नरमणधन - narmadhan - no hint
-
-नलवत - नलवत - no hint
-
-नलबत - nalbat - no hint
-
-नशलक - nashlak - no hint
-
-नशलक - nashlak - no hint
-
-नकसनदय - naksanday - no hint
-
-नकसनदह - cash flow - no hint
-
-नपर - napar - no hint
-
-नपर - napar - no hint
-
-नसतनबत - nastanatbat - no hint
-
-नसतनबद - ventilator - no hint
-
-नकर - nakar - no hint
-
-नकर - nakar - no hint
-
-नसखय - snuff - no hint
-
-नसखय - snuff - no hint
-
-नयलय - the court - no hint
-
-नययलय - court - no hint
-
-नयछवर - नयछवर - no hint
-
-नयछवर - नयछवर - no hint
-
-नयत - nayat - no hint
-
-नयत - nayat - no hint
-
-पकषगण - quarter - no hint
-
-पकषगण - quarter - no hint
-
-पजम - pajam - no hint
-
-पजम - pajam - no hint
-
-पडस - padas - no hint
-
-पडस - padas - no hint
-
-पतन - the fall - no hint
-
-पतन - the fall - no hint
-
-परखचच - test - no hint
-
-परखच - test - no hint
-
-परणम - consequences - no hint
-
-परणम - consequences - no hint
-
-परलकक - detector - no hint
-
-परलकक - detector - no hint
-
-परपकषय - purgative - no hint
-
-परपरकषय - subjective - no hint
-
-परवरक - parvarak - no hint
-
-परवरक - parvarak - no hint
-
-परशषठ - parshath - no hint
-
-परशषट - parshat - no hint
-
-परसथत - located - no hint
-
-परसथत - located - no hint
-
-परकश - test - no hint
-
-परकष - test - no hint
-
-परचय - introduction - no hint
-
-परचय - introduction - no hint
-
-परवर - prvr - no hint
-
-परवर - prvr - no hint
-
-परदश - purdah - no hint
-
-परदश - purdah - no hint
-
-पशचतप - husbandry - no hint
-
-पशचततप - पशचततप - no hint
-
-पचव - digestion - no hint
-
-पचव - digestion - no hint
-
-पड - pad - no hint
-
-पडय - fall - no hint
-
-पतबर - petber - no hint
-
-पतबर - petber - no hint
-
-परणम - consequences - no hint
-
-परणम - consequences - no hint
-
-परनजनम - paranjanam - no hint
-
-पनरजनम - panarajanam - no hint
-
-परनमतदन - poll - no hint
-
-पनरमतदन - watertight - no hint
-
-परनवस - last - no hint
-
-पनरवस - parnavas - no hint
-
-परनतथन - paranthan - no hint
-
-पनरतथन - rebirth - no hint
-
-पषपजल - potable water - no hint
-
-पषपजल - potable water - no hint
-
-पसतक - system - no hint
-
-पसतक - system - no hint
-
-पछकर - after - no hint
-
-पछकर - after - no hint
-
-पछन - back - no hint
-
-पछन - back - no hint
-
-पजयनय - legion - no hint
-
-पजनय - dear - no hint
-
-परत - back - no hint
-
-परत - back - no hint
-
-परवरद - lover - no hint
-
-परवरध - protection - no hint
-
-परवरदध - adversity - no hint
-
-पचद - fifty five - no hint
-
-पचद - fifty five - no hint
-
-पध - position - no hint
-
-पध - position - no hint
-
-परकतक - fallow - no hint
-
-परकतक - fallow - no hint
-
-परकरत - perkart - no hint
-
-परकत - perk - no hint
-
-परतकष - proof - no hint
-
-परतकष - proof - no hint
-
-परतनध - change - no hint
-
-परतनध - change - no hint
-
-परदरशन - conflation - no hint
-
-परदरशन - conflation - no hint
-
-परदस - pardas - no hint
-
-परदश - purdah - no hint
-
-परमणक - paramanak - no hint
-
-परमणक - paramanak - no hint
-
-परमतम - the ultimate - no hint
-
-परमतम - the ultimate - no hint
-
-पररदशन - reflection - no hint
-
-परदरशन - conflation - no hint
-
-परवन - parvan - no hint
-
-परवण - parvan - no hint
-
-परवषठ - altar - no hint
-
-परवषट - abyss - no hint
-
-परससकरत - philanthropy - no hint
-
-परससकत - philanthropy - no hint
-
-परचनतम - last - no hint
-
-परचनतम - last - no hint
-
-परन - paran - no hint
-
-परण - paran - no hint
-
-परढ - frog - no hint
-
-परढ - frog - no hint
-
-फस - fuss - no hint
-
-फस - fuss - no hint
-
-फट - burst - no hint
-
-फट - burst - no hint
-
-फहरशत - listed - no hint
-
-फहरसत - index - no hint
-
-बगल - next - no hint
-
-बगल - next - no hint
-
-भष - fiendish - no hint
-
-बदरबट - badarbut - no hint
-
-बदरबट - badarbut - no hint
-
-बइमन - biman - no hint
-
-बईमन - baiman - no hint
-
-बकयद - bakyad - no hint
-
-बकयद - bakyad - no hint
-
-बजए - rang - no hint
-
-बजय - buzzy - no hint
-
-बजर - buzzer - no hint
-
-बजर - buzzer - no hint
-
-बढततर - better - no hint
-
-बढतर - better - no hint
-
-बदम - badam - no hint
-
-बदम - badam - no hint
-
-बनसपत - vegetation - no hint
-
-बनसबत - against - no hint
-
-बरदशतबरदसत - rainy day - no hint
-
-बरदशत - rain - no hint
-
-बलव - rebellion - no hint
-
-बलब - balab - no hint
-
-बह - flow - no hint
-
-बह - flow - no hint
-
-बहबरह - bahbarah - no hint
-
-बहवरह - bahravah - no hint
-
-बनर - baner - no hint
-
-वनर - monkey - no hint
-
-बरत - watering - no hint
-
-बरत - watering - no hint
-
-बरश - rain - no hint
-
-बरश - rain - no hint
-
-बवत - bawat - no hint
-
-बबत - about - no hint
-
-बकरल - bakral - no hint
-
-वकरल - vakral - no hint
-
-बमर - bummer - no hint
-
-बमर - bummer - no hint
-
-बयग - pay - no hint
-
-वयग - age - no hint
-
-बलस - balas - no hint
-
-वलस - valas - no hint
-
-बसव - settle down - no hint
-
-बसव - settle down - no hint
-
-बहर - bahar - no hint
-
-वहर - wahr - no hint
-
-बब - bub - no hint
-
-बव - bava - no hint
-
-पतन - the fall - no hint
-
-बचन - child - no hint
-
-बचन - child - no hint
-
-बफजल - bufjal - no hint
-
-फजल - fazal - no hint
-
-बरमह - burmah - no hint
-
-बरहम - burm - no hint
-
-बरहमण - the blast - no hint
-
-बरहमण - the blast - no hint
-
-भडकऊ - inflame - no hint
-
-भडकऊ - inflame - no hint
-
-भगवतपरम - bhagavataparam - no hint
-
-भगवतपरम - bhagavataparam - no hint
-
-भगदर - cataclysm - no hint
-
-भगदर - cataclysm - no hint
-
-भरतय - bharataya - no hint
-
-भरतय - bharataya - no hint
-
-भरतय - bharataya - no hint
-
-भरतय - bharataya - no hint
-
-भलओ - forget - no hint
-
-भलओ - forget - no hint
-
-भषऐ - भषऐ - no hint
-
-भषए - disgusting - no hint
-
-भषकर - disgusting - no hint
-
-भसकर - bhasakan - no hint
-
-भसकर - bhasakan - no hint
-
-भसकर - bhasakan - no hint
-
-भखमर - bhakhamar - no hint
-
-भखमर - bhakhamar - no hint
-
-भड - भड - no hint
-
-भड - भड - no hint
-
-भक - bhak - no hint
-
-भक - bhak - no hint
-
-मज - maj - no hint
-
-मज - maj - no hint
-
-मतरपरषद - matar parishad - no hint
-
-मतरपरषद - matar parishad - no hint
-
-मतरचर - mother/in/law - no hint
-
-मतरचचर - mother/in/law - no hint
-
-महग - expensive - no hint
-
-महग - expensive - no hint
-
-मजबर - mazbar - no hint
-
-मजबर - mazbar - no hint
-
-मनशय - intent - no hint
-
-मनषय - intent - no hint
-
-मसतक - master - no hint
-
-मसतक - master - no hint
-
-महतव - significance - no hint
-
-महततव - importance - no hint
-
-महबल - mahabal - no hint
-
-महबल - mahabal - no hint
-
-महरथ - mehrat - no hint
-
-महरत - maharat - no hint
-
-मस - muss - no hint
-
-मस - muss - no hint
-
-मखल - makhal - no hint
-
-मखल - makhal - no hint
-
-मलन - malan - no hint
-
-मलन - malan - no hint
-
-मलम - ointment - no hint
-
-मलम - ointment - no hint
-
-मठइय - matthi - no hint
-
-मठइय - matthi - no hint
-
-मषठन - mashtan - no hint
-
-मषटनन - mashtanan - no hint
-
-मतर - matar - no hint
-
-मतर - matar - no hint
-
-मकद - maqd - no hint
-
-मकद - maqd - no hint
-
-मकदम - step - no hint
-
-मकदम - step - no hint
-
-मखलफत - makhlafat - no hint
-
-मखलफत - makhlafat - no hint
-
-मन - the mind - no hint
-
-मन - the mind - no hint
-
-मननण - contemplation - no hint
-
-मननण - contemplation - no hint
-
-मलय - malay - no hint
-
-मलय - malay - no hint
-
-मलयकन - malayakan - no hint
-
-मलयकन - malayakan - no hint
-
-महरतत - mehrat - no hint
-
-महरत - maharat - no hint
-
-मथल - muthal - no hint
-
-मथल - muthal - no hint
-
-मलव - excreta - no hint
-
-मलव - excreta - no hint
-
-यथवत - as it is - no hint
-
-यथवत - as it is - no hint
-
-यथषठ - proper - no hint
-
-यथषट - as a matter of fact - no hint
-
-यथचत - as it is - no hint
-
-यथचत - as it is - no hint
-
-यन - yan - no hint
-
-यन - yan - no hint
-
-यगरज - love - no hint
-
-यगरज - love - no hint
-
-रणबकर - ranbkar - no hint
-
-रणबकर - ranbkar - no hint
-
-रबदर - rabdar - no hint
-
-रवदर - ravadar - no hint
-
-रववर - on sunday - no hint
-
-रववर - on sunday - no hint
-
-रसयनक - rasanaka - no hint
-
-रसयनक - rasanaka - no hint
-
-रजसतन - rajasthan - no hint
-
-रजसथन - rajasthan - no hint
-
-रतर - रतर - no hint
-
-रतर - रतर - no hint
-
-रमयन - ramayan - no hint
-
-रमयण - ramayana - no hint
-
-रमयन - ramayan - no hint
-
-रमयण - ramayana - no hint
-
-रशफल - the horoscope - no hint
-
-रशफल - the horoscope - no hint
-
-रषटरय - rashtraya - no hint
-
-रषटरय - rashtraya - no hint
-
-रख - keep - no hint
-
-रख - keep - no hint
-
-रठ - the chariot - no hint
-
-रठ - the chariot - no hint
-
-रपय - rhyme - no hint
-
-रपए - rape - no hint
-
-रपय - rhyme - no hint
-
-रपहल - raphael - no hint
-
-रपहल - raphael - no hint
-
-रण - battle - no hint
-
-रण - battle - no hint
-
-रतल - the rat - no hint
-
-रतल - the rat - no hint
-
-रसतर - juice - no hint
-
-रसतर - juice - no hint
-
-लकषदप - woodcut - no hint
-
-लकषदवप - luck - no hint
-
-लडय - battle - no hint
-
-लडई - fight - no hint
-
-लबधपरतषठत - लबधपरतषठत - no hint
-
-लबधपरतषठ - लबधपरतषठ - no hint
-
-लहलहन - bouncy - no hint
-
-लहलहन - bouncy - no hint
-
-लख - lakh - no hint
-
-लख - lakh - no hint
-
-लप - lap - no hint
-
-लप - lap - no hint
-
-लवर - lover - no hint
-
-लवर - lover - no hint
-
-लकन - but - no hint
-
-लकन - but - no hint
-
-लश - lash - no hint
-
-लस - gluten - no hint
-
-लगसभ - almost all - no hint
-
-लकसभ - luck - no hint
-
-वध - kill - no hint
-
-वध - kill - no hint
-
-वरश - boar - no hint
-
-वरष - year - no hint
-
-वरषट - year - no hint
-
-वरषठ - year - no hint
-
-वरण - selection - no hint
-
-वरण - selection - no hint
-
-वरश - boar - no hint
-
-वरष - year - no hint
-
-वरषगठ - anniversary - no hint
-
-वरषगठ - anniversary - no hint
-
-वसतओ - vastao - no hint
-
-वसतओ - vastao - no hint
-
-वपस - back - no hint
-
-वपस - back - no hint
-
-वलमक - antiperspirant - no hint
-
-वलमक - antiperspirant - no hint
-
-वएतनम - vaitanam - no hint
-
-वयतनम - vayatanam - no hint
-
-वजई - weighing - no hint
-
-वजय - wajay - no hint
-
-वजञनक - weighing - no hint
-
-वजञनक - weighing - no hint
-
-वपतत - वपतत - no hint
-
-वपतत - वपतत - no hint
-
-वरकश - workshop - no hint
-
-वकष - वक्ष - no hint
-
-वरहण - varhan - no hint
-
-वरहण - varhan - no hint
-
-वरजमन - varjaman - no hint
-
-वरजमन - varjaman - no hint
-
-वशय - dress - no hint
-
-वषय - the subject - no hint
-
-वषश - year - no hint
-
-वशष - year - no hint
-
-वसवस - vasavas - no hint
-
-वशवस - trust me - no hint
-
-वजय - wajay - no hint
-
-वजय - wajay - no hint
-
-वज - weight - no hint
-
-वरज - varaj - no hint
-
-वशयगमन - intercourse - no hint
-
-वशयगमन - intercourse - no hint
-
-वषभष - year - no hint
-
-वशभष - the year - no hint
-
-वयकरण - grammar - no hint
-
-वयकरण - grammar - no hint
-
-वयकत - age - no hint
-
-वयकत - age - no hint
-
-वयवसयक - commercial - no hint
-
-वयवसयक - commercial - no hint
-
-शभ - body - no hint
-
-शभ - body - no hint
-
-शकत - can&#39;t - no hint
-
-शकत - can&#39;t - no hint
-
-शमशन - shamishan - no hint
-
-शमशन - shamishan - no hint
-
-शशकत - power - no hint
-
-शशकत - power - no hint
-
-शतमय - woeful - no hint
-
-शतमय - woeful - no hint
-
-शत - century - no hint
-
-शत - century - no hint
-
-शररक - shark - no hint
-
-शररक - shark - no hint
-
-शखर - shakhar - no hint
-
-शखर - shakhar - no hint
-
-शवर - shower - no hint
-
-शवर - shower - no hint
-
-शश - sash - no hint
-
-शश - sash - no hint
-
-शषरक - cephalic - no hint
-
-शरषक - sharas - no hint
-
-शघरत - shagharat - no hint
-
-शघरत - shagharat - no hint
-
-शरवद - sharavad - no hint
-
-आशरवद - asharvad - no hint
-
-शनय - shanay - no hint
-
-शनय - shanay - no hint
-
-शरआत - sharia - no hint
-
-शरआत - sharia - no hint
-
-शय - bed - no hint
-
-शयय - bed - no hint
-
-शरमत - shame - no hint
-
-शरमत - shame - no hint
-
-शरगर - shargar - no hint
-
-शरगर - shargar - no hint
-
-षडयतर - conspiracy - no hint
-
-षडयतर - conspiracy - no hint
-
-षषठ - best - no hint
-
-षषट - seven - no hint
-
-षषठपरत - seventy seven - no hint
-
-षषटपरत - seven hundred - no hint
-
-सकय - can - no hint
-
-सखय - strict - no hint
-
-सगरहत - with respect - no hint
-
-सगरहत - with respect - no hint
-
-सतरश - satrash - no hint
-
-सतरश - satrash - no hint
-
-सदस - member - no hint
-
-सदश - sad - no hint
-
-सपतत - seven - no hint
-
-सपतत - seven - no hint
-
-समन - summons - no hint
-
-सममन - saman - no hint
-
-सवरदन - all day - no hint
-
-सवरधन - savardhan - no hint
-
-सवरदधन - savardhan - no hint
-
-ससरक - sasarak - no hint
-
-ससरक - sasarak - no hint
-
-सदशय - member - no hint
-
-सदश - sad - no hint
-
-सननयस - sunnys - no hint
-
-सननयस - sunnys - no hint
-
-सनयस - sunrise - no hint
-
-सनयस - sunrise - no hint
-
-सनसर - sunser - no hint
-
-ससर - ssar - no hint
-
-सपदक - spices - no hint
-
-सपदक - spices - no hint
-
-सपतहक - week - no hint
-
-सपतहक - week - no hint
-
-समध - samadh - no hint
-
-समध - samadh - no hint
-
-समन - summons - no hint
-
-समन - summons - no hint
-
-समनलग - simultaneous - no hint
-
-समलग - companion - no hint
-
-सममनत - committee - no hint
-
-सममनत - committee - no hint
-
-समवद - samvad - no hint
-
-सवद - savvad - no hint
-
-सरवनम - saravanam - no hint
-
-सरवनम - saravanam - no hint
-
-सरर - sarer - no hint
-
-शरर - body - no hint
-
-सरतक - sartak - no hint
-
-सतरक - satrak - no hint
-
-सशकतकरण - empowerment - no hint
-
-सशकतकरण - empowerment - no hint
-
-सईबर - cyber - no hint
-
-सइबर - cyber - no hint
-
-सतयक - truthful - no hint
-
-सहतयक - co/worker - no hint
-
-सध - union - no hint
-
-सध - union - no hint
-
-सम - even - no hint
-
-शम - sham - no hint
-
-समरथ - samrath - no hint
-
-समरथय - support - no hint
-
-सयकल - bicycle - no hint
-
-सइकल - saikal - no hint
-
-सशक - strong - no hint
-
-शसक - sasak - no hint
-
-सहवहन - convection - no hint
-
-सहवहन - convection - no hint
-
-सकई - sakai - no hint
-
-सकई - sakai - no hint
-
-समत - samat - no hint
-
-समत - samat - no hint
-
-ससय - rabbit - no hint
-
-शषय - thesis - no hint
-
-सरज - saraj - no hint
-
-सरज - saraj - no hint
-
-सचर - true - no hint
-
-सचर - true - no hint
-
-सनन - sanan - no hint
-
-सनन - sanan - no hint
-
-सबदर - subadar - no hint
-
-सबदर - subadar - no hint
-
-समर - war - no hint
-
-समर - war - no hint
-
-सरज - saraj - no hint
-
-सरज - saraj - no hint
-
-सरय - head - no hint
-
-सरय - head - no hint
-
-सच - truth - no hint
-
-सच - truth - no hint
-
-सचबदध - truthful - no hint
-
-सचबदध - truthful - no hint
-
-सनसन - sunson - no hint
-
-सनसन - sunson - no hint
-
-सनम - beloved - no hint
-
-सनम - beloved - no hint
-
-सवनवतत - सवनवतत - no hint
-
-सवनवतत - सवनवतत - no hint
-
-सचग - the truth - no hint
-
-सचग - the truth - no hint
-
-सदरयत - sadrayat - no hint
-
-सदरय - kindly - no hint
-
-सकल - gross - no hint
-
-सकल - gross - no hint
-
-सतबधत - true - no hint
-
-सतबधत - true - no hint
-
-सथई - sathai - no hint
-
-सथय - satya - no hint
-
-सथत - status - no hint
-
-सथत - status - no hint
-
-समरन - samran - no hint
-
-समरण - commemoration - no hint
-
-सवछ - clean - no hint
-
-सवचछ - clean - no hint
-
-सवपनदषट - dreamy - no hint
-
-सवपनदरषट - dream - no hint
-
-सवलबन - savalban - no hint
-
-सववलबन - savvalban - no hint
-
-सवलब - swalab - no hint
-
-सववलब - subvalb - no hint
-
-सवसथ - healthy - no hint
-
-सवसथय - health - no hint
-
-सवसथय - health - no hint
-
-सवसथय - health - no hint
-
-हमर - hummer - no hint
-
-पर - on - no hint
-
-हम - we - no hint
-
-पर - on - no hint
-
-हरईन - harain - no hint
-
-हरइन - every - no hint
-
-हसर - hasar - no hint
-
-हशर - hashar - no hint
-
-हशर - hashar - no hint
-
-हऊस - house - no hint
-
-हउस - haus - no hint
-
-हथ - hath - no hint
-
-हथ - hath - no hint
-
-हथन - hthan - no hint
-
-हथन - hthan - no hint
-
-हद - to the extent - no hint
-
-हद - to the extent - no hint
-
-हदओ - hadao - no hint
-
-हदओ - hadao - no hint
-
-हनस - hanas - no hint
-
-हस - laugh - no hint
-
-हमचल - fellow - no hint
-
-हमचल - fellow - no hint
-
-हदय - haday - no hint
-
-हदय - haday - no hint
-
-हत - hat - no hint
-
-हत - hat - no hint
-
+almak - take - no hint
+kadın cumartesi günü çalışmak zorunda - the woman has to work on Saturday - no hint
+her duyduğunu tekrar etmek iyi bir şey değildir - it's not a good thing to repeat everything you hear - no hint
+her zaman saat beşte yemek yapar - he always makes dinner at 5 p.m. - no hint
+almak - take - no hint
+kullanmak - use - no hint
+söylemek - say - no hint
+her duyduğunu tekrar etmek - repeating everything you hear - no hint
+her duyduğunu tekrar etmek - repeating everything you hear - no hint
+her duyduğunu tekrar etmek iyi bir şey değildir - it's not a good thing to repeat everything you hear - no hint
+hoşlanmak - like - no hint
+görünmek - seem - no hint
+sıcak görünüyor - looks hot - no hint
+bugün dışarısı sıcak görünüyor - it looks hot outside today - no hint
+yapmak - do - no hint
+yemek yapar - makes food - no hint
+kitabı al - take the book - no hint
+kitabı al - take the book - no hint
+kullanmak - use - no hint
+bilgisayarı kullanma - don't use the computer - no hint
+o bilgisayarı kullanma - don't use that computer - no hint
+çalışmak - work - no hint
+çalışmak - work - no hint
+görmek - see - no hint
+görmek - see - no hint
+yakından göreyim - let me see up close - no hint
+sevdiğimi son bir kez yakından göreyim - let me see my beloved up close for the last time - no hint
+sevdiğimi son bir kez yakından göreyim - let me see my beloved up close for the last time - no hint
+hiç anlayamıyorum - cannot understand at all - no hint
+hiç anlayamıyorum - cannot understand at all - no hint
+mutfakta yiyoruz - are eating in the kitchen - no hint
+araba sahibi değilsin - you don&#39;t own a car - no hint
+hoşlanmak - like - no hint
+bugün dışarısı sıcak görünüyor - it looks hot outside today - no hint
+onu sever - loves - no hint
+yemek yapar - makes food - no hint
+her zaman saat beşte yemek yapar - he always makes dinner at 5 p.m. - no hint
+raftaki kitabı al - take the book from the Shelf - no hint
+bilgisayarı kullanma - don't use the computer - no hint
+kahvaltı istiyorlar - they want breakfast - no hint
+kahvaltı istiyorlar - they want breakfast - no hint
+kahvaltı istiyorlar - they want breakfast - no hint
+kadın cumartesi günü çalışmak zorunda - the woman has to work on Saturday - no hint
+söylemek - say - no hint
+söylemek istediğin bir şey - something I want to say - no hint
+söylemek istediğin bir şey - something I want to say - no hint
+yakından göreyim - let me see up close - no hint
+anlamak - understand - no hint
+anlamak - understand - no hint
+bakmak ve görmek farklı şeylerdir - looking and seeing are different things - no hint
+mavi değil - not blue - no hint
+mavi değil - not blue - no hint
+mutfakta yiyoruz - are eating in the kitchen - no hint
+satın aldım - i bought - no hint
+satın aldım - i bought - no hint
+araba sahibi değilsin - you don&#39;t own a car - no hint
+görünmek - seem - no hint
+sevmek - love - no hint
+onu sever - loves - no hint
+raftaki kitabı al - take the book from the Shelf - no hint
+o bilgisayarı kullanma - don't use that computer - no hint
+kahvaltı istiyorlar - they want breakfast - no hint
+cumartesi günü çalışmak - working on Saturday - no hint
+sana söylemek istediğim bir şey var - there's something I want to say to you - no hint
+sana söylemek istediğim bir şey var - there's something I want to say to you - no hint
+bazen ilaç almak tehlikelidir - taking medicine is dangerous sometimes - no hint
+bazen ilaç almak tehlikelidir - taking medicine is dangerous sometimes - no hint
+bakmak ve görmek - looking and seeing - no hint
+bakmak ve görmek farklı şeylerdir - looking and seeing are different things - no hint
+daha iyi olur - it's better - no hint
+değil - not - no hint
+değil - not - no hint
+müşteri ofise geliyor - the client is coming to the office - no hint
+müşteri ofise geliyor - the client is coming to the office - no hint
+kahve içerim - drink coffee - no hint
+veriyorsun - are giving - no hint
+veriyorsun - are giving - no hint
+dükkana gidiyor - she is going to the store - no hint
+iyi bir araba sahibi değilsin - you don't have a nice car - no hint
+bilmek - know - no hint
+bilmek - know - no hint
+bilmiyorum - do not know - no hint
+onları bilmiyorum - I don't know them - no hint
+tenisten hoşlanır - likes tennis - no hint
+sıcak görünüyor - looks hot - no hint
+sevmek - love - no hint
+cumartesi günü çalışmak - working on Saturday - no hint
+saçları ipek gibi - her hair is like Silk - no hint
+ilaç almak - taking medicine - no hint
+spor yapsan daha iyi olur - it's better if you do Sports - no hint
+spor yapsan daha iyi olur - it's better if you do Sports - no hint
+kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint
+ofise geliyor - is coming to the office - no hint
+ofise geliyor - is coming to the office - no hint
+kahve içerim - drink coffee - no hint
+vermek - give - no hint
+bunu bana mı veriyorsun - are you giving this to me - no hint
+sahip olmak - own - no hint
+iyi bir araba sahibi değilsin - you don't have a nice car - no hint
+tenisten hoşlanır mısın - do you like tennis - no hint
+bazen seni hiç anlayamıyorum - sometimes i can&#39;t understand you at all - no hint
+ipek gibi - like Silk - no hint
+ilaç almak - taking medicine - no hint
+gerçekten var - really exist - no hint
+hayaletler gerçekten var - ghosts really exist - no hint
+istemek - want - no hint
+her şey sadece istemekle olmaz - everything can not be just wanted - no hint
+her şey sadece istemekle olmaz - everything can not be just wanted - no hint
+gece dışarı çıkmak - go out at night - no hint
+olmak - become - no hint
+kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint
+her sabah kahve içerim - I drink coffee every morning - no hint
+satın almak - buy - no hint
+vermek - give - no hint
+bunu bana mı veriyorsun - are you giving this to me - no hint
+dükkana gidiyor - she is going to the store - no hint
+dükkana gidiyor - she is going to the store - no hint
+dükkana gidiyor - she is going to the store - no hint
+sahip olmak - own - no hint
+bilmiyorum - do not know - no hint
+tenisten hoşlanır - likes tennis - no hint
+herkes onu sever - everyone loves her - no hint
+bazen seni hiç anlayamıyorum - sometimes i can&#39;t understand you at all - no hint
+dener şeyler - things said - no hint
+dener şeyler - things said - no hint
+gibi - like - no hint
+saçları ipek gibi - her hair is like Silk - no hint
+almak - take - no hint
+para vermek - giving money - no hint
+sorun para vermek değil - giving money isn't the problem - no hint
+istemek - want - no hint
+sadece istemek - just want - no hint
+çıkmak - go out - no hint
+çıkmak - go out - no hint
+gece dışarı çıkmak - go out at night - no hint
+bakmak ve görmek - looking and seeing - no hint
+daha iyi olur - it's better - no hint
+her sabah kahve içerim - I drink coffee every morning - no hint
+yemek - eat - no hint
+akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
+satın almak - buy - no hint
+üç bilet satın aldım - I got three tickets - no hint
+onları bilmiyorum - I don't know them - no hint
+herkes onu sever - everyone loves her - no hint
+demek - to say - no hint
+dün dener şeyler bugün unutulur - trying yesterday, things are forgotten today - no hint
+ipek gibi - like Silk - no hint
+almak - take - no hint
+para vermek - giving money - no hint
+sorun para vermek değil - giving money isn't the problem - no hint
+gerçekten var - really exist - no hint
+hayaletler gerçekten var - ghosts really exist - no hint
+sadece istemek - just want - no hint
+gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint
+görmek - see - no hint
+akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
+üç bilet satın aldım - I got three tickets - no hint
+dün dener şeyler bugün unutulur - trying yesterday, things are forgotten today - no hint
+gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint
+görmek - see - no hint
+olmak - become - no hint
+yemek - eat - no hint
+her kış kayak yapmaya giderler - they go skiing every winter - no hint
+ben sadece fakir bir adamım - i&#39;m just a poor man - no hint
+yarın yapılacak çok şey yok - there aren't many things to be done tomorrow - no hint
+yarın yapılacak çok şey yok - there aren't many things to be done tomorrow - no hint
+binlerce yıldır insan evrimi devam eder - human evolution continues on for thousands of years - no hint
+binlerce yıldır insan evrimi devam eder - human evolution continues on for thousands of years - no hint
+biz kaçarken siz neredeydiniz - where were you when we were running away. - no hint
+biz kaçarken siz neredeydiniz - where were you when we were running away. - no hint
+ben sadece fakir bir adamım - i&#39;m just a poor man - no hint
+biz kaçarken - while we were running - no hint
+sen - you - no hint
+bu ev daha güzel - this house is more beautiful - no hint
+daha güzel - more beautiful - no hint
+en - most - no hint
+sen - you - no hint
+ben sadece - i just - no hint
+biz - we - no hint
+daha güzel - more beautiful - no hint
+benimle dans etmek - to dance with me - no hint
+en - most - no hint
+bu kazak küçük boy - the sweater is small size - no hint
+yarın gelmesi mümkün - it is possible to come tomorrow - no hint
+kedi yatağın altında - the cat is under the bed - no hint
+ile - with - no hint
+benimle dans etmek ister misin - would you like to dance with me - no hint
+kadar - until - no hint
+daha - more - no hint
+küçük boy - small size - no hint
+lütfen öğleden önce gel - please come before noon - no hint
+üstü - on - no hint
+masanın üstünde - on the table - no hint
+kadar - until - no hint
+küçük boy - small size - no hint
+sen gelmesende - if you don't come - no hint
+onu anlayan  kim anlar - who understands it - no hint
+yakınında - by - no hint
+okyanusun yakınında - by the ocean - no hint
+anne ve baban için - for your mother and father - no hint
+belirgin kılıyordu - making him stand out - no hint
+ekmek masanın üstünde - the bread is on the table - no hint
+yatağın altında - under the bed - no hint
+benim evim ırmağa yakın - my house is near the river - no hint
+benimle dans etmek - to dance with me - no hint
+sen gelmesende - if you don't come - no hint
+bu kazak küçük boy - the sweater is small size - no hint
+onu anlayan sadece sensin - you're the only one who understands it - no hint
+onu anlayan sadece sensin - you're the only one who understands it - no hint
+ben sadece - i just - no hint
+masanın üstünde - on the table - no hint
+yatağın altında - under the bed - no hint
+kedi yatağın altında - the cat is under the bed - no hint
+onlar gittiyse bende gideyim - if they are gone I should go as well - no hint
+bu - this - no hint
+bunu ödemeden gidemeyiz - we can't go without paying this - no hint
+bunu ödemeden gidemeyiz - we can't go without paying this - no hint
+onlar geri gelmezse - if they don't return - no hint
+onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
+en utandırıcı - most embarrassing - no hint
+dükkan saat altıdan sonra kapanır - the store is closed after 6 - no hint
+ben olmasam daha mutlu olursun - if i am not there, you will be happier - no hint
+yakınında - by - no hint
+öyle eyledi - <br>commanded so - no hint
+içine - into - no hint
+bunlar - these - no hint
+bunların kutusu - their box - no hint
+saçı onu belirgin kılıyordu - his hair was making him stand out - no hint
+altı - under - no hint
+ile - with - no hint
+iyi oynuyor - is playing well - no hint
+onlar geri gelmezse - if they don't return - no hint
+biz - we - no hint
+en utandırıcı - most embarrassing - no hint
+onu yere düşürmek - dropping it on the ground - no hint
+okyanusun yakınında - by the ocean - no hint
+ona yalan söylemek - lying to her - no hint
+anne ve baban için - for your mother and father - no hint
+padişah öyle eyledi - the sultan has commanded so - no hint
+kız kardeşim evin içinde - my sister is in the house - no hint
+içine - into - no hint
+bunların kutusu kırmızı - their box is red - no hint
+ekmek masanın üstünde - the bread is on the table - no hint
+onlar gittiyse - if they're gone - no hint
+benim evim ırmağa yakın - my house is near the river - no hint
+bu gece çok karanlık - it's very dark tonight - no hint
+iyi - good - no hint
+kendi - self - no hint
+akşam yemeğinden sonra - after dinner - no hint
+takım iyi oynuyor - the team is playing well - no hint
+takım iyi oynuyor - the team is playing well - no hint
+şimdi ayrılıyoruz - we are leaving now - no hint
+biz şimdi ayrılıyoruz - we are leaving now - no hint
+en utandırıcı anı bir sırdır - his most embarrassing memory is a secret - no hint
+belki yağmur yağar - maybe it will rain - no hint
+koyun etini mundar etmeden hazırlayın - prepare the mutton without rendering it useless - no hint
+bu hediye anne ve baba niçin - this present is for your parents - no hint
+yukarı - up - no hint
+yukarı çıkıyor - is going up - no hint
+bunların kutusu - their box - no hint
+onlar gittiyse - if they're gone - no hint
+onlar gittiyse bende gideyim - if they are gone I should go as well - no hint
+elmalı pie krema ile servis edilir - apple pie served with cream - no hint
+akşam yemeğinden sonra kahve içer - drink coffee after dinner - no hint
+akşam yemeğinden sonra kahve içer - drink coffee after dinner - no hint
+sabaha kadar - until morning - no hint
+şimdi ayrılıyoruz - we are leaving now - no hint
+sabaha kadar vaktim var - I have time until morning - no hint
+onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
+daha - more - no hint
+saat altıdan sonra - after six - no hint
+buraya ne zaman geleceksin - when will you come here - no hint
+ben olmasam - if I don't exist - no hint
+ben olmasam daha mutlu olursun - if i am not there, you will be happier - no hint
+çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
+en - most - no hint
+en güzel - most beautiful - no hint
+evimiz okyanusun yakınında - our home is by the ocean - no hint
+evin içinde - in the house - no hint
+oraya - there - no hint
+evin içine - into the house - no hint
+şimdi oraya gideceğim - I'll go there now - no hint
+için - for - no hint
+asansör yukarı çıkıyor - the elevator is going up - no hint
+çok - many - no hint
+çok karanlık - very dark - no hint
+bu - this - no hint
+iyi oynuyor - is playing well - no hint
+sabaha kadar - until morning - no hint
+sonra - after - no hint
+saat altıdan sonra - after six - no hint
+buraya ne zaman geleceksin - when will you come here - no hint
+ben - I - no hint
+belki yağmur - maybe rain - no hint
+ha unutmadan şunu al - oh before I forget take this - no hint
+eğer - if - no hint
+eğer gidersen - if you go - no hint
+onu yere düşürmek - dropping it on the ground - no hint
+ona yalan söylemek - lying to her - no hint
+şunu açıklamadan hiçbir yere gidemez - he can't go anywhere without explaining that - no hint
+kız kardeşim evin içinde - my sister is in the house - no hint
+oraya - there - no hint
+öğrencinin görevi ödevi yapmak - a student's duty is to do homework - no hint
+üstü - on - no hint
+yukarı çıkıyor - is going up - no hint
+çocuklarım için her şeyi yaparım - I'll do everything for my children - no hint
+bunların kutusu kırmızı - their box is red - no hint
+krema ile - with cream - no hint
+bu gece çok karanlık - it's very dark tonight - no hint
+akşam yemeğinden sonra - after dinner - no hint
+biz şimdi ayrılıyoruz - we are leaving now - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+ben - I - no hint
+ama pasta sevmem - but I don't like cake - no hint
+belki yağmur - maybe rain - no hint
+belki yağmur yağar - maybe it will rain - no hint
+randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
+en - most - no hint
+hm şimdi - hm now - no hint
+evimiz okyanusun yakınında - our home is by the ocean - no hint
+bu hediye anne ve baba niçin - this present is for your parents - no hint
+ona yalan söylemek en kötüsü - lying to her is the worst - no hint
+şu - that - no hint
+geceleyin gerçekten soğuk - it's really cold at night - no hint
+köpek evin içinde koşuyor - the dog is running into the house - no hint
+çocuklarım için - for my children - no hint
+krema ile - with cream - no hint
+elmalı pie krema ile servis edilir - apple pie served with cream - no hint
+iyi - good - no hint
+sabaha kadar vaktim var - I have time until morning - no hint
+kendin hakkında bahset - tell me about yourself - no hint
+buraya ne zaman - when here - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+gözlük takıyorum çünkü gözlerim bozuk - i wear glasses because my eyes are damaged - no hint
+belki - Maybe - no hint
+ha unutmadan - oh before I forget - no hint
+ama pasta sevmem - but I don't like cake - no hint
+çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
+eğer - if - no hint
+nerede olursa olsun - no matter where he is - no hint
+en güzel - most beautiful - no hint
+onu yere düşürmek kolay - dropping it on the ground is easy - no hint
+evin içinde - in the house - no hint
+şunu açıklamadan - without explaining that - no hint
+sık sık balık avlamaya çıkarım - I often go fishing - no hint
+gerçekten - really - no hint
+şimdi oraya - now there - no hint
+abim ve ablam doktordur - my brother and sisters are doctors - no hint
+asansör yukarı çıkıyor - the elevator is going up - no hint
+sonra - after - no hint
+buraya - hear - no hint
+buraya ne zaman - when here - no hint
+gözlük takıyorum çünkü gözlerim bozuk - i wear glasses because my eyes are damaged - no hint
+tabii olur onu yiyebilirsiniz - of course you can eat that - no hint
+belki - Maybe - no hint
+ha unutmadan - oh before I forget - no hint
+ha unutmadan şunu al - oh before I forget take this - no hint
+kırmızı veya beyaz - red or white - no hint
+hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
+şunu açıklamadan hiçbir yere gidemez - he can't go anywhere without explaining that - no hint
+ya - really.. - no hint
+evin içine - into the house - no hint
+çok çalıştım ya - I really studied too much - no hint
+bunlar - these - no hint
+çocuklarım için her şeyi yaparım - I'll do everything for my children - no hint
+tabii olur onu yiyebilirsiniz - of course you can eat that - no hint
+ha - oh - no hint
+randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
+hm şimdi - hm now - no hint
+onu yere düşürmek kolay - dropping it on the ground is easy - no hint
+o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
+o - he - no hint
+o - he - no hint
+ona yalan söylemek en kötüsü - lying to her is the worst - no hint
+bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
+zaman - time - no hint
+şu - that - no hint
+sık sık balık avlamaya - Austin fishing - no hint
+ya - really.. - no hint
+gerçekten soğuk - really cold - no hint
+onun neden kaçtığını sordum - I asked why she ran away - no hint
+şimdi oraya gideceğim - I'll go there now - no hint
+onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
+acımasız olmak bir tercihtir - to be cruel is a choice - no hint
+çünkü gözlerim bozuk - because my eyes are broken - no hint
+sadece bir gece - just one night - no hint
+ha - oh - no hint
+ne zaman - what time - no hint
+nerede olursa olsun - no matter where he is - no hint
+eğer gidersen ben de giderim - if you go I'll go - no hint
+ne çok yedin be - you ate so much - no hint
+şunu açıklamadan - without explaining that - no hint
+güneşli olduğu zaman - when it&#39;s sunny - no hint
+bunu kimden duydun - who did you hear this from - no hint
+sık sık balık avlamaya çıkarım - I often go fishing - no hint
+abim ve ablam - my older brother and sister - no hint
+yukarı - up - no hint
+kendin hakkında bahset - tell me about yourself - no hint
+buraya - hear - no hint
+çünkü - because - no hint
+tabii olur - of course - no hint
+çünkü gözlerim bozuk - because my eyes are broken - no hint
+ne zaman - what time - no hint
+o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
+hm şimdi nereye gitsek - hm where should we go now - no hint
+değil - not - no hint
+değil - not - no hint
+hangi kitabı okudun - which book did you read - no hint
+öf gene - uh again - no hint
+hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
+şimdi oraya - now there - no hint
+çalıştım ya - I really studied - no hint
+geceleyin gerçekten soğuk - it's really cold at night - no hint
+için - for - no hint
+kendin hakkında - about yourself - no hint
+öğretmen bile geç kaldı - even the teacher is late - no hint
+nedir - what is - no hint
+eğer gidersen ben de giderim - if you go I'll go - no hint
+veya - or - no hint
+veya - or - no hint
+zaman - time - no hint
+sık sık balık avlamaya - Austin fishing - no hint
+kimden - from whom - no hint
+uf gene kaçtı - it escaped again - no hint
+neden kaçtığını - why he ran away - no hint
+abim ve ablam doktordur - my brother and sisters are doctors - no hint
+hakkında - about - no hint
+nedir - what is - no hint
+be - much - no hint
+be - much - no hint
+ne çok yedin be - you ate so much - no hint
+öf - uh
+ - no hint
+güneşli olduğu zaman - when it&#39;s sunny - no hint
+bunu kimden duydun - who did you hear this from - no hint
+gerçekten soğuk - really cold - no hint
+çok çalıştım ya - I really studied too much - no hint
+eh aslında ben bunu pek iyi bilmiyorum - uh actually I don't know this very well - no hint
+onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
+çünkü - because - no hint
+nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
+hangi kitabı okudun - which book did you read - no hint
+abim ve ablam - my older brother and sister - no hint
+onun neden kaçtığını sordum - I asked why she ran away - no hint
+onun yiyeceği yemek - the food he is going to eat - no hint
+oraya nasıl gidilir - how did you get there - no hint
+kimden - from whom - no hint
+çalıştım ya - I really studied - no hint
+öğretmen bile geç kaldı - even the teacher is late - no hint
+neden kaçtığını - why he ran away - no hint
+ile - with - no hint
+hakkında - about - no hint
+kendin hakkında - about yourself - no hint
+eh aslında ben bunu pek iyi bilmiyorum - uh actually I don't know this very well - no hint
+oraya nasıl gidilir - how did you get there - no hint
+eh - um - no hint
+onun yiyeceği yemek - the food he is going to eat - no hint
+ile - with - no hint
+eh - um - no hint
+eh aslında - well actually - no hint
+bu ev daha güzel - this house is more beautiful - no hint
+kendine hakim olmak zor - self/control is hard - no hint
+gitmam olası - I may go - no hint
+o yöne - that way - no hint
+sen gelmesende olur - okay if you don&#39;t come - no hint
+mundar etmeden - without rendering it useless - no hint
+dün sabah geldik - we came yesterday morning - no hint
+bugün de güneşli olacak - today will be sunny as well - no hint
+eh aslında - well actually - no hint
+duymak - to hear - no hint
+istemek - want - no hint
+demek - to say - no hint
+vermek - give - no hint
+içmek - drink - no hint
+içmek - drink - no hint
+çok şey - many things - no hint
+bizim adetlerimiz sıradışı - our traditions are extraordinary - no hint
+onların - their - no hint
+bu - this - no hint
+bu - this - no hint
+biz kaçarken - while we were running - no hint
+senin - your - no hint
+bu hediye - this present - no hint
+kılmak - make - no hint
+bunu ödemeden - without paying this - no hint
+insan - human - no hint
+onun çantası - his bag - no hint
+lütfen öğleden önce gel - please come before noon - no hint
+çocuklar hemen arkadaş olur - kids become friends quickly - no hint
+kötü haber - bad news - no hint
+o - he - no hint
+kötü haber - bad news - no hint
+ne zaman - what time - no hint
+arkadaş olur - become friends - no hint
+onun telefonu yeni - his phone is new - no hint
+olası - may, possible - no hint
+büyük koltuk - big sofa - no hint
+o iyi bir arkadaş - she's a good friend - no hint
+onlar - they - no hint
+gün - day - no hint
+büyük koltuk nerede - where's the big sofa - no hint
+ne zaman döner - what time does he return - no hint
+o yöne gitti - he went that way - no hint
+o iyi bir arkadaş - she's a good friend - no hint
+onun - her - no hint
+ilk - first - no hint
+gün - day - no hint
+sadece bir gece - just one night - no hint
+uf gene kaçtı - it escaped again - no hint
+neden - why - no hint
+neden - why - no hint
+kim - whom - no hint
+nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
+hm şimdi nereye gitsek - hm where should we go now - no hint
+tüm dükkanlar - all shops - no hint
+hangi - which - no hint
+hangi - which - no hint
+olmak - become - no hint
+bu ve şu - this and that - no hint
+duymak - to hear - no hint
+var - exist - no hint
+var - exist - no hint
+her kış kayak yapmaya giderler - they go skiing every winter - no hint
+insan evrimi - human evolution - no hint
+bizim adetlerimiz - our traditions - no hint
+yer - ground - no hint
+onların - their - no hint
+bu hediye - this present - no hint
+hiçbir - no - no hint
+yer - ground - no hint
+senin adın - your name - no hint
+onlar - they - no hint
+senin - your - no hint
+sen gelmesende olur - okay if you don&#39;t come - no hint
+yarına yemek yapacağım - I'll cook dinner for tomorrow - no hint
+onların kızı çok şeker - their daughter is so adorable - no hint
+dün - yesterday - no hint
+hiçbir kitap - no book - no hint
+hiçbir kitap çöpe atılmamalı - no book should be thrown away - no hint
+en utandırıcı anı bir sırdır - his most embarrassing memory is a secret - no hint
+hiçbir kitap - no book - no hint
+benim ilk günüm - my first day - no hint
+benim - my - no hint
+yarına yemek yapacağım - I'll cook dinner for tomorrow - no hint
+yeni bir saat - a new watch - no hint
+önce - before - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+zaman - time - no hint
+onun çantası - his bag - no hint
+herhangi bir kız olabilir - she could be any girl - no hint
+bu kötü haber - this is bad news - no hint
+içi - in - no hint
+gelecek yıl geri geliyorum - I'm coming back next year - no hint
+bugün - today - no hint
+benim - my - no hint
+herhangi bir kız olabilir - she could be any girl - no hint
+o - he - no hint
+çocuklarım için - for my children - no hint
+koyun etini mundar etmeden hazırlayın - prepare the mutton without rendering it useless - no hint
+ne zaman döner - what time does he return - no hint
+kırmızı veya beyaz - red or white - no hint
+padişah öyle eyledi - the sultan has commanded so - no hint
+burada benim ilk günüm - it's my first day here - no hint
+ile - with - no hint
+çok karanlık - very dark - no hint
+acımasız olmak bir tercihtir - to be cruel is a choice - no hint
+hm - hm - no hint
+için - for - no hint
+arkadaş olur - become friends - no hint
+gelecek yıl geri geliyorum - I'm coming back next year - no hint
+dün - yesterday - no hint
+herhangi bir kız - any girl - no hint
+yön - way - no hint
+hangi kitabı - which book - no hint
+sonra - after - no hint
+ama - but - no hint
+hm - hm - no hint
+eğer gidersen - if you go - no hint
+büyük koltuk nerede - where's the big sofa - no hint
+bu benim değil - this is not mine - no hint
+sık sık - often - no hint
+gelecek yıl - next year - no hint
+ve - and - no hint
+onun telefonu yeni - his phone is new - no hint
+ama - but - no hint
+ne zaman almak - when to schedule - no hint
+bu nedir - what is this - no hint
+hangi kitabı - which book - no hint
+öf - uh
+ - no hint
+tabii - sure - no hint
+bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
+senin adın - your name - no hint
+tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
+sadece - just - no hint
+kim - whom - no hint
+tüm - all - no hint
+tabii - sure - no hint
+öğretmen bile - even the teacher - no hint
+bu ve şu - this and that - no hint
+ve - and - no hint
+tüm - all - no hint
+tüm dükkanlar - all shops - no hint
+ve - and - no hint
+nasıl gidilir - how to go - no hint
+yapmak - do - no hint
+gitmek - go - no hint
+gitmek - go - no hint
+istemek - want - no hint
+tenisten hoşlanır mısın - do you like tennis - no hint
+vermek - give - no hint
+gelmek - come - no hint
+gibi - like - no hint
+gelmek - come - no hint
+her kış - every winter - no hint
+çok şey - many things - no hint
+bizim adetlerimiz sıradışı - our traditions are extraordinary - no hint
+senin adın ne - what is your name - no hint
+o - he - no hint
+insan - human - no hint
+hiçbir - no - no hint
+onlar - they - no hint
+ben - I - no hint
+kendine hakim olmak - self control - no hint
+şimdi - now - no hint
+onu anlayan  kim anlar - who understands it - no hint
+öyle eyledi - <br>commanded so - no hint
+saçı onu belirgin kılıyordu - his hair was making him stand out - no hint
+kendi - self - no hint
+yeni bir saat - a new watch - no hint
+senin adın - your name - no hint
+dün sabah - yesterday morning - no hint
+altı - under - no hint
+yeni - new - no hint
+yere düşer - falls on the ground - no hint
+bu kötü haber - this is bad news - no hint
+etmek - render - no hint
+ne zaman - what time - no hint
+onun - her - no hint
+yarın - tomorrow - no hint
+kendine hakim olmak - self control - no hint
+öğleden önce - before noon - no hint
+büyük koltuk - big sofa - no hint
+mümkün - might - no hint
+bugün - today - no hint
+onlar - they - no hint
+hiçbir kitap çöpe atılmamalı - no book should be thrown away - no hint
+olası - may, possible - no hint
+bir - one - no hint
+ben olmasam - if I don't exist - no hint
+onun - her - no hint
+sonra - after - no hint
+yeni - new - no hint
+kötü - bad - no hint
+benim ilk günüm - my first day - no hint
+çocuklar hemen arkadaş olur - kids become friends quickly - no hint
+onun - her - no hint
+kötü - bad - no hint
+herhangi bir kız - any girl - no hint
+için - for - no hint
+çok yedim be - I ate so much - no hint
+içi - in - no hint
+gerçekten - really - no hint
+çok - many - no hint
+nerede - where - no hint
+benim değil - not mine - no hint
+ve - and - no hint
+ile - with - no hint
+ne zaman almak - when to schedule - no hint
+ilk - first - no hint
+tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
+bu nedir - what is this - no hint
+nerede - where - no hint
+çok yedim be - I ate so much - no hint
+bu benim değil - this is not mine - no hint
+sık sık - often - no hint
+olmak - become - no hint
+tabii olur - of course - no hint
+bu ve şu lütfen - this and that please - no hint
+ne - what - no hint
+bu ve şu lütfen - this and that please - no hint
+ad - name - no hint
+nasıl gidilir - how to go - no hint
+nasıl - how - no hint
+öğretmen bile - even the teacher - no hint
+nasıl - how - no hint
+her kış - every winter - no hint
+belirgin kılıyordu - making him stand out - no hint
+onların kızı - their daughter - no hint
+onların kızı çok şeker - their daughter is so adorable - no hint
+olası - may, possible - no hint
+yön - way - no hint
+burada benim ilk günüm - it's my first day here - no hint
+onun telefonu - his phone - no hint
+kendine hakim olmak zor - self/control is hard - no hint
+olmak - become - no hint
+ödevi yapmak - to do homework - no hint
+kılmak - make - no hint
+eylemek - command - no hint
+acımasız olmak - to be cruel - no hint
+bu hediye benim mi - is this present mine - no hint
+onların kızı - their daughter - no hint
+iyi - good - no hint
+onun çantası ağır - his bag is heavy - no hint
+yıl - year - no hint
+şimdi - now - no hint
+zaman - time - no hint
+yapmak - do - no hint
+bugün de - today as well - no hint
+herhangi - any - no hint
+çok - many - no hint
+küçük - small - no hint
+mümkün - might - no hint
+yeni bir saat istiyorum - I want a new watch - no hint
+güneşli bir gün - a sunny day - no hint
+herhangi - any - no hint
+bugün de - today as well - no hint
+öğleden önce - before noon - no hint
+mümkün - might - no hint
+dün sabah - yesterday morning - no hint
+bugün de güneşli olacak - today will be sunny as well - no hint
+büyük - big - no hint
+senin adın ne - what is your name - no hint
+iyi bir arkadaş - a good friend - no hint
+senin adın ne - what is your name - no hint
+o - he - no hint
+küçük - small - no hint
+benim evim - my home - no hint
+benim evim - my home - no hint
+bir - one - no hint
+benim değil - not mine - no hint
+o yöne gitti - he went that way - no hint
+güneşli bir gün - a sunny day - no hint
+insan evrimi - human evolution - no hint
+senin adın ne - what is your name - no hint
+bu hediye benim mi - is this present mine - no hint
+bizim adetlerimiz - our traditions - no hint
+bizim - our - no hint
+her - every - no hint
+öğrencinin görevi ödevi yapmak - a student's duty is to do homework - no hint
+büyük - big - no hint
+köpek evin içinde koşuyor - the dog is running into the house - no hint
+güneşli bir gün - a sunny day - no hint
+olası - may, possible - no hint
+onun çantası ağır - his bag is heavy - no hint
+olmak - become - no hint
+iyi bir arkadaş - a good friend - no hint
+iyi - good - no hint
+sadece - just - no hint
+ad - name - no hint
+o - he - no hint
+her - every - no hint
+benimle dans etmek ister misin - would you like to dance with me - no hint
+dükkan saat altıdan sonra kapanır - the store is closed after 6 - no hint
+önce - before - no hint
+sadece bir gece kalıyoruz - we're staying just one night - no hint
+yeni bir saat istiyorum - I want a new watch - no hint
+yarın gelmesi mümkün - it is possible to come tomorrow - no hint
+yarın - tomorrow - no hint
+etmek - render - no hint
+bebek yere düşer - the baby falls on the ground - no hint
+yarına yemek - dinner for tomorrow - no hint
+o yöne - that way - no hint
+gelecek yıl - next year - no hint
+onun telefonu - his phone - no hint
+yıl - year - no hint
+öf gene - uh again - no hint
+çok - many - no hint
+ben - I - no hint
+yere düşer - falls on the ground - no hint
+yapmak - do - no hint
+bizim - our - no hint
+ödevi yapmak - to do homework - no hint
+acımasız olmak - to be cruel - no hint
+dün sabah geldik - we came yesterday morning - no hint
+mümkün - might - no hint
+yarına yemek - dinner for tomorrow - no hint
+bebek yere düşer - the baby falls on the ground - no hint
+bunu ödemeden - without paying this - no hint
+mundar etmeden - without rendering it useless - no hint
+sadece bir gece - just one night - no hint
+eylemek - command - no hint
+sadece bir gece - just one night - no hint
+güneşli bir gün - a sunny day - no hint
+gitmam olası - I may go - no hint
+senin adın - your name - no hint
+o - he - no hint
+ne - what - no hint

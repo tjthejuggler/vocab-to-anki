@@ -46,6 +46,7 @@ list_of_not_downloaded_mp3s = []
 list_of_downloaded_mp3s = []
 list_of_already_had_mp3s = []
 list_of_previously_failed_mp3s = []
+only_get_anki_cards_being_worked_on = False
 use_anki_file = False
 deck_name = ''
 lines = []
@@ -64,6 +65,7 @@ parser.add_argument("-x", "--maxapis", type = int,
 						help="maximum number of api calls allowed")
 parser.add_argument("-k", "--apkgsource", help="use apkg file as source, \
 						name of apkg file to use")
+parser.add_argument("-c", "--reducedapkg", action="store_true", help="reduce the number of words in the apkg")
 parser.add_argument("-t", "--translate", action="store_true",help="translate words and output formatted list")
 parser.add_argument("-m", "--makeankideck", action="store_true",help="make an anki deck from formatted list")
 parser.add_argument("-a", "--audiolesson", action="store_true",help="make audio lesson from formatted list")
@@ -96,6 +98,8 @@ if args.apkgsource:
 	print('deck_name', deck_name)		
 if args.translate:
 	should_translate = True
+if args.reducedapkg:
+	only_get_anki_cards_being_worked_on = True	
 if args.makeankideck:
 	should_make_cards = True
 if args.audiolesson:
@@ -117,7 +121,7 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
-def get_word_list_from_apkg(filename):
+def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 	with zipfile.ZipFile(filename+".apkg", 'r') as zip_ref:
 		zip_ref.extractall(cwd+"/unzipped_apkg/"+filename)
 	accepted_cards = []
@@ -134,11 +138,14 @@ def get_word_list_from_apkg(filename):
 		word = re.sub("[\(\[].*?[\)\]]", "", split_fld[0]).strip()
 		translation = split_fld[1]
 		card_info = [word, translation, ivl, factor]
-		if ivl == 0 and due > 10000:
+		if only_get_anki_cards_being_worked_on:
+			if ivl == 0 and due > 10000:
+				accepted_cards.append(card_info)
+			if ivl != 0 and ivl < 5:
+				accepted_cards.append(card_info)			
+				#print('word:',word,' translation:',translation,' ivl:',ivl,' due:',due,' factor:',factor)
+		else:
 			accepted_cards.append(card_info)
-		if ivl != 0 and ivl < 5:
-			accepted_cards.append(card_info)			
-			#print('word:',word,' translation:',translation,' ivl:',ivl,' due:',due,' factor:',factor)
 	print(accepted_cards)
 	accepted_cards = sorted(accepted_cards, key=itemgetter(2))
 	print('--------------------')
@@ -152,12 +159,14 @@ def get_word_list_from_apkg(filename):
 	return lines_to_return
 
 def determine_if_formatted(lines):
+	percent_formatted = 0
 	formatted_line_count = 0
 	is_formatted = True
 	for line in lines:
 		if ' - ' in line:
 			formatted_line_count+=1
-	percent_formatted = formatted_line_count / len(lines)
+	if len(lines) != 0:	
+		percent_formatted = formatted_line_count / len(lines)
 	if percent_formatted < .9:
 		is_formatted = False
 	print('isformatted',is_formatted)
@@ -227,15 +236,12 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	# 	fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
 	return my_note, all_audio_files
 
-
-
 def has_previously_failed(word, lang):
 	has_failed = False
 	try:
 		file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "r")
 		lines = file.readlines()
 		file.close()
-		#has_failed = False
 		#print('has_previously_failed chec word',word)
 		for line in lines:
 			#print('has_previously_failed chec',line)
@@ -256,21 +262,14 @@ def mp3_exists(translation, lang):
 	return exists
 
 def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang):
-	#print('add_translation_to_local_dictionary', dest_text)
-	#local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
 	local_dict_file = src_lang+'_'+dest_lang+'.json'
 	local_dict = {}
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
 			local_dict = json.load(json_file)
-	# if swapped:
-	# 	first_text = dest_text
-	# 	second_text = src_text
-	# else:
 	first_text = src_text
 	second_text = dest_text
 	if not first_text in local_dict:
-		#print('!!!',first_text,second_text)
 		local_dict[first_text] = second_text
 		my_json = json.dumps(local_dict)
 		f = open(cwd+'/local_dictionaries/'+local_dict_file,"w")
@@ -278,23 +277,13 @@ def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang
 		f.close()
 
 def get_translation_from_local_library(src_text):
-	#local_dict_file, swapped = get_local_dictionary(second_lang,first_lang)
 	local_dict_file = first_lang+'_'+second_lang+'.json'
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
-			#print(json_file)
 			local_dict = json.load(json_file)
 			if src_text in local_dict:
 				dest_text = local_dict[src_text]
-
-			# if swapped:
-			# 	if src_text in local_dict:
-			# 		dest_text = local_dict[src_text]
-			# 		#print('local dict used', dest_text)				
-			# else:
-			# 	dest_text = list(local_dict.keys())[list(local_dict.values()).index(src_text)]
-
 
 	return dest_text
 
@@ -368,17 +357,37 @@ def download_if_needed(word, lang):
 		print('\nMax API calls reached!')
 		program_end()
 
-def program_end():
-	print('\n')
+def show_translate_stats():
+	print('\nTRANSLATE STATS')
+
+def show_download_stats():
+	print('\nDOWNLOAD STATS')
 	print('API calls: ' + str(api_calls))
 	print('successfully downloaded: '+str(len(list_of_downloaded_mp3s)))
 	print('failed to download: '+str(len(list_of_not_downloaded_mp3s)))
 	print('previously failed to download: '+str(len(list_of_previously_failed_mp3s)))
 	print('already had: '+str(len(list_of_already_had_mp3s)))
+
+def create_download_output_text():
 	create_output_file('download_succeed', list_of_downloaded_mp3s)
 	create_output_file('download_failed', list_of_not_downloaded_mp3s)
 	create_output_file('download_previously', list_of_previously_failed_mp3s)
-	create_output_file('download_already_have', list_of_already_had_mp3s)	
+	create_output_file('download_already_have', list_of_already_had_mp3s)
+
+def show_audio_lesson_stats(number_of_audio_lesson_passed):
+	print('AUDIO LESSON STATS')
+	print('entries passed: ', number_of_audio_lesson_passed)
+
+def program_end():
+	number_of_audio_lesson_passed = 0 #this needs dealt with
+	print('\n')
+	if should_translate:
+		show_translate_stats()
+	if should_download:
+		show_download_stats()
+		create_download_output_text()
+	if should_make_audio_lesson:
+		show_audio_lesson_stats(number_of_audio_lesson_passed)
 	sys.exit()
 
 def create_output_file(filename, output_lines):
@@ -399,21 +408,11 @@ def concatenate_words_into_mp3_if_needed(word_list, lang):
 			cominedMP3 = sum(mp3_to_export)
 			cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'.mp3', format="mp3")
 
-
 def detect_leading_silence(sound, silence_threshold=-45.0, chunk_size=400):
-    '''
-    sound is a pydub.AudioSegment
-    silence_threshold in dB
-    chunk_size in ms
-
-    iterate over chunks until you find the first one with sound
-    '''
     trim_ms = 0 # ms
-
     assert chunk_size > 0 # to avoid infinite loop
     while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
         trim_ms += chunk_size
-
     return trim_ms
 
 def remove_silence(sound):
@@ -463,7 +462,7 @@ def split_and_download(word_to_download, lang):
 		for word in word_to_download.split():
 			download_if_needed(word, lang)
 
-def get_hint_from_formatted_line(formatted_line):
+def get_hint_from_formatted_line(split_line):
 	hint = ""
 	if len(split_line) > 2:
 		hint = split_line[2]
@@ -500,10 +499,11 @@ def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang):
 	text = first_word + ' - ' + second_word + ' - ' + hint
 	return audio, text
 
-def get_lines_from_source():
+def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 	if use_anki_file:
-		lines = get_word_list_from_apkg(deck_name)
-		print(lines)
+		print("deck_name", deck_name)
+		lines = get_word_list_from_apkg(deck_name, only_get_anki_cards_being_worked_on)
+		print('lines', lines)
 	else:	
 		file = open( "source.txt", "r")
 		lines = file.readlines()
@@ -513,8 +513,8 @@ def get_lines_from_source():
 		lines = lines[2:]
 	return lines
 
-def main():
-	lines = get_lines_from_source()
+def main(deck_name, only_get_anki_cards_being_worked_on):
+	lines = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on)
 	is_formatted = determine_if_formatted(lines)
 	if should_randomize_order == True:
 		print("randomized lines")
@@ -526,6 +526,7 @@ def main():
 	audio_lesson_name = ''
 	total_lines = 0
 	for line in lines:
+		print('line', line)
 		total_lines+=1
 		if total_lines == max_lines:
 			break
@@ -583,4 +584,4 @@ def main():
 		create_anki_deck(deck, all_audio_files)
 	program_end()
 
-main()
+main(deck_name, only_get_anki_cards_being_worked_on)
