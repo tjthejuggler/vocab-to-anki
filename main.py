@@ -198,7 +198,8 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 		split_fld = fld.split('\x1f')
 		word = re.sub("[\(\[].*?[\)\]]", "", split_fld[0]).strip()
 		translation = split_fld[1]
-		card_info = [word, translation, ivl, factor]
+		hint = split_fld[2]
+		card_info = [word, translation, hint, ivl, factor]
 		if only_get_anki_cards_being_worked_on:
 			if ivl == 0 and due > 10000:
 				accepted_cards.append(card_info)
@@ -207,16 +208,16 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 				#print('word:',word,' translation:',translation,' ivl:',ivl,' due:',due,' factor:',factor)
 		else:
 			accepted_cards.append(card_info)
-	print(accepted_cards)
+	#print(accepted_cards)
 	accepted_cards = sorted(accepted_cards, key=itemgetter(2))
 	print('--------------------')
-	print(accepted_cards)
+	#print(accepted_cards)
 	print('!!!!!!!')
 	accepted_cards = accepted_cards[:max_lines]
 	print(accepted_cards)
 	lines_to_return = []
 	for accepted_card in accepted_cards:
-		new_card = accepted_card[0]+' - '+accepted_card[1]
+		new_card = accepted_card[0]+' - '+accepted_card[1]+' - '+accepted_card[2]
 		if not new_card in lines_to_return:
 			lines_to_return.append(new_card)
 	return lines_to_return
@@ -238,7 +239,7 @@ def determine_if_formatted(lines):
 def create_anki_deck(my_deck, all_audio_files):
 	my_package = genanki.Package(deck)
 	my_package.media_files = all_audio_files
-	my_package.write_to_file("anki/"+deck_name+'.apkg')
+	my_package.write_to_file("anki/"+new_deck_name+'.apkg')
 
 def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 	word_audio_file = word+'.mp3'
@@ -619,7 +620,7 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 		create_output_file(deck_name+rand_num+'_text', audio_text)								
 	if should_make_audio_lesson:
 		print('len(audio_lesson_output)',len(audio_lesson_output))
-		#audio_lesson_output.export(cwd+'/mp3_output/'+new_deck_name+rand_num+"_audio.mp3", format="mp3")
+		audio_lesson_output.export(cwd+'/mp3_output/'+new_deck_name+rand_num+"_audio.mp3", format="mp3")
 		print(deck_name+rand_num+"_audio.mp3 created")
 	if should_make_anki_deck:
 		create_anki_deck(deck, all_audio_files)
