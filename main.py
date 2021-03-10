@@ -510,7 +510,7 @@ def get_hint_from_formatted_line(split_line):
 		hint = split_line[2]
 	return hint
 
-def check_for_and_try_to_get_all_mp3s(first_word, first_lang, second_word, second_lang):
+def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang):
 	have_all_mp3s = True
 	for word in first_word.split():
 		download_if_needed(word, first_lang)
@@ -528,18 +528,39 @@ def check_for_and_try_to_get_all_mp3s(first_word, first_lang, second_word, secon
 	concatenate_words_into_mp3_if_needed(second_word, second_lang)		
 	return have_all_mp3s
 
-def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang):
+def create_normal_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
 	audio = AudioSegment.silent(duration=10)
-	text = ''
-	print('making audio', first_word, second_word)
-	first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'.mp3')
-	second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'.mp3')
-	long_silence = AudioSegment.silent(duration=second_sound.duration_seconds*2000)					
-	short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
 	audio += first_sound + long_silence + second_sound + short_silence
 	audio += second_sound + long_silence + second_sound + short_silence + second_sound
+	return audio
+#finish making create_reverse..
+#figure out how we want to hook up each of these audio lesson entries to length of sounds
+#	short sounds get repeated fewer times
+def create_reverse_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
+	audio = AudioSegment.silent(duration=10)
+	audio += second_sound + long_silence + second_sound + short_silence
+	audio += second_sound + long_silence + second_sound + short_silence + second_sound
+	return audio
+
+def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict):
+	audio = AudioSegment.silent(duration=10)
 	text = first_word + ' - ' + second_word + ' - ' + hint
-	return audio, text
+	use_normal_order = True
+	if text in audio_lesson_order_dict:
+		use_normal_order = not audio_lesson_order_dict[text]
+	else:
+		random_bit = random.getrandbits(1)
+		use_normal_order = bool(random_bit)
+	print('making audio', prim_word, second_word)
+	first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_word+'/'+second_lang+'.mp3')
+	second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_word+'/'+first_lang+'.mp3')
+	long_silence = AudioSegment.silent(duration=second_sound.duration_seconds*2000)					
+	short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
+	if use_normal_order:
+		audio = create_normal_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence)
+	else:
+		audio = create_reverse_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence)
+	return audio, text, use_normal_order
 
 def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 	if use_anki_file:
@@ -558,6 +579,14 @@ def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 def main(deck_name, only_get_anki_cards_being_worked_on):
 	lines = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on)
 	is_formatted = determine_if_formatted(lines)
+	stop_everything_except_make_audio = False
+	audio_lesson_order_dict = {}
+	if should_make_audio_lesson:
+		original_lines = list(lines)
+		print('beyond...')
+		lines.append("beyond this point is just for audio lesson")
+		for original_line in original_lines:
+			lines.append(original_line)
 	if should_randomize_order == True:
 		print("randomized lines")
 		random.shuffle(lines)
@@ -568,6 +597,10 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 	audio_lesson_name = ''
 	total_lines = 0
 	for line in lines:
+		if should_make_audio_lesson and line == "beyond this point is just for audio lesson":
+			stop_everything_except_make_audio = True
+			print('ture')
+
 		print('line', line)
 		total_lines+=1
 		if total_lines == max_lines:
@@ -593,24 +626,27 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 				split_line = line.split(' - ')
 				first_word = remove_special_characters_and_add_apostrophes(split_line[0])
 				second_word = remove_special_characters_and_add_apostrophes(split_line[1])
-				if should_download:
-					split_and_download(first_word, first_lang)
-					if number_of_languages_to_download > 1:
-						split_and_download(second_word, second_lang)
-				if should_translate:
-					translation = get_translation(first_word).replace('-','/')
-					if translation:
-						output_lines.append(first_word + ' - ' + translation + ' - no hint')
-					create_output_file('new_source',output_lines)
 				hint = get_hint_from_formatted_line(split_line)
-				if should_make_anki_deck:
-					concatenate_words_into_mp3_if_needed(first_word, first_lang)
-					note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files)
-					deck.add_note(note)
+				if not stop_everything_except_make_audio:
+					if should_download:
+						split_and_download(first_word, first_lang)
+						if number_of_languages_to_download > 1:
+							split_and_download(second_word, second_lang)
+					if should_translate:
+						translation = get_translation(first_word).replace('-','/')
+						if translation:
+							output_lines.append(first_word + ' - ' + translation + ' - no hint')
+						create_output_file('new_source',output_lines)
+					if should_make_anki_deck:
+						concatenate_words_into_mp3_if_needed(first_word, first_lang)
+						note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files)
+						deck.add_note(note)
 				if should_make_audio_lesson:
 					have_all_mp3s = check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang)
 					if have_all_mp3s:
-						audio, text = prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang)
+						audio, text, use_normal_order = prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict)
+						audio_lesson_order_dict[text] = use_normal_order
+						print(audio_lesson_order_dict)
 						audio_lesson_output += audio
 						audio_text.append(text)
 	rand_num = ''					
