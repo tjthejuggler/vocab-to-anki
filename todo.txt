@@ -19,8 +19,7 @@ Information gathering
 	find out how pretty printed jsons can be used
 
 New Functionality
-	-figure out how to tell which way a card is going, and make audio entry able to be based on it so we can have foreign....foreign....native
-		-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
+	-make audio lesson entries go both ways so we can have tr / en and en / tr
 	-make a confirmation of how many words will be downloaded/translated
 		-it could quickly tell (this is a little complicated and based on settings)
 			how many of the words we already have
@@ -59,7 +58,9 @@ Misc Thoughts
 		-this can be jumpstarted by flipping current dictionaries with dictionary_formatter.py
 	-we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
 
-
+Notes
+	-figure out how to tell which way a card is going
+		-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
 
 
 

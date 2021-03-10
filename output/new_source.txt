@@ -2,12 +2,9 @@ almak - take - no hint
 kadın cumartesi günü çalışmak zorunda - the woman has to work on Saturday - no hint
 her duyduğunu tekrar etmek iyi bir şey değildir - it's not a good thing to repeat everything you hear - no hint
 her zaman saat beşte yemek yapar - he always makes dinner at 5 p.m. - no hint
-almak - take - no hint
 kullanmak - use - no hint
 söylemek - say - no hint
 her duyduğunu tekrar etmek - repeating everything you hear - no hint
-her duyduğunu tekrar etmek - repeating everything you hear - no hint
-her duyduğunu tekrar etmek iyi bir şey değildir - it's not a good thing to repeat everything you hear - no hint
 hoşlanmak - like - no hint
 görünmek - seem - no hint
 sıcak görünüyor - looks hot - no hint
@@ -15,171 +12,87 @@ bugün dışarısı sıcak görünüyor - it looks hot outside today - no hint
 yapmak - do - no hint
 yemek yapar - makes food - no hint
 kitabı al - take the book - no hint
-kitabı al - take the book - no hint
-kullanmak - use - no hint
 bilgisayarı kullanma - don't use the computer - no hint
 o bilgisayarı kullanma - don't use that computer - no hint
 çalışmak - work - no hint
-çalışmak - work - no hint
-görmek - see - no hint
 görmek - see - no hint
 yakından göreyim - let me see up close - no hint
 sevdiğimi son bir kez yakından göreyim - let me see my beloved up close for the last time - no hint
-sevdiğimi son bir kez yakından göreyim - let me see my beloved up close for the last time - no hint
-hiç anlayamıyorum - cannot understand at all - no hint
 hiç anlayamıyorum - cannot understand at all - no hint
 mutfakta yiyoruz - are eating in the kitchen - no hint
 araba sahibi değilsin - you don&#39;t own a car - no hint
-hoşlanmak - like - no hint
-bugün dışarısı sıcak görünüyor - it looks hot outside today - no hint
 onu sever - loves - no hint
-yemek yapar - makes food - no hint
-her zaman saat beşte yemek yapar - he always makes dinner at 5 p.m. - no hint
 raftaki kitabı al - take the book from the Shelf - no hint
-bilgisayarı kullanma - don't use the computer - no hint
 kahvaltı istiyorlar - they want breakfast - no hint
 kahvaltı istiyorlar - they want breakfast - no hint
-kahvaltı istiyorlar - they want breakfast - no hint
-kadın cumartesi günü çalışmak zorunda - the woman has to work on Saturday - no hint
-söylemek - say - no hint
 söylemek istediğin bir şey - something I want to say - no hint
-söylemek istediğin bir şey - something I want to say - no hint
-yakından göreyim - let me see up close - no hint
-anlamak - understand - no hint
 anlamak - understand - no hint
 bakmak ve görmek farklı şeylerdir - looking and seeing are different things - no hint
 mavi değil - not blue - no hint
-mavi değil - not blue - no hint
-mutfakta yiyoruz - are eating in the kitchen - no hint
 satın aldım - i bought - no hint
-satın aldım - i bought - no hint
-araba sahibi değilsin - you don&#39;t own a car - no hint
-görünmek - seem - no hint
 sevmek - love - no hint
-onu sever - loves - no hint
-raftaki kitabı al - take the book from the Shelf - no hint
-o bilgisayarı kullanma - don't use that computer - no hint
-kahvaltı istiyorlar - they want breakfast - no hint
 cumartesi günü çalışmak - working on Saturday - no hint
 sana söylemek istediğim bir şey var - there's something I want to say to you - no hint
-sana söylemek istediğim bir şey var - there's something I want to say to you - no hint
-bazen ilaç almak tehlikelidir - taking medicine is dangerous sometimes - no hint
 bazen ilaç almak tehlikelidir - taking medicine is dangerous sometimes - no hint
 bakmak ve görmek - looking and seeing - no hint
-bakmak ve görmek farklı şeylerdir - looking and seeing are different things - no hint
 daha iyi olur - it's better - no hint
 değil - not - no hint
-değil - not - no hint
-müşteri ofise geliyor - the client is coming to the office - no hint
 müşteri ofise geliyor - the client is coming to the office - no hint
 kahve içerim - drink coffee - no hint
-veriyorsun - are giving - no hint
 veriyorsun - are giving - no hint
 dükkana gidiyor - she is going to the store - no hint
 iyi bir araba sahibi değilsin - you don't have a nice car - no hint
 bilmek - know - no hint
-bilmek - know - no hint
 bilmiyorum - do not know - no hint
 onları bilmiyorum - I don't know them - no hint
 tenisten hoşlanır - likes tennis - no hint
-sıcak görünüyor - looks hot - no hint
-sevmek - love - no hint
-cumartesi günü çalışmak - working on Saturday - no hint
 saçları ipek gibi - her hair is like Silk - no hint
 ilaç almak - taking medicine - no hint
 spor yapsan daha iyi olur - it's better if you do Sports - no hint
-spor yapsan daha iyi olur - it's better if you do Sports - no hint
 kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint
 ofise geliyor - is coming to the office - no hint
-ofise geliyor - is coming to the office - no hint
-kahve içerim - drink coffee - no hint
 vermek - give - no hint
 bunu bana mı veriyorsun - are you giving this to me - no hint
 sahip olmak - own - no hint
-iyi bir araba sahibi değilsin - you don't have a nice car - no hint
 tenisten hoşlanır mısın - do you like tennis - no hint
 bazen seni hiç anlayamıyorum - sometimes i can&#39;t understand you at all - no hint
 ipek gibi - like Silk - no hint
-ilaç almak - taking medicine - no hint
 gerçekten var - really exist - no hint
 hayaletler gerçekten var - ghosts really exist - no hint
 istemek - want - no hint
 her şey sadece istemekle olmaz - everything can not be just wanted - no hint
-her şey sadece istemekle olmaz - everything can not be just wanted - no hint
 gece dışarı çıkmak - go out at night - no hint
 olmak - become - no hint
-kırmızı kalem istiyoruz mavi değil - we want red pencils not blue - no hint
 her sabah kahve içerim - I drink coffee every morning - no hint
 satın almak - buy - no hint
-vermek - give - no hint
-bunu bana mı veriyorsun - are you giving this to me - no hint
 dükkana gidiyor - she is going to the store - no hint
-dükkana gidiyor - she is going to the store - no hint
-dükkana gidiyor - she is going to the store - no hint
-sahip olmak - own - no hint
-bilmiyorum - do not know - no hint
-tenisten hoşlanır - likes tennis - no hint
 herkes onu sever - everyone loves her - no hint
-bazen seni hiç anlayamıyorum - sometimes i can&#39;t understand you at all - no hint
-dener şeyler - things said - no hint
 dener şeyler - things said - no hint
 gibi - like - no hint
-saçları ipek gibi - her hair is like Silk - no hint
-almak - take - no hint
 para vermek - giving money - no hint
 sorun para vermek değil - giving money isn't the problem - no hint
-istemek - want - no hint
 sadece istemek - just want - no hint
 çıkmak - go out - no hint
-çıkmak - go out - no hint
-gece dışarı çıkmak - go out at night - no hint
-bakmak ve görmek - looking and seeing - no hint
-daha iyi olur - it's better - no hint
-her sabah kahve içerim - I drink coffee every morning - no hint
 yemek - eat - no hint
 akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
-satın almak - buy - no hint
 üç bilet satın aldım - I got three tickets - no hint
-onları bilmiyorum - I don't know them - no hint
-herkes onu sever - everyone loves her - no hint
 demek - to say - no hint
 dün dener şeyler bugün unutulur - trying yesterday, things are forgotten today - no hint
-ipek gibi - like Silk - no hint
-almak - take - no hint
-para vermek - giving money - no hint
-sorun para vermek değil - giving money isn't the problem - no hint
-gerçekten var - really exist - no hint
-hayaletler gerçekten var - ghosts really exist - no hint
-sadece istemek - just want - no hint
 gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint
 görmek - see - no hint
-akşam yemeğini mutfakta yiyoruz - we are eating dinner in the kitchen - no hint
-üç bilet satın aldım - I got three tickets - no hint
-dün dener şeyler bugün unutulur - trying yesterday, things are forgotten today - no hint
-gece dışarı çıkmak iyi bir şey değil - it's not a good thing to go out at night - no hint
-görmek - see - no hint
-olmak - become - no hint
-yemek - eat - no hint
 her kış kayak yapmaya giderler - they go skiing every winter - no hint
 ben sadece fakir bir adamım - i&#39;m just a poor man - no hint
 yarın yapılacak çok şey yok - there aren't many things to be done tomorrow - no hint
-yarın yapılacak çok şey yok - there aren't many things to be done tomorrow - no hint
-binlerce yıldır insan evrimi devam eder - human evolution continues on for thousands of years - no hint
 binlerce yıldır insan evrimi devam eder - human evolution continues on for thousands of years - no hint
 biz kaçarken siz neredeydiniz - where were you when we were running away. - no hint
-biz kaçarken siz neredeydiniz - where were you when we were running away. - no hint
-ben sadece fakir bir adamım - i&#39;m just a poor man - no hint
 biz kaçarken - while we were running - no hint
 sen - you - no hint
 bu ev daha güzel - this house is more beautiful - no hint
 daha güzel - more beautiful - no hint
 en - most - no hint
-sen - you - no hint
 ben sadece - i just - no hint
 biz - we - no hint
-daha güzel - more beautiful - no hint
 benimle dans etmek - to dance with me - no hint
-en - most - no hint
 bu kazak küçük boy - the sweater is small size - no hint
 yarın gelmesi mümkün - it is possible to come tomorrow - no hint
 kedi yatağın altında - the cat is under the bed - no hint
@@ -191,8 +104,6 @@ küçük boy - small size - no hint
 lütfen öğleden önce gel - please come before noon - no hint
 üstü - on - no hint
 masanın üstünde - on the table - no hint
-kadar - until - no hint
-küçük boy - small size - no hint
 sen gelmesende - if you don't come - no hint
 onu anlayan  kim anlar - who understands it - no hint
 yakınında - by - no hint
@@ -202,52 +113,32 @@ belirgin kılıyordu - making him stand out - no hint
 ekmek masanın üstünde - the bread is on the table - no hint
 yatağın altında - under the bed - no hint
 benim evim ırmağa yakın - my house is near the river - no hint
-benimle dans etmek - to dance with me - no hint
-sen gelmesende - if you don't come - no hint
-bu kazak küçük boy - the sweater is small size - no hint
 onu anlayan sadece sensin - you're the only one who understands it - no hint
-onu anlayan sadece sensin - you're the only one who understands it - no hint
-ben sadece - i just - no hint
-masanın üstünde - on the table - no hint
-yatağın altında - under the bed - no hint
-kedi yatağın altında - the cat is under the bed - no hint
 onlar gittiyse bende gideyim - if they are gone I should go as well - no hint
 bu - this - no hint
-bunu ödemeden gidemeyiz - we can't go without paying this - no hint
 bunu ödemeden gidemeyiz - we can't go without paying this - no hint
 onlar geri gelmezse - if they don't return - no hint
 onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
 en utandırıcı - most embarrassing - no hint
 dükkan saat altıdan sonra kapanır - the store is closed after 6 - no hint
 ben olmasam daha mutlu olursun - if i am not there, you will be happier - no hint
-yakınında - by - no hint
 öyle eyledi - <br>commanded so - no hint
 içine - into - no hint
 bunlar - these - no hint
 bunların kutusu - their box - no hint
 saçı onu belirgin kılıyordu - his hair was making him stand out - no hint
 altı - under - no hint
-ile - with - no hint
 iyi oynuyor - is playing well - no hint
-onlar geri gelmezse - if they don't return - no hint
-biz - we - no hint
-en utandırıcı - most embarrassing - no hint
 onu yere düşürmek - dropping it on the ground - no hint
-okyanusun yakınında - by the ocean - no hint
 ona yalan söylemek - lying to her - no hint
-anne ve baban için - for your mother and father - no hint
 padişah öyle eyledi - the sultan has commanded so - no hint
 kız kardeşim evin içinde - my sister is in the house - no hint
-içine - into - no hint
 bunların kutusu kırmızı - their box is red - no hint
-ekmek masanın üstünde - the bread is on the table - no hint
 onlar gittiyse - if they're gone - no hint
-benim evim ırmağa yakın - my house is near the river - no hint
 bu gece çok karanlık - it's very dark tonight - no hint
 iyi - good - no hint
 kendi - self - no hint
 akşam yemeğinden sonra - after dinner - no hint
-takım iyi oynuyor - the team is playing well - no hint
 takım iyi oynuyor - the team is playing well - no hint
 şimdi ayrılıyoruz - we are leaving now - no hint
 biz şimdi ayrılıyoruz - we are leaving now - no hint
@@ -257,23 +148,14 @@ koyun etini mundar etmeden hazırlayın - prepare the mutton without rendering i
 bu hediye anne ve baba niçin - this present is for your parents - no hint
 yukarı - up - no hint
 yukarı çıkıyor - is going up - no hint
-bunların kutusu - their box - no hint
-onlar gittiyse - if they're gone - no hint
-onlar gittiyse bende gideyim - if they are gone I should go as well - no hint
 elmalı pie krema ile servis edilir - apple pie served with cream - no hint
 akşam yemeğinden sonra kahve içer - drink coffee after dinner - no hint
-akşam yemeğinden sonra kahve içer - drink coffee after dinner - no hint
 sabaha kadar - until morning - no hint
-şimdi ayrılıyoruz - we are leaving now - no hint
 sabaha kadar vaktim var - I have time until morning - no hint
-onlar geri gelmezse yanarız - we're in trouble if they don't return - no hint
-daha - more - no hint
 saat altıdan sonra - after six - no hint
 buraya ne zaman geleceksin - when will you come here - no hint
 ben olmasam - if I don't exist - no hint
-ben olmasam daha mutlu olursun - if i am not there, you will be happier - no hint
 çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
-en - most - no hint
 en güzel - most beautiful - no hint
 evimiz okyanusun yakınında - our home is by the ocean - no hint
 evin içinde - in the house - no hint
@@ -284,181 +166,85 @@ için - for - no hint
 asansör yukarı çıkıyor - the elevator is going up - no hint
 çok - many - no hint
 çok karanlık - very dark - no hint
-bu - this - no hint
-iyi oynuyor - is playing well - no hint
-sabaha kadar - until morning - no hint
 sonra - after - no hint
-saat altıdan sonra - after six - no hint
-buraya ne zaman geleceksin - when will you come here - no hint
 ben - I - no hint
 belki yağmur - maybe rain - no hint
 ha unutmadan şunu al - oh before I forget take this - no hint
 eğer - if - no hint
 eğer gidersen - if you go - no hint
-onu yere düşürmek - dropping it on the ground - no hint
-ona yalan söylemek - lying to her - no hint
 şunu açıklamadan hiçbir yere gidemez - he can't go anywhere without explaining that - no hint
-kız kardeşim evin içinde - my sister is in the house - no hint
-oraya - there - no hint
 öğrencinin görevi ödevi yapmak - a student's duty is to do homework - no hint
-üstü - on - no hint
-yukarı çıkıyor - is going up - no hint
 çocuklarım için her şeyi yaparım - I'll do everything for my children - no hint
-bunların kutusu kırmızı - their box is red - no hint
 krema ile - with cream - no hint
-bu gece çok karanlık - it's very dark tonight - no hint
-akşam yemeğinden sonra - after dinner - no hint
-biz şimdi ayrılıyoruz - we are leaving now - no hint
 sadece bir gece kalıyoruz - we're staying just one night - no hint
-ben - I - no hint
 ama pasta sevmem - but I don't like cake - no hint
-belki yağmur - maybe rain - no hint
-belki yağmur yağar - maybe it will rain - no hint
 randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
-en - most - no hint
 hm şimdi - hm now - no hint
-evimiz okyanusun yakınında - our home is by the ocean - no hint
-bu hediye anne ve baba niçin - this present is for your parents - no hint
 ona yalan söylemek en kötüsü - lying to her is the worst - no hint
 şu - that - no hint
 geceleyin gerçekten soğuk - it's really cold at night - no hint
 köpek evin içinde koşuyor - the dog is running into the house - no hint
 çocuklarım için - for my children - no hint
-krema ile - with cream - no hint
-elmalı pie krema ile servis edilir - apple pie served with cream - no hint
-iyi - good - no hint
-sabaha kadar vaktim var - I have time until morning - no hint
 kendin hakkında bahset - tell me about yourself - no hint
 buraya ne zaman - when here - no hint
-sadece bir gece kalıyoruz - we're staying just one night - no hint
 gözlük takıyorum çünkü gözlerim bozuk - i wear glasses because my eyes are damaged - no hint
 belki - Maybe - no hint
 ha unutmadan - oh before I forget - no hint
-ama pasta sevmem - but I don't like cake - no hint
-çikolatayı severim ama pasta sevmem - I like chocolate but I don't like cake - no hint
-eğer - if - no hint
 nerede olursa olsun - no matter where he is - no hint
-en güzel - most beautiful - no hint
 onu yere düşürmek kolay - dropping it on the ground is easy - no hint
-evin içinde - in the house - no hint
 şunu açıklamadan - without explaining that - no hint
 sık sık balık avlamaya çıkarım - I often go fishing - no hint
 gerçekten - really - no hint
 şimdi oraya - now there - no hint
 abim ve ablam doktordur - my brother and sisters are doctors - no hint
-asansör yukarı çıkıyor - the elevator is going up - no hint
-sonra - after - no hint
 buraya - hear - no hint
-buraya ne zaman - when here - no hint
-gözlük takıyorum çünkü gözlerim bozuk - i wear glasses because my eyes are damaged - no hint
 tabii olur onu yiyebilirsiniz - of course you can eat that - no hint
-belki - Maybe - no hint
-ha unutmadan - oh before I forget - no hint
-ha unutmadan şunu al - oh before I forget take this - no hint
 kırmızı veya beyaz - red or white - no hint
 hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
-şunu açıklamadan hiçbir yere gidemez - he can't go anywhere without explaining that - no hint
 ya - really.. - no hint
-evin içine - into the house - no hint
 çok çalıştım ya - I really studied too much - no hint
-bunlar - these - no hint
-çocuklarım için her şeyi yaparım - I'll do everything for my children - no hint
-tabii olur onu yiyebilirsiniz - of course you can eat that - no hint
 ha - oh - no hint
-randevunuzu ne zaman almak istersiniz - when would you like to schedule your appointment - no hint
-hm şimdi - hm now - no hint
-onu yere düşürmek kolay - dropping it on the ground is easy - no hint
 o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
 o - he - no hint
-o - he - no hint
-ona yalan söylemek en kötüsü - lying to her is the worst - no hint
 bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
 zaman - time - no hint
-şu - that - no hint
 sık sık balık avlamaya - Austin fishing - no hint
-ya - really.. - no hint
 gerçekten soğuk - really cold - no hint
 onun neden kaçtığını sordum - I asked why she ran away - no hint
-şimdi oraya gideceğim - I'll go there now - no hint
 onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
 acımasız olmak bir tercihtir - to be cruel is a choice - no hint
 çünkü gözlerim bozuk - because my eyes are broken - no hint
 sadece bir gece - just one night - no hint
-ha - oh - no hint
 ne zaman - what time - no hint
-nerede olursa olsun - no matter where he is - no hint
 eğer gidersen ben de giderim - if you go I'll go - no hint
 ne çok yedin be - you ate so much - no hint
-şunu açıklamadan - without explaining that - no hint
 güneşli olduğu zaman - when it&#39;s sunny - no hint
 bunu kimden duydun - who did you hear this from - no hint
-sık sık balık avlamaya çıkarım - I often go fishing - no hint
 abim ve ablam - my older brother and sister - no hint
-yukarı - up - no hint
-kendin hakkında bahset - tell me about yourself - no hint
-buraya - hear - no hint
 çünkü - because - no hint
 tabii olur - of course - no hint
-çünkü gözlerim bozuk - because my eyes are broken - no hint
-ne zaman - what time - no hint
-o dünyadaki en güzel şehir - it's the most beautiful city in the world - no hint
 hm şimdi nereye gitsek - hm where should we go now - no hint
-değil - not - no hint
-değil - not - no hint
 hangi kitabı okudun - which book did you read - no hint
 öf gene - uh again - no hint
-hava güneşli olduğu zaman mutluyum - I'm happy when it's sunny - no hint
-şimdi oraya - now there - no hint
 çalıştım ya - I really studied - no hint
-geceleyin gerçekten soğuk - it's really cold at night - no hint
-için - for - no hint
 kendin hakkında - about yourself - no hint
 öğretmen bile geç kaldı - even the teacher is late - no hint
 nedir - what is - no hint
-eğer gidersen ben de giderim - if you go I'll go - no hint
 veya - or - no hint
-veya - or - no hint
-zaman - time - no hint
-sık sık balık avlamaya - Austin fishing - no hint
 kimden - from whom - no hint
 uf gene kaçtı - it escaped again - no hint
 neden kaçtığını - why he ran away - no hint
-abim ve ablam doktordur - my brother and sisters are doctors - no hint
 hakkında - about - no hint
-nedir - what is - no hint
 be - much - no hint
-be - much - no hint
-ne çok yedin be - you ate so much - no hint
 öf - uh
  - no hint
-güneşli olduğu zaman - when it&#39;s sunny - no hint
-bunu kimden duydun - who did you hear this from - no hint
-gerçekten soğuk - really cold - no hint
-çok çalıştım ya - I really studied too much - no hint
 eh aslında ben bunu pek iyi bilmiyorum - uh actually I don't know this very well - no hint
-onun yiyeceği yemek hazır - the food he is going to eat is ready - no hint
-çünkü - because - no hint
 nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
-hangi kitabı okudun - which book did you read - no hint
-abim ve ablam - my older brother and sister - no hint
-onun neden kaçtığını sordum - I asked why she ran away - no hint
 onun yiyeceği yemek - the food he is going to eat - no hint
 oraya nasıl gidilir - how did you get there - no hint
-kimden - from whom - no hint
-çalıştım ya - I really studied - no hint
-öğretmen bile geç kaldı - even the teacher is late - no hint
-neden kaçtığını - why he ran away - no hint
-ile - with - no hint
-hakkında - about - no hint
-kendin hakkında - about yourself - no hint
-eh aslında ben bunu pek iyi bilmiyorum - uh actually I don't know this very well - no hint
-oraya nasıl gidilir - how did you get there - no hint
-eh - um - no hint
-onun yiyeceği yemek - the food he is going to eat - no hint
 ile - with - no hint
 eh - um - no hint
 eh aslında - well actually - no hint
-bu ev daha güzel - this house is more beautiful - no hint
 kendine hakim olmak zor - self/control is hard - no hint
 gitmam olası - I may go - no hint
 o yöne - that way - no hint
@@ -466,30 +252,20 @@ sen gelmesende olur - okay if you don&#39;t come - no hint
 mundar etmeden - without rendering it useless - no hint
 dün sabah geldik - we came yesterday morning - no hint
 bugün de güneşli olacak - today will be sunny as well - no hint
-eh aslında - well actually - no hint
 duymak - to hear - no hint
-istemek - want - no hint
-demek - to say - no hint
-vermek - give - no hint
-içmek - drink - no hint
 içmek - drink - no hint
 çok şey - many things - no hint
 bizim adetlerimiz sıradışı - our traditions are extraordinary - no hint
 onların - their - no hint
-bu - this - no hint
-bu - this - no hint
-biz kaçarken - while we were running - no hint
 senin - your - no hint
 bu hediye - this present - no hint
 kılmak - make - no hint
 bunu ödemeden - without paying this - no hint
 insan - human - no hint
 onun çantası - his bag - no hint
-lütfen öğleden önce gel - please come before noon - no hint
 çocuklar hemen arkadaş olur - kids become friends quickly - no hint
 kötü haber - bad news - no hint
 o - he - no hint
-kötü haber - bad news - no hint
 ne zaman - what time - no hint
 arkadaş olur - become friends - no hint
 onun telefonu yeni - his phone is new - no hint
@@ -501,288 +277,100 @@ gün - day - no hint
 büyük koltuk nerede - where's the big sofa - no hint
 ne zaman döner - what time does he return - no hint
 o yöne gitti - he went that way - no hint
-o iyi bir arkadaş - she's a good friend - no hint
 onun - her - no hint
 ilk - first - no hint
-gün - day - no hint
-sadece bir gece - just one night - no hint
-uf gene kaçtı - it escaped again - no hint
-neden - why - no hint
 neden - why - no hint
 kim - whom - no hint
-nerede olursa olsun onu mutlaka bulacağım - no matter where he is I'll definitely find him - no hint
-hm şimdi nereye gitsek - hm where should we go now - no hint
 tüm dükkanlar - all shops - no hint
-hangi - which - no hint
 hangi - which - no hint
 olmak - become - no hint
 bu ve şu - this and that - no hint
-duymak - to hear - no hint
 var - exist - no hint
-var - exist - no hint
-her kış kayak yapmaya giderler - they go skiing every winter - no hint
 insan evrimi - human evolution - no hint
 bizim adetlerimiz - our traditions - no hint
 yer - ground - no hint
-onların - their - no hint
-bu hediye - this present - no hint
 hiçbir - no - no hint
-yer - ground - no hint
 senin adın - your name - no hint
-onlar - they - no hint
-senin - your - no hint
-sen gelmesende olur - okay if you don&#39;t come - no hint
 yarına yemek yapacağım - I'll cook dinner for tomorrow - no hint
 onların kızı çok şeker - their daughter is so adorable - no hint
 dün - yesterday - no hint
 hiçbir kitap - no book - no hint
 hiçbir kitap çöpe atılmamalı - no book should be thrown away - no hint
-en utandırıcı anı bir sırdır - his most embarrassing memory is a secret - no hint
-hiçbir kitap - no book - no hint
 benim ilk günüm - my first day - no hint
 benim - my - no hint
-yarına yemek yapacağım - I'll cook dinner for tomorrow - no hint
 yeni bir saat - a new watch - no hint
 önce - before - no hint
-sadece bir gece kalıyoruz - we're staying just one night - no hint
 zaman - time - no hint
-onun çantası - his bag - no hint
 herhangi bir kız olabilir - she could be any girl - no hint
 bu kötü haber - this is bad news - no hint
 içi - in - no hint
 gelecek yıl geri geliyorum - I'm coming back next year - no hint
 bugün - today - no hint
-benim - my - no hint
-herhangi bir kız olabilir - she could be any girl - no hint
-o - he - no hint
-çocuklarım için - for my children - no hint
-koyun etini mundar etmeden hazırlayın - prepare the mutton without rendering it useless - no hint
-ne zaman döner - what time does he return - no hint
-kırmızı veya beyaz - red or white - no hint
-padişah öyle eyledi - the sultan has commanded so - no hint
 burada benim ilk günüm - it's my first day here - no hint
-ile - with - no hint
-çok karanlık - very dark - no hint
-acımasız olmak bir tercihtir - to be cruel is a choice - no hint
 hm - hm - no hint
-için - for - no hint
-arkadaş olur - become friends - no hint
-gelecek yıl geri geliyorum - I'm coming back next year - no hint
-dün - yesterday - no hint
 herhangi bir kız - any girl - no hint
 yön - way - no hint
 hangi kitabı - which book - no hint
-sonra - after - no hint
 ama - but - no hint
-hm - hm - no hint
-eğer gidersen - if you go - no hint
-büyük koltuk nerede - where's the big sofa - no hint
 bu benim değil - this is not mine - no hint
 sık sık - often - no hint
 gelecek yıl - next year - no hint
 ve - and - no hint
-onun telefonu yeni - his phone is new - no hint
-ama - but - no hint
 ne zaman almak - when to schedule - no hint
 bu nedir - what is this - no hint
-hangi kitabı - which book - no hint
-öf - uh
- - no hint
 tabii - sure - no hint
-bir bardak kırmızı veya beyaz şarap içer misin - will you drink a glass of red or white wine - no hint
-senin adın - your name - no hint
 tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
 sadece - just - no hint
-kim - whom - no hint
 tüm - all - no hint
-tabii - sure - no hint
 öğretmen bile - even the teacher - no hint
-bu ve şu - this and that - no hint
-ve - and - no hint
-tüm - all - no hint
-tüm dükkanlar - all shops - no hint
-ve - and - no hint
 nasıl gidilir - how to go - no hint
-yapmak - do - no hint
 gitmek - go - no hint
-gitmek - go - no hint
-istemek - want - no hint
-tenisten hoşlanır mısın - do you like tennis - no hint
-vermek - give - no hint
-gelmek - come - no hint
-gibi - like - no hint
 gelmek - come - no hint
 her kış - every winter - no hint
-çok şey - many things - no hint
-bizim adetlerimiz sıradışı - our traditions are extraordinary - no hint
 senin adın ne - what is your name - no hint
-o - he - no hint
-insan - human - no hint
-hiçbir - no - no hint
-onlar - they - no hint
-ben - I - no hint
 kendine hakim olmak - self control - no hint
 şimdi - now - no hint
-onu anlayan  kim anlar - who understands it - no hint
-öyle eyledi - <br>commanded so - no hint
-saçı onu belirgin kılıyordu - his hair was making him stand out - no hint
-kendi - self - no hint
-yeni bir saat - a new watch - no hint
-senin adın - your name - no hint
 dün sabah - yesterday morning - no hint
-altı - under - no hint
 yeni - new - no hint
 yere düşer - falls on the ground - no hint
-bu kötü haber - this is bad news - no hint
 etmek - render - no hint
-ne zaman - what time - no hint
-onun - her - no hint
 yarın - tomorrow - no hint
-kendine hakim olmak - self control - no hint
 öğleden önce - before noon - no hint
-büyük koltuk - big sofa - no hint
 mümkün - might - no hint
-bugün - today - no hint
-onlar - they - no hint
-hiçbir kitap çöpe atılmamalı - no book should be thrown away - no hint
-olası - may, possible - no hint
 bir - one - no hint
-ben olmasam - if I don't exist - no hint
-onun - her - no hint
-sonra - after - no hint
-yeni - new - no hint
-kötü - bad - no hint
-benim ilk günüm - my first day - no hint
-çocuklar hemen arkadaş olur - kids become friends quickly - no hint
 onun - her - no hint
 kötü - bad - no hint
-herhangi bir kız - any girl - no hint
-için - for - no hint
 çok yedim be - I ate so much - no hint
-içi - in - no hint
-gerçekten - really - no hint
-çok - many - no hint
 nerede - where - no hint
 benim değil - not mine - no hint
-ve - and - no hint
-ile - with - no hint
-ne zaman almak - when to schedule - no hint
-ilk - first - no hint
-tüm dükkanlar şimdi kapalı - all the shops are closed now - no hint
-bu nedir - what is this - no hint
-nerede - where - no hint
-çok yedim be - I ate so much - no hint
-bu benim değil - this is not mine - no hint
-sık sık - often - no hint
-olmak - become - no hint
-tabii olur - of course - no hint
 bu ve şu lütfen - this and that please - no hint
 ne - what - no hint
-bu ve şu lütfen - this and that please - no hint
 ad - name - no hint
-nasıl gidilir - how to go - no hint
 nasıl - how - no hint
-öğretmen bile - even the teacher - no hint
-nasıl - how - no hint
-her kış - every winter - no hint
-belirgin kılıyordu - making him stand out - no hint
 onların kızı - their daughter - no hint
-onların kızı çok şeker - their daughter is so adorable - no hint
 olası - may, possible - no hint
-yön - way - no hint
-burada benim ilk günüm - it's my first day here - no hint
 onun telefonu - his phone - no hint
-kendine hakim olmak zor - self/control is hard - no hint
 olmak - become - no hint
 ödevi yapmak - to do homework - no hint
-kılmak - make - no hint
 eylemek - command - no hint
 acımasız olmak - to be cruel - no hint
 bu hediye benim mi - is this present mine - no hint
-onların kızı - their daughter - no hint
 iyi - good - no hint
 onun çantası ağır - his bag is heavy - no hint
 yıl - year - no hint
-şimdi - now - no hint
-zaman - time - no hint
 yapmak - do - no hint
 bugün de - today as well - no hint
 herhangi - any - no hint
 çok - many - no hint
 küçük - small - no hint
-mümkün - might - no hint
 yeni bir saat istiyorum - I want a new watch - no hint
 güneşli bir gün - a sunny day - no hint
-herhangi - any - no hint
-bugün de - today as well - no hint
-öğleden önce - before noon - no hint
-mümkün - might - no hint
-dün sabah - yesterday morning - no hint
-bugün de güneşli olacak - today will be sunny as well - no hint
 büyük - big - no hint
-senin adın ne - what is your name - no hint
 iyi bir arkadaş - a good friend - no hint
-senin adın ne - what is your name - no hint
 o - he - no hint
-küçük - small - no hint
 benim evim - my home - no hint
-benim evim - my home - no hint
-bir - one - no hint
-benim değil - not mine - no hint
-o yöne gitti - he went that way - no hint
 güneşli bir gün - a sunny day - no hint
-insan evrimi - human evolution - no hint
-senin adın ne - what is your name - no hint
-bu hediye benim mi - is this present mine - no hint
-bizim adetlerimiz - our traditions - no hint
 bizim - our - no hint
 her - every - no hint
-öğrencinin görevi ödevi yapmak - a student's duty is to do homework - no hint
-büyük - big - no hint
-köpek evin içinde koşuyor - the dog is running into the house - no hint
-güneşli bir gün - a sunny day - no hint
-olası - may, possible - no hint
-onun çantası ağır - his bag is heavy - no hint
-olmak - become - no hint
-iyi bir arkadaş - a good friend - no hint
-iyi - good - no hint
-sadece - just - no hint
-ad - name - no hint
-o - he - no hint
-her - every - no hint
-benimle dans etmek ister misin - would you like to dance with me - no hint
-dükkan saat altıdan sonra kapanır - the store is closed after 6 - no hint
-önce - before - no hint
-sadece bir gece kalıyoruz - we're staying just one night - no hint
-yeni bir saat istiyorum - I want a new watch - no hint
-yarın gelmesi mümkün - it is possible to come tomorrow - no hint
-yarın - tomorrow - no hint
-etmek - render - no hint
 bebek yere düşer - the baby falls on the ground - no hint
 yarına yemek - dinner for tomorrow - no hint
-o yöne - that way - no hint
-gelecek yıl - next year - no hint
-onun telefonu - his phone - no hint
-yıl - year - no hint
-öf gene - uh again - no hint
-çok - many - no hint
-ben - I - no hint
-yere düşer - falls on the ground - no hint
-yapmak - do - no hint
-bizim - our - no hint
-ödevi yapmak - to do homework - no hint
-acımasız olmak - to be cruel - no hint
-dün sabah geldik - we came yesterday morning - no hint
-mümkün - might - no hint
-yarına yemek - dinner for tomorrow - no hint
-bebek yere düşer - the baby falls on the ground - no hint
-bunu ödemeden - without paying this - no hint
-mundar etmeden - without rendering it useless - no hint
-sadece bir gece - just one night - no hint
-eylemek - command - no hint
-sadece bir gece - just one night - no hint
-güneşli bir gün - a sunny day - no hint
-gitmam olası - I may go - no hint
-senin adın - your name - no hint
-o - he - no hint
-ne - what - no hint
