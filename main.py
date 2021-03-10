@@ -159,6 +159,29 @@ deck_model = genanki.Model(
 		}
 	])
 
+deck_model_audio_only = genanki.Model(
+	137694419,
+	'Audio Only With Hint',
+	fields=[
+		{'name': 'Question'},
+		{'name': 'Answer'},
+		{'name': 'Hint'},
+		{'name': 'URL'},		
+		{'name': 'Words'},
+	],
+	templates=[
+		{
+			'name': 'Card 1',
+			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}{{Words}}',
+		},
+		{
+			'name': 'Card 2',
+			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}{{Words}}',
+		}
+	])
+
 def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 	with zipfile.ZipFile(filename+".apkg", 'r') as zip_ref:
 		zip_ref.extractall(cwd+"/unzipped_apkg/"+filename)
@@ -229,9 +252,9 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files):
 		if mp3_exists(translation, second_lang):
 			all_audio_files.append(pron_fold+'/'+second_lang+'/'+translation_audio_file)
 		my_note = genanki.Note(
-						model=deck_model,
+						model=deck_model_audio_only,
 						tags=[tag],
-						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')', translation+'\n'+word, word+'\n'+hint, url, '[sound:'+translation_audio_file+']'])
+						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')', '[sound:'+translation_audio_file+']', word+'\n'+hint, url, word +' - '+translation])
 	else:
 		if using_two_langs:
 			if mp3_exists(translation, second_lang):
@@ -596,7 +619,7 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 		create_output_file(deck_name+rand_num+'_text', audio_text)								
 	if should_make_audio_lesson:
 		print('len(audio_lesson_output)',len(audio_lesson_output))
-		audio_lesson_output.export(cwd+'/mp3_output/'+deck_name+rand_num+"_audio.mp3", format="mp3")
+		#audio_lesson_output.export(cwd+'/mp3_output/'+new_deck_name+rand_num+"_audio.mp3", format="mp3")
 		print(deck_name+rand_num+"_audio.mp3 created")
 	if should_make_anki_deck:
 		create_anki_deck(deck, all_audio_files)
