@@ -1,3 +1,8 @@
+look at midi_juggler.py to figure out how to split main.py into seperate files and classes
+
+I need a way to use imported audioOnly apkgs, right now it would not have the word/translation, we need to use that words field
+
+
 test
 	second language downloading
 	everything because we just refactored the main loop
@@ -24,7 +29,10 @@ New Functionality
 
 Simple
 	-make an opt for showing prints
+		show number of lines/max, and/or number of api calls/max
 	-make exporting an audio lesson show stats
+		number pased
+		number rejected
 	-put instructions in readme 
 		by default source.txt is used
 		explain the difference of formatted and not
@@ -55,16 +63,6 @@ Misc Thoughts
 Notes
 	-figure out how to tell which way a card is going
 		-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
-
-
-
-
-
-
-
-
-
-
 
 
 
