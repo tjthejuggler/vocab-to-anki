@@ -32200,3 +32200,251 @@ perveq - besides - no hint
 
 vizionet - vision - no hint
 
+dobëtit - weak - no hint
+
+festojme - celebrate - no hint
+
+lejuan - allowed - no hint
+
+zgjosh - wake - no hint
+
+dyjat - both - no hint
+
+bože - god - no hint
+
+moto - motorcycle - no hint
+
+qeshë - laughs - no hint
+
+arçi - arçi - no hint
+
+sherbim - service - no hint
+
+gibson - gibson - no hint
+
+flasi - speak - no hint
+
+tezeus - thesis - no hint
+
+shoqërohesh - associate - no hint
+
+ro - ro - no hint
+
+shtiremi - pretend - no hint
+
+mbathe - dress up - no hint
+
+mio - my - no hint
+
+piste - track - no hint
+
+dergoni - send too - no hint
+
+tango - tango - no hint
+
+tundim - temptation - no hint
+
+gjeneratorin - generator - no hint
+
+varësi - depending - no hint
+
+freno - brake - no hint
+
+ambasador - ambassador - no hint
+
+xhip - jeep - no hint
+
+paulin - paulin - no hint
+
+shampanja - shampanja - no hint
+
+anëtarëve - memberships - no hint
+
+disqet - drives - no hint
+
+origjinë - origin - no hint
+
+shpifin - slander - no hint
+
+psikike - psychic - no hint
+
+urith - urith - no hint
+
+shekulli - century - no hint
+
+artisti - artists - no hint
+
+pabesë - backhand - no hint
+
+christ - christ - no hint
+
+këndonte - singing - no hint
+
+play - play - no hint
+
+pokeri - poker - no hint
+
+janie - janie - no hint
+
+kushtonte - devoting - no hint
+
+paradë - parade - no hint
+
+mbrojtësit - lawyer - no hint
+
+klinike - clinics - no hint
+
+houston - houston - no hint
+
+hidraulik - plumber - no hint
+
+kuckë - bitch - no hint
+
+engjulli - angel - no hint
+
+gjerdan - necklace - no hint
+
+kanaçe - tin - no hint
+
+përforcim - strengthened - no hint
+
+pesa - weighs - no hint
+
+përjeton - experiencing - no hint
+
+senati - senate - no hint
+
+spartakun - spartakun - no hint
+
+njumar - njumar - no hint
+
+ngritën - up - no hint
+
+afërmi - closely - no hint
+
+paguajm - willingly pay - no hint
+
+ringut - the ring - no hint
+
+fituese - winning - no hint
+
+vizatim - drawing - no hint
+
+pastrohu - purify - no hint
+
+zulu - zulu - no hint
+
+grushtit - coup - no hint
+
+fëlliq - soil - no hint
+
+sheril - sheril - no hint
+
+qeranë - rent - no hint
+
+andërud - andërud - no hint
+
+admiruar - admired - no hint
+
+peshkuar - fish - no hint
+
+pesti - pesti - no hint
+
+shërimin - recovering - no hint
+
+plage - beach - no hint
+
+server - server - no hint
+
+formularin - form - no hint
+
+dyshohet - suspected - no hint
+
+vretë - kills - no hint
+
+lirua - released - no hint
+
+ida - east - no hint
+
+hamfri - hamfri - no hint
+
+klasin - class - no hint
+
+qa - qa - no hint
+
+shkoiië - shkoiië - no hint
+
+qeset - bags - no hint
+
+periudhe - period - no hint
+
+misrit - maize - no hint
+
+oi - hi - no hint
+
+dasme - nuptial - no hint
+
+hajnë - are eating - no hint
+
+mbrekullushme - wonderful - no hint
+
+dna - gout - no hint
+
+bombës - bomb - no hint
+
+njehë - recognize - no hint
+
+karlo - karlo - no hint
+
+xhensen - ginseng - no hint
+
+bashkëshortja - consort - no hint
+
+simite - simit - no hint
+
+sadopak - a little bit - no hint
+
+vizitojnë - visit - no hint
+
+evakuim - evacuation - no hint
+
+ngrohur - heat - no hint
+
+përgjigjmu - answer - no hint
+
+hidhuni - leap - no hint
+
+udhëheqësin - leader - no hint
+
+mendjemadh - conceited - no hint
+
+pafajshmit - innocent - no hint
+
+mbytë - kills - no hint
+
+provash - evidence - no hint
+
+trokas - knock - no hint
+
+trashe - thicken - no hint
+
+sek - sec - no hint
+
+taksinë - cab - no hint
+
+udhetimin - voyage - no hint
+
+pirati - pirates - no hint
+
+përgjigjia - answer - no hint
+
+trembi - frightened - no hint
+
+aktrim - plays - no hint
+
+nino - nino - no hint
+
+votat - vote - no hint
+
+blerjen - purchase - no hint
+
