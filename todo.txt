@@ -61,30 +61,16 @@ Misc Thoughts
 	-we should have a translate option that is 'preserve phrases that keeps chunks of text together if it is between punctuation' so we can translate entire phrases
 
 Notes
-	-figure out how to tell which way a card is going
-		-in note, ord 0 = foreign -> english & ord 1 = english -> foreign
+	figure out how to tell which way a card is going
+		in note, ord 0 = foreign -> english & ord 1 = english -> foreign
+	last word downloaded - yenilikler
 
-
-
-
-
-run other turkish 101 stuff through here:
-	single word vocab from 250 phrases(once completed)
-	turkish filler words
-	150 Most Common Phrases in Turkish(once completed)
+Maybe
+	-check to see if video has subtitles, if it does, then find the timestamp on the first instance of each word and make the url automatically have that timestamp built in
+	-run other turkish 101 stuff through here:
+		single word vocab from 250 phrases(once completed)
+		turkish filler words
+		150 Most Common Phrases in Turkish(once completed)
 
 do this for single words in turkish_conversation
 	TurkishClass101 Word Power Audible (in turkish_vocab)
-
-
-
-
-
-
-check to see if video has subtitles, if it does, then find the timestamp on the first instance of each word and make the url automatically have that timestamp built in
-
-EVENTUALLY:
-
-write a scraper that finds out which language pairs are missing from anki shared decks
-	use local dictionaries/translations to get the names of all popular languages in different languages
-make decks for those pairs

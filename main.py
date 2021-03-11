@@ -17,7 +17,9 @@ import sqlite3
 from operator import itemgetter
 import zipfile
 import argparse
-
+from anki_helper import *
+from file_helper import *
+from audio_lesson_helper import *
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -127,64 +129,12 @@ print('should_translate', should_translate)
 print('number_of_languages_given', number_of_languages_given)
 print('number_of_languages_to_download', number_of_languages_to_download)
 
-new_deck_name = deck_name
-
-if should_make_anki_deck_audio_only:
-	new_deck_name = new_deck_name + 'only'
-
-
-
-deck = genanki.Deck(round(time.time()), new_deck_name)
-
-deck_model = genanki.Model(
-	163335419,
-	'Simple Model With Hint',
-	fields=[
-		{'name': 'Question'},
-		{'name': 'Answer'},
-		{'name': 'Hint'},
-		{'name': 'URL'},		
-		{'name': 'Audio'},
-	],
-	templates=[
-		{
-			'name': 'Card 1',
-			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}<br><a href={{URL}}>video</a>{{Audio}}',
-		},
-		{
-			'name': 'Card 2',
-			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}<br><a href={{URL}}>video</a>{{Audio}}',
-		}
-	])
-
-deck_model_audio_only = genanki.Model(
-	137694419,
-	'Audio Only With Hint',
-	fields=[
-		{'name': 'Question'},
-		{'name': 'Answer'},
-		{'name': 'Hint'},
-		{'name': 'URL'},		
-		{'name': 'Words'},
-	],
-	templates=[
-		{
-			'name': 'Card 1',
-			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}{{Words}}',
-		},
-		{
-			'name': 'Card 2',
-			'qfmt': '{{Answer}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
-			'afmt': '{{FrontSide}}<hr id="answer">{{Question}}{{Words}}',
-		}
-	])
-
 def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 	with zipfile.ZipFile(filename+".apkg", 'r') as zip_ref:
 		zip_ref.extractall(cwd+"/unzipped_apkg/"+filename)
+	new_deck_name = deck_name
+	if should_make_anki_deck_audio_only:
+		new_deck_name = new_deck_name + 'only'
 	accepted_cards = []
 	connection = sqlite3.connect(cwd+"/unzipped_apkg/"+filename+"/collection.anki2")  # connect to your DB
 	cursor = connection.cursor()  # get a cursor
@@ -236,7 +186,7 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 		new_card = accepted_card[0]+' - '+accepted_card[1]+' - '+accepted_card[2]
 		if not new_card in lines_to_return:
 			lines_to_return.append(new_card)
-	return lines_to_return
+	return lines_to_return, new_deck_name
 
 def determine_if_formatted(lines):
 	percent_formatted = 0
@@ -252,48 +202,6 @@ def determine_if_formatted(lines):
 	print('isformatted',is_formatted)
 	return is_formatted
 
-def create_anki_deck(my_deck, all_audio_files):
-	my_package = genanki.Package(deck)
-	my_package.media_files = all_audio_files
-	my_package.write_to_file("anki/"+new_deck_name+'.apkg')
-
-def create_anki_note(word, translation, hint, tag, url, all_audio_files):
-	word_audio_file = word+'.mp3'
-	each_audios = []
-	for each in word:
-		each_audios.append('[sound:'+each+'.mp3]')
-	translation_audio_file = translation+'.mp3'
-	if mp3_exists(word, first_lang):
-		all_audio_files.append(pron_fold+'/'+first_lang+'/'+word_audio_file)
-	if should_make_anki_deck_audio_only:
-		if mp3_exists(translation, second_lang):
-			all_audio_files.append(pron_fold+'/'+second_lang+'/'+translation_audio_file)
-		my_note = genanki.Note(
-						model=deck_model_audio_only,
-						tags=[tag],
-						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')', '[sound:'+translation_audio_file+']', word+'\n'+hint, url, word +' - '+translation])
-	else:
-		if using_two_langs:
-			if mp3_exists(translation, second_lang):
-				all_audio_files.append(pron_fold+'/'+second_lang+'/'+translation_audio_file)	
-			my_note = genanki.Note(
-				model=deck_model,
-				tags=[tag],
-				fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ''])
-		else:
-			my_note = genanki.Note(
-				model=deck_model,
-				tags=[tag],
-				fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
-				#fields=[word + ' ('+str(round(time.time()))+')', translation, hint, url, '[sound:'+word_audio_file+']'])
-
-	#all_audio_files.append(cwd+'/'+second_lang+'/'+translation_audio_file)
-	# my_note = genanki.Note(
-	# 	model=deck_model,
-	# 	tags=[tag],
-	# 	fields=[word + ' ('+str(round(time.time()))+')'+'[sound:'+word_audio_file+']', translation+'[sound:'+translation_audio_file+']', hint, url, ])
-	return my_note, all_audio_files
-
 def has_previously_failed(word, lang):
 	has_failed = False
 	try:
@@ -308,16 +216,6 @@ def has_previously_failed(word, lang):
 	except:
 		print(lang +' folder does not exist')
 	return has_failed
-
-def mp3_exists(translation, lang):
-	exists = False
-	try:
-		with open(pron_fold+'/'+lang+'/'+translation+'.mp3') as f:
-			exists = True
-	except IOError:
-		#print("File does not exist", translation)
-		pass
-	return exists
 
 def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang):
 	local_dict_file = src_lang+'_'+dest_lang+'.json'
@@ -376,17 +274,11 @@ def get_local_dictionary(first_lang, second_lang):
 	local_dict_file = langs[0]+'_'+langs[1]+'.json'
 	return local_dict_file, swapped
 
-
 def translate_text(target, text):
 	translate_client = translate.Client()
 	if isinstance(text, six.binary_type):
 		text = text.decode("utf-8")
-	# Text can also be a sequence of strings, in which case this method
-	# will return a sequence of results for each text.
 	result = translate_client.translate(text, target_language=target)
-	# print(u"Text: {}".format(result["input"]))
-	# print(u"Translation: {}".format(result["translatedText"]))
-	# print(u"Detected source language: {}".format(result["detectedSourceLanguage"]))
 	return(format(result["translatedText"]))
 
 def download_if_needed(word, lang):
@@ -451,20 +343,7 @@ def program_end():
 def create_output_file(filename, output_lines):
 	with open(cwd+'/output/'+filename + '.txt', 'w') as f:
 		for item in output_lines:
-			f.write("%s\n" % item)
-#last word downloaded - yenilikler
-
-def concatenate_words_into_mp3_if_needed(word_list, lang):
-	if not mp3_exists(word_list, lang):
-		mp3_to_export = []
-		for word in word_list.split():
-			print('conc word', word, lang)
-			if mp3_exists(word, lang):
-				print('making segment', word)
-				mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+lang+'/'+word+'.mp3')))
-		if mp3_to_export:
-			cominedMP3 = sum(mp3_to_export)
-			cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'.mp3', format="mp3")
+			f.write("%s\n" % item.strip("\n"))
 
 def detect_leading_silence(sound, silence_threshold=-45.0, chunk_size=400):
     trim_ms = 0 # ms
@@ -494,7 +373,6 @@ def add_apostrophe_if_needed(line):
 			local_dict = json.load(json_file)
 			if file in local_dict:
 				to_return = local_dict[file].replace(".mp3","")
-	#print(to_return, 'ret')
 	return to_return
 
 def clean_string(line):
@@ -544,61 +422,23 @@ def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_la
 	concatenate_words_into_mp3_if_needed(second_word, second_lang)		
 	return have_all_mp3s
 
-def create_normal_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
-	audio = AudioSegment.silent(duration=10)
-	if second_sound.duration_seconds < 3:
-		audio += first_sound + long_silence + second_sound + short_silence + second_sound
-	else:
-		audio += first_sound + long_silence + second_sound + short_silence
-		audio += second_sound + long_silence + second_sound + short_silence + second_sound
-	return audio
-
-def create_reverse_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
-	audio = AudioSegment.silent(duration=10)
-	if first_sound.duration_seconds < 3:
-		audio += second_sound + long_silence + second_sound + short_silence + first_sound
-		audio += short_silence + second_sound
-	else:
-		audio += second_sound + long_silence + second_sound + short_silence + first_sound
-		audio += long_silence + second_sound + short_silence + second_sound
-	return audio
-
-def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict):
-	audio = AudioSegment.silent(duration=10)
-	text = first_word + ' - ' + second_word + ' - ' + hint
-	use_normal_order = True
-	if text in audio_lesson_order_dict:
-		use_normal_order = not audio_lesson_order_dict[text]
-	else:
-		random_bit = random.getrandbits(1)
-		use_normal_order = bool(random_bit)
-	print('making audio', first_word, second_word)
-	first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'.mp3')
-	second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'.mp3')
-	long_silence = AudioSegment.silent(duration=second_sound.duration_seconds*2000)					
-	short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
-	if use_normal_order:
-		audio = create_normal_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence)
-	else:
-		audio = create_reverse_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence)
-	return audio, text, use_normal_order
-
 def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 	if use_anki_file:
 		print("deck_name", deck_name)
-		lines = get_word_list_from_apkg(deck_name, only_get_anki_cards_being_worked_on)
+		lines, new_deck_name = get_word_list_from_apkg(deck_name, only_get_anki_cards_being_worked_on)
 		print('lines', lines)
 	else:	
 		file = open( "source.txt", "r")
 		lines = file.readlines()
 		file.close()
-		deck_name = lines[0].replace(' ','_').strip()
+		new_deck_name = lines[0].replace(' ','_').strip()
 		url = lines[1]
 		lines = lines[2:]
-	return lines
+	return lines, new_deck_name
 
 def main(deck_name, only_get_anki_cards_being_worked_on):
-	lines = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on)
+	lines, new_deck_name = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on)
+	deck = genanki.Deck(round(time.time()), new_deck_name)
 	is_formatted = determine_if_formatted(lines)
 	stop_everything_except_make_audio = False
 	audio_lesson_order_dict = {}
@@ -620,9 +460,6 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 	for line in lines:
 		if should_make_audio_lesson and line == "beyond this point is just for audio lesson":
 			stop_everything_except_make_audio = True
-			print('ture')
-
-		print('line', line)
 		total_lines+=1
 		if total_lines == max_lines:
 			break
@@ -660,7 +497,7 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 						create_output_file('new_source',output_lines)
 					if should_make_anki_deck:
 						concatenate_words_into_mp3_if_needed(first_word, first_lang)
-						note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files)
+						note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
 						deck.add_note(note)
 				if should_make_audio_lesson:
 					have_all_mp3s = check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang)
@@ -680,7 +517,7 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 		audio_lesson_output.export(cwd+'/mp3_output/'+new_deck_name+rand_num+"_audio.mp3", format="mp3")
 		print(deck_name+rand_num+"_audio.mp3 created")
 	if should_make_anki_deck:
-		create_anki_deck(deck, all_audio_files)
+		create_anki_deck(deck, new_deck_name, all_audio_files)
 	program_end()
 
 main(deck_name, only_get_anki_cards_being_worked_on)
