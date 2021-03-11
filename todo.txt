@@ -1,7 +1,7 @@
+bugs
+	first line didn't download once, is this every time?
+
 look at midi_juggler.py to figure out how to split main.py into seperate files and classes
-
-I need a way to use imported audioOnly apkgs, right now it would not have the word/translation, we need to use that words field
-
 
 test
 	second language downloading

@@ -196,9 +196,25 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 		flds_selection = cursor2.fetchall()
 		fld = ' '.join(flds_selection[0])
 		split_fld = fld.split('\x1f')
-		word = re.sub("[\(\[].*?[\)\]]", "", split_fld[0]).strip()
-		translation = split_fld[1]
-		hint = split_fld[2]
+		print('split_fld', split_fld)
+		word = ''
+		translation = ''
+		hint = ''
+		using_audio_only_apkg = False
+		if ' - ' in split_fld[4]:
+			using_audio_only_apkg = True
+		if using_audio_only_apkg:			
+			word = split_fld[4].split(' - ')[0]
+			translation = split_fld[4].split(' - ')[1]
+			print('word',word)
+			hint = split_fld[2].split('\n')[1]
+			print('translation',translation)
+			print('hint', hint)
+		else:
+			split_fld = fld.split('\x1f')
+			word = re.sub("[\(\[].*?[\)\]]", "", split_fld[0]).strip()
+			translation = split_fld[1]
+			hint = split_fld[2]	
 		card_info = [word, translation, hint, ivl, factor]
 		if only_get_anki_cards_being_worked_on:
 			if ivl == 0 and due > 10000:
