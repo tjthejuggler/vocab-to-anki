@@ -1,3 +1,9 @@
+put these together in a 2d list:
+	list_of_not_downloaded_mp3s = []
+	list_of_downloaded_mp3s = []
+	list_of_already_had_mp3s = []
+	list_of_previously_failed_mp3s = []
+
 bugs
 	first line didn't download once, is this every time?
 
@@ -50,6 +56,10 @@ Eventually
 Refactoring
 	-fix variable names
 	-split main into different files
+		-make a print_helper.py
+		-make a string_helper.py
+		-move download_if_needed into pronunciation_download_helper.py
+		-make translation_helper.py
 
 Maybe
 	make a combine_failed_words program

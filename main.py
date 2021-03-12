@@ -2,7 +2,6 @@ import genanki
 import time
 import os
 from os import path
-from frtest import DownloadMp3ForAnki
 import re
 from pathlib import Path
 import sys
@@ -20,6 +19,7 @@ import argparse
 from anki_helper import *
 from file_helper import *
 from audio_lesson_helper import *
+from pronunciation_download_helper import *
 
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
@@ -42,13 +42,8 @@ should_make_audio_lesson = False
 first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 number_of_languages_given = 0
 number_of_languages_to_download = 0
-api_calls = 0
 max_api_calls = 10000
 max_lines = 100000
-list_of_not_downloaded_mp3s = []
-list_of_downloaded_mp3s = []
-list_of_already_had_mp3s = []
-list_of_previously_failed_mp3s = []
 only_get_anki_cards_being_worked_on = False
 use_anki_file = False
 deck_name = ''
@@ -134,7 +129,7 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on):
 		zip_ref.extractall(cwd+"/unzipped_apkg/"+filename)
 	new_deck_name = deck_name
 	if should_make_anki_deck_audio_only:
-		new_deck_name = new_deck_name + 'only'
+		new_deck_name = new_deck_name + 'Only'
 	accepted_cards = []
 	connection = sqlite3.connect(cwd+"/unzipped_apkg/"+filename+"/collection.anki2")  # connect to your DB
 	cursor = connection.cursor()  # get a cursor
@@ -202,21 +197,6 @@ def determine_if_formatted(lines):
 	print('isformatted',is_formatted)
 	return is_formatted
 
-def has_previously_failed(word, lang):
-	has_failed = False
-	try:
-		file = open(pron_fold+'/'+lang+'/'+lang+"_failed_words.txt", "r")
-		lines = file.readlines()
-		file.close()
-		#print('has_previously_failed chec word',word)
-		for line in lines:
-			#print('has_previously_failed chec',line)
-			if word.strip('\n') == line.strip('\n'):
-				has_failed = True
-	except:
-		print(lang +' folder does not exist')
-	return has_failed
-
 def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang):
 	local_dict_file = src_lang+'_'+dest_lang+'.json'
 	local_dict = {}
@@ -281,36 +261,10 @@ def translate_text(target, text):
 	result = translate_client.translate(text, target_language=target)
 	return(format(result["translatedText"]))
 
-def download_if_needed(word, lang):
-	global api_calls
-	global list_of_already_had_mp3s
-	global list_of_previously_failed_mp3s
-	global list_of_downloaded_mp3s
-	global list_of_not_downloaded_mp3s
-	if api_calls < max_api_calls:
-		if not has_previously_failed(word, lang):
-			if not mp3_exists(word, lang):
-				#print('did download',line)
-				new_api_calls = DownloadMp3ForAnki(word, lang)
-				api_calls = api_calls + new_api_calls
-				if new_api_calls == 1:
-					list_of_not_downloaded_mp3s.append(word)
-				else:
-					list_of_downloaded_mp3s.append(word)
-			else:
-				list_of_already_had_mp3s.append(word)
-				print(' '*60,'MP3 already exists',word)
-		else:
-			list_of_previously_failed_mp3s.append(word)
-			print(' '*40,'has previously failed',word)
-	else:
-		print('\nMax API calls reached!')
-		program_end()
-
 def show_translate_stats():
 	print('\nTRANSLATE STATS')
 
-def show_download_stats():
+def show_download_stats(api_calls, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s):
 	print('\nDOWNLOAD STATS')
 	print('API calls: ' + str(api_calls))
 	print('successfully downloaded: '+str(len(list_of_downloaded_mp3s)))
@@ -318,7 +272,7 @@ def show_download_stats():
 	print('previously failed to download: '+str(len(list_of_previously_failed_mp3s)))
 	print('already had: '+str(len(list_of_already_had_mp3s)))
 
-def create_download_output_text():
+def create_download_output_text(list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s):
 	create_output_file('download_succeed', list_of_downloaded_mp3s)
 	create_output_file('download_failed', list_of_not_downloaded_mp3s)
 	create_output_file('download_previously', list_of_previously_failed_mp3s)
@@ -328,14 +282,14 @@ def show_audio_lesson_stats(number_of_audio_lesson_passed):
 	print('AUDIO LESSON STATS')
 	print('entries passed: ', number_of_audio_lesson_passed)
 
-def program_end():
+def program_end(api_calls, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s):
 	number_of_audio_lesson_passed = 0 #this needs dealt with
 	print('\n')
 	if should_translate:
 		show_translate_stats()
 	if should_download:
-		show_download_stats()
-		create_download_output_text()
+		show_download_stats(api_calls, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s)
+		create_download_output_text(list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s)
 	if should_make_audio_lesson:
 		show_audio_lesson_stats(number_of_audio_lesson_passed)
 	sys.exit()
@@ -344,22 +298,6 @@ def create_output_file(filename, output_lines):
 	with open(cwd+'/output/'+filename + '.txt', 'w') as f:
 		for item in output_lines:
 			f.write("%s\n" % item.strip("\n"))
-
-def detect_leading_silence(sound, silence_threshold=-45.0, chunk_size=400):
-    trim_ms = 0 # ms
-    assert chunk_size > 0 # to avoid infinite loop
-    while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold and trim_ms < len(sound):
-        trim_ms += chunk_size
-    return trim_ms
-
-def remove_silence(sound):
-	start_trim = detect_leading_silence(sound)
-	end_trim = detect_leading_silence(sound.reverse())
-	duration = len(sound)    
-	trimmed_sound = sound[start_trim:duration-end_trim]
-	silence = AudioSegment.silent(duration=500)
-	trimmed_sound_with_silence = trimmed_sound + silence
-	return trimmed_sound
 
 def string_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
@@ -388,39 +326,11 @@ def remove_special_characters_and_add_apostrophes(line):
 	line = remove_special_characters(line)
 	return add_apostrophe_if_needed(line)	
 
-def split_and_download(word_to_download, lang):
-	if len(word_to_download.split()) < 3:
-		download_if_needed(word_to_download, lang)
-		if not mp3_exists(word_to_download, lang) and len(word_to_download.split()) == 2:
-			download_if_needed(word_to_download.split()[0], lang)
-			download_if_needed(word_to_download.split()[1], lang)
-	else:
-		for word in word_to_download.split():
-			download_if_needed(word, lang)
-
 def get_hint_from_formatted_line(split_line):
 	hint = ""
 	if len(split_line) > 2:
 		hint = split_line[2]
 	return hint
-
-def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang):
-	have_all_mp3s = True
-	for word in first_word.split():
-		download_if_needed(word, first_lang)
-		if require_individual_words_for_audio and not mp3_exists(word, first_lang):							
-			have_all_mp3s = False
-	for word in second_word.split():
-		download_if_needed(word, second_lang)
-		if require_individual_words_for_audio and not mp3_exists(word, second_lang):								
-			have_all_mp3s = False
-	if not mp3_exists(first_word, first_lang):
-		have_all_mp3s = False										
-	if not mp3_exists(second_word, second_lang):
-		have_all_mp3s = False
-	concatenate_words_into_mp3_if_needed(first_word, first_lang)
-	concatenate_words_into_mp3_if_needed(second_word, second_lang)		
-	return have_all_mp3s
 
 def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 	if use_anki_file:
@@ -437,6 +347,11 @@ def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on):
 	return lines, new_deck_name
 
 def main(deck_name, only_get_anki_cards_being_worked_on):
+	api_calls = 0
+	list_of_not_downloaded_mp3s = []
+	list_of_downloaded_mp3s = []
+	list_of_already_had_mp3s = []
+	list_of_previously_failed_mp3s = []
 	lines, new_deck_name = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on)
 	deck = genanki.Deck(round(time.time()), new_deck_name)
 	is_formatted = determine_if_formatted(lines)
@@ -474,7 +389,7 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 					if translation:
 						output_lines.append(word + ' - ' + translation + ' - no hint\n')
 				if should_download:
-					download_if_needed(word, first_lang)
+					api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word, first_lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
 			if should_translate:
 				create_output_file('new_source',output_lines)
 		elif is_formatted == True:
@@ -487,9 +402,9 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 				hint = get_hint_from_formatted_line(split_line)
 				if not stop_everything_except_make_audio:
 					if should_download:
-						split_and_download(first_word, first_lang)
+						api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = split_and_download(first_word, first_lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
 						if number_of_languages_to_download > 1:
-							split_and_download(second_word, second_lang)
+							api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = split_and_download(second_word, second_lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
 					if should_translate:
 						translation = get_translation(first_word).replace('-','/')
 						if translation:
@@ -500,11 +415,10 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 						note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
 						deck.add_note(note)
 				if should_make_audio_lesson:
-					have_all_mp3s = check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang)
+					have_all_mp3s = check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang, require_individual_words_for_audio, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
 					if have_all_mp3s:
 						audio, text, use_normal_order = prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict)
 						audio_lesson_order_dict[text] = use_normal_order
-						print(audio_lesson_order_dict)
 						audio_lesson_output += audio
 						audio_text.append(text)
 	rand_num = ''					
@@ -518,6 +432,6 @@ def main(deck_name, only_get_anki_cards_being_worked_on):
 		print(deck_name+rand_num+"_audio.mp3 created")
 	if should_make_anki_deck:
 		create_anki_deck(deck, new_deck_name, all_audio_files)
-	program_end()
+	program_end(api_calls, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s)
 
 main(deck_name, only_get_anki_cards_being_worked_on)

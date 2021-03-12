@@ -8,20 +8,20 @@ pron_fold = home+'/pronunciations'
 def create_normal_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
 	audio = AudioSegment.silent(duration=10)
 	if second_sound.duration_seconds < 3:
-		audio += first_sound + long_silence + second_sound + short_silence + second_sound
+		audio += first_sound + long_silence + second_sound + short_silence + second_sound + short_silence 
 	else:
 		audio += first_sound + long_silence + second_sound + short_silence
-		audio += second_sound + long_silence + second_sound + short_silence + second_sound
+		audio += second_sound + long_silence + second_sound + short_silence + second_sound + short_silence 
 	return audio
 
 def create_reverse_audio_lesson_entry(first_sound, second_sound, long_silence, short_silence):
 	audio = AudioSegment.silent(duration=10)
 	if first_sound.duration_seconds < 3:
 		audio += second_sound + long_silence + second_sound + short_silence + first_sound
-		audio += short_silence + second_sound
+		audio += short_silence + second_sound + short_silence 
 	else:
 		audio += second_sound + long_silence + second_sound + short_silence + first_sound
-		audio += long_silence + second_sound + short_silence + second_sound
+		audio += long_silence + second_sound + short_silence + second_sound + short_silence 
 	return audio
 
 def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict):
