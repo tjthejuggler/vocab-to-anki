@@ -38,39 +38,36 @@ def has_previously_failed(word, lang):
             print(lang +' folder does not exist')
       return has_failed
 
-def download_if_needed(word, lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls):
-      if api_calls < max_api_calls:
-            if not has_previously_failed(word, lang):
-                  if not mp3_exists(word, lang):
-                        #print('did download',line)
-                        new_api_calls = DownloadMp3ForAnki(word, lang)
-                        api_calls = api_calls + new_api_calls
-                        if new_api_calls == 1:
-                              list_of_not_downloaded_mp3s.append(word)
-                        else:
-                              list_of_downloaded_mp3s.append(word)
+def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls):
+      list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s = mp3_download_lists
+      if not has_previously_failed(word, lang):
+            if not mp3_exists(word, lang):
+                  #print('did download',line)
+                  new_api_calls = DownloadMp3ForAnki(word, lang)
+                  api_calls = api_calls + new_api_calls
+                  if new_api_calls == 1:
+                        list_of_not_downloaded_mp3s.append(word)
                   else:
-                        list_of_already_had_mp3s.append(word)
-                        print(' '*60,'MP3 already exists',word)
+                        list_of_downloaded_mp3s.append(word)
             else:
-                  list_of_previously_failed_mp3s.append(word)
-                  print(' '*40,'has previously failed',word)
+                  list_of_already_had_mp3s.append(word)
+                  print(' '*60,'MP3 already exists',word)
       else:
-            print('\nMax API calls reached!')
-            program_end()
-      return api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s
+            list_of_previously_failed_mp3s.append(word)
+            print(' '*40,'has previously failed',word)
+      return api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s]
 
 
-def split_and_download(word_to_download, lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls):
+def split_and_download(word_to_download, lang, api_calls, mp3_download_lists, max_api_calls):
       if len(word_to_download.split()) < 3:
-            api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word_to_download, lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
+            api_calls, mp3_download_lists = download_if_needed(word_to_download, lang, api_calls, mp3_download_lists, max_api_calls)
             if not mp3_exists(word_to_download, lang) and len(word_to_download.split()) == 2:
-                  api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word_to_download.split()[0], lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
-                  api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word_to_download.split()[1], lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
+                  api_calls, mp3_download_lists = download_if_needed(word_to_download.split()[0], lang, api_calls, mp3_download_lists, max_api_calls)
+                  api_calls, mp3_download_lists = download_if_needed(word_to_download.split()[1], lang, api_calls, mp3_download_lists, max_api_calls)
       else:
             for word in word_to_download.split():
-                  api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word, lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)      
-      return api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s
+                  api_calls, mp3_download_lists = download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls)      
+      return api_calls, mp3_download_lists
 
 def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):
       # action, default is 'word-pronunciations', query, language, apikey, TRUE if free api(default), FALSE if commercial

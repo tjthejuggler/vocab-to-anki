@@ -33,14 +33,14 @@ def concatenate_words_into_mp3_if_needed(word_list, lang):
 			cominedMP3 = sum(mp3_to_export)
 			cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'.mp3', format="mp3")
 
-def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang, require_individual_words_for_audio, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls):
+def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang, require_individual_words_for_audio, api_calls, mp3_download_lists, max_api_calls):
 	have_all_mp3s = True
 	for word in first_word.split():
-		api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word, first_lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
+		api_calls, mp3_download_lists = download_if_needed(word, first_lang, api_calls, mp3_download_lists, max_api_calls)
 		if require_individual_words_for_audio and not mp3_exists(word, first_lang):							
 			have_all_mp3s = False
 	for word in second_word.split():
-		api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s = download_if_needed(word, second_lang, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, max_api_calls)
+		api_calls, mp3_download_lists = download_if_needed(word, second_lang, api_calls, mp3_download_lists, max_api_calls)
 		if require_individual_words_for_audio and not mp3_exists(word, second_lang):								
 			have_all_mp3s = False
 	if not mp3_exists(first_word, first_lang):
@@ -49,4 +49,4 @@ def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_la
 		have_all_mp3s = False
 	concatenate_words_into_mp3_if_needed(first_word, first_lang)
 	concatenate_words_into_mp3_if_needed(second_word, second_lang)		
-	return have_all_mp3s, api_calls, list_of_already_had_mp3s, list_of_previously_failed_mp3s, list_of_downloaded_mp3s, list_of_not_downloaded_mp3s			
+	return have_all_mp3s, api_calls, mp3_download_lists			
