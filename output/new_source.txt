@@ -1,9 +1,99 @@
-në - in - no hint
-do - do - no hint
-nuk - not - no hint
-i - i - no hint
-është - it&#39;s - no hint
-më - more - no hint
-po - po - no hint
-që - that - no hint
-një - a - no hint
+لا - no - no hint
+من - from - no hint
+في - at - no hint
+أن - that - no hint
+هذا - this - no hint
+على - on - no hint
+ما - what - no hint
+أنا - i am - no hint
+هل - do you - no hint
+و - and - no hint
+يا - oh - no hint
+ذلك - that - no hint
+لقد - lhave - no hint
+لم - did not - no hint
+ماذا - what - no hint
+هنا - here - no hint
+كان - it was - no hint
+أنت - you are - no hint
+إلى - to me - no hint
+هو - he is - no hint
+هذه - this is - no hint
+عن - about - no hint
+ان - that - no hint
+نعم - yeah - no hint
+هناك - over there - no hint
+كل - each - no hint
+ليس - not - no hint
+كنت - i was - no hint
+فقط - only - no hint
+الآن - right now - no hint
+مع - with - no hint
+شيء - thing - no hint
+الذي - which - no hint
+لكن - but - no hint
+يجب - must - no hint
+لك - is yours - no hint
+لن - will not - no hint
+كيف - how - no hint
+أجل - yes - no hint
+انا - i am - no hint
+حسنا - okay - no hint
+فى - at - no hint
+لي - mine - no hint
+نحن - we - no hint
+سوف - will - no hint
+إنه - it&#39;s a - no hint
+كانت - she was - no hint
+عندما - when - no hint
+إذا - if - no hint
+لماذا - لماذا - no hint
+أي - which - no hint
+قد - may be - no hint
+أنه - it&#39;s a - no hint
+الأمر - command - no hint
+هي - she - no hint
+بعد - distance - no hint
+كذلك - as well - no hint
+حتى - even - no hint
+انه - it&#39;s a - no hint
+قبل - before - no hint
+أو - or - no hint
+لو - if - no hint
+أين - where - no hint
+التي - which - no hint
+الى - to me - no hint
+ولكن - let it go - no hint
+هيا - come on - no hint
+تلك - that - no hint
+ربما - maybe - no hint
+إنها - it - no hint
+أعرف - i know - no hint
+بعض - some - no hint
+يكون - is being - no hint
+ـ - ـ - no hint
+أريد - i want - no hint
+انت - you are - no hint
+إن - that - no hint
+أعتقد - think - no hint
+مثل - like - no hint
+عليك - on you - no hint
+به - to the - no hint
+بخير - fine - no hint
+أنك - you are - no hint
+صحيح - right - no hint
+الوقت - time - no hint
+أحد - one - no hint
+شخص - person - no hint
+رجل - a leg - no hint
+أعلم - i know - no hint
+جيد - good - no hint
+أكثر - more - no hint
+تكون - be - no hint
+علي - ali - no hint
+يمكن - could - no hint
+لذا - so - no hint
+كما - as such - no hint
+اليوم - today - no hint
+يبدو - sound - no hint
+أليس - is not - no hint

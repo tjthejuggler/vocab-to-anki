@@ -1,17 +1,11 @@
-put these together in a 2d list:
-	list_of_not_downloaded_mp3s = []
-	list_of_downloaded_mp3s = []
-	list_of_already_had_mp3s = []
-	list_of_previously_failed_mp3s = []
-
 bugs
 	first line didn't download once, is this every time?
-
-look at midi_juggler.py to figure out how to split main.py into seperate files and classes
 
 test
 	second language downloading
 	everything because we just refactored the main loop
+audioOnly.apkgs should show hints on the back as well
+	in order to preserve the scheduling data we may need to do some special figureing out for this
 
 shalu
 	ask if longer mp3s are better, or shorter ones
@@ -24,7 +18,6 @@ Information gathering
 	find out how pretty printed jsons can be used
 
 New Functionality
-	-make audio lesson entries go both ways so we can have tr / en and en / tr
 	-make a confirmation of how many words will be downloaded/translated
 		-it could quickly tell (this is a little complicated and based on settings)
 			how many of the words we already have
