@@ -1,3 +1,5 @@
+give ending stats even if it ends due to max lines or max apis
+
 bugs
 	first line didn't download once, is this every time?
 

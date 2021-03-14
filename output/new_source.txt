@@ -1,99 +1,2644 @@
-لا - no - no hint
-من - from - no hint
-في - at - no hint
-أن - that - no hint
-هذا - this - no hint
-على - on - no hint
-ما - what - no hint
-أنا - i am - no hint
-هل - do you - no hint
-و - and - no hint
-يا - oh - no hint
-ذلك - that - no hint
-لقد - lhave - no hint
-لم - did not - no hint
-ماذا - what - no hint
-هنا - here - no hint
-كان - it was - no hint
-أنت - you are - no hint
-إلى - to me - no hint
-هو - he is - no hint
-هذه - this is - no hint
-عن - about - no hint
-ان - that - no hint
-نعم - yeah - no hint
-هناك - over there - no hint
-كل - each - no hint
-ليس - not - no hint
-كنت - i was - no hint
-فقط - only - no hint
-الآن - right now - no hint
-مع - with - no hint
-شيء - thing - no hint
-الذي - which - no hint
-لكن - but - no hint
-يجب - must - no hint
-لك - is yours - no hint
-لن - will not - no hint
-كيف - how - no hint
-أجل - yes - no hint
-انا - i am - no hint
-حسنا - okay - no hint
-فى - at - no hint
-لي - mine - no hint
-نحن - we - no hint
-سوف - will - no hint
-إنه - it&#39;s a - no hint
-كانت - she was - no hint
-عندما - when - no hint
-إذا - if - no hint
-لماذا - لماذا - no hint
-أي - which - no hint
-قد - may be - no hint
-أنه - it&#39;s a - no hint
-الأمر - command - no hint
-هي - she - no hint
-بعد - distance - no hint
-كذلك - as well - no hint
-حتى - even - no hint
-انه - it&#39;s a - no hint
-قبل - before - no hint
-أو - or - no hint
-لو - if - no hint
-أين - where - no hint
-التي - which - no hint
-الى - to me - no hint
-ولكن - let it go - no hint
-هيا - come on - no hint
-تلك - that - no hint
-ربما - maybe - no hint
-إنها - it - no hint
-أعرف - i know - no hint
-بعض - some - no hint
-يكون - is being - no hint
-ـ - ـ - no hint
-أريد - i want - no hint
-انت - you are - no hint
-إن - that - no hint
-أعتقد - think - no hint
-مثل - like - no hint
-عليك - on you - no hint
-به - to the - no hint
-بخير - fine - no hint
-أنك - you are - no hint
-صحيح - right - no hint
-الوقت - time - no hint
-أحد - one - no hint
-شخص - person - no hint
-رجل - a leg - no hint
-أعلم - i know - no hint
-جيد - good - no hint
-أكثر - more - no hint
-تكون - be - no hint
-علي - ali - no hint
-يمكن - could - no hint
-لذا - so - no hint
-كما - as such - no hint
-اليوم - today - no hint
-يبدو - sound - no hint
-أليس - is not - no hint
+да - yes - no hint
+е - is - no hint
+не - not - no hint
+се - se - no hint
+и - and - no hint
+на - on - no hint
+си - you are - no hint
+за - for - no hint
+ще - will - no hint
+че - that - no hint
+това - this - no hint
+ли - whether - no hint
+в - in - no hint
+ти - you - no hint
+от - from - no hint
+ми - we - no hint
+с - from - no hint
+какво - what - no hint
+го - him - no hint
+съм - i am - no hint
+но - but - no hint
+аз - i - no hint
+те - they - no hint
+трябва - must - no hint
+добре - good - no hint
+ме - me - no hint
+са - are - no hint
+няма - there is no - no hint
+ако - if - no hint
+може - can - no hint
+тук - here - no hint
+така - so - no hint
+а - and - no hint
+ви - you - no hint
+като - such as - no hint
+много - a lot - no hint
+той - he - no hint
+по - by - no hint
+има - there is - no hint
+беше - it was - no hint
+нещо - something - no hint
+му - mu - no hint
+как - as - no hint
+защо - why - no hint
+ни - us - no hint
+я - i - no hint
+знам - i know - no hint
+само - only - no hint
+всичко - everything - no hint
+мен - i - no hint
+сега - now - no hint
+теб - you - no hint
+тя - she - no hint
+искам - want - no hint
+мога - i can - no hint
+което - which - no hint
+още - more - no hint
+когато - when - no hint
+до - to - no hint
+ги - them - no hint
+този - this one - no hint
+просто - just - no hint
+сте - you are - no hint
+или - or - no hint
+къде - where - no hint
+би - would be - no hint
+тази - this one - no hint
+всички - all - no hint
+нали - right - no hint
+благодаря - thanks to - no hint
+сме - we are - no hint
+нищо - nothing - no hint
+толкова - so much - no hint
+знаеш - you know - no hint
+един - one - no hint
+защото - because - no hint
+след - after - no hint
+там - there - no hint
+време - time - no hint
+искаш - want - no hint
+мисля - i think - no hint
+който - which - no hint
+малко - a little - no hint
+кой - who - no hint
+имам - i have - no hint
+преди - before - no hint
+хайде - come on - no hint
+тези - these - no hint
+вече - already - no hint
+някой - someone - no hint
+о - about - no hint
+моля - please - no hint
+каза - he said - no hint
+наистина - really - no hint
+него - him - no hint
+ние - we - no hint
+които - who - no hint
+вие - you - no hint
+й - and - no hint
+съжалявам - i&#39;m sorry - no hint
+повече - more - no hint
+тогава - then - no hint
+става - becomes - no hint
+можеш - you can - no hint
+точно - exactly - no hint
+една - one - no hint
+все - all - no hint
+имаш - you have - no hint
+към - to - no hint
+колко - how much - no hint
+кажа - i say - no hint
+без - without - no hint
+никога - never - no hint
+при - at - no hint
+работа - job - no hint
+човек - person - no hint
+едно - one - no hint
+им - them - no hint
+ден - day - no hint
+бях - i was - no hint
+ето - here - no hint
+през - through - no hint
+бъде - be - no hint
+значи - means - no hint
+със - with - no hint
+дори - even - no hint
+хора - people - no hint
+път - road - no hint
+както - as - no hint
+нас - us - no hint
+години - years - no hint
+бил - was - no hint
+правиш - you do - no hint
+баща - father - no hint
+която - which - no hint
+разбира - understand - no hint
+мислиш - you think - no hint
+ами - well - no hint
+също - too - no hint
+нея - her - no hint
+направи - do - no hint
+вас - you - no hint
+винаги - always - no hint
+докато - while - no hint
+виж - see - no hint
+имаме - we have - no hint
+иска - want - no hint
+всеки - everyone - no hint
+майка - mother - no hint
+казах - said - no hint
+нека - let - no hint
+жена - woman - no hint
+видя - see - no hint
+хей - hey - no hint
+хората - people - no hint
+във - in - no hint
+дали - whether - no hint
+никой - no one - no hint
+неща - things - no hint
+направя - do - no hint
+пак - again - no hint
+тях - them - no hint
+кажи - say - no hint
+сър - sir - no hint
+място - place - no hint
+заради - because of - no hint
+прави - right - no hint
+можем - we can - no hint
+дяволите - hell - no hint
+кажеш - you say - no hint
+изглежда - it seems - no hint
+днес - today - no hint
+живота - of life - no hint
+трябваше - had to - no hint
+татко - father - no hint
+няколко - a few - no hint
+отново - again - no hint
+наред - ok - no hint
+боже - god - no hint
+здравей - hello - no hint
+друг - friend - no hint
+бих - should - no hint
+затова - therefore - no hint
+доста - quite a lot - no hint
+обичам - i love - no hint
+пари - money - no hint
+знае - he knows - no hint
+моя - my - no hint
+начин - way - no hint
+мислех - thought - no hint
+сам - myself - no hint
+нужда - need - no hint
+две - two - no hint
+дойде - came - no hint
+заедно - together - no hint
+добър - good - no hint
+ела - come - no hint
+приятел - friend - no hint
+нямам - i don&#39;t have - no hint
+после - after - no hint
+видим - we see - no hint
+правя - i do - no hint
+вечер - evening - no hint
+всъщност - in fact - no hint
+достатъчно - enough - no hint
+проблем - problems - no hint
+исках - i wanted - no hint
+живот - life - no hint
+сигурно - for sure - no hint
+нещата - things - no hint
+под - under - no hint
+чакай - wait - no hint
+говори - speaks - no hint
+каквото - whatever - no hint
+разбирам - i understand - no hint
+какъв - what - no hint
+ей - to her - no hint
+веднага - immediately - no hint
+три - three - no hint
+стана - got up - no hint
+казва - he says - no hint
+дай - give - no hint
+утре - tomorrow - no hint
+добро - good - no hint
+говоря - speaking - no hint
+била - was - no hint
+знаете - you know - no hint
+предвид - given - no hint
+колата - the car - no hint
+момиче - girl - no hint
+казвам - i say - no hint
+харесва - likes - no hint
+мамо - mom - no hint
+имате - you have - no hint
+нощ - night - no hint
+каква - what - no hint
+стане - becomes - no hint
+себе - myself - no hint
+работата - work - no hint
+скъпа - baby - no hint
+било - there were - no hint
+бе - be - no hint
+говориш - you speak - no hint
+случи - happened - no hint
+сигурен - sure - no hint
+пред - in front of - no hint
+между - between - no hint
+били - they were - no hint
+искате - you want - no hint
+стига - enough - no hint
+друго - something else - no hint
+моята - mine - no hint
+част - part - no hint
+освен - except - no hint
+направим - let&#39;s do it - no hint
+имаше - there was - no hint
+момчета - boys - no hint
+бяха - were - no hint
+мъж - man - no hint
+двамата - both - no hint
+кога - when - no hint
+мой - my - no hint
+някои - some - no hint
+върна - returned - no hint
+бързо - fast - no hint
+името - the name - no hint
+здрасти - hello - no hint
+извинете - sorry - no hint
+виждам - i see - no hint
+където - where - no hint
+бъда - be - no hint
+парите - the money - no hint
+хубаво - ok - no hint
+видях - i saw - no hint
+поне - at least - no hint
+остави - leave - no hint
+такъв - such - no hint
+помогна - helped - no hint
+дни - days - no hint
+скоро - soon - no hint
+направиш - you did - no hint
+у - in - no hint
+часа - o&#39;clock - no hint
+два - two - no hint
+добра - good - no hint
+брат - brother - no hint
+знаех - i knew - no hint
+радвам - i&#39;m glad - no hint
+деца - children - no hint
+ясно - clear - no hint
+около - near - no hint
+взема - takes - no hint
+господи - god - no hint
+приятели - friends - no hint
+момче - boy - no hint
+нямаше - there was none - no hint
+то - then - no hint
+минути - minutes - no hint
+щом - if - no hint
+правим - we do - no hint
+времето - the weather - no hint
+колкото - as much as - no hint
+чудесно - wonderful - no hint
+първо - first - no hint
+други - others - no hint
+могат - can - no hint
+нито - nor - no hint
+помощ - help - no hint
+твоя - yours - no hint
+страна - country - no hint
+предполагам - i guess - no hint
+спри - stop - no hint
+работи - works - no hint
+върви - go - no hint
+година - year - no hint
+момент - moment - no hint
+направил - did - no hint
+главата - the head - no hint
+здравейте - hello - no hint
+знаем - know - no hint
+къщата - the house - no hint
+имат - have - no hint
+случай - case - no hint
+вътре - inside - no hint
+срещу - against - no hint
+кажете - say - no hint
+можете - you can - no hint
+пъти - times - no hint
+трудно - hard - no hint
+дете - kid - no hint
+идея - idea - no hint
+човече - man - no hint
+страхотно - great - no hint
+почти - nearly - no hint
+значение - value - no hint
+твърде - too - no hint
+име - name - no hint
+света - the world - no hint
+означава - means - no hint
+децата - children - no hint
+такива - such - no hint
+голяма - great - no hint
+дъщеря - daughter - no hint
+върху - on - no hint
+въпрос - question - no hint
+казваш - you say - no hint
+давай - come on - no hint
+дома - houses - no hint
+май - may - no hint
+момента - the moment - no hint
+вкъщи - at home - no hint
+веднъж - once - no hint
+какви - what - no hint
+прав - right - no hint
+мамка - mother - no hint
+вероятно - probably - no hint
+сериозно - seriously - no hint
+всяка - each - no hint
+истината - the truth - no hint
+говорим - we are talking - no hint
+надявам - i hope - no hint
+щеше - he would - no hint
+идва - is coming - no hint
+виждаш - you see - no hint
+кого - whom - no hint
+откъде - from where - no hint
+такова - such - no hint
+обади - call - no hint
+вървим - we are walking - no hint
+вземи - take - no hint
+отида - go - no hint
+де - where - no hint
+чувствам - i feel - no hint
+понякога - sometimes - no hint
+мисли - thoughts - no hint
+сестра - sister - no hint
+мама - mother - no hint
+семейството - the family - no hint
+направих - i did - no hint
+искаше - he wanted - no hint
+над - over - no hint
+каже - says - no hint
+възможно - possible - no hint
+земята - the earth - no hint
+свят - world - no hint
+среща - meeting - no hint
+седмица - week - no hint
+лошо - bad - no hint
+моят - mine - no hint
+напълно - completely - no hint
+полицията - the police - no hint
+видиш - you see - no hint
+слушай - listen - no hint
+извинявай - sorry - no hint
+голям - large - no hint
+г - r - no hint
+мъртъв - dead - no hint
+намери - find - no hint
+искал - wanted - no hint
+чух - i heard - no hint
+бог - the god - no hint
+час - time - no hint
+твоята - yours - no hint
+вярно - true - no hint
+дам - dam - no hint
+даде - give - no hint
+казал - he said - no hint
+всичките - all - no hint
+сигурна - safe - no hint
+тръгваме - we are leaving - no hint
+пък - again - no hint
+коя - which - no hint
+странно - strange - no hint
+града - the city - no hint
+свърши - over - no hint
+училище - school - no hint
+готов - ready - no hint
+някога - sometime - no hint
+вратата - the door - no hint
+поговорим - let&#39;s talk - no hint
+цялата - the whole - no hint
+сякаш - as if - no hint
+такава - such - no hint
+моето - my - no hint
+скъпи - dear - no hint
+имах - i had - no hint
+разбираш - you understand - no hint
+искат - want - no hint
+смъртта - death - no hint
+очите - eyes - no hint
+ръцете - hands - no hint
+семейство - family - no hint
+нямаш - you don&#39;t have - no hint
+бяхме - we were - no hint
+сама - itself - no hint
+сърцето - the heart - no hint
+бъдеш - you will be - no hint
+телефона - phone - no hint
+син - son - no hint
+другите - others - no hint
+вярвам - i believe - no hint
+вижте - look - no hint
+джон - john - no hint
+щях - i would - no hint
+мястото - the place - no hint
+месеца - months - no hint
+кола - car - no hint
+проблеми - problems - no hint
+зад - behind - no hint
+прекалено - too much - no hint
+погледни - take a look - no hint
+моите - mine - no hint
+според - according to - no hint
+разбрах - understood - no hint
+двама - two - no hint
+пет - five - no hint
+някакъв - some - no hint
+мислите - you think - no hint
+намеря - find - no hint
+някъде - somewhere - no hint
+правят - they do - no hint
+чао - bye - no hint
+виждал - saw - no hint
+кое - which - no hint
+цялото - the whole - no hint
+звучи - sounds - no hint
+любов - love - no hint
+онзи - the one - no hint
+лесно - easy - no hint
+оттук - from here - no hint
+джак - jack - no hint
+дълго - long - no hint
+познавам - i know - no hint
+дума - word - no hint
+струва - worth it - no hint
+край - end - no hint
+шанс - chance - no hint
+обратно - back - no hint
+друга - another - no hint
+история - history - no hint
+долара - dollars - no hint
+някого - someone - no hint
+отколкото - than - no hint
+вода - water - no hint
+спокойно - calmly - no hint
+пътя - the road - no hint
+ало - hello - no hint
+връзка - connection - no hint
+нашата - our - no hint
+отиде - went - no hint
+същото - the same - no hint
+тялото - the body - no hint
+правите - you do - no hint
+долу - down - no hint
+супер - super - no hint
+стаята - the room - no hint
+случило - happened - no hint
+късно - late - no hint
+получи - get - no hint
+помогне - help - no hint
+превод - translation - no hint
+стая - room - no hint
+номер - number - no hint
+къща - house - no hint
+изглеждаш - you look - no hint
+право - right - no hint
+причина - reason - no hint
+отидем - let&#39;s go - no hint
+бъдат - be - no hint
+остана - stayed - no hint
+ужасно - awful - no hint
+помниш - you remember - no hint
+приятно - nicely - no hint
+нашите - ours - no hint
+започна - started - no hint
+повярвам - i believe - no hint
+края - the end - no hint
+някаква - any - no hint
+намерим - we find - no hint
+важно - important - no hint
+цял - whole - no hint
+затвора - prison - no hint
+бъди - be - no hint
+искаме - we want - no hint
+тръгвам - i&#39;m leaving - no hint
+отивам - i&#39;m going - no hint
+стой - wait - no hint
+съвсем - quite - no hint
+идвам - i&#39;m coming - no hint
+живее - lives - no hint
+нямаме - we don&#39;t have - no hint
+разбра - understood - no hint
+въпреки - although - no hint
+казват - say - no hint
+трябвало - should - no hint
+що - what - no hint
+нов - new - no hint
+глупости - nonsense - no hint
+целия - the whole - no hint
+лицето - the face - no hint
+убие - kill - no hint
+дойда - come - no hint
+готови - ready - no hint
+седмици - weeks - no hint
+изобщо - at all - no hint
+види - see - no hint
+дойдеш - you come - no hint
+работя - i work - no hint
+против - vs - no hint
+момичета - girls - no hint
+снощи - last night - no hint
+недей - do not - no hint
+опитвам - i&#39;m trying - no hint
+зле - bad - no hint
+първи - first - no hint
+пука - puka - no hint
+жени - women - no hint
+жив - alive - no hint
+добри - good - no hint
+кръв - blood - no hint
+обадя - call - no hint
+права - the rights - no hint
+двете - both - no hint
+явно - obviously - no hint
+обича - loves - no hint
+истински - real - no hint
+далеч - far away - no hint
+мъже - men - no hint
+обичаш - you love - no hint
+малка - small - no hint
+дръж - hold - no hint
+късмет - good luck - no hint
+лека - light - no hint
+секс - sex - no hint
+сутринта - in the morning - no hint
+сутрин - in the morning - no hint
+страх - fear - no hint
+човека - man - no hint
+правилно - correct - no hint
+информация - information - no hint
+навън - outside - no hint
+сигурност - security - no hint
+върне - return - no hint
+четири - four - no hint
+станало - happened - no hint
+можеше - could - no hint
+мина - mine - no hint
+родителите - parents - no hint
+знаят - they know - no hint
+нова - new - no hint
+общо - total - no hint
+горе - upstairs - no hint
+утро - morning - no hint
+грешка - error - no hint
+агент - agent - no hint
+почакай - wait - no hint
+насам - here - no hint
+иначе - otherwise - no hint
+сина - son - no hint
+пусни - let go - no hint
+харесвам - i like - no hint
+малък - small - no hint
+ръката - the hand - no hint
+храна - food - no hint
+чичо - uncle - no hint
+определено - definitely - no hint
+когото - whom - no hint
+убия - killing - no hint
+намерих - i found - no hint
+случва - happens - no hint
+ню - nude - no hint
+имал - had - no hint
+избор - choice - no hint
+господа - gentlemen - no hint
+очевидно - obviously - no hint
+забрави - forget it - no hint
+близо - close - no hint
+град - city - no hint
+оставя - leaves - no hint
+разбера - i understand - no hint
+нужно - need to - no hint
+направо - straight - no hint
+никого - nobody - no hint
+можех - i could - no hint
+вчера - yesterday - no hint
+ок - ok - no hint
+вечеря - dinner - no hint
+цяла - whole - no hint
+хареса - liked it - no hint
+майкъл - michael - no hint
+любовта - love - no hint
+детето - the child - no hint
+онази - that one - no hint
+гледам - i&#39;m watching - no hint
+убил - killed - no hint
+дошъл - came - no hint
+едва - barely - no hint
+гледай - look - no hint
+браво - well done - no hint
+вместо - instead - no hint
+момичето - the girl - no hint
+забавно - fun - no hint
+отвори - open - no hint
+познаваш - you know - no hint
+игра - game - no hint
+историята - the story - no hint
+чарли - charlie - no hint
+първата - the first - no hint
+твоите - yours - no hint
+някакви - some - no hint
+тръгна - he left - no hint
+дом - house - no hint
+особено - especially - no hint
+истина - the truth - no hint
+готова - ready - no hint
+смисъл - meaning - no hint
+дойдох - i came - no hint
+отиваш - you go - no hint
+взе - took - no hint
+представа - idea - no hint
+кафе - cafe - no hint
+план - plan - no hint
+джо - joe - no hint
+твоето - yours - no hint
+спрете - stop - no hint
+излезе - came out - no hint
+върнем - we return - no hint
+вид - view - no hint
+внимавай - be careful - no hint
+дядо - grandfather - no hint
+съпруга - wife - no hint
+дошли - came - no hint
+онова - that - no hint
+честно - fair - no hint
+мразя - i hate - no hint
+умре - will die - no hint
+госпожо - ma&#39;am - no hint
+ръка - hand - no hint
+промени - changes - no hint
+шест - six - no hint
+последните - the latter - no hint
+въпроса - the question - no hint
+хиляди - thousands - no hint
+господин - lord - no hint
+животът - life - no hint
+невероятно - unbelievable - no hint
+върнеш - you return - no hint
+война - war - no hint
+пич - dude - no hint
+врата - door - no hint
+господине - sir - no hint
+живея - i live - no hint
+приятелка - girlfriend - no hint
+досега - so far - no hint
+та - and - no hint
+ръце - hands - no hint
+голямо - great - no hint
+помислих - i thought - no hint
+навсякъде - everywhere - no hint
+даже - even - no hint
+бога - god - no hint
+казаха - they said - no hint
+довечера - tonight - no hint
+наоколо - around - no hint
+нашия - our - no hint
+трябват - need - no hint
+красива - beautiful - no hint
+месец - month - no hint
+смърт - death - no hint
+върни - return - no hint
+казвай - say - no hint
+онези - those - no hint
+покажа - showed - no hint
+довиждане - goodbye - no hint
+кара - drive - no hint
+чувстваш - you feel - no hint
+другата - the other - no hint
+възможност - opportunity - no hint
+назад - back - no hint
+лично - personal - no hint
+извън - outside - no hint
+луд - crazy - no hint
+нощта - the night - no hint
+вземем - we take - no hint
+успокой - calm down - no hint
+капитане - captain - no hint
+тате - dad - no hint
+интересува - interested - no hint
+тип - a type - no hint
+въпроси - questions - no hint
+бива - it happens - no hint
+бъдем - we will be - no hint
+ред - ed - no hint
+вземеш - you take - no hint
+момчето - the boy - no hint
+спаси - save - no hint
+отидеш - you go - no hint
+зная - knowing - no hint
+очи - eyes - no hint
+повечето - most - no hint
+помогнеш - you help - no hint
+обещавам - i promise - no hint
+том - tom - no hint
+прекрасно - perfectly - no hint
+убийство - murder - no hint
+думи - words - no hint
+ваше - your - no hint
+майк - mike - no hint
+напред - forward - no hint
+никакви - none - no hint
+тъкмо - just - no hint
+знаеше - he knew - no hint
+тревожи - worries - no hint
+вашата - your - no hint
+грижа - care - no hint
+случая - case - no hint
+помня - remember - no hint
+бизнес - business - no hint
+чакам - i&#39;m waiting - no hint
+внимание - attention - no hint
+започва - begins - no hint
+имало - there was - no hint
+чу - chu - no hint
+леглото - the bed - no hint
+често - often - no hint
+твой - yours - no hint
+опита - experience - no hint
+някоя - some - no hint
+йорк - york - no hint
+деня - of the day - no hint
+откакто - since - no hint
+ама - but - no hint
+оръжие - weapon - no hint
+разбере - understand - no hint
+разберем - let&#39;s understand - no hint
+отдавна - long ago - no hint
+приятелите - friends - no hint
+пише - write - no hint
+твоят - yours - no hint
+вземе - take - no hint
+всяко - every - no hint
+кои - who - no hint
+мерси - thanks - no hint
+щастлив - happy - no hint
+тъй - as - no hint
+чуй - listen - no hint
+коледа - christmas - no hint
+човекът - the man - no hint
+следващия - the next - no hint
+постоянно - constantly - no hint
+отиваме - we are going - no hint
+остане - stay - no hint
+сила - force - no hint
+прилича - looks like - no hint
+шефе - boss - no hint
+държи - hold - no hint
+чака - waiting - no hint
+работиш - you work - no hint
+новини - news - no hint
+дами - ladies - no hint
+престани - stop it - no hint
+питам - i ask - no hint
+боли - pain - no hint
+сара - sarah - no hint
+миналата - the past - no hint
+обикновено - usually - no hint
+задник - buttocks - no hint
+сами - themselves - no hint
+болницата - the hospital - no hint
+разбереш - you understand - no hint
+води - water - no hint
+нови - new - no hint
+къщи - houses - no hint
+останалите - the rest - no hint
+големи - large - no hint
+офиса - office - no hint
+хубава - beautiful - no hint
+пази - watch out - no hint
+връщам - i return - no hint
+мили - miles - no hint
+елате - come - no hint
+бебето - the baby - no hint
+ново - new - no hint
+филм - movie - no hint
+водата - the water - no hint
+играта - the game - no hint
+уби - kill - no hint
+жените - women - no hint
+идиот - idiot - no hint
+доктор - doctor - no hint
+намериш - you find - no hint
+използва - used - no hint
+идват - they are coming - no hint
+удоволствие - pleasure - no hint
+жената - the woman - no hint
+сложи - put - no hint
+реших - i decided - no hint
+търся - i&#39;m looking for - no hint
+франк - franc - no hint
+синът - the son - no hint
+направила - did - no hint
+задника - ass - no hint
+различни - different - no hint
+дейвид - david - no hint
+вярваш - you believe - no hint
+кажем - we say - no hint
+ох - oh - no hint
+взех - i took - no hint
+o - the - no hint
+искала - wanted - no hint
+вашите - your - no hint
+докторе - doctor - no hint
+бъдете - be - no hint
+чест - honor - no hint
+гледаш - you look - no hint
+полицай - the policeman - no hint
+търси - looking for - no hint
+парти - party - no hint
+решение - decision - no hint
+малки - small - no hint
+млъкни - shut up - no hint
+мое - my - no hint
+оправи - fix - no hint
+рано - early - no hint
+капитан - captain - no hint
+слушам - i&#39;m listening - no hint
+единственият - the only one - no hint
+джордж - george - no hint
+носи - wears - no hint
+ваша - your - no hint
+тръгвай - go - no hint
+другото - the other - no hint
+говорите - speak - no hint
+липсва - missing - no hint
+чувства - feelings - no hint
+съобщение - message - no hint
+хенри - henry - no hint
+махни - remove - no hint
+накара - made - no hint
+кораб - ship - no hint
+казала - she said - no hint
+помисли - think - no hint
+живееш - live - no hint
+оправя - fixes - no hint
+куче - dog - no hint
+бен - ben - no hint
+нашият - ours - no hint
+краката - legs - no hint
+милиона - million - no hint
+седни - sit down - no hint
+помогни - help - no hint
+видял - saw - no hint
+държа - hold - no hint
+спре - stop - no hint
+вземете - take it - no hint
+готово - ready - no hint
+отива - goes - no hint
+своя - own - no hint
+първия - the first - no hint
+могъл - could - no hint
+ходя - walking - no hint
+остава - remains - no hint
+снимки - photos - no hint
+помогнете - help - no hint
+страната - the country - no hint
+например - eg - no hint
+детектив - detective - no hint
+махай - wave - no hint
+питър - peter - no hint
+глупак - a fool - no hint
+копеле - bastard - no hint
+видите - see - no hint
+мила - honey - no hint
+проблемът - the problem - no hint
+появи - appeared - no hint
+чуваш - you hear - no hint
+смешно - funny - no hint
+убиец - killer - no hint
+баба - grandmother - no hint
+удари - hits - no hint
+десет - ten - no hint
+войната - the war - no hint
+дава - gives - no hint
+секунда - second - no hint
+държиш - you hold - no hint
+интересно - interesting - no hint
+бяхте - you were - no hint
+лош - bad - no hint
+последната - the last - no hint
+стар - star - no hint
+майната - fuck - no hint
+места - places - no hint
+бихте - you would - no hint
+кръвта - the blood - no hint
+група - group - no hint
+устата - mouth - no hint
+обаче - however - no hint
+адвокат - lawyer - no hint
+чакайте - wait - no hint
+оставете - leave - no hint
+проблема - problem - no hint
+нашето - ours - no hint
+подобно - similar - no hint
+отговори - answers - no hint
+секунди - seconds - no hint
+убийството - the murder - no hint
+снимка - photo - no hint
+абсолютно - absolutely - no hint
+тоя - he - no hint
+бебе - baby - no hint
+първият - the first - no hint
+идваш - you are coming - no hint
+америка - america - no hint
+завинаги - forever - no hint
+чрез - through - no hint
+мислят - they think - no hint
+дано - given - no hint
+опитва - trying - no hint
+началото - the beginning - no hint
+хлапе - kid - no hint
+минута - minute - no hint
+дани - of - no hint
+компания - company - no hint
+дайте - give - no hint
+система - system - no hint
+справя - handle - no hint
+мъртва - dead - no hint
+тайна - secret - no hint
+останеш - you stay - no hint
+лице - face - no hint
+контрол - control - no hint
+души - souls - no hint
+номера - rooms - no hint
+опитах - i tried - no hint
+следващата - the next - no hint
+вижда - sees - no hint
+опитай - try it - no hint
+притеснявай - worry - no hint
+оръжието - the weapon - no hint
+единственото - the only thing - no hint
+неговата - his - no hint
+лъжа - lie - no hint
+виждате - you see - no hint
+макс - max - no hint
+вината - guilt - no hint
+следи - traces - no hint
+виновен - guilty - no hint
+подарък - gift - no hint
+накрая - finally - no hint
+щастлива - happy - no hint
+внимателно - carefully - no hint
+почивка - rest - no hint
+невъзможно - impossible - no hint
+чак - chuck - no hint
+крака - legs - no hint
+влезе - entered - no hint
+последния - the last - no hint
+нося - wearing - no hint
+опит - experience - no hint
+нямах - i didn&#39;t have - no hint
+чувам - i hear - no hint
+чуя - hear - no hint
+джей - jay - no hint
+изпрати - send - no hint
+смятам - i think - no hint
+господ - sir - no hint
+виждала - she saw - no hint
+харесваш - like - no hint
+убиеш - you kill - no hint
+идеята - the idea - no hint
+момчетата - the boys - no hint
+мило - nicely - no hint
+кораба - ship - no hint
+братко - brother - no hint
+умра - died - no hint
+успех - good luck - no hint
+джеймс - james - no hint
+опитам - i try - no hint
+услуга - service - no hint
+субтитри - subtitles - no hint
+заповед - order - no hint
+бъдещето - the future - no hint
+пол - floor - no hint
+сред - middle - no hint
+помощта - help - no hint
+страхотна - great - no hint
+тихо - quiet - no hint
+фбр - fbr - no hint
+лекар - doctor - no hint
+the - the - no hint
+сърце - heart - no hint
+научи - learn - no hint
+току - current - no hint
+книга - book - no hint
+открих - i found - no hint
+из - of - no hint
+никакъв - none - no hint
+сватбата - the wedding - no hint
+представя - presents - no hint
+чувал - bag - no hint
+дадеш - you give - no hint
+мери - mary - no hint
+продължавай - keep going - no hint
+пълна - complete - no hint
+състояние - condition - no hint
+спомням - i remember - no hint
+миналото - the past - no hint
+започнем - let&#39;s start - no hint
+удар - hit - no hint
+отзад - from behind - no hint
+спра - stop - no hint
+изненада - surprise - no hint
+реши - decided - no hint
+ходи - walk - no hint
+убият - kill - no hint
+поздравления - congratulations - no hint
+екип - team - no hint
+синко - son - no hint
+пълен - full - no hint
+кълна - i swear - no hint
+събуди - wake up - no hint
+i - i - no hint
+нима - nima - no hint
+отвън - outside - no hint
+силно - strongly - no hint
+последно - last - no hint
+известно - known - no hint
+правила - regulations - no hint
+безопасност - safety - no hint
+умря - died - no hint
+сделка - deal - no hint
+музика - music - no hint
+причината - the reason - no hint
+джими - jimmy - no hint
+гърба - back - no hint
+лейтенант - lieutenant - no hint
+първа - first - no hint
+карта - map - no hint
+говорят - say - no hint
+направите - do - no hint
+хвана - caught - no hint
+покажи - show - no hint
+улицата - the street - no hint
+мъртви - dead - no hint
+взел - took - no hint
+седем - seven - no hint
+пръв - first - no hint
+книгата - the book - no hint
+алекс - alex - no hint
+твое - your - no hint
+мъжете - men - no hint
+избяга - escaped - no hint
+шегуваш - you are joking - no hint
+целият - the whole - no hint
+позволя - allows - no hint
+нормално - normal - no hint
+относно - concerning - no hint
+мира - the world - no hint
+грижи - care - no hint
+спреш - you stop - no hint
+съгласен - agree - no hint
+джейн - jane - no hint
+получих - i received - no hint
+гледа - watch - no hint
+никъде - nowhere - no hint
+същата - the same - no hint
+момичетата - the girls - no hint
+полиция - police - no hint
+бира - beer - no hint
+започваме - we begin - no hint
+песен - song - no hint
+глупаво - stupid - no hint
+ник - nick - no hint
+разкарай - get lost - no hint
+страхотен - great - no hint
+правил - rules - no hint
+тони - tons - no hint
+зависи - depends - no hint
+тая - she - no hint
+нямат - do not have - no hint
+разбирате - you understand - no hint
+единствената - the only one - no hint
+казваше - he said - no hint
+караш - karash - no hint
+боб - beans - no hint
+мърдай - move - no hint
+вървя - i&#39;m walking - no hint
+ходиш - you walk - no hint
+окей - okay - no hint
+приятелю - my friend - no hint
+спи - sleeps - no hint
+обяд - lunch - no hint
+срещнем - we meet - no hint
+някакво - some - no hint
+приключи - it&#39;s over - no hint
+влизай - come in - no hint
+дрехи - clothes - no hint
+нямате - you are not here - no hint
+пуснете - let go - no hint
+казахте - you said - no hint
+истинска - real - no hint
+хубав - nice - no hint
+телефон - telephone - no hint
+търсим - we are looking for - no hint
+половин - halves - no hint
+чисто - clean - no hint
+имахме - we had - no hint
+приятелката - the girlfriend - no hint
+различно - different - no hint
+шоу - show - no hint
+връзката - the connection - no hint
+ставай - get up - no hint
+жалко - sorry - no hint
+рей - ray - no hint
+биха - would - no hint
+търсиш - looking for - no hint
+говорих - i spoke - no hint
+попитам - i ask - no hint
+хари - harry - no hint
+успя - succeeded - no hint
+приема - reception - no hint
+напусна - left - no hint
+помага - helps - no hint
+спрем - stop - no hint
+огън - fire - no hint
+сметка - account - no hint
+излиза - comes out - no hint
+целта - the goal - no hint
+намира - find - no hint
+напротив - opposite - no hint
+отнеме - take away - no hint
+глава - chapter - no hint
+съпруг - husband - no hint
+затвори - close - no hint
+играе - plays - no hint
+лоши - bad - no hint
+смяташ - you think - no hint
+a - a - no hint
+тяло - body - no hint
+кучка - bitch - no hint
+убит - killed - no hint
+позволи - allow - no hint
+забравих - i forgot - no hint
+въобще - in general - no hint
+първото - the first - no hint
+направили - did - no hint
+мъжът - the man - no hint
+слава - glory - no hint
+направят - do - no hint
+давам - i give - no hint
+президент - the president - no hint
+другия - the other - no hint
+начало - begining - no hint
+силата - strength - no hint
+думата - the word - no hint
+нуждае - needs - no hint
+умреш - you die - no hint
+носиш - you wear - no hint
+срещата - the meeting - no hint
+побързай - hurry up - no hint
+земя - land - no hint
+оставиш - you leave - no hint
+прости - sorry - no hint
+променя - changes - no hint
+същия - the same - no hint
+дадох - i gave - no hint
+обясня - explain - no hint
+ч - h - no hint
+заповядай - welcome - no hint
+продължи - continue - no hint
+можах - i could - no hint
+вашето - yours - no hint
+опасност - danger - no hint
+казано - said - no hint
+ерик - eric - no hint
+магазина - store - no hint
+втори - second - no hint
+открием - we will find - no hint
+точка - point - no hint
+повярвай - believe me - no hint
+мистър - mr. - no hint
+зает - busy - no hint
+жива - alive - no hint
+погледна - he looked - no hint
+купи - buy - no hint
+никаква - none - no hint
+върнете - return - no hint
+доказателства - evidence - no hint
+разговор - conversation - no hint
+последният - the last - no hint
+наложи - impose - no hint
+най - the most - no hint
+герой - hero - no hint
+проверя - check - no hint
+косата - hair - no hint
+отговор - answer - no hint
+чай - tea - no hint
+пистолет - pistol - no hint
+спечели - won - no hint
+вашия - your - no hint
+светлина - light - no hint
+стои - stands - no hint
+погрижа - took care - no hint
+майката - the mother - no hint
+шон - sean - no hint
+сили - forces - no hint
+половината - half - no hint
+мадам - madam - no hint
+жертвата - the victim - no hint
+пусна - released - no hint
+опитваш - you try - no hint
+причини - reasons - no hint
+работим - we work - no hint
+сън - sleep - no hint
+естествено - of course - no hint
+надолу - down - no hint
+чувството - the feeling - no hint
+млъквай - shut up - no hint
+красиво - beautifully - no hint
+чакаме - we are waiting - no hint
+цел - purpose - no hint
+съпругът - the husband - no hint
+линия - line - no hint
+лоша - bad - no hint
+свали - download - no hint
+компанията - the company - no hint
+болница - hospital - no hint
+бащата - the father - no hint
+майко - mother - no hint
+имала - had - no hint
+марк - mark - no hint
+сержант - sergeant - no hint
+нарича - called - no hint
+съда - the court - no hint
+леко - slightly - no hint
+слънцето - the sun - no hint
+епизод - episode - no hint
+получиш - you get - no hint
+спя - i sleep - no hint
+отивай - go - no hint
+оръжия - weapons - no hint
+думите - the words - no hint
+изведнъж - suddenly - no hint
+провери - check - no hint
+доведе - lead - no hint
+играеш - you play - no hint
+използвам - i use - no hint
+получа - i receive - no hint
+имали - is there - no hint
+секси - sexy - no hint
+вино - wine - no hint
+осем - eight - no hint
+величество - majesty - no hint
+луда - crazy - no hint
+бягай - run - no hint
+дошла - came - no hint
+вашият - your - no hint
+кучи - heaps - no hint
+оставим - let&#39;s leave - no hint
+живеем - we live - no hint
+мозъка - the brain - no hint
+следващият - the next - no hint
+новата - the new one - no hint
+ричард - richard - no hint
+дойдат - will come - no hint
+томи - tommy - no hint
+последното - the latter - no hint
+работят - work - no hint
+казвате - you say - no hint
+еди - eat - no hint
+лондон - london - no hint
+джейк - jake - no hint
+намерихме - we found - no hint
+риба - fish - no hint
+джони - johnny - no hint
+опасно - dangerously - no hint
+боклук - garbage - no hint
+спиш - you sleep - no hint
+мис - miss - no hint
+кейт - kate - no hint
+тия - these - no hint
+тоалетната - the toilet - no hint
+рожден - born - no hint
+звезда - star - no hint
+доказателство - proof - no hint
+мъжа - the man - no hint
+отиди - go - no hint
+чудя - wonder - no hint
+апартамента - the apartment - no hint
+съвет - advice - no hint
+жертва - victim - no hint
+партито - the party - no hint
+н - n - no hint
+крал - the king - no hint
+ченге - cop - no hint
+продължава - continues - no hint
+масата - the table - no hint
+срещна - met - no hint
+станеш - you get up - no hint
+изчезна - disappeared - no hint
+боби - beans - no hint
+виждали - have seen - no hint
+можа - can - no hint
+гей - gay - no hint
+джим - jim - no hint
+плати - pay - no hint
+пистолета - pistol - no hint
+познавате - you know - no hint
+к - to - no hint
+сезон - season - no hint
+дупка - hole - no hint
+напоследък - lately - no hint
+донеса - brought - no hint
+писмо - letter - no hint
+погледнете - take a look - no hint
+начина - ways - no hint
+операция - operation - no hint
+заповядайте - welcome - no hint
+душата - the soul - no hint
+някак - somehow - no hint
+търсят - looking for - no hint
+остани - stay - no hint
+болка - pain - no hint
+видят - see - no hint
+случайно - accidentally - no hint
+париж - paris - no hint
+задръж - hold on - no hint
+дал - gave - no hint
+стара - old - no hint
+крис - chris - no hint
+нуждая - need - no hint
+правилата - the rules - no hint
+седнете - sit down - no hint
+гадже - boyfriend - no hint
+небето - the sky - no hint
+кучето - the dog - no hint
+необходимо - necessary - no hint
+боя - fight - no hint
+страшно - scary - no hint
+прекрасна - beautiful - no hint
+бавно - slowly - no hint
+продължим - let&#39;s continue - no hint
+питаш - you ask - no hint
+махаме - we leave - no hint
+училището - the school - no hint
+страхувам - i&#39;m afraid - no hint
+шефа - the boss - no hint
+ехо - echo - no hint
+шега - a joke - no hint
+свободен - free - no hint
+храната - the food - no hint
+помоли - ask - no hint
+живеят - live - no hint
+отбор - team - no hint
+бременна - pregnant - no hint
+изглеждаше - it seemed - no hint
+започне - begin - no hint
+хотел - hotel - no hint
+съдбата - destiny - no hint
+вън - out - no hint
+играя - i play - no hint
+забравя - forgets - no hint
+уау - wow - no hint
+полковник - colonel - no hint
+оу - ou - no hint
+именно - exactly - no hint
+загуби - losses - no hint
+техните - their - no hint
+бой - the fight - no hint
+вечерта - in the evening - no hint
+знаел - he knew - no hint
+мои - my - no hint
+дълбоко - deep - no hint
+съществува - exists - no hint
+отлично - fine - no hint
+средата - the middle - no hint
+болен - ill - no hint
+очаква - expects - no hint
+извини - sorry - no hint
+ах - brother - no hint
+ейми - amy - no hint
+армията - the army - no hint
+прозореца - the window - no hint
+ъм - um - no hint
+сградата - the building - no hint
+светът - the world - no hint
+умира - dies - no hint
+ада - hell - no hint
+достъп - access - no hint
+силен - strong - no hint
+засега - for now - no hint
+нататък - onwards - no hint
+карам - i drive - no hint
+донесе - brought - no hint
+глупав - stupid - no hint
+адам - man - no hint
+you - you - no hint
+клуб - club - no hint
+списъка - the list - no hint
+моли - please - no hint
+лудост - madness - no hint
+показва - shows - no hint
+d - d - no hint
+даниел - daniel - no hint
+уил - will - no hint
+отидох - i went - no hint
+леля - aunt - no hint
+открия - discovered - no hint
+мислеше - he thought - no hint
+получава - receives - no hint
+заслужава - deserves - no hint
+данни - data - no hint
+енергия - energy - no hint
+неговите - his - no hint
+предпочитам - i prefer - no hint
+шоуто - the show - no hint
+купя - buy - no hint
+ходим - we go - no hint
+чаша - cup - no hint
+съжаление - sorry - no hint
+иди - go - no hint
+самолета - aircraft - no hint
+вървете - go - no hint
+съпругата - the wife - no hint
+опитаме - we try - no hint
+дрехите - the clothes - no hint
+метра - meters - no hint
+хвърли - throw - no hint
+последен - last - no hint
+приятеля - friend - no hint
+наричат - called - no hint
+кухнята - the kitchen - no hint
+успях - i succeeded - no hint
+етаж - floor - no hint
+направихме - we did - no hint
+вярва - believes - no hint
+сащ - united states - no hint
+поглед - look - no hint
+вляза - entered - no hint
+системата - the system - no hint
+обичат - they love - no hint
+глас - voice - no hint
+специално - specially - no hint
+мир - world - no hint
+помогнем - let&#39;s help - no hint
+разбрано - understood - no hint
+умрял - died - no hint
+трима - three - no hint
+центъра - center - no hint
+ниво - level - no hint
+своите - their - no hint
+филма - the film - no hint
+стигнем - we will arrive - no hint
+млад - young - no hint
+гората - the forest - no hint
+новия - the new one - no hint
+правителството - the government - no hint
+поради - because of - no hint
+убива - kills - no hint
+стари - old - no hint
+аха - aha - no hint
+влез - enter - no hint
+движи - moves - no hint
+почина - died - no hint
+кларк - clark - no hint
+казвал - he said - no hint
+решението - the solution - no hint
+студено - cold - no hint
+изглеждат - they look - no hint
+срещнах - i met - no hint
+наркотици - drugs - no hint
+щастие - happiness - no hint
+използваме - we use - no hint
+борда - board - no hint
+клас - class - no hint
+налага - imposes - no hint
+дълга - long - no hint
+едни - some - no hint
+закона - of the law - no hint
+яко - as - no hint
+въздух - air - no hint
+хотела - the hotel - no hint
+изглеждам - look like - no hint
+питие - drink - no hint
+коли - when - no hint
+истинско - real - no hint
+вина - guilt - no hint
+половина - half - no hint
+стоя - standing up - no hint
+дето - where - no hint
+играем - we play - no hint
+списък - list - no hint
+справи - affairs - no hint
+дон - don - no hint
+използваш - you use - no hint
+започнах - i started - no hint
+единствения - the only one - no hint
+госпожице - miss - no hint
+някое - some - no hint
+малката - the little one - no hint
+възраст - age - no hint
+тука - here - no hint
+бизнеса - business - no hint
+мислих - i think - no hint
+шеф - boss - no hint
+дама - lady - no hint
+стават - become - no hint
+живи - alive - no hint
+откри - found - no hint
+надежда - hope - no hint
+хубави - beautiful - no hint
+умен - clever - no hint
+полза - advantage - no hint
+въпросът - the question - no hint
+ok - ok - no hint
+карл - charles - no hint
+макар - though - no hint
+мине - pass - no hint
+стената - the wall - no hint
+бара - requires - no hint
+скот - cattle - no hint
+очаквах - i expected - no hint
+открихме - we found out - no hint
+падна - fell - no hint
+благодарение - thanks - no hint
+желание - a wish - no hint
+мислим - i think - no hint
+сбогом - farewell - no hint
+ролята - the role - no hint
+движение - traffic - no hint
+защита - protection - no hint
+английски - english - no hint
+битка - battle - no hint
+чантата - the bag - no hint
+сине - you - no hint
+донеси - bring - no hint
+сложа - put - no hint
+рейчъл - rachel - no hint
+наш - our - no hint
+кутия - box - no hint
+части - parts - no hint
+оказа - turned out - no hint
+робърт - robert - no hint
+животни - animals - no hint
+обажда - calls - no hint
+документи - documents - no hint
+форма - the form - no hint
+луис - louis - no hint
+разлика - difference - no hint
+сигурни - sure - no hint
+пътуване - travel - no hint
+уважение - respect - no hint
+смята - thinks - no hint
+пълно - complete - no hint
+чудесна - wonderful - no hint
+знак - sign - no hint
+сан - foundation - no hint
+независимо - whatever - no hint
+високо - high - no hint
+понеже - because - no hint
+слушайте - listen - no hint
+лъжеш - you are lying - no hint
+емили - emily - no hint
+своята - its - no hint
+справиш - do it - no hint
+специален - special - no hint
+неговото - his - no hint
+вземат - take - no hint
+мат - mat - no hint
+доверие - trust - no hint
+разберат - understand - no hint
+чувство - feeling - no hint
+т - t - no hint
+поиска - search - no hint
+км - km - no hint
+чуеш - you hear - no hint
+позиция - position - no hint
+самолет - airplane - no hint
+единствено - only - no hint
+млада - young - no hint
+улица - street - no hint
+църквата - the church - no hint
+изляза - came out - no hint
+колежа - college - no hint
+запознаем - meet - no hint
+ядосан - angry - no hint
+снимката - the photo - no hint
+виждаме - we see - no hint
+гости - guests - no hint
+новина - news - no hint
+търпение - patience - no hint
+платя - pay - no hint
+бъдеще - future - no hint
+парче - piece - no hint
+използват - use - no hint
+мисия - mission - no hint
+магазин - score - no hint
+следа - trace - no hint
+нагоре - up - no hint
+плана - plan - no hint
+прибера - clean up - no hint
+карай - drive - no hint
+коса - hair - no hint
+останете - stay - no hint
+мартин - martin - no hint
+д - d - no hint
+гаджето - the boyfriend - no hint
+познава - knows - no hint
+документите - the documents - no hint
+пия - i drink - no hint
+престъпление - crime - no hint
+останали - the rest - no hint
+здраво - hello - no hint
+дело - business - no hint
+ким - who is - no hint
+мария - maria - no hint
+бихме - we would - no hint
+излезем - we go out - no hint
+изчакай - wait - no hint
+дух - spirit - no hint
+цена - price - no hint
+накъде - where - no hint
+свобода - freedom - no hint
+носа - nose - no hint
+неприятности - troubles - no hint
+тайни - secrets - no hint
+харесват - like - no hint
+видяхте - i saw you - no hint
+оценявам - appreciate - no hint
+стигна - arrived - no hint
+върнах - i returned - no hint
+тръгнеш - you leave - no hint
+представи - present - no hint
+кевин - kevin - no hint
+светлината - the light - no hint
+инцидент - incident - no hint
+оставих - i left - no hint
+цели - goals - no hint
+музиката - the music - no hint
+обзалагам - i bet - no hint
+клуба - club - no hint
+апартамент - apartment - no hint
+анди - andy - no hint
+ситуация - situation - no hint
+приятелят - the friend - no hint
+могла - could - no hint
+мнение - opinion - no hint
+болката - the pain - no hint
+петък - friday - no hint
+влиза - enters - no hint
+люк - luke - no hint
+томас - thomas - no hint
+силите - forces - no hint
+вечерята - dinner - no hint
+предлагам - i suggest - no hint
+кон - to - no hint
+око - eye - no hint
+попита - he asked - no hint
+направете - do - no hint
+стоиш - you stand - no hint
+сделката - the deal - no hint
+свидетел - witness - no hint
+излез - exit - no hint
+щастливи - happy - no hint
+милион - million - no hint
+неговия - his - no hint
+първите - the first - no hint
+следва - follows - no hint
+обувки - shoes - no hint
+обичате - you love - no hint
+повярваш - you believe - no hint
+планета - planet - no hint
+оправиш - you fix it - no hint
+ключовете - the keys - no hint
+дадем - give - no hint
+заведа - lead - no hint
+клиент - client - no hint
+ченгетата - the cops - no hint
+ида - and yes - no hint
+закуска - breakfast - no hint
+родители - parents - no hint
+яде - eats - no hint
+искали - wanted - no hint
+денят - the day - no hint
+душа - soul - no hint
+известен - famous - no hint
+дан - day - no hint
+надявах - i hoped - no hint
+връща - returns - no hint
+забравяй - forget it - no hint
+охраната - security - no hint
+отидете - go - no hint
+директор - director - no hint
+чудо - miracle - no hint
+снимките - the photos - no hint
+голямата - the big one - no hint
+гладен - hungry - no hint
+маса - mass - no hint
+приятен - pleasant - no hint
+важна - important - no hint
+убиецът - the killer - no hint
+господарю - to the owner - no hint
+оставил - left - no hint
+нарани - hurt - no hint
+спря - stopped - no hint
+отче - father - no hint
+брой - number - no hint
+ситуацията - the situation - no hint
+усещам - i feel - no hint
+леле - wow - no hint
+красив - beautiful - no hint
+сигнал - signal - no hint
+чувствата - feelings - no hint
+замина - left - no hint
+рокля - dress - no hint
+джейсън - jason - no hint
+карти - cards - no hint
+негова - his - no hint
+отдел - the department - no hint
+хм - hmm - no hint
+чакат - waiting - no hint
+накарам - i make - no hint
+измъкна - to pull out - no hint
+костюм - costume - no hint
+президента - the president - no hint
+партньор - partner - no hint
+науча - learn - no hint
+останем - we will stay - no hint
+никакво - none - no hint
+пиша - i write - no hint
+изпратя - send - no hint
+пода - floor - no hint
+миличка - darling - no hint
+разберете - find out - no hint
+алън - alan - no hint
+ям - ям - no hint
+живо - live - no hint
+планетата - the planet - no hint
+наздраве - cheers - no hint
+нейната - hers - no hint
+цената - the price - no hint
+различен - different - no hint
+загубих - i lost - no hint
+минутка - minute - no hint
+малкото - the little one - no hint
+крие - hides - no hint
+отбора - team - no hint
+дават - give - no hint
+център - center - no hint
+дръжте - hold on - no hint
+наша - our - no hint
+могли - could - no hint
+прекрасен - wonderful - no hint
+спася - saved - no hint
+случаи - cases - no hint
+помоля - please - no hint
+вселената - the universe - no hint
+стигне - arrives - no hint
+научих - i learned - no hint
+офицер - officer - no hint
+бар - there is - no hint
+силна - strong - no hint
+новият - the new one - no hint
+армия - army - no hint
+сладко - sweet - no hint
+разбрахме - we understood - no hint
+бял - white - no hint
+изцяло - completely - no hint
+ха - ha - no hint
+женен - married - no hint
+ана - mother - no hint
+предаде - handed over - no hint
+мнението - the opinion - no hint
+интернет - the internet - no hint
+дърво - wood - no hint
+бомба - bomb - no hint
+помисля - i thought - no hint
+почакайте - wait - no hint
+оттам - from there - no hint
+планове - plans - no hint
+братя - brothers - no hint
+топката - the ball - no hint
+ъ - b - no hint
+тръгваш - you leave - no hint
+безопасно - safely - no hint
+гледаме - we watch - no hint
+краля - the king - no hint
+започвам - i&#39;m starting - no hint
+уолтър - walter - no hint
+звънна - rang - no hint
+гадно - disgusting - no hint
+мил - mil - no hint
+групата - the group - no hint
+двойка - couple - no hint
+член - member - no hint
+събота - saturday - no hint
+такси - taxi - no hint
+притеснявам - bother - no hint
+девет - nine - no hint
+дойдете - come - no hint
+банята - the bathroom - no hint
+ума - mind - no hint
+ани - ani - no hint
+чист - clean - no hint
+остават - remain - no hint
+следобед - in the afternoon - no hint
+слушаш - you listen - no hint
+съмнявам - i doubt it - no hint
+делото - the case - no hint
+ядеш - you eat - no hint
+спомена - mentioned - no hint
+банката - the bank - no hint
+перфектно - perfect - no hint
+телевизията - television - no hint
+пиян - drunk - no hint
+видяхме - we saw - no hint
+върнат - returned - no hint
+шегувам - i&#39;m kidding - no hint
+предам - i hand over - no hint
+стъпка - step - no hint
+англия - england - no hint
+прати - send - no hint
+богу - god - no hint
+модел - model - no hint
+генерал - general - no hint
+питай - ask - no hint
+млади - young - no hint
+дa - yes - no hint
+кайл - kyle - no hint
+другаде - elsewhere - no hint
+очаквам - i expect - no hint
+шефът - the boss - no hint
+лъже - is lying - no hint
+незабавно - immediately - no hint
+хванем - we catch - no hint
+вкус - taste - no hint
+камерата - the camera - no hint
+говореше - he spoke - no hint
+брак - marriage - no hint
+намерите - find - no hint
+покани - invitations - no hint
+опиташ - you try - no hint
+пада - falls - no hint
+купих - i bought - no hint
+днк - dna - no hint
+машина - car - no hint
+излизам - i&#39;m going out - no hint
+тест - test - no hint
+лили - lily - no hint
+щяхме - we would - no hint
+малкия - the little one - no hint
+милиони - millions - no hint
+убийства - murders - no hint
+забравил - forgot - no hint
+хванах - i caught - no hint
+промяна - change - no hint
+книги - books - no hint
+джери - jerry - no hint
+капан - trap - no hint
+поема - poem - no hint
+наблизо - nearby - no hint
+обясни - explain - no hint
+покрива - covers - no hint
+честен - honest - no hint
+помни - remember - no hint
+натам - there - no hint
+кожата - the skin - no hint
+убиеца - the killer - no hint
+глупава - stupid - no hint
+нож - knife - no hint
+говорихме - we talked - no hint
+изход - exit - no hint
+махна - he waved - no hint
+оръжията - weapons - no hint
+останало - the rest - no hint
+ужасен - terrible - no hint
+тед - ted - no hint
+краят - the end - no hint
+екипа - the team - no hint
+катрин - catherine - no hint
+положение - position - no hint
+предложи - suggested - no hint
+тръгне - go - no hint
+същият - the same - no hint
+извинявам - i&#39;m sorry - no hint
+изключително - extremely - no hint
+следващите - the following - no hint
+вдигни - pick up - no hint
+обсъдим - discussed - no hint
+цветя - flowers - no hint
+удобно - conveniently - no hint
+лабораторията - the laboratory - no hint
+чакаш - you are waiting - no hint
+същите - the same - no hint
+погрижи - take care - no hint
+разбрал - understood - no hint
+притеснява - worries - no hint
+гърдите - chest - no hint
+негово - his - no hint
+държат - hold - no hint
+пита - he asks - no hint
+пиеш - you drink - no hint
+гледат - watching - no hint
+напомня - reminds - no hint
+положението - the situation - no hint
+връзки - connections - no hint
+s - s - no hint
+жертви - victims - no hint
+сладък - cute - no hint
+върха - the top - no hint
+новините - the news - no hint
+правеше - he did - no hint
+сметката - the account - no hint
+имена - names - no hint
+огромна - huge - no hint
+камера - camera - no hint
+джеф - jeff - no hint
+сграда - building - no hint
+чул - heard - no hint
+тежко - hard - no hint
+морето - the sea - no hint
+франция - france - no hint
+операцията - the operation - no hint
+браян - brian - no hint
+открадна - stole - no hint
+навреме - on time - no hint
+намерил - found - no hint
+хванат - caught - no hint
+реката - the river - no hint
+второ - second - no hint
+дълъг - long - no hint
+мисията - mission - no hint
+научиш - you will learn - no hint
+парк - park - no hint
+сцената - the stage - no hint
+войници - soldiers - no hint
+гледах - i watched - no hint
+изчезвай - disappear - no hint
+влюбен - in love - no hint
+опитвах - i tried - no hint
+работите - things - no hint
+поговоря - talk - no hint
+идеи - ideas - no hint
+обадиш - you call - no hint
+истинската - the real one - no hint
+предложение - sentence - no hint
+класа - class - no hint
+видяла - saw - no hint
+вашингтон - washington - no hint
+зала - hall - no hint
+базата - the base - no hint
+лари - lari - no hint
+стойте - wait - no hint
+разкажи - tell me - no hint
+обеща - promised - no hint
+отговаря - meets - no hint
+обаждане - call - no hint
+намерят - find - no hint
+отговорност - responsibility - no hint
+свободна - free - no hint
+часове - hours - no hint
+излезеш - you go out - no hint
+идем - let&#39;s go - no hint
+дойдохте - you came - no hint
+тоест - that is - no hint
+разни - various - no hint
+шибан - fucking - no hint
+ужасна - terrible - no hint
+чуйте - listen - no hint
+охрана - security - no hint
+хвани - catch - no hint
+бие - dance - no hint
+влезем - we will enter - no hint
+старата - the old - no hint
+връщаме - we return - no hint
+махнете - remove - no hint
+учител - teacher - no hint
+разрешение - resolution - no hint
+интерес - interest - no hint
+ваш - your - no hint
+луната - the moon - no hint
+грейс - grace - no hint
+мляко - milk - no hint
+сериозен - serious - no hint
+приемам - i accept - no hint
+успеем - we will have time - no hint
+убий - kill - no hint
+въздуха - the air - no hint
+ел - el - no hint
+хана - khan - no hint
+нуждаем - we need - no hint
+месо - meat - no hint
+измъкнем - get out - no hint
+страни - countries - no hint
+животно - animal - no hint
+вниманието - attention - no hint
+посока - direction - no hint
+чудесен - wonderful - no hint
+честит - congratulations - no hint
+идеално - perfect - no hint
+чудех - i wondered - no hint
+спомняш - you remember - no hint
+отнася - refers - no hint
+поле - field - no hint
+камък - stone - no hint
+вечно - forever - no hint
+ван - van - no hint
+летището - the airport - no hint
+награда - reward - no hint
+липсваш - you are missing - no hint
+големия - the big one - no hint
+донесох - i brought - no hint
+стивън - stephen - no hint
+доктора - the doctors - no hint
+тебе - you - no hint
+важен - important - no hint
+виктор - victor - no hint
+кажат - they say - no hint
+език - language - no hint
+гимназията - high school - no hint
+обадих - i called - no hint
+странен - strange - no hint
+отне - took - no hint
+сватба - wedding - no hint
+влезеш - you enter - no hint
+насаме - in private - no hint
+официално - officially - no hint
+дена - days - no hint
+картата - the map - no hint
+оо - oh - no hint
+мирише - smells - no hint
+ранен - wounded - no hint
+станал - became - no hint
+пазя - groove - no hint
+лодката - the boat - no hint
+век - century - no hint
+информацията - the information - no hint
+чудовище - monster - no hint
+програма - program - no hint
+границата - the border - no hint
+огъня - the fire - no hint
+европа - europe - no hint
+извинение - apology - no hint
+времена - time - no hint
+бюрото - the desk - no hint
+нийл - nil - no hint
+атака - attack - no hint
+картър - crankcase - no hint
+фил - fil - no hint
+виновна - guilty - no hint
+свърша - i&#39;m done - no hint
+роден - born - no hint
+щяха - they would - no hint
+рим - rome - no hint
+планът - the plan - no hint
+тръгнем - let&#39;s go - no hint
+стори - did - no hint
+тяхната - theirs - no hint
+наясно - aware - no hint
+чуе - hears - no hint
+м - m - no hint
+проверим - check - no hint
+грешно - wrong - no hint
+мин - min - no hint
+риск - risk - no hint
+лий - лий - no hint
+покаже - will show - no hint
+странни - strange - no hint
+мрази - hates - no hint
+справим - let&#39;s do it - no hint
+спешно - urgent - no hint
+затвор - prison - no hint
+ан - an - no hint
+готино - cool - no hint
+исус - jesus - no hint
+същество - being - no hint
+търсите - you are looking for - no hint
+двата - both - no hint
+магия - magic - no hint
+съд - court - no hint
+ресторант - restaurant - no hint
+втората - the second - no hint
+тайната - the secret - no hint
+ключ - key - no hint
+подобни - similar - no hint
+черен - black - no hint
+учи - learns - no hint
+офис - office - no hint
+джени - jenny - no hint
+чиста - clean - no hint
+точки - points - no hint
+познаваме - we know - no hint
+чувала - bags - no hint
+твърди - claims - no hint
+изгубих - i lost - no hint
+заплаха - threat - no hint
+цру - cru - no hint
+кабинета - cabinet - no hint
+върши - does - no hint
+стария - the old - no hint
+ед - units - no hint
+обичаше - he loved - no hint
+пиене - drinking - no hint
+доволен - satisfied - no hint
+началник - boss - no hint
+ал - he - no hint
+лейди - lady - no hint
+откога - since when - no hint
+програмата - the program - no hint
+умирам - i&#39;m dying - no hint
+ема - ема - no hint
+отишъл - gone - no hint
+пристигна - arrived - no hint
+даваш - you give - no hint
+джеси - jesse - no hint
+невинен - innocent - no hint
+крак - leg - no hint
+чък - chuck - no hint
+стотици - hundreds - no hint
+плаща - pays - no hint
+втора - the second - no hint
+писна - tired - no hint
+далече - far away - no hint
+надяваме - we hope - no hint
+месеци - months - no hint
+ханк - hank - no hint
+код - code - no hint
+свързани - connected - no hint
+ключа - key - no hint
+малките - the little ones - no hint
+власт - power - no hint
+откажа - canceled - no hint
+неделя - sunday - no hint
+минало - past - no hint
+сядай - sit down - no hint
+отгоре - on top - no hint
+адреса - address - no hint
+убих - i killed - no hint
+разследване - investigation - no hint
+загуба - loss - no hint
+божичко - christmas - no hint
+красиви - beautiful - no hint
+мач - match - no hint
+болна - sick - no hint
+намерили - did you find - no hint
+остров - isle - no hint
+колеж - college - no hint
+рак - crab - no hint
+виждат - they see - no hint
+хванете - catch - no hint
+б - b - no hint
+роуз - rose - no hint
+нужна - need - no hint
+шум - noise - no hint
+легло - bed - no hint
+контакт - contact - no hint
+доброто - the good - no hint
+смееш - you dare - no hint
+полет - flight - no hint
+започнеш - you start - no hint
+отиват - they go - no hint
+действа - acts - no hint
+гласа - voice - no hint
+съгласна - agree - no hint
+продължа - i continue - no hint
+призная - admitting - no hint
+заета - busy - no hint
+истории - stories - no hint
+стив - steve - no hint
+обувките - the shoes - no hint
+аби - abi - no hint
+желая - wishing - no hint
+езика - language - no hint
+цвят - color - no hint
+съдия - judge - no hint
+цяло - whole - no hint
+тишина - silence - no hint
+оправим - fix it - no hint
+добрите - the good ones - no hint
+влака - train - no hint
+факта - the fact - no hint
+командир - commander - no hint
+вяра - faith - no hint
+проработи - work - no hint
+дотук - so far - no hint
+минава - passes - no hint
+кели - cell - no hint
+давайте - let&#39;s - no hint
+превърна - turned - no hint
+лодка - a boat - no hint
+дийн - dean - no hint
+тейлър - taylor - no hint
+срещи - meetings - no hint
+губи - loses - no hint
+мексико - mexico - no hint
+държим - we hold - no hint
+победи - wins - no hint
+гари - station - no hint
+променят - change - no hint
+горещо - hot - no hint
+зъби - teeth - no hint
+лъжи - lies - no hint
+пациент - a patient - no hint
+клиенти - customers - no hint
+доколкото - as far as - no hint
+обяснение - explanation - no hint
+отначало - at first - no hint
+дейв - dave - no hint
+опитват - try - no hint
+обърни - turn - no hint
+сещаш - you remember - no hint
+кралицата - the queen - no hint
+уикенд - weekend - no hint
+унищожи - destroy - no hint
+служба - service - no hint
+топка - ball - no hint
+задача - a task - no hint
+съвпадение - coincidence - no hint
+върнал - returned - no hint
+принц - prince - no hint
+качи - upload - no hint
+попитах - i asked - no hint
+извади - took out - no hint
+катастрофа - catastrophe - no hint
+злато - gold - no hint
+багажа - luggage - no hint
+пълни - full - no hint
+новите - the new ones - no hint
+обещах - i promised - no hint
+али - but - no hint
+вика - shouts - no hint
+ядосана - angry - no hint
+бутилка - bottle - no hint
+ход - move - no hint
+свързано - connected - no hint
+лед - ice - no hint
+липсваше - was missing - no hint
+e - is - no hint
+опитваме - we try - no hint
+показа - showed - no hint
+изчезнал - disappeared - no hint
+алкохол - alcohol - no hint
+филми - movies - no hint
+взимам - take - no hint
+процес - process - no hint
+грешки - errors - no hint
+спомени - memories - no hint
+уча - i study - no hint
+срам - shame - no hint
+готин - cool - no hint
+включително - including - no hint
+помагам - i help - no hint
+компютъра - the computer - no hint
+скорост - speed - no hint
+целувка - a kiss - no hint
+понеделник - monday - no hint
+случилото - what happened - no hint
+разкажа - will tell - no hint
+носят - wear - no hint
+покрай - along - no hint
+настроение - mood - no hint
+индия - india - no hint
+стреля - shoots - no hint
+старите - the old - no hint
+обичаме - we love - no hint
+наричаш - you call - no hint
+кучета - dogs - no hint
+плажа - the beach - no hint
+открили - discovered - no hint
+съобщението - the message - no hint
+теория - theory - no hint
+какъвто - whatever - no hint
+нужен - needed - no hint
+разследването - the investigation - no hint
+резултат - result - no hint
+правили - rules - no hint
+база - base - no hint
+пътуването - the journey - no hint
+док - while - no hint
+радост - joy - no hint
+роди - give birth - no hint
+отпред - front - no hint
+проклятие - a curse - no hint
+успея - i managed - no hint
+задържа - holds - no hint
+осъзнах - i realized - no hint
+уилям - william - no hint
+получите - get - no hint
+кутията - the box - no hint
+резултатите - the results - no hint
+намирам - i find - no hint
+стил - style - no hint
+сладки - sweet - no hint
+видео - video - no hint
+самата - itself - no hint
+джош - josh - no hint
+съмнение - doubt - no hint
+близки - close - no hint
+трети - third - no hint
+действие - act - no hint
+професор - professor - no hint
+казали - they said - no hint
+север - north - no hint
+отворете - open - no hint
+повтарям - i repeat - no hint
+свободно - freely - no hint
+невероятна - amazing - no hint
+проблемите - problems - no hint
+човешки - human - no hint
+пие - drinks - no hint
+жертвите - the victims - no hint
+лос - los - no hint
+очакваш - you expect - no hint
+лео - leo - no hint
+проверих - i checked - no hint
+изгуби - lost - no hint
+войник - soldier - no hint
+страхотни - awesome - no hint
+богат - rich - no hint
+чухте - i heard you - no hint
+зона - zone - no hint
+новото - the new - no hint
+църква - church - no hint
+брака - marriage - no hint
+тръгва - leaves - no hint
+обичах - i loved - no hint
+внимавайте - be careful - no hint
+сто - a table - no hint
+другият - the other - no hint
+изключение - exception - no hint
+крадец - thief - no hint
+специална - special - no hint
+работил - worked - no hint
+плюс - a plus - no hint
+мозък - brain - no hint
+съжаляваш - you are sorry - no hint
+излъга - lied - no hint
+наскоро - soon - no hint
+освободи - release - no hint
+умират - they die - no hint
+раян - ryan - no hint
+спира - stops - no hint
+непрекъснато - continuously - no hint
+годината - the year - no hint
+ъгъла - the corner - no hint
+имената - the names - no hint
+провали - failures - no hint
+алисън - alison - no hint
+патрик - patrick - no hint
+вървиш - you walk - no hint
+лекарства - drugs - no hint
+самият - himself - no hint
+биеш - you beat - no hint
+джоуи - joey - no hint
+отвратително - disgusting - no hint
+незнам - i do not know - no hint
+сладка - sweet - no hint
+излизаш - you go out - no hint
+говорил - spoke - no hint
+предполага - suggests - no hint
+пием - we drink - no hint
+чикаго - chicago - no hint
+проект - project - no hint
+познай - guess - no hint
+природата - nature - no hint
+договор - contract - no hint
+закарам - i drive - no hint
+проклет - damn it - no hint
+видели - seen - no hint
+направихте - you did - no hint
+робин - robin - no hint
+свободни - free - no hint
+използвай - use - no hint
+обществото - society - no hint
+вкусно - delicious - no hint
+съгласи - agreed - no hint
+кралят - the king - no hint
+губиш - you lose - no hint
+падне - will fall - no hint
+приятна - pleasant - no hint
+свидетели - witnesses - no hint
+разликата - the difference - no hint
+отворя - opens - no hint
+червено - red - no hint
+всякакви - all kinds - no hint
+мисълта - the thought - no hint
+ядене - eating - no hint
+успяхме - we succeeded - no hint
+помолих - i asked - no hint
+курва - whore - no hint
+to - to - no hint
+аманда - amanda - no hint
+поздрави - greetings - no hint
+помните - remember - no hint
+спасиш - you save - no hint
+вегас - vegas - no hint
+предложа - i suggest - no hint
+продължаваме - we continue - no hint
+кралица - queen - no hint
+плащам - i pay - no hint
+разбрахте - i understand you - no hint
+дължа - i owe - no hint
+момиченце - little girl - no hint
+враг - enemy - no hint
+справяш - you do - no hint
+рождения - birth - no hint
+парка - park - no hint
+урок - lesson - no hint
+обожавам - i adore - no hint
+чета - read - no hint
+велик - great - no hint
+гордея - i am proud - no hint
+свой - your - no hint
+простете - sorry - no hint
+дадете - give - no hint
+своето - its - no hint
+грег - greg - no hint
+отговорен - responsible - no hint
+арестуван - arrested - no hint
+наши - our - no hint
+заповеди - orders - no hint
+газ - gas - no hint
+р - p - no hint
+кафето - coffee - no hint
+смятате - you think - no hint
+исусе - jesus - no hint
+важни - important - no hint
+лагер - camp - no hint
+помогнат - help - no hint
+стоят - stand - no hint
+слуша - listening - no hint
+пръстен - ring - no hint
+кариерата - career - no hint
+големите - the big ones - no hint
+настрана - aside - no hint
+обадете - call - no hint
+платиш - you pay - no hint
+and - and - no hint
+филип - philip - no hint
+чувате - you hear - no hint
+направиха - did - no hint
+лъжец - liar - no hint
+вдигна - picked up - no hint
+кучко - a bunch - no hint
+тръгнал - left - no hint
+ставаш - you get up - no hint
+адрес - the address - no hint
+камиона - truck - no hint
+ники - ники - no hint
+негов - his - no hint
+махнем - we wave - no hint
+сериозна - serious - no hint
+миг - moment - no hint
+картина - picture - no hint
+хартия - paper - no hint
+собствената - own - no hint
+дявол - devil - no hint
+свети - shines - no hint
+американски - american - no hint
+рая - paradise - no hint
+калифорния - california - no hint
+каквато - whatever - no hint
+уверя - i assure you - no hint
+спасим - let&#39;s save - no hint
+заема - loan - no hint
+копие - a copy - no hint
+продава - for sale - no hint
+победа - victory - no hint
+бели - white - no hint
+беда - trouble - no hint
+напусне - leave - no hint
+мача - match - no hint
+загубя - i lose - no hint
+звезди - stars - no hint
+разстояние - distance - no hint
+компютър - computer - no hint
+черна - black - no hint
+запомни - remember - no hint
+оставям - i leave - no hint
+автобуса - bus - no hint
+мечта - dream - no hint
+изчакайте - wait - no hint
+замяна - replacement - no hint
+тримата - the three - no hint
+селото - the village - no hint
+възможности - opportunities - no hint
+отказа - refused - no hint
+игри - games - no hint
+пропусна - missed - no hint
+убием - kill - no hint
+същества - creatures - no hint
+опасен - dangerous - no hint
+района - district - no hint
+банка - bank - no hint
+насилие - violence - no hint
+открие - find - no hint
+алис - alice - no hint
+счупи - broke - no hint
+получил - received - no hint
+местата - places - no hint
+умрем - we will die - no hint
+неговият - his - no hint
+лорд - lord - no hint
+ребека - rebecca - no hint
+сложим - let&#39;s put it together - no hint
+изправи - stand up - no hint
+нейтън - nathan - no hint
+зъбите - teeth - no hint
+заведе - seduced - no hint
+съвета - advice - no hint
+убити - to kill - no hint
+представям - i present - no hint
+приготви - prepare - no hint
+парчета - pieces - no hint
+чаках - i waited - no hint
+вярват - believe - no hint
+полицаи - police officers - no hint
+африка - africa - no hint
+продължаваш - you continue - no hint
+нарече - called - no hint
+влезте - enter - no hint
+късметлия - lucky - no hint
+нормален - normal - no hint
+спечеля - i win - no hint
+останалото - the rest - no hint
+борба - struggle - no hint
+хлапето - the kid - no hint
+невероятен - amazing - no hint
+китай - china - no hint
+покажеш - you will show - no hint
+забавен - funny - no hint
+ла - la - no hint
+карат - carat - no hint
+смит - smith - no hint
+it - it - no hint
+сложно - hard - no hint
+луди - crazy - no hint
+поискаш - you ask - no hint
+джаки - jacks - no hint
+чуем - we hear - no hint
+уста - mouth - no hint
+рос - рос - no hint
+убили - killed - no hint
+тери - terry - no hint
+крайна - extreme - no hint
+елена - helen - no hint
+продължение - continued - no hint
+откриеш - you will find - no hint
+маги - magicians - no hint
+шапка - hat - no hint
+отпечатъци - fingerprints - no hint
+тръгвайте - go - no hint
+заподозрян - suspect - no hint
+паметта - memory - no hint
+пример - example - no hint
+отношение - attitude - no hint
+яйца - eggs - no hint
+свободата - freedom - no hint
+купон - coupon - no hint
+джаксън - jackson - no hint
+вярвате - you believe - no hint
+банда - gang - no hint
+принадлежи - belongs to - no hint
+звездите - the stars - no hint
+моменти - moments - no hint
+дойдоха - came - no hint
+повярва - believe - no hint
+джин - gin - no hint
+сидни - sit down - no hint
+откраднал - stole - no hint
+германия - germany - no hint
+взела - took - no hint
+правило - the rule - no hint
+взима - takes - no hint
+четеш - you read - no hint
+способен - capable - no hint
+собствен - own - no hint
+агенти - agents - no hint
+вървят - are going - no hint
+запази - save - no hint
+никак - no way - no hint
+изглеждате - you look - no hint
+уоу - uou - no hint
+саймън - simon - no hint
+започват - begin - no hint
+плащат - pay - no hint
+мислил - thought - no hint
+бабо - grandma - no hint
+запозная - meet - no hint
+идваме - we are coming - no hint
+решил - i decided - no hint
+избра - chose - no hint
+тим - team - no hint
+роля - role - no hint
+свършва - ends - no hint
+огромен - huge - no hint
+преследва - pursues - no hint
+вършиш - you do - no hint
+силни - strong - no hint
+мишел - michelle - no hint
+нейното - hers - no hint
+използвал - used - no hint
+практика - practice - no hint
+нуждаеш - you need - no hint
