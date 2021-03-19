@@ -5,8 +5,6 @@ bugs
 
 test
 	second language downloading
-	everything because we just refactored the main loop
-audioOnly.apkgs should show hints on the back as well
 	in order to preserve the scheduling data we may need to do some special figureing out for this
 
 shalu

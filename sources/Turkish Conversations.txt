@@ -21,14 +21,14 @@ yabancı - foreign
 misafirler - guests
 gerekmek - to be required - get wrecked! This is what's required
 gerekiyor - is required
-kim umrunda ki - who cares (sarcastic)
+kim umrunda ki - who cares
 kimi umursuyorsun - who do you care about
 O halde - in that case
 Boş zamanlarında ne yapıyorsun - what do you do in your spare time
 bu gerçekten yardımcı bir söz - this is a really helpful phrase
 Boş zaman - free time.
 son zamanlarda - recently
-12 çıvarında - around 12
+on iki çıvarında - around twelve
 Bir arada - are together
 normalde de geç mi uyursun - do you normally stay up late?
 bu yüzden - thats why
@@ -66,19 +66,19 @@ ne çalışmalıyız - what should we study
 bana bir soru soracaksın - you will ask me a question
 Hayır maalesef her şeyi anlamadım - No unfortunately, i didn't understand everything
 sanırım anladım - i think i understood
-"llll" demelisin - you should say "llll"
+bunu demelisin - you should say this
 sözlerin çok dikkate değer - your words are very noteworthy
 ben uyanığım - i am awake
-"lll" kulağa daha iyi geliyor - "llll" sounds better - literally, to the ear more good it comes
+bu kulağa daha iyi geliyor - this sounds better - literally, to the ear more good it comes
 kalbim eridi - my heart melted
 yürüyüşün nasıldı - how was your walk
 senden naber - what's up with you
 iyilik sağlık - it's all good
 yok bir yaramazlık - can't complain
-iyidir, .... yapıyorum - it's fine. i'm just doing ....
+iyidir, bunu yapıyorum - it's fine. i'm just doing this
 uğraşıp duruyoruz. ne olsun. - not much. been keeping busy.
 bugün pek bir şey yapmadık - I haven't done much today
-ama dün gece yaklaşık 1:00 geç kalktım - but last night i was up late, about 1:00
+ama dün gece yaklaşık saat bir geç kalktım - but last night i was up late, about one o'clock
 sınav dışında bugün ne yaptın - other than the exam, what did you do today
 anladığını umuyorum - i hope you understood me
 Bana yardım için teşekkür ederim - thank you for helping me
@@ -86,7 +86,7 @@ sanırım tenis oynayacağım - i think i will play tennis
 sanırım kardeşlerimle tenis oynayacağım - i think i will play tennis with my brothers
 programlayacağım  - i will program
 program yapacağım - i will do programming
-llllll veya iiiiii hangisi doğru - llllll or iiiiii which is correct
+bu veya şu hangisi doğru - this or that which is correct
 bu cümle benim için yeni - this phrase is new to me
 beni anlayabildiğine sevindim - im glad you could understand it
 evet bunu demek istedim - yes, this is what i wanted to say
@@ -96,14 +96,14 @@ sebze kavurmayı severim - i love roasting vegetables
 inanılmaz bir yeteneğin var - you have an incredible talent
 şaka mı yapıyorsun - are you joking
 Kardeşlerim arasında çok yaş farkı var - There are many age differences between my siblings
-did i say your name correctly - ismini doğru söyledim mi
+ismini doğru söyledim mi - did i say your name correctly
 otuz dört yaşındayım - i am thirty four 
 Kaç yaşındasınız - how old are you
-what do you do for fun - eğlenmek için ne yaparsın
+eğlenmek için ne yaparsın - what do you do for fun
 bugün ilginç bir şey yaptın mı - did you do anything interesting today
 selamlar - greetings
-have you had a good day - iyi bir gün geçirdin mi
-iyidir, senden - fine, you (respons to naber) - literally, it is good, from you
+iyi bir gün geçirdin mi - have you had a good day
+iyidir, senden - fine, you (response to naber) - literally, it is good, from you
 ne yapıyorsun - what are you doing
 evet bende güzel bir gün geçirdim - yes i too have had a good day
 bugün ne yaptın - what did you do today
@@ -124,10 +124,9 @@ dünden önceki gün pek uyumadım - i didn't sleep much
 iyi uyudum - i slept well
 günüm şimdiye kadar iyi geçti ama hala erken - my day has been good so far, but it is still early
 günün nasıldı? eğlenceli bir şey yaptın mı? - how was your day? did you do anything fun?
-what do you do for fun - eğlenmek için ne yaparsın
-is this an old book - bu eski bir kitap mı - an example of an old thing is a ski
-which series were you watching? - hangi diziyi izliyordun - you watch someone who is laying down
-i havn't seen Queens Gambit - Queens Gambit görmedim
+bu eski bir kitap mı - is this an old book - an example of an old thing is a ski
+hangi diziyi izliyordun - which series were you watching - you watch someone who is laying down
+Queens Gambit görmedim - i haven't seen Queens Gambit
 surely watch the Queens Gambit - The Queens Gambit mutlaka izle
 bu bir dizi - it is a series
 sadece ilk bölümü izledim - i have only watched the first episode
@@ -137,13 +136,13 @@ o festival çok havalı görünüyor - that festival looks very cool
 ama jonglörlük festivali ile aynı zaman - it is the exact same time as the juggling festival
 Geçenlerde A izledim, bende iyi olduğunu düşündüm - i just watched A recently, i thought it was good too
 sevdiğim başka bir diziyi hatırladım - i remembered another series i like - literally, i like another series i remembered
-Do you have siblings? - Kardeşin var mı?
+Kardeşin var mı? - Do you have siblings?
 sen en yaşlı mısın - are you the oldest
 ben ikinci çocuğum - i am the second child
 evli misin - are you married
 kızın kaç yaşında - how old is your daughter
-very sweet, that is a great age - çok tatlı, bu harika bir yaş
-üç yaşında bir yeğenim var - i have a niece who is 3
+çok tatlı, bu harika bir yaş - very sweet, that is a great age
+üç yaşında bir yeğenim var - i have a niece who is three
 sorumluluğum yok ama çok eğleniyorum - i have no responsibilities, but lots of fun
 Evcil hayvanım yok - i have no pets
 ama erkek kardeşimin bir kedisi var - but my brother has a cat
@@ -164,13 +163,13 @@ daha fazla konuşma pratiğine ihtiyacım var - i need to practice speaking more
 benim telaffuzum doğru mu - is my pronunciation correct
 yeter be her şey yanlış - enough, everything is wrong
 daha doğal - more natural
-A ve B arasındaki fark ne - what is the difference between A and B?
-gayet'i cümle içinde kullanabilir misin - can you use 'gayet' in a sentence
+bu ve şu arasındaki fark ne - what is the difference between this and that?
+bunu cümle içinde kullanabilir misin - can you use this in a sentence
 güzel bir dil - it is a beautiful language
 rusçayı nasıl öğrendin - how did you learn russian
 ne zamandır Helllo tallkk kullanıyorsun - how long have you been using helllo tallkk
 kağıda zamirleri yazdım - I wrote pronouns on paper
-sometimes it seems impossible - bazen imkansız görünüyor
+bazen imkansız görünüyor - sometimes it seems impossible
 tek başıma cümle kurmalıyım - i need to make a sentence on my own
 çok çeviri kullanıyorum - i use translate a lot
 çok güzel bir aksanın var - you have a very nice accent
@@ -184,8 +183,8 @@ beni anlıyor musun - can you understand me
 okumaya çalışıyorum, zor - i'm trying to read, it is hard
 türkçe konuşmamı sevmene çok sevindim, bana motivasyon veriyor - im very happy that you like when i speak turkish, it gives me motivation
 ne dediğimi anlıyor musun - could you understand what i said
-Neredensin - where are you from (country/broad location) - literally, what place from are you
-nerelisin - where are you from(nationality) - people with your nationality are nearly ever seen around here
+Neredensin - where are you from - literally, what place from are you
+nerelisin - where are you from - people with your nationality are nearly ever seen around here
 türkiyenin neresindensin - where in turkey are you from
 Türkiye'nin neresinde yaşıyorsun - What part of Turkey do you live in
 hangi şehirdensin - which city are you from
@@ -272,7 +271,7 @@ bir hayalim vardı - i had one dream
 sık sık rüya görür müsün - do you dream often
 umarım şu anda hayallerinde maceralar yaşıyorsundur - i hope you are having adventures in your dreams right now
 keske olsa - if only
-every day one learns something new - insan her gün yeni bir şeyler öğreniyor zaten
+insan her gün yeni bir şeyler öğreniyor zaten - every day one learns something new
 neyse söyliyim bari - let me just say anyway - ney sayers will find problems anyways, barry obama wants to at least day one thing..
 bir sorum var - i have a question
 o beni gayette seviyor - well obviously he loves me
@@ -290,7 +289,7 @@ ne demek istiyorsun - what do you mean
 bir sorum var - i have a question
 ve sana yardım edebilirim - and i can help you
 ama uzun sürmez - but not for long
-hiç A görmedim - ive never seen A
+hiç bunu görmedim - i've never seen this
 özür dileyecek hiçbir şey yok - there is nothing at all to apologize for
 zor sorular iyi sorulardır - hard questions are good questions
 şimdiye kadar iyi - good so far - literally, to now until
@@ -301,7 +300,7 @@ ama o olduğunu düşünüyorum - but i think it is
 Hala beklemek için bir buçuk saatim var - i still have an hour and a half to wait
 kendi kendime konuşuyordum - i was talking to myself
 peki onun yerine ne yapıyorsun - so what do you do instead
-A ile B arasındaki fark nedir - what is the difference between A and B
+bu ile şu arasındaki fark nedir - what is the difference between this and that
 o ağlamakta iyidir bence - she is good at crying i think
 senle konuşacağım - i will speak with you
 diğer arkadaşlarımla konuşacağım - i will speak with other friends
@@ -340,7 +339,7 @@ dersin iyi gitti mi? - did your lesson go well?
 sonuçları zaten aldın mı - do you already have the results
 verimli - productive - to be productive is very him, lee
 geçirmek - spend (time) - get here so we can spend time
-yeşillik - greens(weed) - yes, ill like some weed
+yeşillik - greens (weed) - yes, ill like some weed
 yaklaşık - about - the yak that sings(la) shakes around this time every day
 eğlenmek - to have fun - ellen likes to have fun
 sınavında - on the exam - the sin of teachers is the exam
@@ -371,11 +370,11 @@ koşuta - running - when there are two shooters you should be running
 generelikle - usually - similar to generally
 gayet - well - guy ate very much food
 internette - on the internet - pretty much the same
-i need - ihtiyacım - there is a need for ET togo to(a) the gym
+ihtiyacım - i need - there is a need for ET togo to(a) the gym
 boşver - nevermind - the bush's are very much like 'nevermind, nevermind' when people bring up their wars
 arasındaki - between - they are arresting a ducky for hiding between two buildings
 kötü - bad - it is bad to cut you
-fena - bad(sometimes good/attractive) - it is bad to fain a person who is already cold, but sometimes it is good to fan a person
+fena - bad - it is bad to fain a person who is already cold, but sometimes it is good to fan a person
 sıfat - adjective - you sift through all the people who use the adjective fat
 tek - alone - when you are alone, it is easier for someone to take you
 bekar - single - if you have a bad car you are more likely to be single
@@ -398,7 +397,7 @@ yanmak - burn - watching the fire burn makes you yawn
 fotoğrafın - your photograph - pretty much the same with the 4n ending
 hokkabaz - juggler - juggling is hokey, but it is the latest buzz
 sanatçı - performer - sanatra was a great performer
-rusçayı - russian(language) - russian tea ya drink while speaking russian
+rusçayı - russian - russian tea ya drink while speaking russian
 doğmak - to be born - a doe is born at it is very natural(doğal) to be born
 ayrılmak - to leave - i real(ly) will leave
 şovda - in the show - you shove someone into the show, and it has the da ending
@@ -417,7 +416,7 @@ tadını - taste - you can not taste anything until(ta), dinner(dinna)
 Zevk olmak / tadını çıkarmak / eğlenmek - to enjoy - you enjoy having a house at the end of the alphabet(zev), k?, literally, taste + eject, you enjoy it when a bad taste goes out of your mouth, ellen enjoys everything she does
 an - moment - we are currently on this moment
 anda - in the moment - we are currently on this moment, with the in ending da
-şu anda - if you are that in the moment then it is right now
+şu anda - right now - if you are that in the moment then it is right now
 yerde - on the ground - a year is the ground we stand on, with the de ending for on
 kar yağar - it snows - car covered in snow, it snows/rains so ya are going to be cold/wet
 sıradış - out of the ordinary - it is out of the ordinary that sarah dish washes
@@ -426,14 +425,14 @@ başıma - by myself - all by myself i bash a ma
 kurmalıyım - i have to install - kurmak, the cure is to install, establish and build things, then with a lıyım ending
 kurmak - to install - the cure is to install, establish and build things
 cümle - sentence - a jewish zoom type show where they lay around and make sentences
-eğlenceli - fun(adjective) - when ellen has fun she turns to jelly
+eğlenceli - fun - when ellen has fun she turns to jelly
 iç - inner - each house has an inner
 mimarlık - architecture - mimar is architect, means are make by architects, and when architects like architecture
 hala - still - the crazy guy is still out there hollering
 hata - mistake - hatters always point out mistakes
 pek - very - chicken peck very much
 temizlemek - to clean - the root is clean, and you have to have a clean court to play tennis, and cleaning is a french action (le)
-mutfağı - kitchen(as an object) - mute people are so quiet they can fuck in the kitchen, normal consonant substitution witht he k to ğ
+mutfağı - kitchen (as an object) - mute people are so quiet they can fuck in the kitchen, normal consonant substitution witht he k to ğ
 beğenmek - to like - everyone reluctantly likes themselves, be-en
 ikisi de - both - it is literally, the two also
 tavsiye - advice - thanks for the advice, it is (tough) for me to (see) things that way, (yay)
@@ -455,7 +454,7 @@ gerekmek - to be required - it is required that you go reck your life
 üstte - on top - you stay on top because you are the best
 hayallerinde - in your dreams - literally, dream plural your in, you say "hi all" to all the dream characters
 macera - adventure - ma jeer(s) a(t) my advenures
-gönderisi - post(internet) - i post that im gone dear and he see it
+gönderisi - post (on the internet internet) - i post that im gone dear and he see it
 çoğunu - most of - same root as çok
 kesinlikle - absolutely - if kissing is likely you are absolutely thrilled
 uyuyorsun - you are sleeping - you are excited that someone is sleeping and you kind of stutter, ew, you - your sleeping
@@ -463,11 +462,11 @@ merkezi - center - a center is like a market but it is crazy. or, you are in a h
 seyahat - travel - you are travelling and there are lots of vendors who say a hat would be a nice thing to buy, you say a hat is a good thing to have when you travel
 hazır - ready - hows her, is she ready?
 konuşmamı - my speech - same root as speak, and your mommy is going to hear it because it is 
-gitmiştir - went(event passed) - has the go, gitmek root
+gitmiştir - went (event passed) - has the go, gitmek root
 iyisindir - you are fine - literally, fine you are
 bölüm - episode - every episode starts with a balloon with an m on it
 sonrakini - the next - the next thing is the key we need
-havalı - cool(swanky) - when the wqeather(hava) is li(t), it is really cool
+havalı - cool (or swanky) - when the wqeather(hava) is li(t), it is really cool
 jonglörlük - juggling - jong lore looks really cool, like juggling
 mükemmel - perfect - a cow(moo) as funny as jimmy kimmel would be perfect
 dediğimi - what I said - literally, say past what me definite
@@ -478,10 +477,10 @@ sihirbaz - wizard
 gerçek - real
 sınıfa - to class
 geri - back
-dönebildiğin - you can return(as a clause)
+dönebildiğin - you can return
 toplantı - meeting
 geçenlerde - recently
-olduğunu - that it is (clause)
+olduğunu - that it is
 başka - another - you bash another car
 hatırlamak - to remember - the mad hatter sings(la) to remember things
 sürmez - does not last
@@ -507,7 +506,7 @@ oyuncu - player / actor - oy! un jew is the best actor in the world!
 eğlenceli - enjoyable
 bilim - science
 oyunculuğun - your acting
-oynamak - to act (film) - an actor says oy! to get someone's attention, then says na! when the wrong person looks
+oynamak - to act (in a film) - an actor says oy! to get someone's attention, then says na! when the wrong person looks
 kaba - rude - it is rude to your father to ca(ll) him ba instead of baba
 olan - the one - o the lawn is amazing, this house is the one!
 sanmak - to think (implies wrong assumption)
@@ -522,7 +521,7 @@ yaygın - common
 ifade - expression
 tam - full
 cümle - sentence - a jewish zoom type show where they lay around and make sentences
-çekmek - take(photos)
+çekmek - take (photos)
 algılamak - detect / sense
 kişisel - personal
 içimden - inside of me
@@ -559,7 +558,7 @@ Kulak - ear
 kalp - heart
 erimek - to melt - erie makes you melt
 yürümek - to walk - you walk to your room
-naber (ne haber) - what's up - you ask your neighbor whats up
+naber - what's up - you ask your neighbor whats up
 nolsun - not much
 iyilik - it's fine
 iyilik - favor

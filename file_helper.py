@@ -25,9 +25,7 @@ def concatenate_words_into_mp3_if_needed(word_list, lang):
 	if not mp3_exists(word_list, lang):
 		mp3_to_export = []
 		for word in word_list.split():
-			print('conc word', word, lang)
 			if mp3_exists(word, lang):
-				print('making segment', word)
 				mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+lang+'/'+word+'.mp3')))
 		if mp3_to_export:
 			cominedMP3 = sum(mp3_to_export)
@@ -37,16 +35,8 @@ def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_la
 	have_all_mp3s = True
 	for word in first_word.split():
 		api_calls, mp3_download_lists = download_if_needed(word, first_lang, api_calls, mp3_download_lists, max_api_calls)
-		if require_individual_words_for_audio and not mp3_exists(word, first_lang):							
-			have_all_mp3s = False
 	for word in second_word.split():
 		api_calls, mp3_download_lists = download_if_needed(word, second_lang, api_calls, mp3_download_lists, max_api_calls)
-		if require_individual_words_for_audio and not mp3_exists(word, second_lang):								
-			have_all_mp3s = False
-	if not mp3_exists(first_word, first_lang):
-		have_all_mp3s = False										
-	if not mp3_exists(second_word, second_lang):
-		have_all_mp3s = False
-	concatenate_words_into_mp3_if_needed(first_word, first_lang)
-	concatenate_words_into_mp3_if_needed(second_word, second_lang)		
+	#concatenate_words_into_mp3_if_needed(first_word, first_lang)
+	#concatenate_words_into_mp3_if_needed(second_word, second_lang)		
 	return have_all_mp3s, api_calls, mp3_download_lists			

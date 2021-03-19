@@ -1,4 +1,3 @@
-import forvo
 import requests
 import os
 from tkinter import Tk
@@ -8,6 +7,7 @@ import requests
 import urllib
 import urllib.parse
 import json
+from google.cloud import texttospeech
 #from file_helper import *
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
@@ -38,36 +38,65 @@ def has_previously_failed(word, lang):
             print(lang +' folder does not exist')
       return has_failed
 
+def synthesize_text(text, lang):
+    #print('lang', lang, text)
+    """Synthesizes speech from the input string of text."""
+    lang_code = "en-US"
+    nm = "en-US-Standard-C"
+    sgen = texttospeech.SsmlVoiceGender.FEMALE
+    if lang == 'tr':
+        lang_code = "tr-TR"
+        nm = "tr-TR-Standard-B"
+        sgen = texttospeech.SsmlVoiceGender.MALE
+    elif lang == 'en':
+        lang_code = "en-US"
+        nm = "en-US-Standard-C"
+        sgen = texttospeech.SsmlVoiceGender.FEMALE      
+    client = texttospeech.TextToSpeechClient()
+    input_text = texttospeech.SynthesisInput(text=text)
+    # Note: the voice can also be specified by name.
+    # Names of voices can be retrieved with client.list_voices().
+    voice = texttospeech.VoiceSelectionParams(
+        language_code=lang_code,
+        name=nm,
+        ssml_gender=sgen,
+    )
+    audio_config = texttospeech.AudioConfig(
+        audio_encoding=texttospeech.AudioEncoding.MP3,
+        speaking_rate=0.8
+    )
+    response = client.synthesize_speech(
+        request={"input": input_text, "voice": voice, "audio_config": audio_config}
+    )
+    lang_dir = os.path.join(pron_fold,lang)
+    file_name = text.replace('\n','')+'.mp3'
+    file_path = os.path.join(lang_dir, file_name)
+    with open(file_path, "wb") as out:
+        out.write(response.audio_content)
+        print(' '*9,':| MP3 Synthesized.', text)
+
 def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls):
+      api_limit_reached = False
       list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s = mp3_download_lists
       if not has_previously_failed(word, lang):
             if not mp3_exists(word, lang):
                   #print('did download',line)
                   new_api_calls = DownloadMp3ForAnki(word, lang)
                   api_calls = api_calls + new_api_calls
-                  if new_api_calls == 1:
-                        list_of_not_downloaded_mp3s.append(word)
-                  else:
-                        list_of_downloaded_mp3s.append(word)
+                  if new_api_calls == 0:
+                        api_limit_reached = True
+                  elif new_api_calls == 1:#if it is 0 then we need to stop everything
+                        synthesize_text(word, lang)
+                  list_of_downloaded_mp3s.append(word)
             else:
                   list_of_already_had_mp3s.append(word)
                   print(' '*60,'MP3 already exists',word)
       else:
             list_of_previously_failed_mp3s.append(word)
+            if not mp3_exists(word, lang):
+                  synthesize_text(word, lang)
             print(' '*40,'has previously failed',word)
-      return api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s]
-
-
-def split_and_download(word_to_download, lang, api_calls, mp3_download_lists, max_api_calls):
-      if len(word_to_download.split()) < 3:
-            api_calls, mp3_download_lists = download_if_needed(word_to_download, lang, api_calls, mp3_download_lists, max_api_calls)
-            if not mp3_exists(word_to_download, lang) and len(word_to_download.split()) == 2:
-                  api_calls, mp3_download_lists = download_if_needed(word_to_download.split()[0], lang, api_calls, mp3_download_lists, max_api_calls)
-                  api_calls, mp3_download_lists = download_if_needed(word_to_download.split()[1], lang, api_calls, mp3_download_lists, max_api_calls)
-      else:
-            for word in word_to_download.split():
-                  api_calls, mp3_download_lists = download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls)      
-      return api_calls, mp3_download_lists
+      return api_limit_reached, api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s]
 
 def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):
       # action, default is 'word-pronunciations', query, language, apikey, TRUE if free api(default), FALSE if commercial
@@ -100,31 +129,33 @@ def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', f
             r = requests.get(url, headers=headers)
 
       except:
+            print("api maxed out!!!!!!!!!")
             raise
             return None
       
       #data = r.json()
       #print(r.content.decode())
       data = json.loads(r.content.decode())
-      
-      if data[u'items']:
-            #we retrieved a non empty JSON.
-            #the JSON is structured like this:
-            #a dictionary with 2 items, their keys are:
-            #-u'attributes' (linked to info about the request we made)
-            #-u'items'      (linked to a list of dictionaries)
-            #in the list there is a dictionary for every pronunciation, we will search for the "mp3path" key
-            
-            paths = []
-            for i in data[u'items']:
-                  audioFormat = u'path'+FORMAT
-                  paths.append(i[audioFormat])
-            return paths
-            
+      if data == ['Limit/day reached.']:
+            return 'apiMax'
       else:
-            #The json hasn't a u'items' key
-            return None
-            
+            if data[u'items']:
+                  #we retrieved a non empty JSON.
+                  #the JSON is structured like this:
+                  #a dictionary with 2 items, their keys are:
+                  #-u'attributes' (linked to info about the request we made)
+                  #-u'items'      (linked to a list of dictionaries)
+                  #in the list there is a dictionary for every pronunciation, we will search for the "mp3path" key
+                  
+                  paths = []
+                  for i in data[u'items']:
+                        audioFormat = u'path'+FORMAT
+                        paths.append(i[audioFormat])
+                  return paths
+                  
+            else:
+                  #The json hasn't a u'items' key
+                  return None
 
 def fileChoose():
       #show a file choose dialog box
@@ -156,21 +187,24 @@ def DownloadMp3ForAnki(word, lang):
       lang_dir = os.path.join(pron_fold,lang)
       r = ForvoRequest(word,lang,APIKEY)
       if r:
-            api_call_count = 2
-            #download a mp3 file, rename it and write it in a costum folder
-            #mp3 = requests.get(r[0])    
-            mp3 = requests.get(r[0], headers=headers)             
-            file_name   = word.replace('\n','')+'.mp3'
-            file_path   = os.path.join(lang_dir, file_name)
-                  
-            if not os.path.exists(lang_dir):
-                  os.makedirs(lang_dir)              
+            if r == "apiMax":
+                  api_call_count = 0
             else:
-                  with open(file_path,"wb") as out:
-                        #we open a new mp3 file and we name it after the word we're downloading.
-                        #The file it's opened in write-binary mode
-                        out.write(mp3.content)   
-                        print(':) MP3 created',word)
+                  api_call_count = 2
+                  #download a mp3 file, rename it and write it in a costum folder
+                  #mp3 = requests.get(r[0])    
+                  mp3 = requests.get(r[0], headers=headers)             
+                  file_name   = word.replace('\n','')+'.mp3'
+                  file_path   = os.path.join(lang_dir, file_name)
+                        
+                  if not os.path.exists(lang_dir):
+                        os.makedirs(lang_dir)              
+                  else:
+                        with open(file_path,"wb") as out:
+                              #we open a new mp3 file and we name it after the word we're downloading.
+                              #The file it's opened in write-binary mode
+                              out.write(mp3.content)   
+                              print(':) MP3 created',word)
       else:                        
             print(' '*20,':( not available from Forvo', word)
             addToFailedList(word, lang)
