@@ -382,20 +382,23 @@ def main():
 			break
 		line = clean_string(line)
 		if is_formatted == False :
-			line = remove_special_characters(line)
-			words = line.split()
-			for word in words:
-				word = add_apostrophe_if_needed(word)
+			phrases = re.split('[?.,!:]',line)			
+			for phrase in phrases:
+				phrase = remove_special_characters(phrase)
+				split_phrase = phrase.split()
+				for word in split_phrase:
+					phrase = phrase.replace(word, add_apostrophe_if_needed(word))
+					print(phrase, word)
 				if should_translate:
-					translation = get_translation(word, first_lang, second_lang).replace('-','/')
+					translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
 					if translation:
-						output_lines.append(word + ' - ' + translation + ' - no hint\n')
+						output_lines.append(phrase + ' - ' + translation + ' - no hint\n')
 				if should_download:
 					if api_calls >= max_api_calls:  
 						print('\nMax API calls reached!')
 						program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
 					else:
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(word, first_lang, api_calls, mp3_download_lists, max_api_calls)
+						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(phrase, first_lang, api_calls, mp3_download_lists, max_api_calls)
 			if should_translate:
 				create_output_file('new_source',output_lines)
 		elif is_formatted == True:
@@ -434,7 +437,7 @@ def main():
 					audio_lesson_output += audio
 					audio_text.append(text)
 		if api_limit_reached:
-			Print('API limit reached.')
+			print('API limit reached.')
 			program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
 			break
 	rand_num = ''					

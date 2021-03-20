@@ -1,370 +1,67 @@
-ik - i - no hint
-je - is - no hint
-het - it - no hint
-de - of - no hint
-dat - which - no hint
-is - is - no hint
-een - a - no hint
-niet - not - no hint
-en - in - no hint
-van - from - no hint
-wat - what - no hint
-we - we - no hint
-in - in - no hint
-ze - that - no hint
-hij - he - no hint
-te - to - no hint
-zijn - to be - no hint
-op - on - no hint
-maar - but - no hint
-er - is - no hint
-met - with - no hint
-die - the - no hint
-voor - in front of - no hint
-heb - have got - no hint
-me - me - no hint
-als - when - no hint
-was - was - no hint
-ben - ben - no hint
-om - if - no hint
-dit - this - no hint
-mijn - my - no hint
-aan - on - no hint
-n - n - no hint
-u - u - no hint
-dan - and - no hint
-naar - to - no hint
-weet - know - no hint
-hier - here - no hint
-zo - so - no hint
-jij - you - no hint
-kan - may - no hint
-geen - no - no hint
-nog - yet - no hint
-heeft - has - no hint
-hem - him - no hint
-wel - well - no hint
-ja - and - no hint
-moet - must - no hint
-wil - want - no hint
-hebben - to have - no hint
-goed - good - no hint
-haar - her - no hint
-nee - no - no hint
-hoe - how - no hint
-nu - not - no hint
-waar - true - no hint
-over - over - no hint
-ook - also - no hint
-doen - to do - no hint
-uit - from - no hint
-zou - would - no hint
-ga - ga - no hint
-of - of - no hint
-gaan - to go - no hint
-bent - are - no hint
-mij - me - no hint
-bij - bee - no hint
-al - to the - no hint
-ons - u.s - no hint
-had - had - no hint
-m - m - no hint
-iets - something - no hint
-daar - there - no hint
-jullie - you - no hint
-hebt - have - no hint
-gaat - is going - no hint
-zal - shall - no hint
-kom - com - no hint
-waarom - why - no hint
-meer - lake - no hint
-deze - this one - no hint
-t - t - no hint
-laat - late - no hint
-moeten - should - no hint
-kunnen - can - no hint
-dus - so - no hint
-jou - your - no hint
-denk - think - no hint
-wie - how - no hint
-alles - everything - no hint
-echt - for real - no hint
-doe - do - no hint
-door - by - no hint
-alleen - only - no hint
-s - s - no hint
-toch - however - no hint
-zien - see - no hint
-eens - once - no hint
-weg - path - no hint
-man - man - no hint
-misschien - perhaps - no hint
-laten - let - no hint
-nooit - never - no hint
-nou - new - no hint
-terug - back - no hint
-zei - said - no hint
-mee - along - no hint
-oké - okay - no hint
-niets - nothing - no hint
-iemand - someone - no hint
-toen - then - no hint
-komt - coming - no hint
-even - even - no hint
-veel - a lot of - no hint
-onze - our - no hint
-gewoon - just - no hint
-weten - know - no hint
-komen - come - no hint
-mensen - people - no hint
-nodig - required - no hint
-tot - until - no hint
-worden - to become - no hint
-zeggen - say - no hint
-leven - life - no hint
-tijd - time - no hint
-weer - weather - no hint
-twee - two - no hint
-net - net - no hint
-tegen - against - no hint
-z - with - no hint
-maken - to make - no hint
-omdat - because - no hint
-zit - sits - no hint
-uw - your - no hint
-zeg - say - no hint
-wordt - is going to be - no hint
-hou - hou - no hint
-kijk - look - no hint
-wij - we - no hint
-heel - very - no hint
-gedaan - done - no hint
-altijd - always - no hint
-mag - mag - no hint
-dood - death - no hint
-zeker - sure - no hint
-af - of - no hint
-jaar - year - no hint
-hun - their - no hint
-dag - day - no hint
-jouw - your - no hint
-huis - house - no hint
-dacht - thought - no hint
-wilde - wanted to - no hint
-allemaal - all of them - no hint
-vader - father - no hint
-doet - is doing - no hint
-wacht - wait - no hint
-vrouw - woman - no hint
-kunt - can - no hint
-zie - see - no hint
-keer - times - no hint
-andere - others - no hint
-zoals - like - no hint
-zij - she - no hint
-geef - give - no hint
-waren - were - no hint
-anders - different - no hint
-zich - herself - no hint
-willen - want - no hint
-dank - thanks - no hint
-erg - very - no hint
-bedankt - thanks - no hint
-wilt - want - no hint
-geld - money - no hint
-één - a - no hint
-spijt - regret - no hint
-praten - to talk - no hint
-werk - work - no hint
-kon - could - no hint
-iedereen - everyone - no hint
-beter - better - no hint
-moeder - mother - no hint
-staat - state - no hint
-niemand - nobody - no hint
-gezien - seen - no hint
-werd - became - no hint
-niks - nothing - no hint
-vinden - find - no hint
-oh - oh - no hint
-binnen - within - no hint
-zitten - to sit - no hint
-zullen - will - no hint
-na - on - no hint
-wist - knew - no hint
-vind - find - no hint
-helpen - help out - no hint
-genoeg - enough - no hint
-uur - hour - no hint
-elkaar - each other - no hint
-ging - went - no hint
-hele - all - no hint
-sorry - sorry - no hint
-vast - vast - no hint
-neem - please - no hint
-leuk - fun - no hint
-klaar - ready - no hint
-god - god - no hint
-alle - all - no hint
-maak - make - no hint
-natuurlijk - of course - no hint
-lang - lang - no hint
-bedoel - mean - no hint
-drie - three - no hint
-kwam - came - no hint
-zegt - says - no hint
-toe - to - no hint
-hé - cracked - no hint
-graag - gladly - no hint
-eerste - first - no hint
-maakt - makes - no hint
-dingen - things - no hint
-krijgen - to get - no hint
-alsjeblieft - please - no hint
-steeds - always - no hint
-ziet - sees - no hint
-vertellen - to tell - no hint
-zonder - without - no hint
-deed - deed - no hint
-houden - to hold - no hint
-hallo - hi - no hint
-idee - ideas - no hint
-achter - behind - no hint
-geven - to give - no hint
-geweest - been - no hint
-onder - below - no hint
-helemaal - all the way - no hint
-mooi - beautiful - no hint
-blijven - stay - no hint
-kijken - look - no hint
-moest - had to - no hint
-naam - name - no hint
-goede - good - no hint
-zag - saw - no hint
-auto - auto - no hint
-grote - great - no hint
-blijf - stay - no hint
-luister - listen - no hint
-lijkt - seems - no hint
-ooit - ever - no hint
-snel - fast - no hint
-paar - pair - no hint
-vragen - questions - no hint
-kun - when - no hint
-wanneer - when - no hint
-gebeurd - happened - no hint
-vriend - friend - no hint
-meneer - sir - no hint
-beetje - bit - no hint
-nieuwe - new ones - no hint
-gek - crazy - no hint
-want - want - no hint
-kinderen - children - no hint
-hand - hand - no hint
-zorgen - to care - no hint
-laatste - last - no hint
-geweldig - awesome - no hint
-mr - mr - no hint
-hadden - had - no hint
-vraag - ask - no hint
-zelfs - even - no hint
-bang - bang - no hint
-enige - only one - no hint
-eten - food - no hint
-nemen - take - no hint
-samen - together - no hint
-zelf - self - no hint
-geleden - ago - no hint
-hoor - hear - no hint
-gevonden - found it - no hint
-jongen - boy - no hint
-staan - stand - no hint
-o - the - no hint
-denken - to think - no hint
-vandaag - today - no hint
-gezegd - said - no hint
-denkt - thinks - no hint
-beste - other - no hint
-thuis - home - no hint
-heen - away - no hint
-wereld - world - no hint
-jongens - guys - no hint
-ken - ken - no hint
-eerst - first - no hint
-eigen - own - no hint
-zoon - son - no hint
-vertel - tell - no hint
-buiten - outside - no hint
-meisje - girl - no hint
-gelijk - equal - no hint
-morgen - morning - no hint
-probleem - issue - no hint
-geloof - faith - no hint
-alsof - as if - no hint
-halen - fetch - no hint
-hen - hen - no hint
-zouden - would - no hint
-hoop - hope - no hint
-elke - each - no hint
-vermoord - murdered - no hint
-familie - family - no hint
-politie - police - no hint
-verdomme - damn - no hint
-bijna - almost - no hint
-eigenlijk - actually - no hint
-mannen - men - no hint
-wou - wanted - no hint
-zat - was sitting - no hint
-werken - to work - no hint
-horen - to hear - no hint
-vrienden - friends - no hint
-precies - exactly - no hint
-kind - kind - no hint
-manier - way - no hint
-kleine - small - no hint
-begrijp - understand - no hint
-geeft - gives - no hint
-houdt - keeps - no hint
-hè - summer - no hint
-orde - order - no hint
-verder - further - no hint
-rustig - quiet - no hint
-wachten - to wait - no hint
-krijg - receive - no hint
-hoofd - head - no hint
-soms - sometimes - no hint
-stop - stop - no hint
-vroeg - asked - no hint
-daarom - therefore - no hint
-gebeurt - happens - no hint
-volgens - according to - no hint
-dagen - days - no hint
-gehad - had - no hint
-gemaakt - made - no hint
-open - open - no hint
-krijgt - gets - no hint
-kant - side - no hint
-voel - feel - no hint
-zoek - search - no hint
-vond - found - no hint
-zaak - matter - no hint
-bel - nice - no hint
-werkt - works - no hint
-volgende - next one - no hint
-vanavond - tonight - no hint
-kans - opportunity - no hint
-probeer - try - no hint
-blij - happy - no hint
-best - best - no hint
-gehoord - heard - no hint
-zoeken - search - no hint
-verteld - told - no hint
-ding - thing - no hint
-oude - old - no hint
-tussen - between - no hint
-moment - moment - no hint
-pas - not - no hint
-vijf - five - no hint
-plaats - place - no hint
-zet - move - no hint
-prima - before - no hint
+که - that - no hint
+رو - face - no hint
+من - from - no hint
+به - to the - no hint
+و - and - no hint
+تو - you - no hint
+از - from - no hint
+مي - مي - no hint
+اين - this - no hint
+يه - one - no hint
+اون - that - no hint
+با - with - no hint
+در - the door - no hint
+نه - not - no hint
+ما - what - no hint
+هم - both - no hint
+بود - was - no hint
+کنم - to - no hint
+چي - chi - no hint
+ها - ها - no hint
+بايد - should - no hint
+خيلي - very - no hint
+تا - until the - no hint
+باشه - ok - no hint
+براي - for - no hint
+فکر - thought - no hint
+شما - you - no hint
+کن - do - no hint
+ديگه - other - no hint
+اينجا - here - no hint
+فقط - only - no hint
+داره - yes - no hint
+همه - all - no hint
+آره - yeah - no hint
+نيست - is not - no hint
+اگه - if - no hint
+خب - ok - no hint
+نمي - does not - no hint
+دارم - i have - no hint
+شده - شده - no hint
+کار - work - no hint
+ي - ي - no hint
+کني - kenny - no hint
+خوب - good - no hint
+چه - what - no hint
+چيزي - something - no hint
+اما - but - no hint
+توي - you - no hint
+چرا - why - no hint
+اي - اي - no hint
+پس - then - no hint
+کنه - کنه - no hint
+کردم - i did - no hint
+هاي - های - no hint
+داري - you have - no hint
+حالا - now - no hint
+يک - یک - no hint
+ولي - but - no hint
+ميشه - میشه - no hint
+هر - any - no hint
+الان - right now - no hint
+اونا - they - no hint
+یه - one - no hint
+این - this - no hint
+می - می - no hint
+منو - menu - no hint
+وقتي - when - no hint
