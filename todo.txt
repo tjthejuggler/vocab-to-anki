@@ -1,4 +1,3 @@
-add idioms to 
 give ending stats even if it ends due to max lines or max apis
 
 bugs
@@ -49,11 +48,6 @@ Eventually
 
 Refactoring
 	-fix variable names
-	-split main into different files
-		-make a print_helper.py
-		-make a string_helper.py
-		-move download_if_needed into pronunciation_download_helper.py
-		-make translation_helper.py
 
 Maybe
 	make a combine_failed_words program
