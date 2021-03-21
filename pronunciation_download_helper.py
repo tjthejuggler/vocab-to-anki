@@ -36,7 +36,7 @@ def has_previously_failed(word, lang):
 			if word.strip('\n') == line.strip('\n'):
 				has_failed = True
 	except:
-		print(lang +' folder does not exist')
+		print(lang +' failed list does not exist')
 	return has_failed
 
 def synthesize_text(text, lang):

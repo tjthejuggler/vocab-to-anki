@@ -319,7 +319,9 @@ def remove_special_characters(line):
 
 def remove_special_characters_and_add_apostrophes(line):
 	line = remove_special_characters(line)
-	return add_apostrophe_if_needed(line)	
+	for word in line.split():
+		line = line.replace(word, add_apostrophe_if_needed(word))
+	return line
 
 def get_hint_from_formatted_line(split_line):
 	hint = ""
@@ -388,7 +390,6 @@ def main():
 				split_phrase = phrase.split()
 				for word in split_phrase:
 					phrase = phrase.replace(word, add_apostrophe_if_needed(word))
-					print(phrase, word)
 				if should_translate:
 					translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
 					if translation:
@@ -408,6 +409,7 @@ def main():
 				split_line = line.split(' - ')
 				first_word = remove_special_characters_and_add_apostrophes(split_line[0])
 				second_word = remove_special_characters_and_add_apostrophes(split_line[1])
+				print('second_word',second_word)
 				hint = get_hint_from_formatted_line(split_line)
 				if not stop_everything_except_make_audio:
 					if should_download:
