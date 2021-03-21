@@ -35,7 +35,7 @@ cwd = os.getcwd()
 def get_args():
 	using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download = False, False, False, False
 	should_translate, should_randomize_order, is_formatted, should_make_audio_lesson = False, False, False, False
-	only_get_anki_cards_being_worked_on, use_anki_file = False, False
+	only_get_anki_cards_being_worked_on, use_anki_file, should_skip_confirmation = False, False, False
 	first_lang, second_lang, third_lang  = '', '', ''
 	require_individual_words_for_audio = True
 	first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
@@ -65,6 +65,7 @@ def get_args():
 	parser.add_argument("-r", "--randomorder", action="store_true",help="randomize the order of the words being processed")
 	parser.add_argument("-q", "--requireindivwords", action="store_true",help="only make an audio lesson entry if all \
 							individual words have been downloaded")
+	parser.add_argument("-s", "--skipconfirmation", action="store_true",help="skip confirmation prompt")
 	args = parser.parse_args()
 	first_lang = args.language1
 	if args.language2:
@@ -74,19 +75,19 @@ def get_args():
 		second_lang = args.language3
 		number_of_languages_given = number_of_languages_given+1
 	if args.download:
-		print('should_download')
+		#print('should_download')
 		should_download = True
 		number_of_languages_to_download = args.download
 	if args.maxapis:
 		max_api_calls = args.maxapis
-		print('max_api_calls', max_api_calls)
+		#print('max_api_calls', max_api_calls)
 	if args.linesmax:
 		max_lines = args.linesmax		
-		print('max_lines', max_lines)
+		#print('max_lines', max_lines)
 	if args.apkgsource:
 		use_anki_file = True
 		deck_name = args.apkgsource		
-		print('deck_name', deck_name)		
+		#print('deck_name', deck_name)		
 	if args.translate:
 		should_translate = True
 	if args.reducedapkg:
@@ -96,25 +97,27 @@ def get_args():
 	if args.makeankideckaudio:
 		should_make_anki_deck = True
 		should_make_anki_deck_audio_only = True
-		print('should_make_anki_deck_audio_only', should_make_anki_deck_audio_only)
+		#print('should_make_anki_deck_audio_only', should_make_anki_deck_audio_only)
 	if args.audiolesson:
 		should_make_audio_lesson = True
 	if args.requireindivwords:
 		require_individual_words_for_audio = True	
 	if args.randomorder:
 		should_randomize_order = True
+	if args.skipconfirmation:
+		should_skip_confirmation = True	
 	if number_of_languages_to_download == '':
 		number_of_languages_to_download = number_of_languages_given	
-	print('l1', first_lang)
-	print('21', second_lang)
-	print('3l', third_lang)
-	print('should_make_anki_deck',should_make_anki_deck)
-	print('should_download', should_download)
-	print('should_translate', should_translate)
-	print('number_of_languages_given', number_of_languages_given)
-	print('number_of_languages_to_download', number_of_languages_to_download)		
+	# print('l1', first_lang)
+	# print('21', second_lang)
+	# print('3l', third_lang)
+	# print('should_make_anki_deck',should_make_anki_deck)
+	# print('should_download', should_download)
+	# print('should_translate', should_translate)
+	# print('number_of_languages_given', number_of_languages_given)
+	# print('number_of_languages_to_download', number_of_languages_to_download)		
 	return (using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
-			should_translate, should_randomize_order, is_formatted, should_make_audio_lesson,
+			should_translate, should_randomize_order, should_skip_confirmation,is_formatted, should_make_audio_lesson,
 			only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 			number_of_languages_to_download, max_api_calls,	max_lines, deck_name)
@@ -136,9 +139,15 @@ def create_output_file(filename, output_lines):
 		for item in output_lines:
 			f.write("%s\n" % item.strip("\n"))
 
+def create_download_output_text(mp3_download_lists):
+	create_output_file('download_succeed', mp3_download_lists[0])
+	create_output_file('download_failed', mp3_download_lists[1])
+	create_output_file('download_previously', mp3_download_lists[2])
+	create_output_file('download_already_have', mp3_download_lists[3])
+
 def main():
 	(using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
-		should_translate, should_randomize_order, is_formatted, should_make_audio_lesson,
+		should_translate, should_randomize_order, should_skip_confirmation, is_formatted, should_make_audio_lesson,
 		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
 		require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name) = get_args()
@@ -162,7 +171,12 @@ def main():
 	all_audio_files, output_lines, audio_text = [], [], []
 	audio_lesson_output, audio_lesson_name = AudioSegment.silent(duration=2000), ''
 	total_lines = 0
-	get_confirmation()
+	if not should_skip_confirmation:
+		get_confirmation(lines, using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
+			should_translate, should_randomize_order, is_formatted, should_make_audio_lesson,
+			only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
+			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
+			number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name)
 	for line in lines:
 		api_limit_reached = False
 		if should_make_audio_lesson and line == "beyond this point is just for audio lesson":
@@ -197,7 +211,6 @@ def main():
 				split_line = line.split(' - ')
 				first_word = remove_special_characters_and_add_apostrophes(split_line[0])
 				second_word = remove_special_characters_and_add_apostrophes(split_line[1])
-				print('second_word',second_word)
 				hint = get_hint_from_formatted_line(split_line)
 				if not stop_everything_except_make_audio:
 					if should_download:

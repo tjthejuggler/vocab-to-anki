@@ -19,12 +19,13 @@ Information gathering
 
 New Functionality
 	-make a confirmation of how many words will be downloaded/translated
-		-it could quickly tell (this is a little complicated and based on settings)
-			how many of the words we already have
-			how many have previously failed
-			how may it is going to attempt
+
 	make optional "hint" language when making cards
 		it puts a 3rd langugae in the hint automatically		
+
+-Confirmation print
+	-give remaining api requests for the day
+		-this requires saving number of requests to an extenal file, along with dates
 
 Simple
 	-make an opt for showing prints

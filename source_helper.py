@@ -88,5 +88,4 @@ def determine_if_formatted(lines):
 		percent_formatted = formatted_line_count / len(lines)
 	if percent_formatted < .9:
 		is_formatted = False
-	print('isformatted',is_formatted)
 	return is_formatted
