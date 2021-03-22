@@ -12,9 +12,9 @@ from pydub import AudioSegment
 #from difflib import SequenceMatcher
 import sys, getopt
 import random
-import sqlite3
+#import sqlite3
 from operator import itemgetter
-import zipfile
+#import zipfile
 import argparse
 from anki_helper import *
 from file_helper import *
@@ -25,8 +25,8 @@ from string_helper import *
 from print_helper import *
 from source_helper import *
 
-print('Number of arguments:', len(sys.argv), 'arguments.')
-print('Argument List:', str(sys.argv))
+# print('Number of arguments:', len(sys.argv), 'arguments.')
+# print('Argument List:', str(sys.argv))
 
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
@@ -36,7 +36,7 @@ def get_args():
 	using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download = False, False, False, False
 	should_translate, should_randomize_order, is_formatted, should_make_audio_lesson = False, False, False, False
 	only_get_anki_cards_being_worked_on, use_anki_file, should_skip_confirmation = False, False, False
-	first_lang, second_lang, third_lang  = '', '', ''
+	first_lang, second_lang, third_lang, hint_lang  = '', '', '', ''
 	require_individual_words_for_audio = True
 	first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 	number_of_languages_given, number_of_languages_to_download  = 0, 0
@@ -66,6 +66,7 @@ def get_args():
 	parser.add_argument("-q", "--requireindivwords", action="store_true",help="only make an audio lesson entry if all \
 							individual words have been downloaded")
 	parser.add_argument("-s", "--skipconfirmation", action="store_true",help="skip confirmation prompt")
+	parser.add_argument("-hn", "--hinttranslation", help="language code to be used in hint translation")
 	args = parser.parse_args()
 	first_lang = args.language1
 	if args.language2:
@@ -74,6 +75,8 @@ def get_args():
 	if args.language3:
 		second_lang = args.language3
 		number_of_languages_given = number_of_languages_given+1
+	if args.hinttranslation:
+		hint_lang = args.hinttranslation
 	if args.download:
 		#print('should_download')
 		should_download = True
@@ -118,7 +121,7 @@ def get_args():
 	# print('number_of_languages_to_download', number_of_languages_to_download)		
 	return (using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
 			should_translate, should_randomize_order, should_skip_confirmation,is_formatted, should_make_audio_lesson,
-			only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
+			only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang, hint_lang,
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 			number_of_languages_to_download, max_api_calls,	max_lines, deck_name)
 
@@ -141,19 +144,18 @@ def create_output_file(filename, output_lines):
 
 def create_download_output_text(mp3_download_lists):
 	create_output_file('download_succeed', mp3_download_lists[0])
-	create_output_file('download_failed', mp3_download_lists[1])
 	create_output_file('download_previously', mp3_download_lists[2])
 	create_output_file('download_already_have', mp3_download_lists[3])
 
 def main():
 	(using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
 		should_translate, should_randomize_order, should_skip_confirmation, is_formatted, should_make_audio_lesson,
-		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
+		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang, hint_lang,
 		require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name) = get_args()
 	api_calls = 0
-	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s = [], [], [], []
-	mp3_download_lists = [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s]
+	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = [], [], []
+	mp3_download_lists = [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
 	lines, new_deck_name, url = get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on, use_anki_file, should_make_anki_deck_audio_only, max_lines)
 	deck = genanki.Deck(round(time.time()), new_deck_name)
 	is_formatted = determine_if_formatted(lines)
@@ -195,7 +197,10 @@ def main():
 				if should_translate:
 					translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
 					if translation:
-						output_lines.append(phrase + ' - ' + translation + ' - no hint\n')
+						translation_hint = ''
+						if not hint_lang == '':
+							translation_hint = get_translation(phrase, first_lang, hint_lang).replace('-','/') + ', '
+						output_lines.append(phrase + ' - ' + translation + ' - '+translation_hint+'no hint\n')
 				if should_download:
 					if api_calls >= max_api_calls:  
 						print('\nMax API calls reached!')

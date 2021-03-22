@@ -1,3 +1,12 @@
+import zipfile
+from pathlib import Path
+import os
+import sqlite3
+
+home = str(Path.home())
+pron_fold = home+'/pronunciations'
+cwd = os.getcwd()
+
 def get_lines_from_source(deck_name, only_get_anki_cards_being_worked_on, use_anki_file, should_make_anki_deck_audio_only, max_lines):
 	lines = []
 	url = ''

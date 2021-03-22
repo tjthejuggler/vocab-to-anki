@@ -1,114 +1,998 @@
-puhaltaa - blow - no hint
-ajattelitko - did you think - no hint
-valtakunta - kingdom - no hint
-lämmittää - warm - no hint
-luit - luit - no hint
-luonne - character - no hint
-vahingoita - damage - no hint
-erillään - separately - no hint
-puhuuko - is talking - no hint
-tuhotaan - destroyed - no hint
-hittoon - hittoon - no hint
-ikävöin - i miss you - no hint
-satutti - hurt - no hint
-paremminkin - rather - no hint
-poikaasi - your son - no hint
-aasi - aasi - no hint
-tarkoitusta - purpose - no hint
-mieluusti - gladly - no hint
-veistä - knives - no hint
-puhuttiin - was talked about - no hint
-johtajaa - leader - no hint
-vannoin - i swore - no hint
-mi - me - no hint
-istutaan - sitting down - no hint
-soititte - you called - no hint
-viipyä - linger - no hint
-koulutus - training - no hint
-halukas - willing - no hint
-we - we - no hint
-kenkäni - my shoes - no hint
-surkeita - miserable - no hint
-homoja - gays - no hint
-tekemästä - from doing - no hint
-tapahtumien - events - no hint
-sulki - closed - no hint
-hmm - hmm - no hint
-sullivan - sullivan - no hint
-claudia - claudia - no hint
-kiinnitä - fasten - no hint
-panokset - stakes - no hint
-paitaa - shirt - no hint
-toisille - to others - no hint
-juomat - beverages - no hint
-aamiaisen - breakfast - no hint
-lauluja - songs - no hint
-pyysivät - asked - no hint
-syytti - blamed - no hint
-fisher - fisher - no hint
-ympärilleni - around me - no hint
-näemmä - apparently - no hint
-pesen - songs - no hint
-nenäsi - your nose - no hint
-vetänyt - pulled - no hint
-vaatimaton - modest - no hint
-taakka - burden - no hint
-johtolanka - clue - no hint
-murtautua - break in - no hint
-entiseen - to the former - no hint
-turpiin - turbine - no hint
-kohtaloni - my destiny - no hint
-dvd - dvd - no hint
-alkunsa - origin - no hint
-lääkäreitä - doctors - no hint
-tarkistetaan - will be reviewed - no hint
-hyökkäykseen - to attack - no hint
-pinnan - surface - no hint
-flynn - flynn - no hint
-ajokortti - driving license - no hint
-aavistus - hunch - no hint
-hänkään - he too - no hint
-kestävät - durable - no hint
-huudat - you shout - no hint
-klaus - klaus - no hint
-oltu - oltu - no hint
-niskaan - neck - no hint
-hölmöä - fools - no hint
-ryanin - ryanin - no hint
-lopetettava - must be stopped - no hint
-sisällään - inside - no hint
-oikeudenkäynnin - trial - no hint
-tiedettä - science - no hint
-puhumatta - not to mention - no hint
-riippuvainen - dependent - no hint
-todisteiden - evidence - no hint
-huhut - rumors - no hint
-tukossa - blocked - no hint
-relaa - relaa - no hint
-kerrassaan - just - no hint
-golfia - golf - no hint
-vaimollesi - to your wife - no hint
-ostamme - we buy - no hint
-lohikäärmeen - the dragon - no hint
-queen - queen - no hint
-timmy - timmy - no hint
-leffa - movie - no hint
-avaat - you open - no hint
-vietnamissa - in vietnam - no hint
-torstai - thursday - no hint
-kättäni - my hand - no hint
-lukko - lock - no hint
-näyn - vision - no hint
-katsoimme - we looked - no hint
-boy - boy - no hint
-kävitte - you visited - no hint
-huoria - whores - no hint
-talonsa - his house - no hint
-tehtävänne - your task - no hint
-kypsä - ripe - no hint
-tiimin - team - no hint
-eronneet - divorced - no hint
-tietyn - certain - no hint
-voimani - my power - no hint
-avun - help - no hint
-sainpas - sainpas - no hint
+olarak - como - as, no hint
+ben - ben - I, no hint
+onun - su - her, no hint
+bu - eso - this, no hint
+diye - ese - that, no hint
+oldu - sucedió - it happened, no hint
+için - por - for, no hint
+üzerinde - sobre - over, no hint
+vardır - posee - has, no hint
+ile - con - with, no hint
+onlar - ellos - they, no hint
+olmak - ser - become, no hint
+at - a - at, no hint
+bir - uno - one, no hint
+var - dónde - exist, no hint
+bu - eso - this, no hint
+dan - y - and, no hint
+tarafından - por - by, no hint
+sıcak - caliente - hot, no hint
+kelime - palabra - word, no hint
+ancak - pero - but, no hint
+ne - nacido - what, no hint
+bazı - algunos - some, no hint
+olduğunu - es eso - is that, no hint
+o - los - he, no hint
+sen - su - you, no hint
+veya - o - or, no hint
+vardı - tenía - had, no hint
+arasında - entre - between, no hint
+karşı - contra - against, no hint
+ve - y - and, no hint
+bir - uno - one, no hint
+içinde - en - in, no hint
+biz - nosotros - we, no hint
+can - lata - can, no hint
+üzerinden - sobre - over, no hint
+diğer - otro - other, no hint
+vardı - tenía - had, no hint
+hangi - cuales - which, no hint
+do - hacer - do, no hint
+onların - su - their, no hint
+zaman - hora - time, no hint
+eğer - si - if, no hint
+olacak - será - it will be, no hint
+nasıl - cómo - how, no hint
+dedi - dicho - said, no hint
+bir - uno - one, no hint
+her - su - every, no hint
+söyle - dilo - say it, no hint
+yok - no - no, no hint
+set - colocar - set, no hint
+üç - tres - three, no hint
+istiyorum - quiero - i want, no hint
+hava - aire - air, no hint
+iyi - bien - good, no hint
+ayrıca - además - also, no hint
+oynamak - tocar - play, no hint
+küçük - pequeño - small, no hint
+son - su - his, no hint
+koymak - poner - put, no hint
+ev - hogar - home, no hint
+okumak - leyendo - reading, no hint
+el - el - the, no hint
+liman - puerto - port, no hint
+büyük - grande - big, no hint
+büyü - magia - magic, no hint
+ekleyin - agregar - add, no hint
+hatta - incluso - even, no hint
+arazi - tierra - land, no hint
+burada - aquí - here, no hint
+gerekir - deber - must, no hint
+yüksek - alto - high, no hint
+böyle - semejante - such, no hint
+izleyin - reloj - watch, no hint
+hareket - movimiento - movement, no hint
+neden - porqué es eso - why, no hint
+sormak - pedir - ask, no hint
+erkekler - hombres - men, no hint
+değişim - cambio - change, no hint
+gitti - desaparecido - gone, no hint
+ışık - ligero - light, no hint
+tür - tipo - kind, no hint
+kapalı - cerrado - closed, no hint
+gerek - necesitar - need, no hint
+ev - hogar - home, no hint
+resim - fotografía - picture, no hint
+denemek - tratar - try, no hint
+bizi - nosotros - us, no hint
+tekrar - otra vez - again, no hint
+hayvan - animal - animal, no hint
+nokta - punto - dot, no hint
+anne - ana - anne, no hint
+dünya - mundo - world, no hint
+yakın - cerca - near, no hint
+inşa - construcción - construction, no hint
+öz - propio - own, no hint
+toprak - tierra - soil, no hint
+baba - partera - midwife, no hint
+herhangi - alguna - any, no hint
+yeni - nuevo - new, no hint
+iş - negocio - business, no hint
+bölüm - episodio - episode, no hint
+almak - recibir - take, no hint
+olsun - de todas formas - anyway, no hint
+yer - sitio - ground, no hint
+yapılan - hecho - made, no hint
+canlı - viva - alive, no hint
+nerede - dónde - where, no hint
+sonra - entonces - after, no hint
+geri - espalda - back, no hint
+küçük - pequeño - small, no hint
+sadece - solo - just, no hint
+yuvarlak - redondo - round, no hint
+adam - adán - adam, no hint
+yıl - año - year, no hint
+geldi - llegó - came, no hint
+gösterisi - show - show, no hint
+her - su - every, no hint
+iyi - bien - good, no hint
+bana - a mi - to me, no hint
+vermek - dar - give, no hint
+bizim - ntro - our, no hint
+altında - debajo - under, no hint
+adı - nombre de pila - first name, no hint
+çok - muy - many, no hint
+ile - con - with, no hint
+sadece - solo - just, no hint
+formu - formulario - form, no hint
+cümle - frase - sentence, no hint
+büyük - grande - big, no hint
+düşünmek - pensar - think, no hint
+demek - decir - to say, no hint
+yardım - ayuda - help, no hint
+düşük - bajo - low, no hint
+hat - posee - has, no hint
+farklı - diferente - different, no hint
+dönüş - regreso - return, no hint
+neden - porqué es eso - why, no hint
+çok - muy - many, no hint
+yani - asi que - so, no hint
+önce - antes de - before, no hint
+hareket - movimiento - movement, no hint
+sağ - derecho - right, no hint
+çocuk - niño - child, no hint
+eski - viejo - old, no hint
+çok - muy - many, no hint
+aynı - mismo - same, no hint
+diye - ese - that, no hint
+tüm - todos - all, no hint
+orada - allí - there, no hint
+zaman - hora - time, no hint
+yukarı - hasta - up, no hint
+kullanım - usar - use, no hint
+senin - lunes - your, no hint
+yol - camino - way, no hint
+hakkında - sobre - about, no hint
+birçok - muchos - many, no hint
+o - los - he, no hint
+onları - ellos - them, no hint
+yazmak - escribir - write, no hint
+would - haría - would, no hint
+gibi - como - like, no hint
+bu - eso - this, no hint
+bu - eso - this, no hint
+onu - él/ella/eso - him/her/it, no hint
+uzun - largo - long, no hint
+yapmak - hacer - do, no hint
+şey - cosa - thing, no hint
+görmek - ver - see, no hint
+onu - él/ella/eso - him/her/it, no hint
+iki - a - to, no hint
+var - dónde - exist, no hint
+bak - detrás - behind, no hint
+daha - más - more, no hint
+gün - día - day, no hint
+olabilir - puede ser - could be, no hint
+gitmek - vamos - go, no hint
+gel - la gente - the people, no hint
+yaptım - yo hice - i did, no hint
+numarası - su numero - its number, no hint
+ses - su - his, no hint
+hayır - no - no, no hint
+en - en - most, no hint
+insanlar - gente - people, no hint
+benim - sólo yo - my, no hint
+üzerinde - sobre - over, no hint
+bilmek - saber - know, no hint
+su - su - its, no hint
+daha - más - more, no hint
+çağrı - llamada - call, no hint
+ilk - primero - first, no hint
+kim - kim - whom, no hint
+may - mayo - may, no hint
+aşağı - abajo - down, no hint
+yan - yan - yan, no hint
+oldu - sucedió - it happened, no hint
+şimdi - ahora - now, no hint
+bulmak - encontrar - find, no hint
+kafa - cabeza - head, no hint
+standı - estar - stand, no hint
+kendi - propio - self, no hint
+sayfa - página - page, no hint
+gerekir - deber - must, no hint
+ülke - país - country, no hint
+bulundu - fue encontrado - was found, no hint
+cevap - respuesta - reply, no hint
+okul - colegio - school, no hint
+büyümek - crecer - grow, no hint
+çalışma - trabaja - work, no hint
+hala - todavía - still, no hint
+öğrenmek - aprender - learn, no hint
+bitki - planta - plant, no hint
+kapak - cubrir - cover, no hint
+gıda - comida - food, no hint
+güneş - sol - sun, no hint
+dört - cuatro - four, no hint
+arasında - entre - between, no hint
+devlet - expresar - state, no hint
+tutmak - mantener - keep, no hint
+göz - ojo - eye, no hint
+asla - nunca - never, no hint
+son - su - his, no hint
+let - dejar - let, no hint
+düşünce - idea - idea, no hint
+şehir - ciudad - city, no hint
+ağaç - árbol - tree, no hint
+çapraz - cruzar - cross, no hint
+çiftlik - granja - farm, no hint
+sert - difícil - hard, no hint
+başlangıç - comienzo - start, no hint
+olabilir - puede ser - could be, no hint
+hikaye - historia - story, no hint
+testere - sierra - saw, no hint
+kadar - hasta - until, no hint
+deniz - mar - sea, no hint
+çizmek - dibujar - to draw, no hint
+sol - sol - sun, no hint
+geç - tarde - late, no hint
+run - correr - run, no hint
+yapamaz - hipocresía - can&#39;t, no hint
+süre - hora - time, no hint
+basın - prensa - press, no hint
+yakın - cerca - near, no hint
+gece - noche - night, no hint
+gerçek - verdadero - real, no hint
+hayat - vida - life, no hint
+az - la - the, no hint
+kuzey - norte - north, no hint
+kitap - libro - book, no hint
+taşımak - transporte - transport, no hint
+aldı - cogí - took, no hint
+bilim - ciencias - science, no hint
+yemek - comida - eat, no hint
+oda - habitación - room, no hint
+arkadaşı - su amigo - his friend, no hint
+başladı - empezado - started, no hint
+fikir - idea - idea, no hint
+balık - el pez - the fish, no hint
+dağ - montaña - mountain, no hint
+dur - difícil - hard, no hint
+bir - uno - one, no hint
+baz - base - base, no hint
+duymak - oír - to hear, no hint
+at - a - at, no hint
+kesim - corte - cut, no hint
+emin - por supuesto - sure, no hint
+izle - reloj - watch, no hint
+renk - color - color, no hint
+yüz - rostro - face, no hint
+ahşap - de madera - wooden, no hint
+ana - madre - mother, no hint
+açık - abierto - open, no hint
+görünmek - parecer - seem, no hint
+birlikte - juntos - together, no hint
+sonraki - próximo - next, no hint
+beyaz - blanco - white, no hint
+çocuk - niño - child, no hint
+başla - comienzo - start, no hint
+var - dónde - exist, no hint
+yürümek - caminar - walk, no hint
+örnek - muestra - sample, no hint
+kolaylığı - facilidad de - ease of, no hint
+kâğıt - papel - paper, no hint
+grup - grupo - group, no hint
+her - su - every, no hint
+müzik - música - music, no hint
+bu - eso - this, no hint
+her - su - every, no hint
+işareti - signo - sign, no hint
+sık - elegante - stylish, no hint
+mektup - letra - letter, no hint
+kadar - hasta - until, no hint
+kilometre - kilómetro - kilometer, no hint
+nehir - río - river, no hint
+araba - auto - car, no hint
+ayaklar - pies - feet, no hint
+bakım - mantenimiento - maintenance, no hint
+ikinci - segundo - second, no hint
+yeterli - suficiente - enough, no hint
+düz - derecho - straight, no hint
+kız - muchacha - girl, no hint
+olağan - usual - usual, no hint
+genç - joven - young, no hint
+hazır - listo - ready, no hint
+yukarıdaki - sobre - above, no hint
+hiç - no - no, no hint
+kırmızı - rojo - red, no hint
+listesi - lista - list, no hint
+olsa - aunque - though, no hint
+hissetmek - sentir - to feel, no hint
+tartışma - discusión - discussion, no hint
+kuş - pájaro - bird, no hint
+yakında - pronto - soon, no hint
+vücut - cuerpo - body, no hint
+köpek - perro - dog, no hint
+aile - familia - family, no hint
+doğrudan - directo - direct, no hint
+poz - articulo - item, no hint
+bırakın - dejalo - leave, no hint
+şarkı - canción - song, no hint
+ölçmek - para medir - to measure, no hint
+kapı - puerta - door, no hint
+ürün - producto - product, no hint
+siyah - negro - black, no hint
+kısa - pequeño - short, no hint
+rakam - rakam - rakam, no hint
+sınıf - clase - class, no hint
+rüzgar - viento - wind, no hint
+soru - pregunta - question, no hint
+olur - sería - would be, no hint
+komple - completo - complete, no hint
+gemi - embarcacion - ship, no hint
+alan - dominio - domain, no hint
+yarım - mi amor - my love, no hint
+kaya - asi que - so, no hint
+sipariş - orden - order, no hint
+yangın - fuego - fire, no hint
+güney - sur - south, no hint
+sorun - problema - problem, no hint
+parça - pedazo - piece, no hint
+söyledi - dijo - told, no hint
+biliyordu - él sabía - he knew, no hint
+geçmek - pasar - pass, no hint
+beri - ya que - since, no hint
+üst - cima - top, no hint
+bütün - todos - all, no hint
+kral - rey - king, no hint
+sokak - calle - street, no hint
+inch - pulgada - inch, no hint
+çarpmak - protuberancia - bump, no hint
+hiçbir - no - no, no hint
+ders - lección - lesson, no hint
+kalmak - quédate - stay, no hint
+tekerlek - rueda - wheel, no hint
+tam - tam - tam, no hint
+kuvvet - fuerza - force, no hint
+mavi - azul - blue, no hint
+nesne - objeto - object, no hint
+karar - decisión - decision, no hint
+yüzey - superficie - surface, no hint
+derin - profundo - deep, no hint
+ay - sí - ay, no hint
+ada - hay - there is, no hint
+ayak - pie - foot, no hint
+sistem - sistema - system, no hint
+meşgul - ocupado - busy, no hint
+test - prueba - test, no hint
+kayıt - registro - record, no hint
+tekne - bote - boat, no hint
+ortak - pareja - partner, no hint
+altın - oro - gold, no hint
+mümkün - posible - might, no hint
+düzlem - plano - plane, no hint
+başkasının - de alguien más - someone else, no hint
+kuru - cuál - which one, no hint
+acaba - acaba - just, no hint
+gülmek - reír - laugh, no hint
+bin - soy - am, no hint
+önce - antes de - before, no hint
+koştu - el corrió - he ran, no hint
+kontrol - control - control, no hint
+oyunu - juego - game, no hint
+şekil - figura - figure, no hint
+eşit - igual - equal, no hint
+sıcak - caliente - hot, no hint
+özledim - me perdí - i missed, no hint
+getirdi - trajo - brought, no hint
+ısı - calor - heat, no hint
+kar - kar - kar, no hint
+lastik - neumático - tire, no hint
+getirmek - traer - to bring, no hint
+evet - sí - yes, no hint
+uzak - lejos - far, no hint
+doldurun - llenar - fill in, no hint
+doğu - este - east, no hint
+boya - pintura - paint, no hint
+dil - el corazón - the heart, no hint
+arasında - entre - between, no hint
+ünitesi - unidad - unit, no hint
+güç - poder - power, no hint
+kasaba - pueblo - town, no hint
+ince - delgado - thin, no hint
+belirli - específico - specific, no hint
+uçmak - mosca - fly, no hint
+düşmek - otoño - fall, no hint
+kurşun - bala - bullet, no hint
+ağlamak - llorar - cry, no hint
+karanlık - oscuro - dark, no hint
+makine - máquina - machine, no hint
+notu - calificación - grade, no hint
+bekleyin - espere - wait, no hint
+planı - plan - plan, no hint
+rakam - rakam - rakam, no hint
+yıldız - estrella - star, no hint
+kutu - caja - box, no hint
+i - i - i, no hint
+alan - dominio - domain, no hint
+gerisi - descanso - rest, no hint
+doğru - derecho - right, no hint
+yetenekli - talentoso - talented, no hint
+kiloluk - libra - pound, no hint
+bitti - se acabó - it&#39;s over, no hint
+güzellik - belleza - beauty, no hint
+sürücü - conductor - driver, no hint
+durdu - detenido - stoped, no hint
+içeren - incluso - including, no hint
+ön - usted - you, no hint
+öğretmek - enseñar - to teach, no hint
+hafta - semana - week, no hint
+nihai - final - final, no hint
+verdi - dio - gave, no hint
+yeşil - verde - green, no hint
+oh - oh - oh, no hint
+hızlı - rápido - fast, no hint
+geliştirmek - desarrollar - develop, no hint
+okyanus - oceano - ocean, no hint
+sıcak - caliente - hot, no hint
+ücretsiz - libre - free, no hint
+dakika - minuto - minute, no hint
+güçlü - fuerte - strong, no hint
+özel - especial - special, no hint
+zihin - mente - mind, no hint
+arkasında - detrás - behind, no hint
+açık - abierto - open, no hint
+kuyruk - cola - queue, no hint
+üretmek - para producir - to produce, no hint
+gerçek - verdadero - real, no hint
+uzay - espacio - space, no hint
+duydum - he oído - i heard, no hint
+en - en - most, no hint
+saat - momento - moment, no hint
+daha - más - more, no hint
+gerçek - verdadero - real, no hint
+sırasında - durante - during, no hint
+yüz - rostro - face, no hint
+beş - cinco - five, no hint
+hatırlıyorum - recuerdo - i remember, no hint
+adım - paso - step, no hint
+erken - temprano - early, no hint
+tutun - tabaco - tobacco, no hint
+batı - oeste - west, no hint
+zemin - suelo - floor, no hint
+faiz - interesar - interest, no hint
+ulaşmak - llegar - reach, no hint
+hızlı - rápido - fast, no hint
+fiil - verbo - verb, no hint
+şarkı - canción - song, no hint
+dinle - escucha - listen, no hint
+altı - seis - under, no hint
+tablo - gráfico - chart, no hint
+seyahat - viaje - travel, no hint
+daha - más - more, no hint
+sabah - sabah - sabah, no hint
+on - en - on, no hint
+basit - sencillo - simple, no hint
+birkaç - unos pocos - a few, no hint
+ünlü - famoso - famous, no hint
+doğru - derecho - right, no hint
+savaş - guerra - war, no hint
+koymak - poner - put, no hint
+karşı - contra - against, no hint
+desen - dibujo - drawing, no hint
+yavaş - lento - slow, no hint
+merkezi - central - central, no hint
+aşk - amor - love, no hint
+kişi - persona - person, no hint
+para - para - for, no hint
+hizmet - servicio - service, no hint
+görünür - aparece - appears, no hint
+yol - camino - way, no hint
+harita - mapa - map, no hint
+yağmur - lluvia - rain, no hint
+kural - regla - rule, no hint
+idare - administración - administration, no hint
+çek - controlar - check, no hint
+soğuk - frío - cold, no hint
+haber - noticias - news, no hint
+ses - su - his, no hint
+enerji - energía - energy, no hint
+avı - cazar - hunt, no hint
+muhtemel - probable - likely, no hint
+yatak - cama - bed, no hint
+kardeş - hermano - brother, no hint
+yumurta - huevo - egg, no hint
+binmek - subirse - get on, no hint
+hücre - celda - cell, no hint
+inanıyorum - yo creo - i believe, no hint
+belki - quizás - Maybe, no hint
+seçmek - elegir - choose, no hint
+ani - años - years, no hint
+saymak - contar - count, no hint
+kare - kare - kare, no hint
+neden - porqué es eso - why, no hint
+uzunluk - largo - length, no hint
+temsil - representación - representation, no hint
+sanat - arte - art, no hint
+konu - sujeto - subject, no hint
+bölge - región - region, no hint
+boyut - talla - size, no hint
+değiştirmek - cambio - change, no hint
+yerleşmek - establecerse - settle down, no hint
+konuşmak - hablar - talk, no hint
+ağırlık - peso - weight, no hint
+genel - general - general, no hint
+buz - hielo - ice, no hint
+madde - importar - matter, no hint
+daire - circulo - circle, no hint
+çifti - par - pair, no hint
+dahil - porque - because, no hint
+bölmek - dividir - divide, no hint
+hece - sílaba - syllable, no hint
+keçe - sintió - felt, no hint
+büyük - grande - big, no hint
+top - cima - top, no hint
+henüz - todavía - yet, no hint
+dalga - ola - wave, no hint
+bırakın - dejalo - leave, no hint
+kalp - corazón - heart, no hint
+duyuyorum - escucho - i hear, no hint
+mevcut - disponible - available, no hint
+ağır - pesado - heavy, no hint
+dans - dentro - in, no hint
+motor - motor - motor, no hint
+pozisyon - posición - position, no hint
+kol - columna - col, no hint
+geniş - grande - large, no hint
+yelken - navegar - sail, no hint
+materyal - material bélico - materiel, no hint
+kesir - fracción - fraction, no hint
+orman - bosque - forest, no hint
+oturmak - sentarse - to sit, no hint
+yarış - raza - race, no hint
+penceresi - ventana - window, no hint
+mağaza - tienda - shop, no hint
+yaz - el verano - summer, no hint
+tren - tren - train, no hint
+uyku - dormir - sleep, no hint
+kanıtlamak - probar - prove, no hint
+yalnız - solamente - only, no hint
+bacak - pierna - leg, no hint
+egzersiz - ejercicio - exercise, no hint
+duvar - pared - wall, no hint
+catch - captura - catch, no hint
+dağ - montaña - mountain, no hint
+dilek - deseo - wish, no hint
+gökyüzü - cielo - sky, no hint
+kurulu - tabla de - board, no hint
+sevinç - alegría - joy, no hint
+kış - invierno - winter, no hint
+cts - cts - cts, no hint
+yazılı - escrito - written, no hint
+vahşi - salvaje - wild, no hint
+enstrüman - instrumento - instrument, no hint
+tuttu - conocido - known, no hint
+cam - naranjas - oranges, no hint
+çim - césped - grass, no hint
+inek - vaca - cow, no hint
+iş - negocio - business, no hint
+kenar - borde - edge, no hint
+işareti - signo - sign, no hint
+ziyareti - visitar - visit, no hint
+geçmiş - pasado - past, no hint
+yumuşak - suave - soft, no hint
+eğlenceli - divertido - funny, no hint
+parlak - brillante - bright, no hint
+gaz - gas - gas, no hint
+hava - aire - air, no hint
+ay - sí - ay, no hint
+milyon - millón - million, no hint
+ayı - soportar - bear, no hint
+bitirmek - finalizar - finish, no hint
+mutlu - contento - happy, no hint
+umut - esperanza - hope, no hint
+çiçek - flor - flower, no hint
+giydirmek - vestirse - dress up, no hint
+garip - extraño - strange, no hint
+gitti - desaparecido - gone, no hint
+ticaret - comercio - trade, no hint
+melodi - melodía - melody, no hint
+gezi - viaje - travel, no hint
+ofis - oficina - office, no hint
+almak - recibir - take, no hint
+satır - línea - line, no hint
+ağız - boca - mouth, no hint
+tam - tam - tam, no hint
+sembol - símbolo - symbol, no hint
+ölmek - morir - die, no hint
+en - en - most, no hint
+sorun - problema - problem, no hint
+bağırmak - gritar - yell, no hint
+hariç - excluyendo - excluding, no hint
+yazdı - escribió - wrote, no hint
+tohum - semilla - seed, no hint
+sesi - sesión - session, no hint
+katılmak - unirse - join, no hint
+önermek - sugerir - suggest, no hint
+temiz - limpio - clean, no hint
+molası - descanso - break, no hint
+bayan - dama - lady, no hint
+yarda - yarda - yard, no hint
+yükselecek - se levantará - will rise, no hint
+kötü - malo - bad, no hint
+darbe - golpe - coup, no hint
+yağ - petróleo - oil, no hint
+kan - mayo - may, no hint
+dokunma - no tocar - do not touch, no hint
+büyüdü - ha crecido - has grown, no hint
+yüzde - por ciento - percent, no hint
+karıştırmak - confundir - confuse, no hint
+takım - equipo - team, no hint
+tel - teléfono - phone, no hint
+maliyet - costo - cost, no hint
+kaybetti - perdió - lost, no hint
+kahverengi - marrón - brown, no hint
+giymek - usar - to wear, no hint
+bahçe - jardín - garden, no hint
+eşit - igual - equal, no hint
+gönderildi - enviado - sent, no hint
+seçim - selección - selection, no hint
+düştü - cayó - fell, no hint
+uygun - apropiado - appropriate, no hint
+akış - fluir - flow, no hint
+adil - justa - fair, no hint
+banka - banco - bank, no hint
+toplamak - recoger - collect, no hint
+kaydetmek - ahorrar - to save, no hint
+kontrolü - control - control, no hint
+ondalık - decimal - decimal, no hint
+kulak - oído - ear, no hint
+başka - otro - another, no hint
+oldukça - bastante - quite, no hint
+kırdı - en bancarrota - broke, no hint
+dava - caso - case, no hint
+orta - medio - middle, no hint
+öldürmek - matar - kill, no hint
+oğlu - hijo - son, no hint
+göl - lago - lake, no hint
+an - un - an, no hint
+ölçek - escala - scale, no hint
+yüksek - alto - high, no hint
+bahar - bahar - bahar, no hint
+gözlemlemek - para observar - to observe, no hint
+çocuk - niño - child, no hint
+düz - derecho - straight, no hint
+ünsüz - consonante - consonant, no hint
+ulus - nación - nation, no hint
+sözlük - diccionario - dictionary, no hint
+süt - leche - milk, no hint
+hız - velocidad - speed, no hint
+yöntem - método - method, no hint
+organ - organo - organ, no hint
+ödeme - pago - payment, no hint
+yaş - edad - age, no hint
+bölüm - episodio - episode, no hint
+elbise - vestido - dress, no hint
+bulut - nube - cloud, no hint
+sürpriz - sorpresa - surprise, no hint
+sessiz - tranquilo - quiet, no hint
+taş - roca - rock, no hint
+küçücük - diminuto - tiny, no hint
+tırmanış - trepar - climb, no hint
+serin - frio - cool, no hint
+dizayn - diseño - design, no hint
+kötü - malo - bad, no hint
+çok - muy - many, no hint
+deneme - juicio - trial, no hint
+alt - todo - everything, no hint
+anahtar - llave - key, no hint
+demir - planchar - iron, no hint
+tek - único - single, no hint
+sopa - sopa - soup, no hint
+düz - derecho - straight, no hint
+yirmi - veinte - twenty, no hint
+cilt - piel - skin, no hint
+gülümseme - sonreír - smile, no hint
+kırışık - arrugado - wrinkled, no hint
+delik - agujero - hole, no hint
+atlama - saltar - jump, no hint
+bebek - bebé - baby, no hint
+sekiz - ocho - eight, no hint
+köy - bahía - bay, no hint
+karşılamak - encontrarse - meet, no hint
+kök - cocina - kitchen, no hint
+satın - comprar - buy, no hint
+yükseltmek - aumentar - raise, no hint
+çözmek - resolver - solve, no hint
+metal - metal - metal, no hint
+olsun - de todas formas - anyway, no hint
+it - eso - it, no hint
+yedi - siete - seven, no hint
+paragraf - párrafo - paragraph, no hint
+üçüncü - tercera - third, no hint
+shall - deberá - shall, no hint
+tutulan - sostuvo - held, no hint
+saç - pelo - hair, no hint
+tanımlamak - definir - define, no hint
+aşçı - cocinero - chef, no hint
+zemin - suelo - floor, no hint
+ya - sí - really.., no hint
+sonuç - resultado - result, no hint
+yanmak - quemadura - burn, no hint
+tepe - cerro - hill, no hint
+güvenli - a salvo - safe, no hint
+kedi - gato - cat, no hint
+yüzyıl - siglo - century, no hint
+düşünmek - pensar - think, no hint
+tipi - tipos - types, no hint
+hukuk - ley - law, no hint
+bit - un poco - bit, no hint
+sahil - costa - coast, no hint
+kopya - copiar - copy, no hint
+ifade - expresión - expression, no hint
+sessiz - tranquilo - quiet, no hint
+uzun - largo - long, no hint
+kum - padrino - godfather, no hint
+toprak - tierra - soil, no hint
+rulo - rollo - roll, no hint
+sıcaklık - la temperatura - temperature, no hint
+parmak - dedo - finger, no hint
+sanayi - industria - industry, no hint
+değeri - el valor de - the value of, no hint
+kavga - lucha - fight, no hint
+yalan - mentir - lie, no hint
+yendi - ganó - he won, no hint
+heyecanlandırmak - excitar - excite, no hint
+doğal - natural - natural, no hint
+görünüm - vista - view, no hint
+sense - sentido - sense, no hint
+sermaye - capital - capital, no hint
+olmaz - de ninguna manera - no way, no hint
+sandalye - silla - chair, no hint
+tehlike - peligro - danger, no hint
+meyve - fruta - fruit, no hint
+zengin - rico - rich, no hint
+kalın - grueso - thick, no hint
+asker - soldado - soldier, no hint
+süreç - proceso - process, no hint
+işletmek - funcionar - operate, no hint
+uygulama - solicitud - application, no hint
+ayrı - separar - separate, no hint
+zor - difícil - hard, no hint
+doktor - doctor - doctor, no hint
+lütfen - por favor - please, no hint
+korumak - proteger - protect, no hint
+öğlen - mediodía - noon, no hint
+kırpma - recorte - clipping, no hint
+çağdaş - contemporáneo - contemporary, no hint
+eleman - obrero - workman, no hint
+vurmak - pegar - hit, no hint
+öğrenci - estudiante - student, no hint
+köşe - esquina - corner, no hint
+parti - activar - set off, no hint
+besleme - alimentar - feed, no hint
+kimin - cuyo - whose, no hint
+yerleştirmek - sitio - place, no hint
+halka - anillo - ring, no hint
+karakter - personaje - character, no hint
+böcek - insecto - insect, no hint
+yakalandı - atrapó - caught, no hint
+dönemi - periodo de - period, no hint
+göstermektedir - muestra - shows, no hint
+radyo - radio - radio, no hint
+konuştu - habló - he spoke, no hint
+atomudur - es el átomo - is the atom, no hint
+insan - humano - human, no hint
+geçmişi - historia de - history, no hint
+etkisi - el efecto de - effect, no hint
+elektrik - electricidad - electricity, no hint
+bekliyoruz - estamos esperando - we are waiting, no hint
+kemik - hueso - bone, no hint
+demiryolu - ferrocarril - railway, no hint
+hayal - sueño - dream, no hint
+sağlamak - proveer - provide, no hint
+katılıyorum - estoy de acuerdo - i agree, no hint
+böylece - por lo tanto - thus, no hint
+nazik - tipo - kind, no hint
+kadın - mujer - woman, no hint
+kaptan - capitán - captain, no hint
+sanırım - creo - i think, no hint
+gerekli - necesario - necessary, no hint
+keskin - afilado - sharp, no hint
+kanat - kanat - kanat, no hint
+oluşturmak - crear - create, no hint
+komşu - vecino - neighbor, no hint
+yıkama - lavado - washing, no hint
+yarasa - murciélago - bat, no hint
+yerine - en lugar de - instead, no hint
+kalabalık - atestado - crowded, no hint
+mısır - egipto - egypt, no hint
+karşılaştırma - comparación - comparison, no hint
+şiir - poesía - poetry, no hint
+dize - cuerda - string, no hint
+çan - campana - bell, no hint
+bağlı - conectado - connected, no hint
+et - y - and, no hint
+ovmak - besar - to kiss, no hint
+tüp - tubo - tube, no hint
+ünlü - famoso - famous, no hint
+dolar - dólar - dollar, no hint
+akışı - fluir - flow, no hint
+korku - miedo - fear, no hint
+görüş - opinión - opinion, no hint
+ince - delgado - thin, no hint
+üçgen - triángulo - triangle, no hint
+gezegen - planeta - planet, no hint
+acele - aquellos - those, no hint
+baş - cabeza - head, no hint
+koloni - colonia - colony, no hint
+saat - momento - moment, no hint
+mayın - mayo - may, no hint
+kravat - corbata - tie, no hint
+girin - ingresar - enter, no hint
+büyük - grande - big, no hint
+taze - fresco - fresh, no hint
+arama - buscar - search, no hint
+göndermek - enviar - send, no hint
+sarı - amarillo - yellow, no hint
+gun - pistola - gun, no hint
+izin - permiso - permission, no hint
+baskı - impresión - printing, no hint
+ölü - muerto - dead, no hint
+nokta - punto - dot, no hint
+çöl - desierto - desert, no hint
+takım - equipo - team, no hint
+akım - actual - current, no hint
+asansör - ascensor - elevator, no hint
+gül - rosa - rose, no hint
+varmak - llegar - arrive, no hint
+usta - maestro - master, no hint
+iz - desde - from, no hint
+ebeveyn - padre - parent, no hint
+kıyı - costa - coast, no hint
+bölünme - división - division, no hint
+levha - lámina - plate, no hint
+madde - importar - matter, no hint
+iyilik - favor - favor, no hint
+bağlamak - conectar - connect, no hint
+sonrası - correo/ - post/, no hint
+harcamak - gastar - spend, no hint
+akor - acorde - chord, no hint
+şişman - gordo - fat, no hint
+memnun - satisfecho - satisfied, no hint
+orijinal - original - original, no hint
+payı - parte de - share of, no hint
+istasyon - estación - station, no hint
+baba - partera - midwife, no hint
+ekmek - pan - bread, no hint
+şarj - cargo - charge, no hint
+uygun - apropiado - appropriate, no hint
+bar - bar - bar, no hint
+teklif - licitación - bid, no hint
+segmenti - segmentos - segments, no hint
+köle - esclavo - slave, no hint
+ördek - pato - duck, no hint
+anlık - instante - instant, no hint
+pazar - mercado - market, no hint
+derecesi - grado de - degree of, no hint
+doldurmak - llenar - fill, no hint
+civciv - polluelo - chick, no hint
+sevgili - estimado - dear, no hint
+düşman - enemigo - foe, no hint
+cevap - respuesta - reply, no hint
+içki - bebida - drink, no hint
+meydana - ocurrir - occur, no hint
+destek - apoyo - support, no hint
+konuşma - hablar - talk, no hint
+doğa - naturaleza - nature, no hint
+aralığı - gama de - range, no hint
+buhar - vapor - steam, no hint
+hareket - movimiento - movement, no hint
+yol - camino - way, no hint
+sıvı - líquido - liquid, no hint
+log - iniciar sesión - log, no hint
+demek - decir - to say, no hint
+bölüm - episodio - episode, no hint
+dişler - diente - teeth, no hint
+kabuk - cascarón - shell, no hint
+boyun - cuello - neck, no hint
+oksijen - oxígeno - oxygen, no hint
+şeker - caramelo - candy, no hint
+ölüm - muerte - death, no hint
+güzel - hermosa - beautiful, no hint
+beceri - habilidad - skill, no hint
+kadın - mujer - woman, no hint
+sezon - temporada - season, no hint
+çözüm - solución - solution, no hint
+mıknatıs - imán - magnet, no hint
+gümüş - plata - silver, no hint
+teşekkür - agradecer - thank, no hint
+şube - rama - branch, no hint
+maç - partido - match, no hint
+sonek - sonek - sonek, no hint
+özellikle - especialmente - especially, no hint
+incir - higo - fig, no hint
+korkuyor - tiene miedo - afraid, no hint
+büyük - grande - big, no hint
+kardeş - hermano - brother, no hint
+çelik - acero - steel, no hint
+tartışmak - debate - debate, no hint
+ileri - más lejos - further, no hint
+benzer - similar - similar, no hint
+kılavuz - guía - guide, no hint
+deneyim - experiencia - experience, no hint
+puan - punto - point, no hint
+elma - manzana - apple, no hint
+satın - comprar - buy, no hint
+açtı - abrió - opened, no hint
+zift - tono - pitch, no hint
+ceket - chaqueta - jacket, no hint
+kitle - masa - mass, no hint
+kart - mapa - map, no hint
+bant - banda - band, no hint
+halat - halat - halat, no hint
+kayma - deslizar - slip, no hint
+win - victoria - win, no hint
+rüya - sueño - dream, no hint
+akşam - noche - evening, no hint
+durumu - estado - status, no hint
+beslemek - nutrir - nourish, no hint
+aracı - herramienta - tool, no hint
+toplam - total - total, no hint
+temel - básico - basic, no hint
+koku - koku - koku, no hint
+vadi - vadi - vadi, no hint
+ne - nacido - what, no hint
+çift - doble - double, no hint
+koltuk - sillón - armchair, no hint
+devam - seguir - continue, no hint
+bloğu - cuadra - block, no hint
+grafiği - grafico - graph, no hint
+şapka - sombrero - hat, no hint
+satmak - vender - sell, no hint
+başarı - éxito - success, no hint
+şirket - empresa - company, no hint
+çıkarmak - expulsar - eject, no hint
+olay - evento - event, no hint
+özellikle - especialmente - especially, no hint
+anlaşma - contrato - contract, no hint
+yüzmek - nadar - to swim, no hint
+vadeli - término - term, no hint
+karşısında - contra - against, no hint
+karısı - su esposa - his wife, no hint
+ayakkabı - zapato - shoe, no hint
+omuz - hombro - shoulder, no hint
+yaymak - irradiar - radiate, no hint
+düzenlemek - arreglar - arrange, no hint
+kamp - partido - match, no hint
+icat - invención - invention, no hint
+pamuk - algodón - cotton, no hint
+doğmuş - nacido - born, no hint
+belirlemek - determinar - determine, no hint
+kuart - cuarto de galón - quart, no hint
+dokuz - nueve - nine, no hint
+kamyon - camión - truck, no hint
+gürültü - ruido - noise, no hint
+seviyesi - nivel - level, no hint
+şans - oportunidad - chance, no hint
+toplamak - recoger - collect, no hint
+dükkan - tienda - store, no hint
+streç - tramo - stretch, no hint
+atmak - tirar a la basura - throw away, no hint
+parlaklık - brillo - brightness, no hint
+mülkiyet - propiedad - ownership, no hint
+sütun - columna - column, no hint
+molekülü - molécula - molecule, no hint
+seçin - seleccione - select, no hint
+yanlış - falso - false, no hint
+gri - gris - gray, no hint
+tekrar - otra vez - again, no hint
+gerektirir - requiere - requires, no hint
+geniş - grande - large, no hint
+hazırlamak - preparar - prepare, no hint
+tuz - sal - salt, no hint
+burun - nariz - nose, no hint
+çoğul - plural - plural, no hint
+öfke - enojo - anger, no hint
+iddia - alegación - allegation, no hint
+kıta - continente - continent, no hint

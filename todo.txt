@@ -1,4 +1,6 @@
 give ending stats even if it ends due to max lines or max apis
+only add apostrophes if english
+convert digits to word numbers, and make sure it is the right language
 
 bugs
 	first line didn't download once, is this every time?
@@ -39,7 +41,6 @@ Simple
 		the the args and opts
 
 Eventually
-	-make single word mp3s out of turkish101 chunks
 	-make times and digits automatically converted to words
 	-look into a way to make this usable by people, at least the anki file -> audio lesson
 	-allow for extra fields to be input so i can do stuff like this chart

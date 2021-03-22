@@ -65,32 +65,25 @@ def synthesize_text(text, lang):
 		file_path = os.path.join(lang_dir, file_name)
 		with open(file_path, "wb") as out:
 			out.write(response.audio_content)
-			print(' '*9,':| MP3 Synthesized.', text)
+			print(' '*9,':| MP3 Synthesized.', text, lang)
 	else:
 		print("No synth data for this language.")
 
 def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls):
 	api_limit_reached = False
-	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s = mp3_download_lists
-	if not has_previously_failed(word, lang):
-		if not mp3_exists(word, lang):
-			#print('did download',line)
-			new_api_calls = DownloadMp3ForAnki(word, lang)
-			api_calls = api_calls + new_api_calls
-			if new_api_calls == 0:
-				api_limit_reached = True
-			elif new_api_calls == 1:#if it is 0 then we need to stop everything
-				synthesize_text(word, lang)
-			list_of_downloaded_mp3s.append(word)
-		else:
-			list_of_already_had_mp3s.append(word)
-			print(' '*60,'MP3 already exists',word)
-	else:
-		list_of_previously_failed_mp3s.append(word)
-		if not mp3_exists(word, lang):
+	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = mp3_download_lists
+	if not mp3_exists(word, lang):
+		new_api_calls = DownloadMp3ForAnki(word, lang)
+		api_calls = api_calls + new_api_calls
+		if new_api_calls == 0:
+			api_limit_reached = True
+		elif new_api_calls == 1:#if it is 0 then we need to stop everything
 			synthesize_text(word, lang)
-		print(' '*40,'has previously failed',word)
-	return api_limit_reached, api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_previously_failed_mp3s, list_of_already_had_mp3s]
+		list_of_downloaded_mp3s.append(word)
+	else:
+		list_of_already_had_mp3s.append(word)
+		print(' '*60,'MP3 already exists',word)
+	return api_limit_reached, api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
 
 def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):
 	# action, default is 'word-pronunciations', query, language, apikey, TRUE if free api(default), FALSE if commercial
@@ -200,7 +193,7 @@ def DownloadMp3ForAnki(word, lang):
 					out.write(mp3.content)   
 					print(':) MP3 created',word)
 	else:                        
-		print(' '*20,':( not available from Forvo', word)
+		#print(' '*20,':( not available from Forvo', word)
 		addToFailedList(word, lang)
 
 	return api_call_count

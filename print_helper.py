@@ -7,7 +7,7 @@ def get_chunk_count(lines, is_formatted, max_lines, operation_type, first_lang, 
 	lines = lines[:min(max_lines, len(lines))]
 	chunk_count = 0
 	if is_formatted:
-		lines = line[2:]
+		lines = lines[2:]
 		for line in lines:
 			first_line = ''
 			second_line = ''
@@ -63,7 +63,6 @@ def show_download_stats(api_calls, mp3_download_lists):
 	print('API calls: ' + str(api_calls))
 	print('successfully downloaded: '+str(len(mp3_download_lists[0])))
 	print('failed to download: '+str(len(mp3_download_lists[1])))
-	print('previously failed to download: '+str(len(mp3_download_lists[2])))
 	print('already had: '+str(len(mp3_download_lists[3])))
 
 def show_audio_lesson_stats(number_of_audio_lesson_passed):
