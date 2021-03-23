@@ -9,10 +9,6 @@ test
 	second language downloading
 	in order to preserve the scheduling data we may need to do some special figureing out for this
 
-shalu
-	ask if longer mp3s are better, or shorter ones
-	make a smple where it says the hindi once before the en and the turkish
-
 Information gathering
 	should make cards - only available for formatted source
 		is it available for apkg?
@@ -74,3 +70,7 @@ Maybe
 
 do this for single words in turkish_conversation
 	TurkishClass101 Word Power Audible (in turkish_vocab)
+
+shalu
+	ask if longer mp3s are better, or shorter ones
+	make a smple where it says the hindi once before the en and the turkish
