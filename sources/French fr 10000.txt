@@ -1500,6 +1500,9 @@ https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 1498. objets
 1499. fabricant
 1500. niveaux
+
+
+
 1501. Entre
 1502. réalisation
 1503. amateurs
@@ -2000,7 +2003,7 @@ https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 1998. émissions
 1999. éventuellement
 2000. Royale
-2001. l'agence
+    2001. l'agence
 2002. soumis
 2003. d'exercice
 2004. lecture
@@ -2500,6 +2503,9 @@ https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 2498. rose
 2499. versions
 2500. d'études
+
+
+
 2501. destination
 2502. Encore
 2503. deviennent
@@ -3500,6 +3506,9 @@ https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 3498. fasse
 3499. intéressants
 3500. peintures
+
+
+
 3501. quartiers
 3502. valable
 3503. étapes
@@ -4822,6 +4831,7 @@ https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 4820. anonyme
 4821. c
 4822. cassation
+4823. cf (usually cf.)
 4824. confusion
 4825. discrétion
 4826. fondamentalement
