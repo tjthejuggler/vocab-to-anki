@@ -193,7 +193,7 @@ def main():
 				phrase = remove_special_characters(phrase)
 				split_phrase = phrase.split()
 				for word in split_phrase:
-					phrase = phrase.replace(word, add_apostrophe_if_needed(word))
+					phrase = phrase.replace(word, add_apostrophe_if_needed(word, first_lang))
 				if phrase != "":
 					if should_translate:
 						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
@@ -215,8 +215,8 @@ def main():
 				tag = deck_name #this should actually be the first line with text
 			if ' - ' in line:
 				split_line = line.split(' - ')
-				first_word = remove_special_characters_and_add_apostrophes(split_line[0])
-				second_word = remove_special_characters_and_add_apostrophes(split_line[1])
+				first_word = remove_special_characters_and_add_apostrophes(split_line[0], first_lang)
+				second_word = remove_special_characters_and_add_apostrophes(split_line[1], second_lang)
 				hint = get_hint_from_formatted_line(split_line)
 				if not stop_everything_except_make_audio:
 					if should_download:

@@ -1,5 +1,4 @@
 give ending stats even if it ends due to max lines or max apis
-only add apostrophes if english
 convert digits to word numbers, and make sure it is the right language
 
 bugs
