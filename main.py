@@ -194,19 +194,20 @@ def main():
 				split_phrase = phrase.split()
 				for word in split_phrase:
 					phrase = phrase.replace(word, add_apostrophe_if_needed(word))
-				if should_translate:
-					translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
-					if translation:
-						translation_hint = ''
-						if not hint_lang == '':
-							translation_hint = get_translation(phrase, first_lang, hint_lang).replace('-','/') + ', '
-						output_lines.append(phrase + ' - ' + translation + ' - '+translation_hint+'no hint\n')
-				if should_download:
-					if api_calls >= max_api_calls:  
-						print('\nMax API calls reached!')
-						program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
-					else:
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(phrase, first_lang, api_calls, mp3_download_lists, max_api_calls)
+				if phrase != "":
+					if should_translate:
+						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
+						if translation:
+							translation_hint = ''
+							if not hint_lang == '':
+								translation_hint = get_translation(phrase, first_lang, hint_lang).replace('-','/') + ', '
+							output_lines.append(phrase + ' - ' + translation + ' - '+translation_hint+'no hint\n')
+					if should_download:
+						if api_calls >= max_api_calls:  
+							print('\nMax API calls reached!')
+							program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
+						else:
+							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(phrase, first_lang, api_calls, mp3_download_lists, max_api_calls)
 			if should_translate:
 				create_output_file('new_source',output_lines)
 		elif is_formatted == True:
