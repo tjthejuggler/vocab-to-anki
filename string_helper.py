@@ -13,9 +13,9 @@ def string_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 def add_apostrophe_if_needed(word, lang):
-	to_return = line
-	if lang == 'en'
-		file = line+'.mp3'
+	to_return = word
+	if lang == 'en':
+		file = word+'.mp3'
 		local_dict_file = 'apos_previously_changed.json'
 		if path.exists(cwd+'/scripts/'+local_dict_file):			
 			with open(cwd+'/scripts/'+local_dict_file) as json_file:
