@@ -186,8 +186,8 @@ def main():
 		total_lines+=1
 		if total_lines == max_lines:
 			break
-		line = clean_string(line)
 		if is_formatted == False :
+			line = clean_string(line)
 			phrases = re.split('[?.,!:]',line)			
 			for phrase in phrases:
 				phrase = remove_special_characters(phrase)
@@ -215,8 +215,10 @@ def main():
 				tag = deck_name #this should actually be the first line with text
 			if ' - ' in line:
 				split_line = line.split(' - ')
-				first_word = remove_special_characters_and_add_apostrophes(split_line[0], first_lang)
-				second_word = remove_special_characters_and_add_apostrophes(split_line[1], second_lang)
+				first_word = convert_numbers_to_words(split_line[0], first_lang)
+				first_word = remove_special_characters_and_add_apostrophes(first_word, first_lang)
+				second_word = convert_numbers_to_words(split_line[1], second_lang)
+				second_word = remove_special_characters_and_add_apostrophes(second_word, second_lang)
 				hint = get_hint_from_formatted_line(split_line)
 				if not stop_everything_except_make_audio:
 					if should_download:

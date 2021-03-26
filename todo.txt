@@ -1,6 +1,5 @@
 give ending stats even if it ends due to max lines or max apis
 convert digits to word numbers, and make sure it is the right language
-make german list usable
 fix final error after downloading
 
 bugs

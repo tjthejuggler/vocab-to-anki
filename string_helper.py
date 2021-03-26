@@ -4,6 +4,8 @@ import os
 import json
 import re
 from pathlib import Path
+from num2words import num2words
+from translation_helper import *
 
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
@@ -44,3 +46,20 @@ def get_hint_from_formatted_line(split_line):
 	if len(split_line) > 2:
 		hint = split_line[2]
 	return hint
+
+def convert_numbers_to_words(words, lang):
+	print('lang', lang)
+	converted_words = ''
+	for word in words.split():
+		word_to_add = word
+		if word.isdecimal():
+			word = int(word)
+			try:
+				word_to_add = num2words(word, lang=lang)
+			except NotImplementedError:
+				word_to_add = get_translation(num2words(word, lang='en'), 'en', lang)
+		if converted_words == '':
+			converted_words = word_to_add
+		else:
+			converted_words += ' ' + word_to_add
+	return converted_words
