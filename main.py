@@ -144,8 +144,8 @@ def create_output_file(filename, output_lines):
 
 def create_download_output_text(mp3_download_lists):
 	create_output_file('download_succeed', mp3_download_lists[0])
-	create_output_file('download_previously', mp3_download_lists[2])
-	create_output_file('download_already_have', mp3_download_lists[3])
+	create_output_file('download_previously', mp3_download_lists[1])
+	create_output_file('download_already_have', mp3_download_lists[2])
 
 def main():
 	(using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,

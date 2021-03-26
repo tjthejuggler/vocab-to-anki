@@ -1,7 +1,3 @@
-give ending stats even if it ends due to max lines or max apis
-convert digits to word numbers, and make sure it is the right language
-fix final error after downloading
-
 bugs
 	first line didn't download once, is this every time?
 
@@ -37,7 +33,7 @@ Simple
 		the the args and opts
 
 Eventually
-	-make times and digits automatically converted to words
+	-make times automatically converted to words
 	-look into a way to make this usable by people, at least the anki file -> audio lesson
 	-allow for extra fields to be input so i can do stuff like this chart
 		https://www.tutormandarin.net/en/1000-most-common-chinese-words/

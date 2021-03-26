@@ -63,7 +63,7 @@ def show_download_stats(api_calls, mp3_download_lists):
 	print('API calls: ' + str(api_calls))
 	print('successfully downloaded: '+str(len(mp3_download_lists[0])))
 	print('failed to download: '+str(len(mp3_download_lists[1])))
-	print('already had: '+str(len(mp3_download_lists[3])))
+	print('already had: '+str(len(mp3_download_lists[2])))
 
 def show_audio_lesson_stats(number_of_audio_lesson_passed):
 	print('AUDIO LESSON STATS')
