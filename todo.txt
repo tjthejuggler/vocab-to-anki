@@ -1,3 +1,9 @@
+make multiple cards with same word pair but different pronunciations
+	mp3s can be saved as word1, word2, word3
+	from formatted list have special opt that is -p for multiple pronunciations
+	download as many as possible/up to a max from forvo
+	make a bunch of new cards
+
 bugs
 	first line didn't download once, is this every time?
 
