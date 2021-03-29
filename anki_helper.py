@@ -56,8 +56,8 @@ def create_anki_deck(deck, new_deck_name, all_audio_files):
 def create_anki_note(word, translation, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs):
 	word_audio_file = word+'.mp3'
 	each_audios = []
-	for each in word:
-		each_audios.append('[sound:'+each+'.mp3]')
+	# for each in word:
+	# 	each_audios.append('[sound:'+each+'.mp3]')
 	translation_audio_file = translation+'.mp3'
 	if mp3_exists(word, first_lang):
 		all_audio_files.append(pron_fold+'/'+first_lang+'/'+word_audio_file)

@@ -41,7 +41,8 @@ def get_args():
 	first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 	number_of_languages_given, number_of_languages_to_download  = 0, 0
 	max_api_calls = 10000
-	max_lines = 100000	
+	max_lines = 100000
+	alternate_pronunciations = 1
 	deck_name = ''
 	parser = argparse.ArgumentParser()
 	parser.add_argument("language1", help="first language code (en = english)")
@@ -67,6 +68,8 @@ def get_args():
 							individual words have been downloaded")
 	parser.add_argument("-s", "--skipconfirmation", action="store_true",help="skip confirmation prompt")
 	parser.add_argument("-hn", "--hinttranslation", help="language code to be used in hint translation")
+	parser.add_argument("-p", "--alternatepronunciations", type = int, 
+							help="the number of alternate pronuciations to download")
 	args = parser.parse_args()
 	first_lang = args.language1
 	if args.language2:
@@ -109,6 +112,8 @@ def get_args():
 		should_randomize_order = True
 	if args.skipconfirmation:
 		should_skip_confirmation = True	
+	if args.alternatepronunciations:
+		alternate_pronunciations = args.alternatepronunciations
 	if number_of_languages_to_download == '':
 		number_of_languages_to_download = number_of_languages_given	
 	# print('l1', first_lang)
@@ -123,7 +128,7 @@ def get_args():
 			should_translate, should_randomize_order, should_skip_confirmation,is_formatted, should_make_audio_lesson,
 			only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang, hint_lang,
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
-			number_of_languages_to_download, max_api_calls,	max_lines, deck_name)
+			number_of_languages_to_download, max_api_calls,	max_lines, deck_name, alternate_pronunciations)
 
 def program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists):
 	number_of_audio_lesson_passed = 0 #this needs dealt with
@@ -152,7 +157,7 @@ def main():
 		should_translate, should_randomize_order, should_skip_confirmation, is_formatted, should_make_audio_lesson,
 		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang, hint_lang,
 		require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
-		number_of_languages_to_download, max_api_calls,	max_lines, deck_name) = get_args()
+		number_of_languages_to_download, max_api_calls,	max_lines, deck_name, alternate_pronunciations) = get_args()
 	api_calls = 0
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = [], [], []
 	mp3_download_lists = [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
@@ -207,7 +212,7 @@ def main():
 							print('\nMax API calls reached!')
 							program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
 						else:
-							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(phrase, first_lang, api_calls, mp3_download_lists, max_api_calls)
+							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(phrase, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
 			if should_translate:
 				create_output_file('new_source',output_lines)
 		elif is_formatted == True:
@@ -226,23 +231,29 @@ def main():
 							print('\nMax API calls reached!')
 							program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
 						else:						
-							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls)
+							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
 							if number_of_languages_to_download > 1:
-								api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls)
+								api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
 					if should_translate:
 						translation = get_translation(first_word, first_lang, second_lang).replace('-','/')
 						if translation:
 							output_lines.append(first_word + ' - ' + translation + ' - no hint')
 						create_output_file('new_source',output_lines)
 					if should_make_anki_deck:
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls)
-						print(second_word)
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls)
-						note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
-						deck.add_note(note)
+						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+						for i in range(0, alternate_pronunciations):
+							should_add = True
+							if i > 0:
+								first_word = first_word+str(i)
+								if not mp3_exists(first_word, first_lang):
+									should_add = False
+							if should_add:
+								note, all_audio_files = create_anki_note(first_word+alt_pron_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, alternate_pronunciations)
+								deck.add_note(note)
 				if should_make_audio_lesson:
-					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls)
-					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls)
+					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
 					audio, text, use_normal_order = prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict)
 					audio_lesson_order_dict[text] = use_normal_order
 					audio_lesson_output += audio
