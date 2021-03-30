@@ -76,8 +76,8 @@ def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls,
 		word_with_num = word
 		if i != 0:
 			word_with_num = word + str(i)
-		if not mp3_exists(word_with_num, lang):
-			new_api_calls = DownloadMp3ForAnki(word, lang, i)
+		if not mp3_exists(word_with_num, lang):#instead of looping this stuff here, it should be looped in the actual download
+			new_api_calls = DownloadMp3ForAnki(word, lang, alternate_pronunciations)
 			api_calls = api_calls + new_api_calls
 			if new_api_calls == 0:
 				api_limit_reached = True
@@ -171,7 +171,7 @@ def addToFailedList(word, lang):
 	text_file.write(lines)
 	text_file.close()
 
-def DownloadMp3ForAnki(word, lang, pronunciation_number):
+def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 	api_call_count = 1
 	with open('apikey.txt') as a:
 	  APIKEY=a.read()
@@ -183,22 +183,24 @@ def DownloadMp3ForAnki(word, lang, pronunciation_number):
 			api_call_count = 0
 		else:
 			api_call_count = 2
-			#download a mp3 file, rename it and write it in a costum folder
-			#mp3 = requests.get(r[0])    
-			mp3 = requests.get(r[pronunciation_number], headers=headers)
-			if pronunciation_number != 0:
-				word = word + str(pronunciation_number)
-			file_name   = word.replace('\n','')+'.mp3'
-			file_path   = os.path.join(lang_dir, file_name)
-				
-			if not os.path.exists(lang_dir):
-				os.makedirs(lang_dir)              
-			else:
-				with open(file_path,"wb") as out:
-					#we open a new mp3 file and we name it after the word we're downloading.
-					#The file it's opened in write-binary mode
-					out.write(mp3.content)   
-					print(':) MP3 created',word)
+			#mp3 = requests.get(r[0])
+			for i in range(0, alternate_pronunciations):
+				word_with_num = word
+				if i != 0:
+					word_with_num = word + str(i)
+				if not mp3_exists(word_with_num, lang):# gut the stuff that links it			   
+					mp3 = requests.get(r[i], headers=headers)
+					file_name   = word_with_num.replace('\n','')+'.mp3'
+					file_path   = os.path.join(lang_dir, file_name)
+						
+					if not os.path.exists(lang_dir):
+						os.makedirs(lang_dir)              
+					else:
+						with open(file_path,"wb") as out:
+							#we open a new mp3 file and we name it after the word we're downloading.
+							#The file it's opened in write-binary mode
+							out.write(mp3.content)   
+							print(':) MP3 created',word_with_num)
 	else:                        
 		#print(' '*20,':( not available from Forvo', word)
 		addToFailedList(word, lang)

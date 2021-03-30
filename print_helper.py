@@ -47,7 +47,7 @@ def get_confirmation(lines, using_two_langs, should_make_anki_deck, should_make_
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name):
 	if should_translate:
 		operation_type  = 'translated'
-	if any([should_download, should_make_anki_deck, should_make_anki_deck_audio_only]):
+	if any([should_download, should_make_anki_deck, should_make_anki_deck_audio_only, should_make_audio_lesson]):
 		operation_type  = 'downloaded'
 	print('Deck name: ', new_deck_name)
 	print('Gathering confirmation data...')

@@ -233,7 +233,7 @@ def main():
 						else:						
 							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
 							if number_of_languages_to_download > 1:
-								api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+								api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1)
 					if should_translate:
 						translation = get_translation(first_word, first_lang, second_lang).replace('-','/')
 						if translation:
@@ -241,23 +241,33 @@ def main():
 						create_output_file('new_source',output_lines)
 					if should_make_anki_deck:
 						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1)
 						for i in range(0, alternate_pronunciations):
-							should_add = True
+							should_add = True#something like this needs to go into makeaudio section below
+							first_word_with_num = first_word
 							if i > 0:
-								first_word = first_word+str(i)
-								if not mp3_exists(first_word, first_lang):
+								first_word_with_num = first_word+str(i)
+								if not mp3_exists(first_word_with_num, first_lang):
 									should_add = False
 							if should_add:
-								note, all_audio_files = create_anki_note(first_word+alt_pron_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, alternate_pronunciations)
+								note, all_audio_files = create_anki_note(first_word_with_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
 								deck.add_note(note)
 				if should_make_audio_lesson:
 					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
-					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
-					audio, text, use_normal_order = prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict)
-					audio_lesson_order_dict[text] = use_normal_order
-					audio_lesson_output += audio
-					audio_text.append(text)
+					api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1)
+					for i in range(0, alternate_pronunciations):
+						should_add = True#something like this needs to go into makeaudio section below
+						first_word_with_num = first_word
+						if i > 0:
+							first_word_with_num = first_word+str(i)
+							if not mp3_exists(first_word_with_num, first_lang):
+								should_add = False
+						if should_add:
+							print("should add", first_word_with_num)
+							audio, text, use_normal_order = prepare_audio_lesson_item(first_word_with_num, first_lang, second_word, second_lang, hint, audio_text, audio_lesson_order_dict)
+							audio_lesson_order_dict[text] = use_normal_order
+							audio_lesson_output += audio
+							audio_text.append(text)
 		if api_limit_reached:
 			print('API limit reached.')
 			program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
