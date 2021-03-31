@@ -9,21 +9,20 @@ bugs
 
 test
 	second language downloading
-	in order to preserve the scheduling data we may need to do some special figureing out for this
 
 Information gathering
-	should make cards - only available for formatted source
-		is it available for apkg?
-	figure out how big/how many chunks can go into a pydub audio file and make
+	figure out how big/how many chunks can go into a pydub audio file
 	find out how pretty printed jsons can be used
+a way to skip ahead to a certain word when getting alternate pronunciations
+	this is hacked on right now, it needs hooked up to opts
+a way to make ankidecks and audio lessons without downloading any mp3s or synthing, maybe -d 0
+	this needs checked
 
 New Functionality
-	-make a confirmation of how many words will be downloaded/translated
-
 	make optional "hint" language when making cards
-		it puts a 3rd langugae in the hint automatically		
+		it puts a 3rd language in the hint automatically		
 
--Confirmation print
+Confirmation print
 	-give remaining api requests for the day
 		-this requires saving number of requests to an extenal file, along with dates
 
@@ -48,9 +47,6 @@ Eventually
 
 Refactoring
 	-fix variable names
-
-Maybe
-	make a combine_failed_words program
 	
 Misc Thoughts
 	we should have an es_en dict and and en_es dict because of the querer/quiero issue

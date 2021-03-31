@@ -13,7 +13,7 @@ from pydub import AudioSegment
 import sys, getopt
 import random
 #import sqlite3
-from operator import itemgetter
+#from operator import itemgetter
 #import zipfile
 import argparse
 from anki_helper import *
@@ -81,9 +81,10 @@ def get_args():
 	if args.hinttranslation:
 		hint_lang = args.hinttranslation
 	if args.download:
-		#print('should_download')
-		should_download = True
+		#print('should_download')		
 		number_of_languages_to_download = args.download
+		if number_of_languages_to_download != 0:
+			should_download = True
 	if args.maxapis:
 		max_api_calls = args.maxapis
 		#print('max_api_calls', max_api_calls)
@@ -152,7 +153,10 @@ def create_download_output_text(mp3_download_lists):
 	create_output_file('download_previously', mp3_download_lists[1])
 	create_output_file('download_already_have', mp3_download_lists[2])
 
+has_reached_special_line = False
+
 def main():
+	global has_reached_special_line
 	(using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
 		should_translate, should_randomize_order, should_skip_confirmation, is_formatted, should_make_audio_lesson,
 		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang, hint_lang,
@@ -225,6 +229,11 @@ def main():
 				second_word = convert_numbers_to_words(split_line[1], second_lang)
 				second_word = remove_special_characters_and_add_apostrophes(second_word, second_lang)
 				hint = get_hint_from_formatted_line(split_line)
+				if second_word == 'effort':					
+					has_reached_special_line = True
+				if not has_reached_special_line: #TODO turn this into an opt?
+					print('continue')
+					continue
 				if not stop_everything_except_make_audio:
 					if should_download:
 						if api_calls >= max_api_calls:  
@@ -240,16 +249,21 @@ def main():
 							output_lines.append(first_word + ' - ' + translation + ' - no hint')
 						create_output_file('new_source',output_lines)
 					if should_make_anki_deck:
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
-						api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1)
+						if number_of_languages_to_download != 0:
+							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations)
+							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1)
 						for i in range(0, alternate_pronunciations):
-							should_add = True#something like this needs to go into makeaudio section below
+							should_add = False
+							if alternate_pronunciations == 1:
+								should_add = True
 							first_word_with_num = first_word
 							if i > 0:
+								should_add = True
 								first_word_with_num = first_word+str(i)
 								if not mp3_exists(first_word_with_num, first_lang):
 									should_add = False
 							if should_add:
+								print("added to anki deck", first_word_with_num)
 								note, all_audio_files = create_anki_note(first_word_with_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
 								deck.add_note(note)
 				if should_make_audio_lesson:

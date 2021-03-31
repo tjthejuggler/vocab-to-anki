@@ -2,6 +2,8 @@ import zipfile
 from pathlib import Path
 import os
 import sqlite3
+import re
+from operator import itemgetter
 
 home = str(Path.home())
 pron_fold = home+'/pronunciations'

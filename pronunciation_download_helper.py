@@ -72,7 +72,7 @@ def synthesize_text(text, lang):
 def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations):
 	api_limit_reached = False
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = mp3_download_lists
-	for i in range(0, alternate_pronunciations):
+	for i in range(0, 2):
 		word_with_num = word
 		if i != 0:
 			word_with_num = word + str(i)
@@ -188,7 +188,7 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 				word_with_num = word
 				if i != 0:
 					word_with_num = word + str(i)
-				if not mp3_exists(word_with_num, lang):# gut the stuff that links it			   
+				if not mp3_exists(word_with_num, lang) and len(r)>i:# gut the stuff that links it			   
 					mp3 = requests.get(r[i], headers=headers)
 					file_name   = word_with_num.replace('\n','')+'.mp3'
 					file_path   = os.path.join(lang_dir, file_name)
