@@ -75,7 +75,7 @@ def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls,
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = mp3_download_lists
 	for i in range(0, min(alternate_pronunciations, 2)):
 		if word.strip():
-			word_with_num = word
+			word_with_num = word.strip()
 			if i != 0:
 				word_with_num = word + str(i)
 			if not mp3_exists(word_with_num, lang):#instead of looping this stuff here, it should be looped in the actual download
@@ -191,6 +191,7 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 				word_with_num = word
 				if i != 0:
 					word_with_num = word + str(i)
+				print('check if exists',word_with_num)
 				if not mp3_exists(word_with_num, lang) and len(r)>i:# gut the stuff that links it			   
 					mp3 = requests.get(r[i], headers=headers)
 					file_name   = word_with_num.replace('\n','')+'.mp3'

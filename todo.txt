@@ -1,3 +1,6 @@
+a way to switch first and second language of formatted text file
+add 3rd lang to hint
+make a script that gets all 0k pronunciation files are redownloads them
 bugs
 	first line didn't download once, is this every time?
 

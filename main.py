@@ -199,6 +199,7 @@ def main():
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 			number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name)
 	for line in lines:
+		line = line.lower()
 		api_limit_reached = False
 		if should_make_audio_lesson and line == "beyond this point is just for audio lesson":
 			stop_everything_except_make_audio = True
@@ -213,6 +214,7 @@ def main():
 				split_phrase = phrase.split()
 				for word in split_phrase:
 					phrase = phrase.replace(word, add_apostrophe_if_needed(word, first_lang))
+				phrase = phrase.strip()
 				if phrase != "":
 					if should_translate:
 						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
@@ -242,7 +244,11 @@ def main():
 				second_word = convert_numbers_to_words(split_line[1], second_lang)
 				second_word = remove_special_characters_and_add_apostrophes(second_word, second_lang)
 				hint = get_hint_from_formatted_line(split_line)
-				print(first_word)
+				if not hint_lang == '':
+					hint = hint.strip('\n')  + ', ' + get_translation(first_word, first_lang, hint_lang).replace('-','/')
+				print('hint', hint)
+				if hint == '':
+					hint = 'no hint'
 				if first_word == user_first_string or user_first_string == '':				
 					user_first_string_reached = True
 				if not user_first_string_reached: #TODO turn this into an opt?
@@ -261,7 +267,8 @@ def main():
 					if should_translate:
 						translation = get_translation(first_word, first_lang, second_lang).replace('-','/')
 						if translation:
-							output_lines.append(first_word + ' - ' + translation + ' - no hint')
+							output_lines.append(first_word + ' - ' + translation + ' - ' + hint)
+							print('creatingnew')
 						create_output_file('new_source',output_lines)
 					if should_make_anki_deck:
 						if number_of_languages_to_download != 0:
@@ -282,9 +289,10 @@ def main():
 									should_add = False
 							if should_add:
 								print("added to anki deck", first_word_with_num)
+								print('newhint', hint)
 								note, all_audio_files = create_anki_note(first_word_with_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
 								deck.add_note(note)
-								output_lines.append(first_word + ' - ' + second_word + ' - no hint')
+								output_lines.append(first_word + ' - ' + second_word + ' - ' + hint)
 								create_output_file('new_source',output_lines)
 						output_lines2.append(first_word + ' - ' + second_word + ' - no hint')
 						create_output_file('everything',output_lines2)

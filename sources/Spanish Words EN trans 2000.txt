@@ -1,0 +1,2001 @@
+ Common Spanish Words EN trans 2000
+
+ y - and - no hint
+ de - from - no hint
+ que - that - no hint
+ no -  no - no hint
+ a -  a - no hint
+ la - the - no hint
+ el - the - no hint
+ es - is - no hint
+ en - in - no hint
+ lo - it - no hint
+ un - a - no hint
+ por - by - no hint
+ qué - that - no hint
+ me -  me - no hint
+ una - a - no hint
+ te - to - no hint
+ se - i know - no hint
+ los - the - no hint
+ con - with - no hint
+ para - for - no hint
+ mi - me - no hint
+ está - this - no hint
+ si - and - no hint
+ sí - yes - no hint
+ pero - but - no hint
+ las - the - no hint
+ bien - well - no hint
+ yo - i - no hint
+ su - its - no hint
+ eso - that - no hint
+ aquí - here - no hint
+ del - of the - no hint
+ al - to the - no hint
+ como - what - no hint
+ le - the - no hint
+ tu - you - no hint
+ más - plus - no hint
+ todo - all - no hint
+ ya - yes - no hint
+ muy - very - no hint
+ esto - this - no hint
+ vamos - come on - no hint
+ ha - ha - no hint
+ ahora - now - no hint
+ esta - is - no hint
+ hay - there are - no hint
+ estoy - i'm - no hint
+ algo - something - no hint
+ tú - your - no hint
+ tengo - have - no hint
+ así - so - no hint
+ nada - nothing - no hint
+ nos - us - no hint
+ cuando - when - no hint
+ cómo - excuse me - no hint
+ él - he - no hint
+ sé - see - no hint
+ estás - these - no hint
+ sólo - alone - no hint
+ o - o - no hint
+ quiero - i want - no hint
+ este - it is - no hint
+ tiene - it has - no hint
+ gracias - thank you - no hint
+ he -  he - no hint
+ puedo - may l - no hint
+ bueno - okay - no hint
+ soy - am - no hint
+ era - it was - no hint
+ ser - to be - no hint
+ vez - time - no hint
+ hacer - do - no hint
+ todos - everybody - no hint
+ ella - she - no hint
+ son - his - no hint
+ fue - it was - no hint
+ eres - are - no hint
+ usted - you - no hint
+ tienes - you have - no hint
+ puede - can - no hint
+ señor - sir - no hint
+ ese - that - no hint
+ voy - go - no hint
+ quién - who - no hint
+ casa - home - no hint
+ creo - i think - no hint
+ porque - because - no hint
+ tan - so - no hint
+ favor - favor - no hint
+ hola - hello - no hint
+ dónde - where - no hint
+ nunca - never - no hint
+ sus - their - no hint
+ sabes - know - no hint
+ dos - from - no hint
+ verdad - truth - no hint
+ quieres - want - no hint
+ mucho - a lot - no hint
+ entonces - then - no hint
+ estaba - i was - no hint
+ tiempo - weather - no hint
+ mí - my - no hint
+ esa - that - no hint
+ mejor - better - no hint
+ hombre - man - no hint
+ hace - make - no hint
+ va - will - no hint
+ dios - god - no hint
+ también - too - no hint
+ has -  has - no hint
+ vida - life - no hint
+ sin - without - no hint
+ están - is it so - no hint
+ ver - watch - no hint
+ sr -  sr - no hint
+ siempre - forever - no hint
+ oh -  oh - no hint
+ hasta - until - no hint
+ ti - you - no hint
+ ahí - there - no hint
+ siento - i feel - no hint
+ puedes - you can - no hint
+ decir - tell - no hint
+ ni - ni - no hint
+ sobre - on - no hint
+ años - years - no hint
+ tenemos - we have - no hint
+ uno - one - no hint
+ día - day - no hint
+ noche - night - no hint
+ cosas - things - no hint
+ alguien - someone - no hint
+ antes - before - no hint
+ mis - mis - no hint
+ ir - and - no hint
+ poco - little bit - no hint
+ otra - other - no hint
+ quiere - wants - no hint
+ solo - only - no hint
+ nadie - nobody - no hint
+ nosotros - we - no hint
+ padre - dad - no hint
+ gente - people - no hint
+ parece - it seems - no hint
+ dinero - money - no hint
+ estar - to be - no hint
+ hecho - done - no hint
+ les - the - no hint
+ mismo - same - no hint
+ sea -  sea - no hint
+ estamos - we're - no hint
+ mira - sight - no hint
+ pasa - happens - no hint
+ trabajo - job - no hint
+ dijo - he said - no hint
+ ellos - they - no hint
+ vas - you - no hint
+ claro - sure - no hint
+ mañana - morning - no hint
+ han - they have - no hint
+ otro - other - no hint
+ después - after - no hint
+ desde - since - no hint
+ mundo - world - no hint
+ hablar - speak - no hint
+ tal - of - no hint
+ había - there was - no hint
+ sabe - you know - no hint
+ acuerdo - agreement - no hint
+ momento - moment - no hint
+ donde - where - no hint
+ fuera - outside - no hint
+ hijo - son - no hint
+ podría - might - no hint
+ seguro - insurance - no hint
+ mujer - woman - no hint
+ amigo - friend - no hint
+ días - days - no hint
+ madre - mother - no hint
+ allí - there - no hint
+ cosa - thing - no hint
+ tus - your - no hint
+ lugar - place - no hint
+ dice - he says - no hint
+ gusta - like - no hint
+ será - it will be - no hint
+ gran - big - no hint
+ mierda - shit - no hint
+ tenía - i had - no hint
+ mamá - mother - no hint
+ papá - father - no hint
+ espera - waiting - no hint
+ hoy - today - no hint
+ tener - have - no hint
+ ven - friend - no hint
+ buena - good - no hint
+ estado - condition - no hint
+ nuevo - new - no hint
+ luego - later - no hint
+ podemos - we can - no hint
+ tres - three - no hint
+ dije - said - no hint
+ nuestro - our - no hint
+ sido - been - no hint
+ menos - less - no hint
+ debe - has to - no hint
+ tipo - kind - no hint
+ buen - good - no hint
+ conmigo - with me - no hint
+ mal - times - no hint
+ todas - all - no hint
+ nombre - name - no hint
+ haciendo - doing - no hint
+ crees - do you think - no hint
+ toda - all - no hint
+ amor - love - no hint
+ mío - own - no hint
+ visto - seen - no hint
+ estas - are - no hint
+ quería - wanted - no hint
+ eh - eh - no hint
+ tarde - late - no hint
+ importa - it matters - no hint
+ parte - part - no hint
+ aún - still - no hint
+ nuestra - our - no hint
+ tienen - have - no hint
+ tanto - so much - no hint
+ cada - each - no hint
+ hora - hour - no hint
+ veces - times - no hint
+ necesito - needed - no hint
+ contigo - with you - no hint
+ ve - and - no hint
+ haber - news - no hint
+ buenas - good - no hint
+ dicho - saying - no hint
+ quien - who - no hint
+ hacerlo - do it - no hint
+ demasiado - too - no hint
+ oye - hears - no hint
+ ah - ah - no hint
+ haces - you do - no hint
+ hombres - mens - no hint
+ saber - to know - no hint
+ entre - come in - no hint
+ adiós - goodbye - no hint
+ problema - issue - no hint
+ unos - some - no hint
+ vaya - wow - no hint
+ hemos - we have - no hint
+ cierto - certain - no hint
+ debo - i shall - no hint
+ razón - reason - no hint
+ alguna - some - no hint
+ esos - those - no hint
+ pues - well - no hint
+ veo - i see - no hint
+ chica - girl - no hint
+ realmente - really - no hint
+ policía - policeman - no hint
+ hizo - made - no hint
+ estos - these - no hint
+ amigos - friends - no hint
+ ustedes - you guys - no hint
+ quizá - maybe - no hint
+ serio - i laughed - no hint
+ cabeza - head - no hint
+ hermano - brother - no hint
+ digo - say - no hint
+ van - from - no hint
+ pasado - last - no hint
+ salir - get out - no hint
+ cuenta - bill - no hint
+ familia - family - no hint
+ cariño - sweetie - no hint
+ vale - ok - no hint
+ algún - some - no hint
+ muchas - many - no hint
+ señora - lady - no hint
+ somos - are - no hint
+ pueden - they can - no hint
+ noches - nights - no hint
+ muerto - dead - no hint
+ ud - out - no hint
+ todavía - yet - no hint
+ rápido - quick - no hint
+ viejo - old - no hint
+ lado - side - no hint
+ debería - it should - no hint
+ ves - ves - no hint
+ sabía - i knew - no hint
+ suerte - lucky - no hint
+ cuidado - watch out - no hint
+ buenos - good - no hint
+ sería - would - no hint
+ da - gives - no hint
+ mientras - while - no hint
+ miedo - afraid - no hint
+ primera - first - no hint
+ contra - against - no hint
+ puerta - door - no hint
+ pronto - early - no hint
+ e - is - no hint
+ casi - almost - no hint
+ nueva - new - no hint
+ espero - wait - no hint
+ cualquier - any - no hint
+ esas - those - no hint
+ agua - water - no hint
+ os - you - no hint
+ chico - guy - no hint
+ cuánto - how much - no hint
+ niños - children - no hint
+ venga - come - no hint
+ camino - road - no hint
+ primero - first - no hint
+ hacia - toward - no hint
+ pensé - thought - no hint
+ dentro - inside - no hint
+ pasó - i pass - no hint
+ debes - you should - no hint
+ ciudad - city - no hint
+ historia - history - no hint
+ año - year - no hint
+ viene - comes - no hint
+ deja - leaves - no hint
+ durante - during - no hint
+ forma - form - no hint
+ volver - return - no hint
+ feliz - happy - no hint
+ ojos - eyes - no hint
+ guerra - war - no hint
+ caso - case - no hint
+ chicos - boys - no hint
+ esposa - wife - no hint
+ adelante - ahead - no hint
+ cuál - which one - no hint
+ mano - mano - no hint
+ hice - i made - no hint
+ vi - we - no hint
+ gustaría - would like - no hint
+ muerte - death - no hint
+ allá - there - no hint
+ mas - but - no hint
+ loco - mad - no hint
+ supuesto - of course - no hint
+ toma - taking - no hint
+ minutos - minutes - no hint
+ haré - i will do - no hint
+ entiendo - i get it - no hint
+ pasar - market - no hint
+ iba - only - no hint
+ corazón - heart - no hint
+ semana - week - no hint
+ jefe - boss - no hint
+ venir - come - no hint
+ manos - hands - no hint
+ ayuda - help - no hint
+ problemas - problems - no hint
+ juntos - together - no hint
+ supongo - i suppose - no hint
+ déjame - let me - no hint
+ importante - important - no hint
+ vete - self - no hint
+ niño - kid - no hint
+ arriba - above - no hint
+ hija - is - no hint
+ otros - others - no hint
+ sra - ms - no hint
+ personas - persons - no hint
+ tierra - land - no hint
+ manera - way - no hint
+ hablando - speaking - no hint
+ fin - end - no hint
+ mujeres - women - no hint
+ cara - way - no hint
+ grande - great - no hint
+ ningún - no - no hint
+ nuestros - our - no hint
+ cinco - five - no hint
+ llama - call - no hint
+ habla - speaks - no hint
+ bajo - under - no hint
+ dices - you say - no hint
+ poder - can - no hint
+ cuándo - when - no hint
+ quizás - maybe - no hint
+ escucha - listens - no hint
+ persona - person - no hint
+ horas - hours - no hint
+ tío - uncle - no hint
+ aunque - even though - no hint
+ único - unique - no hint
+ dijiste - said - no hint
+ siquiera - even - no hint
+ quieren - they want - no hint
+ ninguna - none - no hint
+ cerca - search for - no hint
+ pequeño - little - no hint
+ debemos - must - no hint
+ dame -  dame - no hint
+ sigue - go on - no hint
+ auto -  auto - no hint
+ cuatro - four - no hint
+ dejar - let - no hint
+ muchos - many - no hint
+ igual - same - no hint
+ hago - i make - no hint
+ listo - ready - no hint
+ significa - it means - no hint
+ capitán - captain - no hint
+ clase - class - no hint
+ llegar - reach - no hint
+ suficiente - enough - no hint
+ tomar - take - no hint
+ vivir - to live - no hint
+ joven - young man - no hint
+ trabajar - to work - no hint
+ haya - is - no hint
+ abajo - down - no hint
+ hubiera - had - no hint
+ primer - first - no hint
+ genial - brilliant - no hint
+ justo - fair - no hint
+ pensar - to think - no hint
+ misma - same - no hint
+ puta - times - no hint
+ comer - eat - no hint
+ necesita - needs to - no hint
+ conozco - know - no hint
+ fui - i went - no hint
+ algunos - some - no hint
+ entrar - log in - no hint
+ fuerte - strong - no hint
+ número - number - no hint
+ srta - ms - no hint
+ morir - to die - no hint
+ basta - that's enough - no hint
+ dar - but - no hint
+ bastante - quite - no hint
+ amo - master - no hint
+ atrás - back - no hint
+ dicen - they say - no hint
+ difícil - hard - no hint
+ éste - east - no hint
+ pueda - can - no hint
+ punto - point - no hint
+ vino - wine - no hint
+ hermana - sister - no hint
+ hijos - sons - no hint
+ unas - nails - no hint
+ escuela - school - no hint
+ podía - could - no hint
+ pueblo - town - no hint
+ haga - make - no hint
+ sangre - blood - no hint
+ meses - months - no hint
+ coche - car - no hint
+ juego - play - no hint
+ encontrar - meet - no hint
+ realidad - reality - no hint
+ cuerpo - body - no hint
+ mayor - higher - no hint
+ última - last - no hint
+ eran - were - no hint
+ queda - remains - no hint
+ ok -  ok - no hint
+ paz - peace - no hint
+ dime -  dime - no hint
+ vuelta - return - no hint
+ hiciste - did - no hint
+ tenido - dyed - no hint
+ sola - alone - no hint
+ hacen - make - no hint
+ ido - gone - no hint
+ querida - honey - no hint
+ iré - i will go - no hint
+ culpa - guilt - no hint
+ malo - little - no hint
+ chicas - girls - no hint
+ comida - meal - no hint
+ dólares - dollars - no hint
+ saben - they know - no hint
+ fácil - easy - no hint
+ alto - high - no hint
+ posible - possible - no hint
+ maldito - damned - no hint
+ dormir - to sleep - no hint
+ deberías - you should - no hint
+ maldita - damned - no hint
+ pregunta - question - no hint
+ incluso - even - no hint
+ fiesta - party - no hint
+ tampoco - either - no hint
+ cama - bed - no hint
+ lejos - far - no hint
+ medio - half - no hint
+ preocupes - worry - no hint
+ ay - ay - no hint
+ teléfono - telephone - no hint
+ diga - say it - no hint
+ trata - about - no hint
+ equipo - team - no hint
+ palabra - word - no hint
+ cuanto - how much - no hint
+ idiota - moron - no hint
+ esté - east - no hint
+ luz - light - no hint
+ tuve - i had - no hint
+ país - country - no hint
+ segundo - second - no hint
+ querido - dear - no hint
+ diablos - devils - no hint
+ hagas - you do - no hint
+ señorita - miss - no hint
+ oportunidad - chance - no hint
+ matar - kill - no hint
+ algunas - some - no hint
+ esperando - waiting - no hint
+ necesitamos - we need - no hint
+ adónde - where to - no hint
+ estará - will be - no hint
+ venido - i come - no hint
+ estabas - you were - no hint
+ fueron - they were - no hint
+ seis - six - no hint
+ tenga - have - no hint
+ cuarto - room - no hint
+ cielo - sky - no hint
+ vivo - alive - no hint
+ recuerdo - memory - no hint
+ perdón - sorry - no hint
+ falta - lack - no hint
+ pequeña - little - no hint
+ oído - hearing - no hint
+ creer - believe - no hint
+ pienso - i think - no hint
+ ésta - is - no hint
+ esperar - expect - no hint
+ necesitas - you need - no hint
+ aqui - here - no hint
+ película - movie - no hint
+ además - what's more - no hint
+ marido - husband - no hint
+ perro - dog - no hint
+ calle - street - no hint
+ exactamente - exactly - no hint
+ rey - king - no hint
+ padres - fathers - no hint
+ lista - ready - no hint
+ habrá - there will be - no hint
+ habitación - bedroom - no hint
+ carajo - shit - no hint
+ pensando - thinking - no hint
+ par - by - no hint
+ fuego - fire - no hint
+ niña - girl - no hint
+ seguir - follow, continue - no hint
+ música - song - no hint
+ di - of - no hint
+ habría - there would be - no hint
+ mucha - a lot - no hint
+ paso - he passed - no hint
+ sentido - sense - no hint
+ diré - i'll say - no hint
+ podrías - could you - no hint
+ afuera - outside - no hint
+ digas - you say - no hint
+ mía - mine - no hint
+ murió - he died - no hint
+ dio - it gave - no hint
+ café - coffee - no hint
+ entiendes - you understand - no hint
+ nuestras - our - no hint
+ piensa - think - no hint
+ ello - it - no hint
+ lleva - carries - no hint
+ estuvo - he was - no hint
+ último - latest - no hint
+ diciendo - saying - no hint
+ grandes - big - no hint
+ sitio - site - no hint
+ libro - book - no hint
+ buscando - searching - no hint
+ bebé - baby - no hint
+ cállate - shut up - no hint
+ vuelve - returns - no hint
+ jamás - never - no hint
+ minuto - minute - no hint
+ arma - weapon - no hint
+ viaje - travel - no hint
+ única - only - no hint
+ muchachos - boys - no hint
+ perdido - lost - no hint
+ jugar - play - no hint
+ diez - ten - no hint
+ vemos - we see - no hint
+ dado - dice - no hint
+ sabemos - we know - no hint
+ mil - one thousand - no hint
+ demás - the rest - no hint
+ gusto - like - no hint
+ peor - worse - no hint
+ irme - go away - no hint
+ estaban - were - no hint
+ orden - order - no hint
+ pasando - going - no hint
+ cambio - change - no hint
+ extraño - strange - no hint
+ pobre - poor - no hint
+ ropa - clothing - no hint
+ queremos - we want - no hint
+ oficina - office - no hint
+ sino - otherwise - no hint
+ modo - way - no hint
+ ocurre - happens - no hint
+ muchacho - young guy - no hint
+ otras - other - no hint
+ hará - will do - no hint
+ libre - free - no hint
+ conoces - you know - no hint
+ piensas - you think - no hint
+ presidente - president - no hint
+ especial - special - no hint
+ anoche - last night - no hint
+ millones - millions - no hint
+ acerca - about - no hint
+ derecho - right - no hint
+ negro - black - no hint
+ acá - here - no hint
+ caballeros - gentlemen - no hint
+ semanas - weeks - no hint
+ palabras - words - no hint
+ buscar - search - no hint
+ segura - secure - no hint
+ correcto - right - no hint
+ frente - forehead - no hint
+ hacemos - we make - no hint
+ seas -  seas - no hint
+ detrás - behind - no hint
+ puesto - market stall - no hint
+ asunto - business - no hint
+ duro - lasted - no hint
+ sucede - happens - no hint
+ llamar - call - no hint
+ disculpe - excuse me - no hint
+ boca - mouth - no hint
+ atención - attention - no hint
+ mire - mire - no hint
+ armas - weapons - no hint
+ encima - above - no hint
+ demonios - demons - no hint
+ mala - bad - no hint
+ llevar - bring - no hint
+ cual - which - no hint
+ odio - hate - no hint
+ deben - must - no hint
+ sueño - dream - no hint
+ quieras - want - no hint
+ resto - rest - no hint
+ llamo - i call - no hint
+ perder - to lose - no hint
+ llamado - called - no hint
+ perfecto - perfect - no hint
+ estaré - i will be - no hint
+ tranquilo - calm - no hint
+ seguridad - security - no hint
+ ayudar - to help - no hint
+ tuvo - had - no hint
+ largo - length - no hint
+ pena - feather - no hint
+ probablemente - probably - no hint
+ ayer - yesterday - no hint
+ dile - to the tongue - no hint
+ prueba - proof - no hint
+ siendo - being - no hint
+ bonito - beautiful - no hint
+ recuerdas - remember - no hint
+ haz - make - no hint
+ veras - you will see - no hint
+ increíble - amazing - no hint
+ quisiera - i'd like - no hint
+ tonto - fool - no hint
+ simplemente - simply - no hint
+ haría - would do - no hint
+ preguntas - questions - no hint
+ aire - air - no hint
+ conoce - known - no hint
+ fuerza - force - no hint
+ carta - paper - no hint
+ trato - treatment - no hint
+ ése - that - no hint
+ verlo - see him - no hint
+ hambre - hungry - no hint
+ vuelto - turned - no hint
+ empezar - begin - no hint
+ campo - countryside - no hint
+ acaba - just - no hint
+ hablas - speak - no hint
+ vive - it lives - no hint
+ barco - ship - no hint
+ poner - put - no hint
+ grupo - group - no hint
+ creí - i believed - no hint
+ sol - sun - no hint
+ tuyo - of yours - no hint
+ pase - happens - no hint
+ voz - voice - no hint
+ baño - bath - no hint
+ usar - to use - no hint
+ conseguir - to get - no hint
+ placer - pleasure - no hint
+ llegado - arrived - no hint
+ decirte - tell you - no hint
+ profesor - teacher - no hint
+ noticias - news - no hint
+ lamento - lament - no hint
+ decirle - tell him - no hint
+ blanco - white - no hint
+ quédate - stay - no hint
+ estuve - was - no hint
+ pie - pie - no hint
+ espere - wait - no hint
+ edad - age - no hint
+ secreto - secret - no hint
+ podríamos - we could - no hint
+ compañía - company - no hint
+ tren - train - no hint
+ recuerda - remember - no hint
+ tras - after - no hint
+ siéntate - sit down - no hint
+ prisa - hurry - no hint
+ vista - sight - no hint
+ hermosa - beautifull - no hint
+ negocio - business - no hint
+ deberíamos - we should - no hint
+ gustan - they like - no hint
+ pagar - to pay - no hint
+ futuro - future - no hint
+ silencio - silence - no hint
+ siente - feel - no hint
+ médico - doctor - no hint
+ maestro - teacher - no hint
+ quiera - want - no hint
+ llegó - arrive - no hint
+ loca - crazy - no hint
+ cambiar - change - no hint
+ sal - shall - no hint
+ raro - weird - no hint
+ viste - showed - no hint
+ novia - bride - no hint
+ diferente - different - no hint
+ imposible - impossible - no hint
+ amiga - friend - no hint
+ enseguida - right away - no hint
+ llamada - call - no hint
+ dan - and - no hint
+ dejó - let - no hint
+ mes - my - no hint
+ llevo - i wear - no hint
+ avión - airplane - no hint
+ pelo - fur - no hint
+ haremos - will - no hint
+ tendrá - will have - no hint
+ propia - own - no hint
+ siguiente - following - no hint
+ ganar - win - no hint
+ ley - law - no hint
+ dolor - pain - no hint
+ oro - oro - no hint
+ acabó - just - no hint
+ maldición - curse - no hint
+ oficial - official - no hint
+ situación - situation - no hint
+ daño - damage - no hint
+ sientes - you feel - no hint
+ entendido - it is understood - no hint
+ deseo - desire - no hint
+ mente - mind - no hint
+ ejército - army - no hint
+ comprar - purchase - no hint
+ muertos - dead - no hint
+ pensaba - thought - no hint
+ darle - give him - no hint
+ estúpido - stupid - no hint
+ decía - he said - no hint
+ acabo - finished - no hint
+ suena - it sounds - no hint
+ mitad - half - no hint
+ caballo - horse - no hint
+ asesino - assassin - no hint
+ vio - saw - no hint
+ permiso - excuse me - no hint
+ ellas - they - no hint
+ trabajando - working - no hint
+ maravilloso - marvelous - no hint
+ mesa - desk - no hint
+ divertido - funny - no hint
+ mejores - top - no hint
+ próxima - next - no hint
+ entra - come in - no hint
+ mar - sea - no hint
+ siete - seven - no hint
+ hacía - toward - no hint
+ sexo - sex - no hint
+ encanta - loves - no hint
+ amable - nice - no hint
+ mensaje - message - no hint
+ información - information - no hint
+ traje - suit - no hint
+ alma - soul - no hint
+ encontrado - found - no hint
+ coronel - colonel - no hint
+ dale -  dale - no hint
+ san - san - no hint
+ cena - price - no hint
+ encontré - i found - no hint
+ tendrás - you will have - no hint
+ eras -  eras - no hint
+ propio - own - no hint
+ culo - ass - no hint
+ asi - about - no hint
+ adentro - inside - no hint
+ canción - song - no hint
+ gobierno - government - no hint
+ temo - topic - no hint
+ abre - open - no hint
+ dijeron - they said - no hint
+ fuiste - you were - no hint
+ media -  media - no hint
+ das - the - no hint
+ estábamos - we were - no hint
+ estaría - it would - no hint
+ daré - i'll give - no hint
+ vosotros - you - no hint
+ frío - cold - no hint
+ foto - photo - no hint
+ accidente - accident - no hint
+ derecha - right - no hint
+ funciona - it works - no hint
+ vayas - go - no hint
+ centro - center - no hint
+ necesario - necessary - no hint
+ miren - look - no hint
+ bonita - beautiful - no hint
+ ante - in view of - no hint
+ pude - could - no hint
+ teniente - lieutenant - no hint
+ luna - month - no hint
+ izquierda - left - no hint
+ uds - you - no hint
+ doy - i give - no hint
+ servicio - service - no hint
+ llamas - calls - no hint
+ junto - together - no hint
+ tienda - shop - no hint
+ navidad - christmas - no hint
+ dirección - address - no hint
+ abuela - grandma - no hint
+ alrededor - around - no hint
+ vine - it's coming - no hint
+ tendré - i will have - no hint
+ libertad - freedom - no hint
+ sale -  sale - no hint
+ línea - line - no hint
+ abogado - attorney - no hint
+ pies - feet - no hint
+ tratando - trying - no hint
+ regresar - to return - no hint
+ hablo - talked - no hint
+ vieja - old - no hint
+ papel - paper - no hint
+ terminado - finished - no hint
+ dejado - left - no hint
+ juro - swear - no hint
+ hermoso - handsome - no hint
+ dulce - candy - no hint
+ sentir - to feel - no hint
+ principio - beginning - no hint
+ interesante - interesting - no hint
+ caja - box - no hint
+ cualquiera - any - no hint
+ ocho - eight - no hint
+ respuesta - answer - no hint
+ perra - female dog - no hint
+ gracioso - funny - no hint
+ trae - bring - no hint
+ mató - killed - no hint
+ completamente - completely - no hint
+ vienen - they come - no hint
+ sean - be - no hint
+ llega - arrives - no hint
+ abuelo - grandpa - no hint
+ tengas - have you - no hint
+ linda -  linda - no hint
+ tendremos - we will have - no hint
+ partes - parts - no hint
+ cárcel - jail - no hint
+ hubo - was - no hint
+ sistema - system - no hint
+ lindo - pretty - no hint
+ hazlo - do it - no hint
+ hicieron - they made - no hint
+ tía - aunt - no hint
+ busca - search - no hint
+ don -  don - no hint
+ baja - low - no hint
+ pudo - could - no hint
+ salud - health - no hint
+ listos - ready - no hint
+ cita - date - no hint
+ tenías - you had - no hint
+ negocios - business - no hint
+ tipos - types - no hint
+ cámara - camera - no hint
+ agente - agent - no hint
+ verás - you will see - no hint
+ infierno - hell - no hint
+ regalo - present - no hint
+ río - river - no hint
+ través - through - no hint
+ carne - meat - no hint
+ totalmente - completely - no hint
+ decirme - tell me - no hint
+ piso - floor - no hint
+ esposo - husband - no hint
+ oír - hear - no hint
+ sargento - sergeant - no hint
+ deje - leave - no hint
+ tuya - yours - no hint
+ ambos - both of them - no hint
+ beber - drink - no hint
+ calma - calm down - no hint
+ vestido - dress - no hint
+ salvo - except - no hint
+ ésa - that - no hint
+ verdadero - true - no hint
+ basura - garbage - no hint
+ suelo - floor - no hint
+ carrera - career - no hint
+ cumpleaños - birthday - no hint
+ rato - a while - no hint
+ iremos - we will go - no hint
+ universidad - college - no hint
+ bailar - to dance - no hint
+ triste - sad - no hint
+ iglesia - church - no hint
+ delante - in front - no hint
+ nena - chick - no hint
+ banco - bank - no hint
+ cuántos - many - no hint
+ encuentra - finds - no hint
+ supone - supposes - no hint
+ existe - exists - no hint
+ programa - program - no hint
+ alegro - glad - no hint
+ santo - holy - no hint
+ porqué - because - no hint
+ novio - boyfriend - no hint
+ broma - joke - no hint
+ diría - would say - no hint
+ salió - he left - no hint
+ jesús - jesus - no hint
+ prometo - i promise - no hint
+ partido - match - no hint
+ pregunto - i ask - no hint
+ vuelva - come back - no hint
+ cenar - dinner - no hint
+ ocurrió - occurred - no hint
+ creía - believed - no hint
+ corre - runs - no hint
+ disculpa - excuses - no hint
+ vienes - you come - no hint
+ cerveza - beer - no hint
+ muerta - dead - no hint
+ pensado - thought/out - no hint
+ destino - destination - no hint
+ matrimonio - marriage - no hint
+ fotos - photos - no hint
+ diablo -  diablo - no hint
+ volveré - i will be back - no hint
+ saberlo - know it - no hint
+ cielos - heavens - no hint
+ norte - north - no hint
+ sala - living room - no hint
+ órdenes - orders - no hint
+ según - according to - no hint
+ harás - you will do - no hint
+ ataque - attack - no hint
+ parís - paris - no hint
+ ejemplo - example - no hint
+ sorpresa - surprise - no hint
+ té - has - no hint
+ pudiera - could - no hint
+ baile - home - no hint
+ temprano - early - no hint
+ público - public - no hint
+ tí - little - no hint
+ oí - i heard - no hint
+ mirando - looking - no hint
+ ventana - window - no hint
+ conocido - known - no hint
+ duda - doubt - no hint
+ boda - wedding - no hint
+ peligro - danger - no hint
+ trabaja - works - no hint
+ quise - i wanted - no hint
+ querías - you wanted - no hint
+ caliente - hot - no hint
+ escribir - to write - no hint
+ reina - queen - no hint
+ esperaba - i expected - no hint
+ sur - sure - no hint
+ enfermo - ill - no hint
+ excelente - excellent - no hint
+ pone - places - no hint
+ estés - you are - no hint
+ escena - scene - no hint
+ encuentro - meeting - no hint
+ asesinato - murder - no hint
+ obra - construction site - no hint
+ veré - i will see - no hint
+ llamó - i call - no hint
+ aquel - that - no hint
+ terminar - end up - no hint
+ ganas - desire - no hint
+ conocer - know - no hint
+ pruebas - evidence - no hint
+ señores - sirs - no hint
+ vos - your - no hint
+ escúchame - listen to me - no hint
+ veamos - let's see - no hint
+ creen - believe - no hint
+ aun - yet - no hint
+ ninguno - none - no hint
+ parecía - looked like - no hint
+ viva - alive - no hint
+ apenas - only - no hint
+ segunda - monday - no hint
+ llave - key - no hint
+ regreso - return - no hint
+ trasero - rear - no hint
+ ojalá - if only - no hint
+ veremos - we will see - no hint
+ seré - i will be - no hint
+ éi - it - no hint
+ irse - leave - no hint
+ cartas - cards - no hint
+ libros - books - no hint
+ apuesto - handsome - no hint
+ leer - read - no hint
+ imbécil - fool - no hint
+ opinión - opinion - no hint
+ joder - fuck - no hint
+ cambiado - changed - no hint
+ sucedió - it happened - no hint
+ señal - sign - no hint
+ habían - had - no hint
+ agradable - nice - no hint
+ cocina - kitchen - no hint
+ relación - relationship - no hint
+ sueños - dreams - no hint
+ segundos - seconds - no hint
+ corte - court - no hint
+ escuchar - hear - no hint
+ cerebro - brain - no hint
+ locura - craziness - no hint
+ peligroso - dangerous - no hint
+ hermanos - siblings - no hint
+ entender - to understand - no hint
+ cine - who - no hint
+ dejes - let - no hint
+ reunión - meeting - no hint
+ tendría - would have - no hint
+ verla - see her - no hint
+ duele - hurts - no hint
+ hicimos - we did - no hint
+ londres - london - no hint
+ tocar - to touch - no hint
+ mirar - look - no hint
+ verme - don't give - no hint
+ suyo - yours - no hint
+ causa - cause - no hint
+ pelea - fight - no hint
+ prisión - prison - no hint
+ mayoría - most - no hint
+ fondo - background - no hint
+ acaso - perhaps - no hint
+ vuelvo - i come back - no hint
+ serán - will be - no hint
+ montón - heap - no hint
+ toca - touches - no hint
+ comandante - commander - no hint
+ tome - tome - no hint
+ éxito - success - no hint
+ misión - mission - no hint
+ vidas - lives - no hint
+ decisión - decision - no hint
+ hogar - home - no hint
+ rico -  rico - no hint
+ trago - i swallow - no hint
+ capaz - capable - no hint
+ cargo - position - no hint
+ unidos - joined - no hint
+ lleno - full - no hint
+ bar -  bar - no hint
+ estrella - star - no hint
+ posición - position - no hint
+ estación - station - no hint
+ interesa - interested - no hint
+ edificio - building - no hint
+ vayan - go - no hint
+ consejo - tip - no hint
+ pistola - gun - no hint
+ humano - human - no hint
+ irnos - leave - no hint
+ fantástico - fantastic - no hint
+ ojo - eye - no hint
+ jóvenes - youths - no hint
+ zapatos - shoes - no hint
+ majestad - majesty - no hint
+ lee -  lee - no hint
+ flores - flowers - no hint
+ ocupado - occupied - no hint
+ bienvenido - welcome - no hint
+ zona - zone - no hint
+ contacto - contact - no hint
+ sacar - take - no hint
+ podrían - could - no hint
+ tema - theme - no hint
+ matado - killed - no hint
+ soldado - soldier - no hint
+ sabías - did you know - no hint
+ pido - i ask - no hint
+ cierra - closes - no hint
+ intento - tried - no hint
+ irá - will - no hint
+ calor - hot - no hint
+ finalmente - finally - no hint
+ equivocado - wrong - no hint
+ animales - animals - no hint
+ departamento - department - no hint
+ enemigo - enemy - no hint
+ caballero - gentleman - no hint
+ color -  color - no hint
+ necesitan - need - no hint
+ empieza - starts - no hint
+ soldados - soldiers - no hint
+ vea - see - no hint
+ entiende - understands - no hint
+ valor - value - no hint
+ azul - blue - no hint
+ miles -  miles - no hint
+ espacio - space - no hint
+ estarás - you will be - no hint
+ mantener - keep - no hint
+ aprender - learn - no hint
+ inteligente - smart - no hint
+ serás - you will - no hint
+ arte - art - no hint
+ respeto - i respect - no hint
+ pedir - ask for - no hint
+ puso - put - no hint
+ llaman - they call - no hint
+ oiga - listen - no hint
+ juez - judge - no hint
+ inglés - english - no hint
+ precio - price - no hint
+ rojo - red - no hint
+ formas - shapes - no hint
+ hagan - do - no hint
+ verano - summer - no hint
+ podido - i have - no hint
+ piernas - legs - no hint
+ isla - island - no hint
+ darme - give me - no hint
+ damas - ladies - no hint
+ guardia - guard - no hint
+ espalda - back - no hint
+ vengan - come on - no hint
+ parar - stop - no hint
+ llevas - you carry - no hint
+ banda - band - no hint
+ quedarme - stay - no hint
+ habéis - have - no hint
+ marcha - march - no hint
+ luces - lights - no hint
+ estuviera - was - no hint
+ crimen - crime - no hint
+ dejo - left - no hint
+ ayudarte - help you - no hint
+ esperen - wait - no hint
+ teníamos - we had - no hint
+ diferencia - difference - no hint
+ llamaré - i will call - no hint
+ ama - but - no hint
+ conocí - met - no hint
+ tiempos - time - no hint
+ déjalo - leave it alone - no hint
+ debajo - under - no hint
+ compañero - companion - no hint
+ dejé - leave - no hint
+ come -  come - no hint
+ déjeme - let me - no hint
+ molesta - upset - no hint
+ contar - tell - no hint
+ dejaré - i will leave - no hint
+ hablamos - we speak - no hint
+ cansado - tired - no hint
+ ganado - livestock - no hint
+ pareces - you seem - no hint
+ juicio - judgment - no hint
+ hablado - spoken - no hint
+ estilo - style - no hint
+ ayúdame - help me - no hint
+ sepa - know - no hint
+ viendo - watching - no hint
+ salida - exit - no hint
+ alegra - glad - no hint
+ despierta - wake up - no hint
+ estupendo - great - no hint
+ darte - to give you - no hint
+ estados - state - no hint
+ quedan - remain - no hint
+ próximo - next - no hint
+ nota - note - no hint
+ llevó - i wear - no hint
+ puedas - can you - no hint
+ podrá - may - no hint
+ tenían - they had - no hint
+ sube - goes up - no hint
+ vuelo - flight - no hint
+ excepto - except - no hint
+ golpe - knock - no hint
+ viento - wind - no hint
+ estaremos - we will be - no hint
+ acción - action - no hint
+ tonterías - silly stuff - no hint
+ respecto - respect - no hint
+ desea - wishes - no hint
+ sigues - be - no hint
+ debía - should - no hint
+ vendrá - will come - no hint
+ encontramos - we find - no hint
+ beso - kiss - no hint
+ cuestión - question - no hint
+ volvió - went back - no hint
+ reglas - rules - no hint
+ ruido - noise - no hint
+ acabado - finish - no hint
+ salga - out - no hint
+ olvidado - forgotten - no hint
+ mentira - lie - no hint
+ brazo - arm - no hint
+ empezó - it started - no hint
+ cálmate - take it easy - no hint
+ caballos - horses - no hint
+ experiencia - experience - no hint
+ tranquila - peaceful - no hint
+ quedar - stay - no hint
+ esperanza - hope - no hint
+ irte - leave - no hint
+ vd - vd - no hint
+ perros - dogs - no hint
+ casado - married - no hint
+ llegue - i arrived - no hint
+ drogas - drugs - no hint
+ pidió - asked - no hint
+ espíritu - spirit - no hint
+ vacaciones - vacations - no hint
+ copa - cup - no hint
+ investigación - investigation - no hint
+ prefiero - prefer - no hint
+ solía - used to - no hint
+ llevaré - i will carry - no hint
+ menudo - often - no hint
+ partir - go - no hint
+ visita - visit - no hint
+ alta - high - no hint
+ abrir - open - no hint
+ nueve - nine - no hint
+ bomba - bomb - no hint
+ energía - energy - no hint
+ bolsa - bag - no hint
+ hacerte - make you - no hint
+ santa -  santa - no hint
+ pan -  pan - no hint
+ piel - skin - no hint
+ usa - usa - no hint
+ metros - meters - no hint
+ perdona - sorry - no hint
+ escrito - written - no hint
+ exacto - exactly - no hint
+ jugando - playing - no hint
+ cuello - neck - no hint
+ larga - long - no hint
+ escapar - escape - no hint
+ salvar - to save - no hint
+ escuche - i heard - no hint
+ perdone - excuse me - no hint
+ sirve - it serves - no hint
+ preocupe - worry - no hint
+ especie - species - no hint
+ aquella - that - no hint
+ verá - you will see - no hint
+ brazos - arms - no hint
+ llena - full - no hint
+ subir - go up - no hint
+ blanca - white - no hint
+ fe - fe - no hint
+ modos - modes - no hint
+ traído - brought - no hint
+ películas - films - no hint
+ dama - lady - no hint
+ suya - hers - no hint
+ decirlo - say it - no hint
+ doble - double - no hint
+ inmediatamente - immediately - no hint
+ culpable - guilty - no hint
+ preocupa - worries - no hint
+ tardes - afternoon - no hint
+ vengo - i come - no hint
+ bosque - forest - no hint
+ perdí - i missed - no hint
+ volverá - to return to - no hint
+ taxi -  taxi - no hint
+ volar - to fly - no hint
+ debido - due - no hint
+ repente - suddenly - no hint
+ bromeando - joking - no hint
+ viejos - old - no hint
+ planeta - planet - no hint
+ leche - milk - no hint
+ tanta - so much - no hint
+ tuviera - had - no hint
+ encantado - charmed - no hint
+ cabrón - dumbass - no hint
+ correr - run - no hint
+ depende - depends - no hint
+ común - common - no hint
+ informe - report - no hint
+ solamente - only - no hint
+ máquina - machine - no hint
+ muere - go dead - no hint
+ ridículo - ridiculous - no hint
+ entrada - entrance - no hint
+ encontró - he found - no hint
+ podamos - we can - no hint
+ acabar - to finish - no hint
+ américa - america - no hint
+ regresa - came back - no hint
+ probar - taste - no hint
+ príncipe - the prince - no hint
+ preparado - prepared - no hint
+ pedido - order - no hint
+ propósito - purpose - no hint
+ dieron - gave - no hint
+ salido - stepped out - no hint
+ cliente - client - no hint
+ árbol - tree - no hint
+ absoluto - absolute - no hint
+ dejas - dance - no hint
+ quiénes - who is it - no hint
+ habías - you had - no hint
+ parecen - they look like - no hint
+ belleza - beauty - no hint
+ llame - i called - no hint
+ intenta - try - no hint
+ humanos - humans - no hint
+ tratar - deal - no hint
+ vuestra - your - no hint
+ hayas - beech - no hint
+ princesa - princess - no hint
+ sigo - i follow - no hint
+ quedarse - to stay - no hint
+ oeste - west - no hint
+ traer - to bring - no hint
+ olvídalo - forget this - no hint
+ francia - france - no hint
+ tuvimos - we had - no hint
+ ayudarme - help me - no hint
+ deprisa - quickly - no hint
+ llaves - keys - no hint
+ tiro - threw - no hint
+ cerdo - pig - no hint
+ gato - cat - no hint
+ inglaterra - england - no hint
+ vistazo - glance - no hint
+ cuántas - how many - no hint
+ defensa - defending - no hint
+ nuevos - new - no hint
+ últimos - last - no hint
+ reloj - watch - no hint
+ fuimos - went - no hint
+ batalla - battle - no hint
+ hable - i talked - no hint
+ caminar - to walk - no hint
+ hacerle - make him - no hint
+ vayamos - let's go - no hint
+ interior -  interior - no hint
+ bella - beautiful - no hint
+ felices - happy - no hint
+ intentando - trying - no hint
+ apartamento - apartment - no hint
+ teatro - theater - no hint
+ hacerme - make me - no hint
+ papi - popes - no hint
+ asuntos - matters - no hint
+ confiar - trust - no hint
+ hielo - ice - no hint
+ deberían - should - no hint
+ cantar - sing - no hint
+ bajar - lower - no hint
+ vuestro - your - no hint
+ pelear - quarrel - no hint
+ locos - crazy - no hint
+ paga - pay - no hint
+ oyes - you hear - no hint
+ completo - full - no hint
+ lucha - struggle - no hint
+ fuerzas - forces - no hint
+ borracho - drunk - no hint
+ héroe - hero - no hint
+ camión - truck - no hint
+ cabo - cape - no hint
+ dientes - teeth - no hint
+ verde - green - no hint
+ despacio - slowly - no hint
+ decidido - decided - no hint
+ sociedad - society - no hint
+ pareja - partner - no hint
+ dígame - tell me - no hint
+ estuviste - you were - no hint
+ nariz - nose - no hint
+ vergüenza - shame - no hint
+ caer - fall - no hint
+ herido - injured - no hint
+ cuentas - accounts - no hint
+ pista - clue - no hint
+ siéntese - sit down - no hint
+ bebe - baby - no hint
+ sonido - sound - no hint
+ estrellas - stars - no hint
+ sombrero - hat - no hint
+ cayó - it fell - no hint
+ evitar - to avoid - no hint
+ pasará - it will happen - no hint
+ maría - mary - no hint
+ memoria - memory - no hint
+ solos - alone - no hint
+ llorar - mourn - no hint
+ nervioso - nervous - no hint
+ lástima - pity - no hint
+ haberlo - have it - no hint
+ época - era - no hint
+ naturaleza - nature - no hint
+ vender - to sell - no hint
+ política - politics - no hint
+ levántate - get up - no hint
+ estudio - study - no hint
+ brillante - shiny - no hint
+ nivel - level - no hint
+ diferentes - different - no hint
+ dando - giving - no hint
+ hubiese - would have - no hint
+ permite - it allows - no hint
+ justicia - justice - no hint
+ planes - plans - no hint
+ mírame - look at me - no hint
+ llegamos - we arrived - no hint
+ roma - rome - no hint
+ seguramente - surely - no hint
+ papa - pope - no hint
+ parecer - seem - no hint
+ terminó - finished - no hint
+ pierna - leg - no hint
+ quienes - who - no hint
+ millón - million - no hint
+ enorme - enormous - no hint
+ inocente - innocent - no hint
+ mismos - themselves - no hint
+ pantalones - pants - no hint
+ ministro - minister - no hint
+ bienvenida - welcome - no hint
+ u - u - no hint
+ refiero - i mean - no hint
+ nombres - names - no hint
+ mando - command - no hint
+ preciosa - precious - no hint
+ quedó - stayed - no hint
+ podrás - you can - no hint
+ pesar - to weigh - no hint
+ enferma - sick - no hint
+ extraña - strange - no hint
+ enamorado - in love - no hint
+ autobús - bus - no hint
+ recordar - remind - no hint
+ estáis - you are - no hint
+ pequeños - little ones - no hint
+ luchar - to struggle - no hint
+ contrario - contrary - no hint
+ tomado - taken - no hint
+ sois - be - no hint
+ movimiento - movement - no hint
+ estan - they are - no hint
+ sentado - sitting - no hint
+ gana - win - no hint
+ estén - be - no hint
+ motivo - reason - no hint
+ absolutamente - absolutely - no hint
+ dé - from - no hint
+ puente - bridge - no hint
+ comprendo - understand - no hint
+ huevos - eggs - no hint
+ tomó - i take - no hint
+ cuento - tale - no hint
+ botella - bottle - no hint
+ cuesta - cost - no hint
+ corriendo - in a hurry - no hint
+ confianza - confidence - no hint
+ felicidad - happiness - no hint
+ espada - sword - no hint
+ silla - chair - no hint
+ noticia - news - no hint
+ casas - houses - no hint
+ televisión - tv - no hint
+ acuerdas - do you agree - no hint
+ necesitaba - needed - no hint
+ pared - wall - no hint
+ aquellos - those - no hint
+ prensa - press - no hint
+ trampa - trap - no hint
+ presente - here i'm - no hint
+ estarán - will be - no hint
+ jardín - yard - no hint
+ cabello - hair - no hint
+ espectáculo - show - no hint
+ podré - i will be able - no hint
+ grave -  grave - no hint
+ bastardo - bastard - no hint
+ dará - give to - no hint
+ siga - follow - no hint
+ periódico - newspaper - no hint
+ coño - cone - no hint
+ negros - blacks - no hint
+ alguno - any - no hint
+ anillo - ring - no hint
+ monstruo - monster - no hint
+ piedra - stone - no hint
+ contento - happy - no hint
+ quedarte - stay - no hint
+ tengan - have - no hint
+ oigan - hey - no hint
+ sentí - i felt - no hint
+ debí - i should have - no hint
+ ahi - over there - no hint
+ policías - cops - no hint
+ lugares - places - no hint
+ contrato - contract - no hint
+ playa - beach - no hint
+ costa -  costa - no hint
+ puertas - doors - no hint
+ asiento - seat - no hint
+ tarjeta - card - no hint
+ restaurante - restaurant - no hint
+ quede - stay - no hint
+ paseo - walk - no hint
+ hechos - facts - no hint
+ hagamos - let's do - no hint
+ maravillosa - wonderful - no hint
+ pon - mon. - no hint
+ domingo - sunday - no hint
+ especialmente - especially - no hint
+ velocidad - speed - no hint
+ negra - black - no hint
+ intentar - attempt - no hint
+ proyecto - draft - no hint
+ clientes - customers - no hint
+ victoria -  victoria - no hint
+ encantaría - would love - no hint
+ operación - operation - no hint
+ perdió - lost - no hint
+ tonta - dumb - no hint
+ imagen - image - no hint
+ lleve - i carried - no hint
+ amas - you love - no hint
+ gustaba - liked - no hint
+ aspecto - appearance - no hint
+ tantos - so many - no hint
+ sentimientos - feelings - no hint
+ creerlo - believe it - no hint
+ objetivo - target - no hint
+ llevan - they carry - no hint
+ malas - bad - no hint
+ red -  red - no hint
+ dejen - let - no hint
+ nuevas - new - no hint
+ muchacha - girl - no hint
+ dormido - asleep - no hint
+ historias - stories - no hint
+ arreglar - fix - no hint
+ turno - turn - no hint
+ yendo - going - no hint
+ tuviste - you saw - no hint
+ ponga - put - no hint
+ olvides - forget - no hint
+ escuché - listen - no hint
+ pasada - pass - no hint
+ mata - eye - no hint
+ tantas - many - no hint
+ montaña - mountain - no hint
+ gracia - funny - no hint
+ enfermedad - disease - no hint
+ dedos - fingers - no hint
+ guapa - beautiful - no hint
+ querer - to want - no hint
+ ocurrido - happened - no hint
+ pocos - few - no hint
+ deber - have to - no hint
+ refieres - you mean - no hint
+ viernes - friday - no hint
+ preocupado - worried - no hint
+ clases - lessons - no hint
+ rayos - ray - no hint
+ inútil - useless - no hint
+ abierto - open - no hint
+ haberte - to have you - no hint
+ oscuridad - darkness - no hint
+ verdadera - true - no hint
+ americano - american - no hint
+ trajo - brought - no hint
+ gustó - taste - no hint
+ primo - first - no hint
+ nacional - national - no hint
+ supe - i knew - no hint
+ colegio - school - no hint
+ malditos - cursed - no hint
+ cuchillo - knife - no hint
+ ibas - ibas - no hint
+ llegué - i arrived - no hint
+ diario - daily - no hint
+ francés - french - no hint
+ quedo - i stay - no hint
+ podremos - we will can - no hint
+ orgulloso - proud - no hint
+ ladrón - thief - no hint
+ preguntar - ask - no hint
+ pedí - i asked - no hint
+ voluntad - will - no hint
+ harán - they will - no hint
+ militar - military - no hint
+ agradezco - i appreciate - no hint
+ llevaba - wore - no hint
+ mami - mami - no hint
+ lluvia - rain - no hint
+ éramos - we were - no hint
+ calles - streets - no hint
+ cien - cen - no hint
+ lengua - language - no hint
+ testigo - witness - no hint
+ ayude - help - no hint
+ quiso - wanted - no hint
+ cansada - weary - no hint
+ puse - available - no hint
+ irás - you will go - no hint
+ alemanes - germans - no hint
+ pago - pay - no hint
+ mirada - look - no hint
+ momentos - moments - no hint
+ quieto - still - no hint
+ sentía - felt - no hint
+ escuchen - listen - no hint
+ descansar - to rest - no hint
+ mercado - market - no hint
+ dura - hard - no hint
+ humana - human - no hint
+ estúpida - stupid - no hint
+ bienvenidos - welcome - no hint
+ conocía - knew - no hint
+ entero - whole - no hint
+ roja - roja - no hint
+ llamaba - called - no hint
+ tomas - tomas - no hint
+ dueño - owner - no hint
+ echar - throw - no hint
+ emergencia - emergency - no hint
+ roto - inside - no hint
+ actuar - act - no hint
+ inmediato - righ now - no hint
+ puntos - points - no hint
+ paciente - patient - no hint
+ olvidé - forget - no hint
+ hables - talk - no hint
+ varios - several - no hint
+ polvo - dust - no hint
+ ángeles - angels - no hint
+ coger - take - no hint
+ distancia - distance - no hint
+ bravo -  bravo - no hint
+ europa - europe - no hint
+ mataron - they killed - no hint
+ tomando - taking - no hint
+ verle - see him - no hint
+ señoría - lordship - no hint
+ casarse - get marry - no hint
+ toque - touch - no hint
+ toques - ringtones - no hint
+ ángel - angel - no hint
+ amante - lover - no hint
+ habló - speak - no hint
+ saca - pulls out - no hint
+ digamos - let's say - no hint
+ perfecta - perfect - no hint
+ rosa - pink - no hint
+ llámame - call me - no hint
+ nosotras - we - no hint
+ peso - weight - no hint
+ carga - load - no hint
+ acto - act - no hint
+ robar - steal - no hint
+ dejaste - you left - no hint
+ desastre - disaster - no hint
+ bote - world - no hint
+ huele - smells - no hint
+ embarazada - pregnant - no hint
+ muestra - sample - no hint
+ gordo - fat - no hint
+ puto - fucking - no hint
+ viviendo - living - no hint
+ cerrar - to close - no hint
+ papeles - papers - no hint
+ valiente - brave - no hint
+ gloria - glory - no hint
+ aceptar - agree - no hint
+ perdóname - excuse me - no hint
+ perfectamente - perfectly - no hint
+ oscuro - dark - no hint
+ cuidar - to care - no hint
+ dedo - finger - no hint
+ ruego - i beg - no hint
+ pareció - it seemed - no hint
+ tumba - grave - no hint
+ coge - take - no hint
+ resulta - result - no hint
+ dejarlo - leave it - no hint
+ comenzar - begin - no hint
+ área - area - no hint
+ metido - stuck - no hint
+ limpio - cleansed - no hint
+ descanso - break - no hint
+ lados - sides - no hint
+ posibilidad - possibility - no hint
+ guapo - handsome - no hint
+ uso - use - no hint
+ talento - talent - no hint
+ matarme - kill me - no hint
+ continuar - continue - no hint
+ código - code - no hint
+ comenzó - started - no hint
+ duerme - sleep - no hint
+ definitivamente - definitely - no hint
+ directo - direct - no hint
+ vuelvas - come back - no hint
+ dia - day - no hint
+ demonio - devil - no hint
+ parque - park - no hint
+ cambia - change - no hint
+ olvidar - forget - no hint
+ cinta - love - no hint
+ famoso - famous - no hint
+ mataré - i will kill - no hint
+ siguen - follow - no hint
+ saliendo - coming out - no hint
+ muevas - move - no hint
+ señoras - ladies - no hint
+ disparar - shoot - no hint
+ sóio - partner - no hint
+ pide - asks - no hint
+ debió - must have - no hint
+ empresa - business - no hint
+ precioso - precious - no hint
+ termina - ends - no hint
+ intención - intention - no hint
+ tambien - as well - no hint
+ recibir - to receive - no hint
+ hubieras - would have - no hint
+ abrigo - shelter - no hint
+ encuentras - you find - no hint
+ diste - you gave - no hint
+ tendrán - will have - no hint
+ cerrado - closed - no hint
+ conocerte - know you - no hint
+ hablé - i talked - no hint
+ menor - less - no hint
+ querría - i would want - no hint
+ imagino - i imagine - no hint
+ genio - genius - no hint
+ profesional - professional - no hint
+ oigo - i hear - no hint
+ pongo - i put - no hint
+ niñas - girls - no hint
+ muévete - move on - no hint
+ opción - option - no hint
+ tribunal - court - no hint
+ tenéis - you have - no hint
+ lago - the needle - no hint
+ unidad - unit - no hint
+ abierta - open - no hint
+ efecto - effect - no hint
+ presión - pressure - no hint
+ varias - several - no hint
+ robo - stole - no hint
+ saldrá - will come out - no hint
+ veía - saw - no hint
+ quedado - left - no hint
+ alcalde - mayor - no hint
+ empleo - job - no hint
+ pollo - chicken - no hint
+ whisky -  whisky - no hint
+ carretera - highway - no hint
+ sábado - saturday - no hint
+ aeropuerto - airport - no hint
+ jodido - fucking - no hint
+ pobres - poor - no hint
+ medicina - medicine - no hint
+ llevará - carry - no hint
+ gratis - free - no hint
+ cae - falls off - no hint
+ fortuna - luck - no hint
+ castillo - castle - no hint
+ nieve - snow - no hint
+ busco - i search - no hint
+ riesgo - risk - no hint
+ alemán - german - no hint
+ sucio - dirty - no hint
+ idiotas - idiots - no hint
+ conversación - conversation - no hint
+ fuese - was - no hint
+ comienzo - start - no hint
+ pasé - happens - no hint
+ encontraron - they found - no hint
+ elección - choice - no hint
+ salgan - come out - no hint
+ carro - car - no hint
+ piensan - they think - no hint
+ rostro - face - no hint
+ razones - reasons - no hint
+ fué - it was - no hint
+ propiedad - property - no hint
+ mundial - world - no hint
+ familiar -  familiar - no hint
+ libras - pounds - no hint
+ hablemos - let's talk - no hint
+ pedazo - piece - no hint
+ continúa - keep going - no hint
+ cola - tail - no hint
+ enemigos - enemies - no hint
+ marca - brand - no hint
+ líder - leader - no hint
+ hablan - they speak - no hint
+ durmiendo - sleeping - no hint
+ socorro - relief - no hint
+ fútbol - soccer - no hint
+ detalles - details - no hint
+ hiciera - would do - no hint
+ recibido - received - no hint
+ tesoro - treasure - no hint
+ camisa - shirt - no hint
+ comienza - starts - no hint
+ conducir - lead - no hint
+ andar - to walk - no hint
+ compañeros - companions - no hint
+ llevado - carried - no hint
+ alegría - joy - no hint
+ envió - shipping - no hint
+ interés - interest - no hint
+ parecido - similar - no hint
+ fueras - were you - no hint
+ hayan - have - no hint
+ fantasma - ghost - no hint
+ teniendo - having - no hint
+ pertenece - belongs - no hint
+ presento - i present - no hint
+ llevamos - we carry - no hint
+ mama - mama - no hint
+ desayuno - breakfast - no hint
+ merece - deserves - no hint
+ conocemos - we know - no hint
+ mueve - move - no hint
+ lárgate - lárgate - no hint
+ pones - you put - no hint
+ oficiales - officers - no hint
+ víctima - victim - no hint
+ malos - bad - no hint
+ barrio - neighborhood - no hint
+ oferta - offer - no hint
+ desgraciado - unfortunate - no hint
+ resultado - result - no hint
+ responsabilidad - responsibility - no hint
+ entró - i enter - no hint
+ combate - combat - no hint
+ fría - cold - no hint
+ tormenta - storm - no hint
+ hablaba - she spoke - no hint
+ oíste - you heard - no hint
+ llamé - i called - no hint
+ olor - smell - no hint
+ cantidad - amount - no hint
+ bala - bala - no hint
+ importantes - important - no hint
+ grandioso - magnificent - no hint
+ kilómetros - kilometres - no hint
+ querían - they wanted - no hint
+ débil - weak - no hint
+ laboratorio - laboratory - no hint
+ fumar - to smoke - no hint
+ entrenador - trainer - no hint
+ llamando - calling - no hint
+ premio - prize - no hint
+ conseguido - got - no hint
+ bordo - edge - no hint
+ agujero - hole - no hint
+ escuchando - listening - no hint
+ escribió - wrote - no hint
+ asustado - afraid - no hint
+ invitado - invited - no hint
+ mapa - map - no hint
+ tenia - had - no hint
+ granja - farm - no hint
+ viniste - did you come - no hint
+ jurado - jury - no hint
+ profundo - deep - no hint
+ tomé - tomé - no hint
+ alemania - germany - no hint
+ seguros - insurance - no hint
+ conocen - they know - no hint
+ pastel -  pastel - no hint
+ americanos - american - no hint
+ privado - private - no hint
+ lunes - monday - no hint
+ directamente - directly - no hint
+ socio -  socio - no hint
+ robado - stolen - no hint
+ explicar - explain - no hint
+ necesidad - need - no hint
+ juegos - games - no hint
+ importancia - importance - no hint
+ corriente - current - no hint
+ habido - been - no hint
+ derechos - rights - no hint
+ leído - read - no hint
+ llegará - reach - no hint
+ desierto - desert - no hint
+ modelo - model - no hint
+ invierno - winter - no hint
+ plata - the payment - no hint
+ apoyo - support for - no hint
+ iban - were going - no hint
+ maté -  maté - no hint
+ tercer - third - no hint
+ obviamente - obviously - no hint
+ tomaré - i will take - no hint
+ recién - newly - no hint
+ árboles - trees - no hint
+ techo - the ceiling - no hint
+ blancos - whites - no hint
+ haberme - have me - no hint
+ tomo - tomo - no hint
+ campeón - champion - no hint
+ salón - living room - no hint
+ últimamente - lately - no hint
+ relaciones - relations - no hint
+ cura - care - no hint
+ escenario - stage - no hint
+ cobarde - coward - no hint
+ tercera - third - no hint
+ quedas - falls - no hint
+ usando - using - no hint
+ aseguro - i assure - no hint
+ ex -  ex - no hint
+ vieron - they saw - no hint
+ obtener - get - no hint
+ entera - whole - no hint
+ quedará - will remain - no hint
+ leo -  leo - no hint
+ créeme - trust me - no hint
+ secretos - secrets - no hint
+ pecho - chest - no hint
+ mentiras - lies - no hint
+ sienta - sit - no hint
+ guste - like - no hint
+ esquina - corner - no hint
+ primeros - first - no hint
+ sensación - sensation - no hint
+ ciego - blind - no hint
+ fábrica - factory - no hint
+ sabido - known - no hint
+ dirá - will tell - no hint
