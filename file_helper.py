@@ -26,10 +26,10 @@ def concatenate_words_into_mp3_if_needed(word_list, lang):
 		mp3_to_export = []
 		for word in word_list.split():
 			if mp3_exists(word, lang):
-				mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+lang+'/'+word+'.mp3')))
+				mp3_to_export.append(remove_silence(AudioSegment.from_mp3(pron_fold+'/'+lang+'/'+word+'_'+lang+'.mp3')))
 		if mp3_to_export:
 			cominedMP3 = sum(mp3_to_export)
-			cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'.mp3', format="mp3")
+			cominedMP3.export(pron_fold+'/'+lang+'/'+word_list+'_'+lang+'.mp3', format="mp3")
 
 def check_for_and_try_to_get_mp3s(first_word, first_lang, second_word, second_lang, require_individual_words_for_audio, api_calls, mp3_download_lists, max_api_calls):
 	have_all_mp3s = True

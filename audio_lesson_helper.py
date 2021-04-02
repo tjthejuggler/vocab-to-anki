@@ -34,8 +34,8 @@ def prepare_audio_lesson_item(first_word, first_lang, second_word, second_lang, 
 		random_bit = random.getrandbits(1)
 		use_normal_order = bool(random_bit)
 	print('making audio', first_word, second_word)
-	first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'.mp3')
-	second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'.mp3')
+	first_sound = AudioSegment.from_mp3(pron_fold+'/'+second_lang+'/'+second_word+'_'+second_lang+'.mp3')
+	second_sound = AudioSegment.from_mp3(pron_fold+'/'+first_lang+'/'+first_word+'_'+first_lang+'.mp3')
 	long_silence = AudioSegment.silent(duration=second_sound.duration_seconds*2000)					
 	short_silence = AudioSegment.silent(duration=second_sound.duration_seconds*1000)
 	if use_normal_order:

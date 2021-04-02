@@ -18,7 +18,7 @@ pron_fold = home+'/pronunciations'
 def mp3_exists(translation, lang):
 	exists = False
 	try:
-		with open(pron_fold+'/'+lang+'/'+translation+'.mp3') as f:
+		with open(pron_fold+'/'+lang+'/'+translation+'_'+lang+'.mp3') as f:
 			exists = True
 	except IOError:
 		pass
@@ -61,11 +61,11 @@ def synthesize_text(text, lang):
 		  request={"input": input_text, "voice": voice, "audio_config": audio_config}
 		)
 		lang_dir = os.path.join(pron_fold,lang)
-		file_name = text.replace('\n','')+'.mp3'
+		file_name = text.replace('\n','')+'_'+lang+'.mp3'
 		file_path = os.path.join(lang_dir, file_name)
 		with open(file_path, "wb") as out:
 			out.write(response.audio_content)
-			print(' '*9,':| MP3 Synthesized.', text, lang)
+			print(' '*9,':| MP3 Synthesized.', text+'_'+lang)
 	else:
 		print("No synth data for this language.")
 
@@ -89,7 +89,7 @@ def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls,
 				list_of_downloaded_mp3s.append(word)
 			else:
 				list_of_already_had_mp3s.append(word)
-				print(' '*60,'MP3 already exists',word)
+				print(' '*60,'MP3 already exists',word+'_'+lang)
 	return api_limit_reached, api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
 
 def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):
@@ -194,7 +194,7 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 				print('check if exists',word_with_num)
 				if not mp3_exists(word_with_num, lang) and len(r)>i:# gut the stuff that links it			   
 					mp3 = requests.get(r[i], headers=headers)
-					file_name   = word_with_num.replace('\n','')+'.mp3'
+					file_name   = word_with_num.replace('\n','')+'_'+lang+'.mp3'
 					file_path   = os.path.join(lang_dir, file_name)
 						
 					if not os.path.exists(lang_dir):
@@ -204,24 +204,9 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 							#we open a new mp3 file and we name it after the word we're downloading.
 							#The file it's opened in write-binary mode
 							out.write(mp3.content)   
-							print(':) MP3 created',word_with_num)
+							print(':) MP3 created',word_with_num+'_'+lang)
 	else:                        
 		#print(' '*20,':( not available from Forvo', word)
 		addToFailedList(word, lang)
-
 	return api_call_count
 
-def DownloadMp3(urlList, limit, word, folder):
-	#download a mp3 file, rename it and write it in a costum folder
-	for i in range(0,limit):
-		mp3 = requests.get(urlList[i])                 
-		file_name   = word.replace('\n','')+'.{0}'.format(i)+'.mp3'
-		file_path   = os.path.join(folder, file_name)
-			
-		if not os.path.exists(folder):
-			os.makedirs(folder)              
-		else:
-			with open(file_path,"wb") as out:
-				#we open a new mp3 file and we name it after the word we're downloading.
-				#The file it's opened in write-binary mode
-				out.write(mp3.content)

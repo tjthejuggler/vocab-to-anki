@@ -34,7 +34,7 @@ def synthesize_text(text, lang):
         request={"input": input_text, "voice": voice, "audio_config": audio_config}
     )
     lang_dir = os.path.join(pron_fold,lang)
-    file_name = text.replace('\n','')+'.mp3'
+    file_name = text.replace('\n','')+'_'+lang+'.mp3'
     file_path = os.path.join(lang_dir, file_name)
     with open(file_path, "wb") as out:
         out.write(response.audio_content)

@@ -1,6 +1,9 @@
+make a script that puts '_langCode' at the end of each mp3 so we dont have issues with cognates
+make TurkishOnly into TurkishSpanishOnly and SpanishEnglish partner decks
+	to do this we want to ignore all altpron tagged notes, this can be done with an opt
 a way to switch first and second language of formatted text file
-add 3rd lang to hint
-make a script that gets all 0k pronunciation files are redownloads them
+make a script that gets all 0kb pronunciation files and redownloads them
+can probably remove 3rd lang since we now have hint lang
 bugs
 	first line didn't download once, is this every time?
 
@@ -11,10 +14,6 @@ Information gathering
 	figure out how big/how many chunks can go into a pydub audio file
 	find out how pretty printed jsons can be used
 
-
-New Functionality
-	make optional "hint" language when making cards
-		it puts a 3rd language in the hint automatically		
 
 Confirmation print
 	-give remaining api requests for the day

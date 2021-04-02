@@ -1,164 +1,307 @@
-agenda - gündem - no hint, agenda
-alcohol - alkol - no hint, alcohol
-altar - altar - no hint, altar
-animal - hayvan - no hint, animal
-area - alan - no hint, area
-artificial - yapay - no hint, artificial
-auto - araba - no hint, auto
-balance - denge - no hint, balance
-bar - bar - no hint, bar
-base - baz - no hint, base
-brutal - acımasız - no hint, brutal
-cable - kablo - no hint, cable
-canal - kanal - no hint, channel
-cáncer - kanser - no hint, cancer
-canon - kanon - no hint, canon
-capital - sermaye - no hint, capital
-carbón - kömür - no hint, coal
-cartón - karton - no hint, paperboard
-central - merkezi - no hint, central
-cerebral - beyin - no hint, cerebral
-cheque - kontrol - no hint, check
-chocolate - çikolata - no hint, chocolate
-circular - dairesel - no hint, circular
-civil - sivil - no hint, civil
-club - kulüp - no hint, club
-collar - yaka - no hint, collar
-colonial - sömürge - no hint, colonial
-coma - koma - no hint, coma
-combustión - yanma - no hint, combustion
-conclusión - sonuç - no hint, conclusion
-conductor - sürücü - no hint, conductor
-confusión - bilinç bulanıklığı konfüzyon - no hint, confusion
-considerable - önemli - no hint, considerable
-control - kontrol - no hint, control
-cordial - samimi - no hint, cordial
-criminal - adli - no hint, criminal
-crisis - kriz - no hint, crisis
-cultural - kültürel - no hint, cultural
-debate - tartışmak - no hint, debate
-decisión - karar - no hint, decision
-diagonal - diyagonal - no hint, diagonal
-dimensión - boyut - no hint, dimension
-director - yönetmen - no hint, director
-disco - disk - no hint, disk
-división - bölünme - no hint, division
-doctor - doktor - no hint, doctor
-drama - dram - no hint, drama
-durable - dayanıklı - no hint, durable
-editorial - editoryal - no hint, editorial
-electoral - seçim - no hint, electoral
-elemental - temel - no hint, elemental
-enigma - muamma - no hint, enigma
-error - hata - no hint, error
-exclusive - özel - no hint, exclusive
-excursión - gezi - no hint, excursion
-experimental - deneysel - no hint, experimental
-explosión - patlama - no hint, explosion
-expulsión - ihraç - no hint, expulsion
-extensión - uzantı - no hint, extension
-exterior - dış - no hint, exterior
-factor - faktör - no hint, factor
-familiar - tanıdık - no hint, familiar
-fatal - ölümcül - no hint, fatal
-federal - federal - no hint, federal
-festival - festival - no hint, festival
-final - nihai - no hint, final
-flexible - esnek - no hint, flexible
-formal - resmi - no hint, formal
-fórmula - formül - no hint, formula
-frontal - önden - no hint, frontal
-fundamental - temel - no hint, fundamental
-gala - gala - no hint, gala
-gas - gaz - no hint, gas
-general - genel - no hint, general
-génesis - yaratılış - no hint, genesis
-global - küresel - no hint, global
-grave - mezar - no hint, grave
-habitual - alışılmış - no hint, habitual
-hobby - hobi - no hint, hobby
-horizontal - yatay - no hint, horizontal
-horror - korku - no hint, horror
-hospital - hastane - no hint, hospital
-hotel - otel - no hint, hotel
-idea - düşünce - no hint, idea
-ideal - ideal - no hint, ideal
-imperial - imparatorluk - no hint, imperial
-implacable - acımasız - no hint, relentless
-incursión - akın - no hint, incursion
-individual - bireysel - no hint, individual
-industrial - sanayi - no hint, industrial
-inevitable - kaçınılmaz - no hint, inevitable
-inferior - daha düşük - no hint, lower
-informal - gayri resmi - no hint, informal
-inseparable - ayrılmaz - no hint, inseparable
-inspector - müfettiş - no hint, inspector
-interminable - sonsuz - no hint, endless
-invasión - istila - no hint, invasion
-invisible - görünmez - no hint, invisible
-irregular - düzensiz - no hint, irregular
-judicial - adli - no hint, judicial
-kilo - kilo - no hint, weight
-lateral - yanal - no hint, lateral
-legal - yasal - no hint, legal
-liberal - liberal - no hint, liberal
-literal - gerçek - no hint, literal
-local - yerel - no hint, local
-macho - erkek - no hint, male
-maestro - usta - no hint, teacher
-mango - mango - no hint, mango
-manía - mani - no hint, mania
-manual - manuel - no hint, manual
-marginal - marjinal - no hint, marginal
-material - malzeme - no hint, material
-matrimonial - evlilik - no hint, matrimonial
-medieval - ortaçağa ait - no hint, medieval
-mediocre - vasat - no hint, mediocre
-melón - kavun - no hint, melon
-mental - zihinsel - no hint, mental
-menú - menü - no hint, menu
-metal - metal - no hint, metal
-miserable - sefil - no hint, miserable
-moral - ahlaki - no hint, moral
-mortal - ölümlü - no hint, mortal
-motel - motel - no hint, motel
-motor - motor - no hint, motor
-múltiple - çoklu - no hint, multiple
-municipal - belediye - no hint, municipal
-musical - müzikal - no hint, musical
-natural - doğal - no hint, natural
-noble - asil - no hint, noble
-normal - normal - no hint, normal
-nostalgia - nostalji - no hint, nostalgia
-ópera - opera - no hint, opera
-oral - oral - no hint, oral
-oriental - oryantal - no hint, oriental
-original - orijinal - no hint, original
-panorama - panorama - no hint, panorama
-particular - belirli - no hint, particular
-pasta - makarna - no hint, pasta
-pastor - papaz - no hint, pastor
-patio - veranda - no hint, patio
-patrón - desen - no hint, pattern
-peculiar - tuhaf - no hint, peculiar
-penal - ceza - no hint, penal
-perfume - parfüm - no hint, perfume
-personal - kişiye özel - no hint, personal
-peseta - peseta - no hint, peseta
-piano - plan - no hint, plan
-plaza - plaza - no hint, plaza
-plural - çoğul - no hint, plural
-popular - popüler - no hint, popular
-pretensión - iddia - no hint, claim
-principal - müdür - no hint, principal
-probable - muhtemel - no hint, probable
-propaganda - propaganda - no hint, propaganda
-protector - koruyucu - no hint, protector
-provincial - il - no hint, provincial
-radical - radikal - no hint, radical
-radio - radyo - no hint, radio
-región - bölge - no hint, region
-regional - bölgesel - no hint, regional
-regular - düzenli - no hint, regular
-religión - din - no hint, religion
-reunión - toplantı - no hint, meeting
+actor - actor - no hint
+admirable - admirable - no hint
+agenda - agenda - no hint
+alcohol - alcohol - no hint
+altar - altar - no hint
+animal - animal - no hint
+area - area - no hint
+artificial - artificial - no hint
+auto - auto - no hint
+balance - balance - no hint
+bar - bar - no hint
+base - base - no hint
+brutal - brutal - no hint
+cable - cable - no hint
+canal - canal - no hint
+cáncer - cancer - no hint
+canon - canon - no hint
+capital - capital - no hint
+carbón - carbon - no hint
+cartón - carton - no hint
+central - central - no hint
+cerebral - cerebral - no hint
+cheque - cheque - no hint
+chocolate - chocolate - no hint
+circular - circular - no hint
+civil - civil - no hint
+club - club - no hint
+collar - collar - no hint
+colonial - colonial - no hint
+coma - coma - no hint
+combustión - combustion - no hint
+conclusión - conclusion - no hint
+conductor - conductor - no hint
+confusión - confusion - no hint
+considerable - considerable - no hint
+control - control - no hint
+cordial - cordial - no hint
+criminal - criminal - no hint
+crisis - crisis - no hint
+cultural - cultural - no hint
+debate - debate - no hint
+decisión - decision - no hint
+diagonal - diagonal - no hint
+dimensión - dimension - no hint
+director - director - no hint
+disco - disco - no hint
+división - division - no hint
+doctor - doctor - no hint
+drama - drama - no hint
+durable - durable - no hint
+editorial - editorial - no hint
+electoral - electoral - no hint
+elemental - elemental - no hint
+enigma - enigma - no hint
+error - error - no hint
+exclusive - exclusive - no hint
+excursión - excursion - no hint
+experimental - experimental - no hint
+explosión - explosion - no hint
+expulsión - expulsion - no hint
+extensión - extension - no hint
+exterior - exterior - no hint
+factor - factor - no hint
+familiar - familiar - no hint
+fatal - fatal - no hint
+federal - federal - no hint
+festival - festival - no hint
+final - final - no hint
+flexible - flexible - no hint
+formal - formal - no hint
+fórmula - formula - no hint
+frontal - frontal - no hint
+fundamental - fundamental - no hint
+gala - gala - no hint
+gas - gas - no hint
+general - general - no hint
+génesis - genesis - no hint
+global - global - no hint
+grave - grave - no hint
+habitual - habitual - no hint
+hobby - hobby - no hint
+horizontal - horizontal - no hint
+horror - horror - no hint
+hospital - hospital - no hint
+hotel - hotel - no hint
+idea - idea - no hint
+ideal - ideal - no hint
+imperial - imperial - no hint
+implacable - implacable - no hint
+incursión - incursion - no hint
+individual - individual - no hint
+industrial - industrial - no hint
+inevitable - inevitable - no hint
+inferior - inferior - no hint
+informal - informal - no hint
+inseparable - inseparable - no hint
+inspector - inspector - no hint
+interminable - interminable - no hint
+invasión - invasion - no hint
+invisible - invisible - no hint
+irregular - irregular - no hint
+judicial - judicial - no hint
+kilo - kilo - no hint
+lateral - lateral - no hint
+legal - legal - no hint
+liberal - liberal - no hint
+literal - literal - no hint
+local - local - no hint
+macho - macho - no hint
+maestro - maestro - no hint
+mango - mango - no hint
+manía - mania - no hint
+manual - manual - no hint
+marginal - marginal - no hint
+material - material - no hint
+matrimonial - matrimonial - no hint
+medieval - medieval - no hint
+mediocre - mediocre - no hint
+melón - melon - no hint
+mental - mental - no hint
+menú - menu - no hint
+metal - metal - no hint
+miserable - miserable - no hint
+moral - moral - no hint
+mortal - mortal - no hint
+motel - motel - no hint
+motor - motor - no hint
+múltiple - multiple - no hint
+municipal - municipal - no hint
+musical - musical - no hint
+natural - natural - no hint
+noble - noble - no hint
+normal - normal - no hint
+nostalgia - nostalgia - no hint
+ópera - ópera - no hint
+oral - oral - no hint
+oriental - oriental - no hint
+original - original - no hint
+panorama - panorama - no hint
+particular - particular - no hint
+pasta - pasta - no hint
+pastor - pastor - no hint
+patio - patio - no hint
+patrón - patron - no hint
+peculiar - peculiar - no hint
+penal - penal - no hint
+perfume - perfume - no hint
+personal - personal - no hint
+peseta - peseta - no hint
+piano - piano - no hint
+plaza - plaza - no hint
+plural - plural - no hint
+popular - popular - no hint
+pretensión - pretension - no hint
+principal - principal - no hint
+probable - probable - no hint
+propaganda - propaganda - no hint
+protector - protector - no hint
+provincial - provincial - no hint
+radical - radical - no hint
+radio - radio - no hint
+región - region - no hint
+regional - regional - no hint
+regular - regular - no hint
+religión - religion - no hint
+reunión - reunion - no hint
+revisión - revision - no hint
+ritual - ritual - no hint
+rural - rural - no hint
+secular - secular - no hint
+sentimental - sentimental - no hint
+serial - serial - no hint
+sexual - sexual - no hint
+similar - similar - no hint
+simple - simple - no hint
+singular - singular - no hint
+social - social - no hint
+solar - solar - no hint
+solo - solo - no hint
+subversión - subversion - no hint
+superficial - superficial - no hint
+superior - superior - no hint
+taxi - taxi - no hint
+televisión - television - no hint
+terrible - terrible - no hint
+terror - terror - no hint
+total - total - no hint
+transcendental - transcendental - no hint
+triple - triple - no hint
+tropical - tropical - no hint
+unión - unión - no hint
+universal - universal - no hint
+usual - usual - no hint
+verbal - verbal - no hint
+versión - version - no hint
+vertical - vertical - no hint
+violín - violin - no hint
+visible - visible - no hint
+visual - visual - no hint
+vital - vital - no hint
+vulgar - vulgar - no hint
+vulnerable - vulnerable - no hint
+abstracción - abstraction - no hint
+acción - action - no hint
+acusación - accusation - no hint
+adaptación - adaptation - no hint
+admiración - admiration - no hint
+aplicación - application - no hint
+apreciación - appreciation - no hint
+asociación - association - no hint
+aspiración - aspiration - no hint
+atención - attention - no hint
+atracción - attraction - no hint
+autorización - authorization - no hint
+celebración - celebration - no hint
+circulación - circulation - no hint
+civilización - civilization - no hint
+clasificación - classification - no hint
+colaboración - collaboration - no hint
+colección - collection - no hint
+combinación - combination - no hint
+compensación - compensation - no hint
+composición - composition - no hint
+concentración - concentration - no hint
+concepción - conception - no hint
+condición - condition - no hint
+conservación - conservation - no hint
+consideración - consideration - no hint
+constitución - constitution - no hint
+construcción - construction - no hint
+exposición - exposition - no hint
+ficción - fiction - no hint
+formación - formation - no hint
+nación - nation - no hint
+simplificación - simplification - no hint
+spanish - english - no hint
+adversario - adversary - no hint
+aniversario - anniversary - no hint
+arbitrario - arbitrary - no hint
+comentario - commentary - no hint
+complementario - complementary - no hint
+contrario - contrary - no hint
+diario - diary - no hint
+glosario - glossary - no hint
+estuario - estuary - no hint
+primario - primary - no hint
+rosario - rosary - no hint
+salario - salary - no hint
+secretario - secretary - no hint
+solitario - solitary - no hint
+vocabulario - vocabulary - no hint
+temporario - temporary - no hint
+académico - academic - no hint
+alcohólico - alcoholic - no hint
+artístico - artistic - no hint
+auténtico - authentic - no hint
+automático - automatic - no hint
+básico - basic - no hint
+característico - characteristic - no hint
+clásico - classic - no hint
+cómico - comic - no hint
+democrático - democratic - no hint
+dinámico - dynamic - no hint
+diplomático - diplomatic - no hint
+doméstico - domestic - no hint
+dramático - dramatic - no hint
+económico - economic - no hint
+electrónico - electronic - no hint
+erótico - erotic - no hint
+exótico - exotic - no hint
+fantástico - fantastic - no hint
+genérico - generic - no hint
+genético - genetic - no hint
+geométrico - geometric - no hint
+heroico - heroic - no hint
+irónico - ironic - no hint
+mágico - magic - no hint
+médico - medic - no hint
+mosaico - mosaic - no hint
+orgánico - organic - no hint
+pánico - panic - no hint
+plástico - plastic - no hint
+poético - poetic - no hint
+público - public - no hint
+romántico - romantic - no hint
+sistemático - systematic - no hint
+trágico - tragic - no hint
+curioso - curious - no hint
+delicioso - delicious - no hint
+glorioso - glorious - no hint
+misterioso - mysterious - no hint
+numeroso - numerous - no hint
+precioso - precious - no hint
+religioso - religious - no hint
+tedioso - tedious - no hint
+abstracto - abstract - no hint
+acto - act - no hint
+artefacto - artefact - no hint
+compacto - compact - no hint
+conflicto - conflict - no hint
+contacto - contact - no hint
+correcto - correct - no hint
+exacto - exact - no hint
+excepto - except - no hint
+insecto - insect - no hint
+perfecto - perfect - no hint
+producto - product - no hint
