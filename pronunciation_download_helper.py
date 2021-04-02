@@ -70,23 +70,26 @@ def synthesize_text(text, lang):
 		print("No synth data for this language.")
 
 def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations):
+	#print('download_if_needed')
 	api_limit_reached = False
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = mp3_download_lists
-	for i in range(0, 2):
-		word_with_num = word
-		if i != 0:
-			word_with_num = word + str(i)
-		if not mp3_exists(word_with_num, lang):#instead of looping this stuff here, it should be looped in the actual download
-			new_api_calls = DownloadMp3ForAnki(word, lang, alternate_pronunciations)
-			api_calls = api_calls + new_api_calls
-			if new_api_calls == 0:
-				api_limit_reached = True
-			elif new_api_calls == 1 and i == 0:
-				synthesize_text(word, lang)
-			list_of_downloaded_mp3s.append(word)
-		else:
-			list_of_already_had_mp3s.append(word)
-			print(' '*60,'MP3 already exists',word)
+	for i in range(0, min(alternate_pronunciations, 2)):
+		if word.strip():
+			word_with_num = word
+			if i != 0:
+				word_with_num = word + str(i)
+			if not mp3_exists(word_with_num, lang):#instead of looping this stuff here, it should be looped in the actual download
+				#print('about to download', word_with_num, lang, alternate_pronunciations)
+				new_api_calls = DownloadMp3ForAnki(word, lang, alternate_pronunciations)
+				api_calls = api_calls + new_api_calls
+				if new_api_calls == 0:
+					api_limit_reached = True
+				elif new_api_calls == 1 and i == 0:
+					synthesize_text(word, lang)
+				list_of_downloaded_mp3s.append(word)
+			else:
+				list_of_already_had_mp3s.append(word)
+				print(' '*60,'MP3 already exists',word)
 	return api_limit_reached, api_calls, [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
 
 def ForvoRequest(QUERY, LANG, apikey, ACT='word-pronunciations', FORMAT='mp3', free= False):

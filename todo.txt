@@ -1,9 +1,3 @@
-make multiple cards with same word pair but different pronunciations
-	mp3s can be saved as word1, word2, word3
-	from formatted list have special opt that is -p for multiple pronunciations
-	download as many as possible/up to a max from forvo
-	make a bunch of new cards
-
 bugs
 	first line didn't download once, is this every time?
 
@@ -13,10 +7,7 @@ test
 Information gathering
 	figure out how big/how many chunks can go into a pydub audio file
 	find out how pretty printed jsons can be used
-a way to skip ahead to a certain word when getting alternate pronunciations
-	this is hacked on right now, it needs hooked up to opts
-a way to make ankidecks and audio lessons without downloading any mp3s or synthing, maybe -d 0
-	this needs checked
+
 
 New Functionality
 	make optional "hint" language when making cards

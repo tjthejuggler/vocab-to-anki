@@ -47,8 +47,10 @@ def get_confirmation(lines, using_two_langs, should_make_anki_deck, should_make_
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name):
 	if should_translate:
 		operation_type  = 'translated'
-	if any([should_download, should_make_anki_deck, should_make_anki_deck_audio_only, should_make_audio_lesson]):
+	elif any([should_download, should_make_anki_deck, should_make_anki_deck_audio_only, should_make_audio_lesson]):
 		operation_type  = 'downloaded'
+	else:
+		operation_type = 'processed'
 	print('Deck name: ', new_deck_name)
 	print('Gathering confirmation data...')
 	print('Items to be '+operation_type+': ', get_chunk_count(lines, is_formatted, max_lines, operation_type, first_lang, second_lang, number_of_languages_to_download))
