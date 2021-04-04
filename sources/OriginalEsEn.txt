@@ -1,3 +1,5 @@
+OriginalEsEn
+
 no te preocupes - do not worry - no hint
 hola - hello - no hint
 reunirse - get together - no hint
@@ -24,7 +26,7 @@ tiempo libre - free time - no hint
 alrededor de las doce - around twelve - no hint
 juntos - together - no hint
 sueles dormir hasta tarde - you usually sleep late - no hint
-es por eso - that39s why - no hint
+es por eso - that&#39;s why - no hint
 lado europeo - european side - no hint
 lado de anatolia - anatolian side - no hint
 buena suerte para ti - good luck for you - no hint
@@ -36,7 +38,7 @@ buena suerte - good luck - no hint
 doydun mu - doydun mu - no hint
 por mi bien - for my sake - no hint
 para qué - for what - no hint
-tengo prisa - i39m in a hurry - no hint
+tengo prisa - i&#39;m in a hurry - no hint
 eso espero - i hope so - no hint
 calma - calm down - no hint
 por cierto - by the way - no hint
@@ -57,26 +59,26 @@ no lamentablemente no entendí todo - no unfortunately i did not understand ever
 creo que lo tengo - i think i got it - no hint
 deberías decir eso - you should say that - no hint
 tus palabras son muy notables - your words are very remarkable - no hint
-estoy despierto - i39m awake - no hint
+estoy despierto - i&#39;m awake - no hint
 mi corazón se derritió - my heart melted - no hint
 como estuvo tu caminar - how was your walk - no hint
 y tú - and you - no hint
 buena salud - good health - no hint
 sin travesuras - no mischief - no hint
-bien estoy haciendo esto - fine i39m doing this - no hint
+bien estoy haciendo esto - fine i&#39;m doing this - no hint
 seguimos intentando lo que sea - we keep trying whatever - no hint
-no hemos hecho mucho hoy - we haven39t done much today - no hint
+no hemos hecho mucho hoy - we haven&#39;t done much today - no hint
 pero anoche me desperté como a la una tarde - but last night i woke up about one afternoon - no hint
 qué hiciste hoy excepto el examen - what did you do today except the exam - no hint
 espero que entiendas - i hope you understand - no hint
 gracias por ayudarme - thanks for helping - no hint
-creo que voy a jugar al tenis - i think i39m going to play tennis - no hint
+creo que voy a jugar al tenis - i think i&#39;m going to play tennis - no hint
 creo que jugaré al tenis con mis hermanos - i think i will play tennis with my brothers - no hint
-voy a programar - i39m going to program - no hint
+voy a programar - i&#39;m going to program - no hint
 haré un programa - i will make a program - no hint
 esto o aquello cual es correcto - this or that which is correct - no hint
 esta frase es nueva para mi - this phrase is new to me - no hint
-me alegro de que puedas entenderme - i39m glad that you can understand me - no hint
+me alegro de que puedas entenderme - i&#39;m glad that you can understand me - no hint
 si lo digo en serio - yes i say it seriously - no hint
 pensé que había dicho lo siento - i thought i said sorry - no hint
 tekirova es una ciudad pequeña - tekirova is a small town - no hint
@@ -85,45 +87,45 @@ tienes un talento increible - you have an incredible talent - no hint
 me estás tomando el pelo - are you kidding me - no hint
 hay mucha diferencia de edad entre mis hermanos - there is a lot of age difference between my brothers - no hint
 dije tu nombre correctamente - i said your name correctly - no hint
-tengo treinta y cuatro años - i39m thirty four years old - no hint
+tengo treinta y cuatro años - i&#39;m thirty four years old - no hint
 cuántos años tienes - how old are you - no hint
 qué haces para divertirte - what do you do for fun - no hint
 hiciste algo interesante hoy - did you do something interesting today - no hint
 saludos - regards - no hint
 tuviste un buen día - you had a good day - no hint
 que estas haciendo - what are you doing - no hint
-si yo tambien tuve un buen dia - yes i also had a good day - no hint
+si yo tambien tuve un buen dia - yes, i also had a good day - no hint
 qué hiciste hoy - what did you do today - no hint
 se siente como un buen dia - it feels like a good day - no hint
-espero que estés bien - i hope you39re well - no hint
+espero que estés bien - i hope you&#39;re well - no hint
 y espero que estés bien - and i hope you are well - no hint
 espero que tengas un buen día - i hope you have a good day - no hint
 todavía temprano aquí - still early here - no hint
-no hice mucho - i didn39t do much - no hint
+no hice mucho - i didn&#39;t do much - no hint
 limpié la cocina - clean the kitchen - no hint
 acabo de despertarme - i just woke up - no hint
 acabo de hacer café - i just made coffee - no hint
 dormí hasta tarde hoy - i slept late today - no hint
 cabalgué bien - i rode well - no hint
-no dormí mucho anteayer - i didn39t sleep much the day before yesterday - no hint
+no dormí mucho anteayer - i didn&#39;t sleep much the day before yesterday - no hint
 dormí bien - i slept well - no hint
-mi día ha estado bien hasta ahora pero aún es temprano - my day has been good so far but it39s still early - no hint
-como estuvo tu dia hiciste algo divertido - how was your day did you do something fun - no hint
-no vi gambito de reinas - i did not see a queen39s gambit - no hint
+mi día ha estado bien hasta ahora pero aún es temprano - my day has been good so far but it&#39;s still early - no hint
+como estuvo tu dia hiciste algo divertido - how was your day, did you do something fun? - no hint
+no vi gambito de reinas - i did not see a queen&#39;s gambit - no hint
 seguramente mira el gambito de las reinas - surely look at the gambit of the queens - no hint
 esto es un conjunto - this is a set - no hint
 acabo de ver el primer episodio - i just saw the first episode - no hint
-pero estoy emocionado de ver el próximo - but i39m excited to see the next one - no hint
+pero estoy emocionado de ver el próximo - but i&#39;m excited to see the next one - no hint
 te gustó la mayoría de mis publicaciones de instagram - you liked most of my instagram posts - no hint
 ese festival se ve tan genial - that festival looks so cool - no hint
 al mismo tiempo que el festival de malabares - at the same time as the juggling festival - no hint
-he visto un últimamente y pensé que también era bueno para mí - i39ve seen one lately and i thought it was good for me too - no hint
+he visto un últimamente y pensé que también era bueno para mí - i&#39;ve seen one lately and i thought it was good for me too - no hint
 tiene hermanos - do you have brothers - no hint
 eres el mayor - you are the oldest - no hint
 yo soy el segundo hijo - i am the second child - no hint
 estás casado - are you married - no hint
 qué edad tiene tu hija - how old is your daughter - no hint
-tan dulce es una gran edad - so sweet it39s a great age - no hint
+tan dulce es una gran edad - so sweet it&#39;s a great age - no hint
 tengo una sobrina de tres años - i have a three year old niece - no hint
 no tengo ninguna responsabilidad pero me divierto mucho - i have no responsibility but i have a lot of fun - no hint
 no tengo mascota - i do not have pet - no hint
@@ -163,11 +165,11 @@ dónde vives en turquía - where do you live in turkey - no hint
 vives en algún lugar del pavo - you live somewhere in turkey - no hint
 de qué ciudad eres - what city are you from - no hint
 soy turco de azerbaiyán - i am turk from azerbaijan - no hint
-naciste ahí - you we're born there - no hint
+naciste ahí - you were born there - no hint
 cuando saliste - when did you leave - no hint
 amo tu acento - i love your accent - no hint
-está nevando mucho aquí ahora mismo - it39s snowing a lot here right now - no hint
-alguna vez nieva donde estás - does it ever snow where are you - no hint
+está nevando mucho aquí ahora mismo - it&#39;s snowing a lot here right now - no hint
+alguna vez nieva donde estás - does it ever snow where are you? - no hint
 es muy inusual nevar aquí - it is very unusual to snow here - no hint
 fui allí hace unos cuatro años - i went there about four years ago - no hint
 no nunca lo hice - no i never did - no hint
@@ -175,8 +177,8 @@ visitaste allí - you visited there - no hint
 has estado en el extranjero - have you been abroad - no hint
 no nunca fui - no i never went - no hint
 te mostraré los alrededores - i will show you around - no hint
-no lamentablemente no pude irme - no unfortunately i couldn39t leave - no hint
-no tengo dinero porque - i don39t have money because - no hint
+no lamentablemente no pude irme - no unfortunately i couldn&#39;t leave - no hint
+no tengo dinero porque - i don&#39;t have money because - no hint
 tuve tres meses del año pasado en turquía - i had three months last year in turkey - no hint
 tu trabajo te permite viajar mucho - your job allows you to travel a lot - no hint
 fuiste a algunos lugares agradables - you went to some nice places - no hint
@@ -196,7 +198,7 @@ estoy estudiando quimica - i am studying chemistry - no hint
 descubrió cómo aprobó su examen - found out how you passed your exam - no hint
 tuviste una escuela hoy - you had a school today - no hint
 cuantos años mas tienes - how old are you - no hint
-cuantos años llevas estudiando en la universidad - how many years have you been studying at the university - no hint
+cuantos años llevas estudiando en la universidad - how many years have you been studying at the university? - no hint
 cómo le fue en su examen - how did your exam go - no hint
 espero que halla ido bien - i hope it went well - no hint
 es esta una reunión escolar - is this a school meeting - no hint
@@ -205,7 +207,7 @@ cuantos años tienen los estudiantes - how old are the students - no hint
 qué estás enseñando - what are you teaching - no hint
 cuanto tiempo has enseñado - how long have you taught - no hint
 yo era profesor - i was a teacher - no hint
-cuantos estudiantes tenias - how many students did you have - no hint
+cuantos estudiantes tenias - how many students did you have? - no hint
 haz tu trabajo - do your work - no hint
 soy un malabarista - i am a juggler - no hint
 soy un artista de circo - i am a circus artist - no hint
@@ -215,7 +217,7 @@ si este es un trabajo muy divertido que haces - if this is a very fun job that y
 arquitectura de interiores - interior architecture - no hint
 a qué te dedicas - what do you do - no hint
 cuánto tiempo has querido ser actor - how long have you wanted to be an actor - no hint
-es genial que conozcas muy bien la ciencia - it39s great that you know science very well - no hint
+es genial que conozcas muy bien la ciencia - it&#39;s great that you know science very well - no hint
 creo que tu actuacion es buena - i think your acting is good - no hint
 chica grosera supongo que su nombre es temporada - rude girl i guess her name is season - no hint
 quiero que seamos amigos - i want us to be friends - no hint
@@ -224,10 +226,10 @@ oh mi eres tan gracioso - oh my you are so funny - no hint
 me encantaría jugar contigo también - i would love to play with you too - no hint
 eres tan elegante - you are so elegant - no hint
 te agradezco que digas eso - i appreciate you saying that - no hint
-gracias eres dulce - thanks you39re sweet - no hint
+gracias eres dulce - thanks you&#39;re sweet - no hint
 muchas gracias eres tan amable - thank you very much you are so kind - no hint
 pero se convirtió en un presidente muy extraño - but he became a very strange president - no hint
-voy a correr - i39m going to run - no hint
+voy a correr - i&#39;m going to run - no hint
 duerme bien contigo - sleep well with you - no hint
 tengo que ir - i have to go - no hint
 fue muy agradable hablar contigo - it was very nice talking to you - no hint
@@ -242,8 +244,8 @@ si solo - yes alone - no hint
 la gente ya aprende algo nuevo todos los días - people already learn something new every day - no hint
 tengo una pregunta - i have a question - no hint
 el me ama bien - he loves me well - no hint
-no duermas demasiado tarde - don39t sleep too late - no hint
-no importa ahora lo sé - it doesn39t matter now i know - no hint
+no duermas demasiado tarde - don&#39;t sleep too late - no hint
+no importa ahora lo sé - it doesn&#39;t matter now i know - no hint
 el día acaba de comenzar - the day has just begun - no hint
 se siente duro - feels hard - no hint
 nombre en la parte superior - name at the top - no hint
@@ -253,19 +255,19 @@ todo aqui es perfecto - everything here is perfect - no hint
 te encontré en instagram - i found you on instagram - no hint
 qué quieres decir - what do you mean - no hint
 y puedo ayudarte - and i can help you - no hint
-pero no tomará mucho tiempo - but it won39t take long - no hint
+pero no tomará mucho tiempo - but it won&#39;t take long - no hint
 nunca he visto esto - i have never seen this - no hint
 no hay nada de que disculparse - there is nothing to apologize for - no hint
 las preguntas difíciles son buenas preguntas - hard questions are good questions - no hint
 si eso sería muy bueno - yes that would be very good - no hint
 el primero es el mejor - the first is the best - no hint
-entonces tal vez sea bueno - then maybe it39s good - no hint
+entonces tal vez sea bueno - then maybe it&#39;s good - no hint
 pero creo que lo es - but i think it is - no hint
 todavía me queda una hora y media para esperar - i still have an hour and a half to wait - no hint
 estaba hablando solo - i was talking to myself - no hint
 entonces qué estás haciendo en su lugar - so what are you doing instead - no hint
 cuál es la diferencia entre esto y aquello - what is the difference between this and that - no hint
-hablaré contigo - i39ll talk to you - no hint
+hablaré contigo - i&#39;ll talk to you - no hint
 hablaré con mis otros amigos - i will talk to my other friends - no hint
 envié un mensaje - i sent a message - no hint
 esta es una oración completa - this is a complete sentence - no hint
@@ -281,19 +283,19 @@ normalmente puedo traducir y practicar antes de publicar un mensaje - i can usua
 tengo algunas palabras que puedo usar ahora - i have some words that i can use now - no hint
 practiqué turco - i practiced turkish - no hint
 solo practico turco ahora mismo - i only practice turkish right now - no hint
-vamos a hacerlo - let39s do it - no hint
-miremos aquí - let39s look here - no hint
+vamos a hacerlo - let&#39;s do it - no hint
+miremos aquí - let&#39;s look here - no hint
 qué estoy haciendo - what am i doing - no hint
 pero esta mañana temprano - but this morning early - no hint
 fui a dar un paseo - i went for a walk - no hint
 yo hacía malabares - i juggled - no hint
 limpié el auto - i cleaned the car - no hint
 bebí un poco de agua - i drank some water - no hint
-creo que eso es todo - i think that39s all - no hint
-llevé a mi hermano a algún lugar ahora lo estoy esperando - i took my brother somewhere now i39m waiting for him - no hint
+creo que eso es todo - i think that&#39;s all - no hint
+llevé a mi hermano a algún lugar ahora lo estoy esperando - i took my brother somewhere now i&#39;m waiting for him - no hint
 solo fui a correr - i just went for a run - no hint
 hasta ahora - until now - no hint
-así que conducir y correr es todo lo que he hecho hoy - so driving and running is all i39ve done today - no hint
+así que conducir y correr es todo lo que he hecho hoy - so driving and running is all i&#39;ve done today - no hint
 saliste el dia de hoy - did you go out today - no hint
 tal vez al mercado o al parque - maybe to the market or the park - no hint
 salió bien tu lección - your lesson went well - no hint
@@ -327,7 +329,7 @@ suponer - suppose - no hint
 pensar - to think - no hint
 pienso - i think - no hint
 común - common - no hint
-estoy estresado - i39m stressed - no hint
+estoy estresado - i&#39;m stressed - no hint
 mensaje - message - no hint
 expresión - expression - no hint
 tam - tam - no hint
@@ -336,7 +338,7 @@ personal - personal - no hint
 dentro de mi - inside of me - no hint
 canción - song - no hint
 puedo usar - i can use - no hint
-hagamos - let39s do - no hint
+hagamos - let&#39;s do - no hint
 en las horas - in the hours - no hint
 todo - all - no hint
 para ahora - for now - no hint
@@ -352,7 +354,7 @@ pensar - to think - no hint
 deberías decir - you should say - no hint
 consideración - consideration - no hint
 despierto - awake - no hint
-además - what39s more - no hint
+además - what&#39;s more - no hint
 oído - hearing - no hint
 corazón - heart - no hint
 gracias - thank you - no hint
@@ -444,7 +446,7 @@ catalogo - catalog - no hint
 católico - catholic - no hint
 suave - gentle - no hint
 chocolate - chocolate - no hint
-cine - movies - no hint
+cine - who - no hint
 civil - civil - no hint
 café - coffee - no hint
 colectivo - collective - no hint
@@ -509,7 +511,7 @@ capitán - captain - no hint
 caravana - caravan - no hint
 carnaval - carnival - no hint
 categoría - category - no hint
-camiseta de manga corta - tshirt - no hint
+camiseta de manga corta - t/shirt - no hint
 química - chemistry - no hint
 cristiano - christian - no hint
 cigarrillo - cigarette - no hint
@@ -884,7 +886,7 @@ alarma - alarm - no hint
 tomate - tomatoes - no hint
 tu - you - no hint
 ambulancia - ambulance - no hint
-camiseta de manga corta - tshirt - no hint
+camiseta de manga corta - t/shirt - no hint
 televisor - television - no hint
 bien - well - no hint
 texto - text - no hint
@@ -896,272 +898,272 @@ saber - to know - no hint
 hipocresía - hypocrisy - no hint
 tragar la pastilla - swallow the pill - no hint
 salud a tus manos - health to your hands - no hint
-te cuento mas tarde es una larga historia - i39ll tell you later it39s a long story - no hint
+te cuento mas tarde es una larga historia - i&#39;ll tell you later it&#39;s a long story - no hint
 tienes un corazón muy limpio - you have a very clean heart - no hint
-buenas noches dios te bendiga - good night god bless you - no hint
+buenas noches dios te bendiga - good night, god bless you - no hint
 poner la mente - put the mind - no hint
 buena suerte para usted - good luck to you - no hint
 que lindo bebe no debe tocar el mal de ojo - what a cute baby should not touch the evil eye - no hint
 escucha con todos los oídos - listen with all ears - no hint
-no puedo caber dentro de mi - i can39t fit inside of me - no hint
+no puedo caber dentro de mi - i can&#39;t fit inside of me - no hint
 llano - flat - no hint
 no más - no more - no hint
 revisión - revision - no hint
-pesado - heavy - no hint
-agrio - sour - no hint
-tarde - late - no hint
-por supuesto - of course - no hint
-responsabilidad - responsibility - no hint
-por favor siéntate - please sit down - no hint
-está bien si no vienes - it39s ok if you don39t come - no hint
-seguramente lo encontraré donde sea - i will surely find it wherever - no hint
-personalmente - personally - no hint
-regular - regular - no hint
-hielo - ice - no hint
-contra - against - no hint
-central - central - no hint
-pongo mi ropa en la lavadora - i put my clothes in the washing machine - no hint
-perfecto - perfect - no hint
-tarjeta de débito - debit - no hint
-natural - natural - no hint
-nacer - be born - no hint
-cerdo - pig - no hint
-diferente - different - no hint
-deseo - desire - no hint
-marido - husband - no hint
-frase - phrase - no hint
-broma - joke - no hint
-inteligente - smart - no hint
-vulgar - vulgar - no hint
-cocina - kitchen - no hint
-por ciento - percent - no hint
-oficial de policía - police officer - no hint
-serie - series - no hint
-fuerte - strong - no hint
-frio - cold - no hint
-nervioso - nervous - no hint
-especial - special - no hint
-consejo - tip - no hint
-mujer - woman - no hint
-lugar - place - no hint
-en el piso - on the floor - no hint
-puedes bajar de peso si te importa - you can lose weight if you mind - no hint
-casi crepúsculo - almost twilight - no hint
-por mi mismo - myself - no hint
-posible - possible - no hint
-llorar - mourn - no hint
-tocar - to touch - no hint
-lápiz - pencil - no hint
-es este un libro viejo - is this an old book - no hint
-ver - watch - no hint
-no es relevante - it is not relevant - no hint
-ana - mother - no hint
-ha aumentado - has increased - no hint
-mismo - same - no hint
-bari - bari - no hint
-antibiótico - antibiotic - no hint
-carne de vaca - beef - no hint
-lamento haberte hecho esperar - i39m sorry i made you wait - no hint
-joven - young man - no hint
-nube - cloud - no hint
-nieva - snows - no hint
-kare - kare - no hint
-teléfonos móviles - mobile phones - no hint
-té - has - no hint
-traductor - translator - no hint
-muy - very - no hint
-expulsar - expel - no hint
-tan bueno como - as good as - no hint
-de esto - from this - no hint
-soleado - sunny - no hint
-decir - tell - no hint
-llamar - call - no hint
-grave - grave - no hint
-ayer - yesterday - no hint
-interior - interior - no hint
-pan - pan - no hint
-vestido - dress - no hint
-electricidad - electricity - no hint
-divertirse - have fun - no hint
-fundir - meetings - no hint
-cónyuge - spouse - no hint
-necesitar - need - no hint
-episodio - episode - no hint
-sabah - sabah - no hint
-me gusta - i like - no hint
-barato - cheap - no hint
-el lo hizo - he did it - no hint
-actuar - act - no hint
-desconcertante - baffling - no hint
-absolutamente - absolutely - no hint
-ejercicio - exercise - no hint
-cuando esté terminado - when finished - no hint
-ganamos - we won - no hint
-yo no salí - i did not go out - no hint
-no pude salir - i could not get out - no hint
-ancho - broad - no hint
-descanso - break - no hint
-demás - the rest - no hint
-meter en - meters and - no hint
-ser requerido - be required - no hint
-muy - very - no hint
-lástima - pity - no hint
-desaparecido - missing - no hint
-error - error - no hint
-todavía - yet - no hint
-pierna - leg - no hint
-tomar medicina - take medicine - no hint
-contacto - contact - no hint
-sueños - dreams - no hint
-carta - paper - no hint
-ruidoso - loud - no hint
-su comida está lista para comer - your food is ready to eat - no hint
-hm donde sea que vayamos ahora - hm wherever we go now - no hint
-estoy muy listo para viajar de nuevo - i am very ready to travel again - no hint
-listo - ready - no hint
-evolución humana - human evolution - no hint
-nervioso - nervous - no hint
-estoy agradecido - i39m thankful - no hint
-dedo - finger - no hint
-cobre - copper - no hint
-a mí mismo - to myself - no hint
-miré a los estantes - i looked at the shelves - no hint
-máquina - machine - no hint
-correo - mail - no hint
-deje - leave - no hint
-señal - sign - no hint
-si no lo soy - if i39m not - no hint
-deseo - desire - no hint
-a ver - let39s see - no hint
-oportunidad - chance - no hint
-exacto - exactly - no hint
-sobre - on - no hint
-si hay - yes there are - no hint
-si - and - no hint
-mejor - better - no hint
-ahora - now - no hint
-soltero - single - no hint
-deseo lo mejor - i wish you the best - no hint
-bolso - bag - no hint
-cálmate - take it easy - no hint
-adán - adam - no hint
-probablemente - probably - no hint
-pronunciación - pronunciation - no hint
-el bebe cae al suelo - the baby falls to the ground - no hint
-extranjero - foreign - no hint
-sobrino - nephew - no hint
-cuerpo - body - no hint
-hacer - do - no hint
-pandemia - pandemic - no hint
-cabeza - head - no hint
-salado - salty - no hint
-no encaja en - does not fit in - no hint
-hacer - do - no hint
-dormir - to sleep - no hint
-depende - depends - no hint
-albergue - hostel - no hint
-calcetines - socks - no hint
-yo espero - i expect - no hint
-malo - little - no hint
-malo - little - no hint
-nublado - cloudy - no hint
-frío - cold - no hint
-columna - column - no hint
-enojo de nuevo - anger again - no hint
-bien - well - no hint
-cerca - search for - no hint
-todos lo aman - everyone loves it - no hint
-excluyendo - excluding - no hint
-novio - boyfriend - no hint
-ambas cosas - both - no hint
-esta es una mala noticia - this is bad news - no hint
-el verano - summer - no hint
-fuera de lo común - out of the ordinary - no hint
-ser cruel - be cruel - no hint
-ser requerido - be required - no hint
-vulgar - vulgar - no hint
-bicicleta - bicycle - no hint
-tímido - shy - no hint
-café - coffee - no hint
-peculiar - peculiar - no hint
-debajo de la cama - under the bed - no hint
-largo - length - no hint
-ser afectado - be affected - no hint
-parecer - seem - no hint
-aksan - aksan - no hint
-terrible - terrible - no hint
-interesante - interesting - no hint
-costa - costa - no hint
-donde esta el gran asiento - where is the big seat - no hint
-estupendo - great - no hint
-te escucho con todos los oídos - i hear you with all ears - no hint
-ningún libro debe tirarse a la basura - no book should be thrown away - no hint
-malabares - juggling - no hint
-hokkabaz - hokkabaz - no hint
-regular - regular - no hint
-baño - bath - no hint
-usted dijo - you said - no hint
-verduras - vegetables - no hint
-perder - to lose - no hint
-desconcertante - baffling - no hint
-identificación - id - no hint
-tengo que instalar - i have to install - no hint
-aprendiste - did you learn - no hint
-autobús - bus - no hint
-satisfecho - satisfied - no hint
-listado - list - no hint
-me encantaría - i would love to - no hint
-mascota - mascot - no hint
-novia - bride - no hint
-sendero para caminar es genial - walking trail is great - no hint
-un poco más tarde probablemente haga ejercicio jugando al tenis o trotando - a little later you will probably exercise playing tennis or jogging - no hint
-en tus sueños - in your dreams - no hint
-fue aclarado - was cleared - no hint
-estás bien - you are well - no hint
-girar a la derecha en la primera rotonda - turn right at the first roundabout - no hint
-tu pez tiene nombre - your fish has a name - no hint
-ayudar - to help - no hint
-recordé otro drama que amaba - i remembered another drama that i loved - no hint
-de inglés - of english - no hint
-bien tu - well you - no hint
-suena como - sounds like - no hint
-el momento más vergonzoso es un secreto - the most embarrassing moment is a secret - no hint
-mi turco no es tan bueno como parece - my turk is not as good as it seems - no hint
-mi turco es mejor de lo que parece - my turkish is better than it looks - no hint
-cual es la proxima parada - what is the next stop - no hint
-lo que dije - what i said - no hint
-estaré disponible para hacer una llamada pronto - i will be available to make a call soon - no hint
-la tienda cierra después de las seis en punto - the store closes after six o39clock - no hint
-para esto - for this - no hint
-mentirle es lo peor - lying to him is the worst - no hint
-hasta ahora todo bien - so far so good - no hint
-eso suena mejor - that sounds better - no hint
-desafortunadamente - unfortunately - no hint
-de dónde eres - where are you from - no hint
-algo terrible dijiste - something terrible did you say - no hint
-delicioso - delicious - no hint
-disculpa - excuses - no hint
-famoso - famous - no hint
-aventuras - adventures - no hint
-hijo - son - no hint
-en la mesa - in the table - no hint
-fruta - fruit - no hint
-mide - measure - no hint
-posible ir - possible to go - no hint
-arquitectura - architecture - no hint
-casado - married - no hint
-posible - possible - no hint
-músico - musician - no hint
-sin impureza - without impurity - no hint
-cocina - kitchen - no hint
-ingeniero - engineer - no hint
-fácil - easy - no hint
-déjame ver a mi amado más de cerca - let me see my beloved more closely - no hint
-que has pasado - what have you been through - no hint
-mi turco se ve mejor de lo que es - my turk looks better than it is - no hint
-es difícil controlarte a ti mismo - it39s hard to control yourself - no hint
-de todas formas - anyway - no hint
-de todos modos déjame decir al menos - anyway let me say at least - no hint
+pesado - heavy - "ah er" is like a grunt sound you make picking up something heavy. air is really heavy.
+agrio - sour - "ek!" she says, "this is so sour!"
+tarde - late - "getchur stuff, we're late"
+por supuesto - of course - "hey man, i'm sure saying amen is appropriate"
+responsabilidad - responsibility - "i am responsible for my question(sorum), lu", and when you look at responisbile it becomes a noun responsibility
+por favor siéntate - please sit down - "oh to run" says the person who has to sit down
+está bien si no vienes - it&#39;s ok if you don&#39;t come - </div>
+seguramente lo encontraré donde sea - i will surely find it wherever - <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+personalmente - personally - sha sends better hashes than people can make in person
+regular - regular - a boy comes and lays on your knee, and you later you are telling someone and you say "i mean that, that's what happened"
+hielo - ice - a bus made completely out of ice
+contra - against - a car should not hit up against anything
+central - central - a center is like a market but it is crazy. or, you are in a horse center and the mare there is crazy
+pongo mi ropa en la lavadora - i put my clothes in the washing machine - a chum a sheers your laundry
+perfecto - perfect - a cow(moo) as funny as jimmy kimmel would be perfect
+tarjeta de débito - debit - a debit card is a bank automatic card
+natural - natural - a doe is all natural
+nacer - be born - a doe is born at it is very natural(doğal) to be born
+cerdo - pig - a doe moos so you don't eat it and instead you eat pork
+diferente - different - a farklı is a little different from a forklift
+deseo - desire - a good wish is a delectible thing
+marido - husband - a horror book like kujo, but instead of a crazy dog it is a crazy husband
+frase - phrase - a jewish zoom type show where they lay around and make sentences
+broma - joke - a joke is a shocker to common thinking
+inteligente - smart - a killer must be very intelligent
+vulgar - vulgar - a mean person gives a baby a cutting baba
+cocina - kitchen - a mute person can fuck in the kitchen and noone will hear
+por ciento - percent - a percent is what part of a hundred something is
+oficial de policía - police officer - a police officer remembers you
+serie - series - a really good series makes you dizzy because it is so good (iyi)
+fuerte - strong - a really strong guy wearing gucci and louis vuitton. if gucci and louis vuitton combined, they would be the strongest fashion company in the world!
+frio - cold - a serene, cool, chilly night
+nervioso - nervous - a sinner li(cks) someone when they are angry
+especial - special - a special person is like a beautiful person without the need for the extra g(lamour)
+consejo - tip - a type of showing gratitude is to tip someone
+mujer - woman - a woman is kuttin in line
+lugar - place - a year is a time place
+en el piso - on the floor - a year is the ground we stand on, with the de ending for on
+puedes bajar de peso si te importa - you can lose weight if you mind - ak lin has a ak in her mind
+casi crepúsculo - almost twilight - all a jack a(that) ran lick at dusk
+por mi mismo - myself - all by myself i bash a ma
+posible - possible - all i said is that it may be possible
+llorar - mourn - all uh the people cry because of allah
+tocar - to touch - an actor says oy! to get someone's attention, then says na! when the wrong person looks
+lápiz - pencil - an apple core has shown you a pencil, so you call them
+es este un libro viejo - is this an old book - an example of an old thing is a ski
+ver - watch - an eye(gör) is all gorey
+no es relevante - it is not relevant - an ill gill end there mess, but this is not relevant to what made the fishes mess
+ana - mother - anne is a good mothers name, or mother is on a long trip
+ha aumentado - has increased - art increases in value, from artmak
+mismo - same - as you are dying you say "i ne--" to be the same as living people, but you die before finishing the word 'need'
+bari - bari - at least we can barry our heads in the sand
+antibiótico - antibiotic - aunty be oh teek
+carne de vaca - beef - because it is a proper meat, people say sir meat(eti)
+lamento haberte hecho esperar - i&#39;m sorry i made you wait - beckon le team to keep witing
+joven - young man - being late(geç) and young is very similar, you are late to existing if you are young
+nube - cloud - bullets that seem french come out of a cloud. you shoot the cloud with a bullet and then you loot it.
+nieva - snows - car covered in snow, it snows/rains so ya are going to be cold/wet
+kare - kare - carry is a very square person, both words end the same
+teléfonos móviles - mobile phones - cep looks a lot like cell, just the second l is curved and attached to the first l
+té - has - chai tea
+traductor - translator - chef hear many foreign words and becomes a translator
+muy - very - chicken peck very much
+expulsar - expel - chicks are being ejected from eggs
+tan bueno como - as good as - cud are something that goes again and again, like as something as
+de esto - from this - daniel boon got his power from this, being up at dawn
+soleado - sunny - day = gün, güneş = sun, -li = adjective suffix
+decir - tell - de people make words, they say stuff
+llamar - call - december(aralık) is the month where people call family.
+grave - grave - dee got a sex change, you accidently start to call her by her old name, jim, but then you correct yourself ji-dee and everyone acts like this is a seriosu offense
+ayer - yesterday - dün is just before the alphabet from gün
+interior - interior - each house has an inner
+pan - pan - ek, don't make bread
+vestido - dress - el busy woman wears a dress
+electricidad - electricity - electricity is electric
+divertirse - have fun - ellen likes to have fun
+fundir - meetings - erie makes you melt
+cónyuge - spouse - esh backwards is she, and a backwards she is a wife
+necesitar - need - et needs help because something is about to hit him, you quickly tell him he needs to dodge it "et ya..odge"
+episodio - episode - every episode starts with a balloon with an m on it
+sabah - sabah - every morning is a sabath
+me gusta - i like - everyone reluctantly likes themselves, be-en
+barato - cheap - ew, jews are so cheap
+el lo hizo - he did it - ey lady! i commanded you
+actuar - act - ey! lay! someone commands
+desconcertante - baffling - flying a kite when saying goodbye(gule gule) makes me anxious
+absolutamente - absolutely - foot locker for mute people is absolutely real and it is called mutlaka
+ejercicio - exercise - for the excercise, the eggs ear must be seized
+cuando esté terminado - when finished - from bitmek
+ganamos - we won - from kazanmak, if you win you get a new cousin
+yo no salí - i did not go out - from çıkmak chicks like to go out
+no pude salir - i could not get out - from çıkmak chicks like to go out, the difference between didn't and couldn't is that there is an extra vowel harmony in there, like you couldn't do it because there was too much extra to do
+ancho - broad - ganesh is the widest god
+descanso - break - garry sees that we need a rest 
+demás - the rest - garry will stay with you the rest of your life
+meter en - meters and - get here so we can spend time
+ser requerido - be required - get wrecked! this is what's required
+muy - very - guy ate very much food
+lástima - pity - has pain(acı) as its root, pain makes you sneeze
+desaparecido - missing - has the go, gitmek root
+error - error - hatters always point out mistakes
+todavía - yet - he is still out there hala ing
+pierna - leg - he is supposed to jump over a candlestick, but jack doesn't have any legs
+tomar medicina - take medicine - he latched the medicine
+contacto - contact - he let it seem like we were in contact / communication
+sueños - dreams - he uses his dream to rue his gorer
+carta - paper - here is the paper, kut it
+ruidoso - loud - high(yüksek) sound(ses)li
+su comida está lista para comer - your food is ready to eat - his food to eat is ready. how's (the) ear, is it ready?
+hm donde sea que vayamos ahora - hm wherever we go now - hm now to where if we go. if we get sick we should go somewhere.
+estoy muy listo para viajar de nuevo - i am very ready to travel again - how's your ear, are you ready? literally, again travel make very ready
+listo - ready - hows her, is she ready?
+evolución humana - human evolution - humans are insane, and every me exists because of evolution
+nervioso - nervous - i am nervous because the gears in my car are green
+estoy agradecido - i&#39;m thankful - i appreciate that the men they tarred him
+dedo - finger - i can make par with just one finger
+cobre - copper - i can tell from back here that you are a virgin, virgin are made of copper
+a mí mismo - to myself - i give me a candy to me, myself
+miré a los estantes - i looked at the shelves - i look over my shelves, all i have is knockoff ralph lauren stuff
+máquina - machine - i make machine that makes my key neigh
+correo - mail - i post that im gone dear and he see it
+deje - leave - i real(ly) will leave
+señal - sign - i should give them the signal to let them know i've seen ya'll
+si no lo soy - if i&#39;m not - i to be not if i, if i don't exist, i'll miss em
+deseo - desire - i wish they would delay the show
+a ver - let&#39;s see - i'm going to back a limb in this robot fight, so let's see here which limb should i back?
+oportunidad - chance - if it is a possibility, him can do it
+exacto - exactly - if kissing is likely you are absolutely thrilled
+sobre - on - if there is a hawk in da discussion, the discussion is about the hawk
+si hay - yes there are - if there is a varsity basketball team, i will play
+si - and - if there is no air we can not breath
+mejor - better - if you are in good, you are the best
+ahora - now - if you are that in the moment then it is right now
+soltero - single - if you have a bad car you are more likely to be single
+deseo lo mejor - i wish you the best - if you hire lisa it will be the best
+bolso - bag - if you push it, your bag will fall
+cálmate - take it easy - if you put a sock in you will be worked up less, you will calm down
+adán - adam - if you remove the m(boobs) from the front of a madam, it becomes a man
+probablemente - probably - if you try to mute a melon you will probably be successful
+pronunciación - pronunciation - if your pronunciation is bad, you tell a fuz(zy) statement
+el bebe cae al suelo - the baby falls to the ground - in a shower(düş), the water falls. the douche falls over.
+extranjero - foreign - in foreign lands they live in yurts and have dis in a yurt kitchen
+sobrino - nephew - in japan nephews and nieces are used as currency(yen)
+cuerpo - body - in the holocaust they would (view) the body of a (jew) and then sh(oot)
+hacer - do - in the zombie game when you kill something, you make it render the next level
+pandemia - pandemic - in turkey they are excited about the pandemic, so it is pretty much the same word, but with a yay at the end
+cabeza - head - in turkey, religious people cover their head
+salado - salty - in you twos, you love salt(tuz) + -lu(adjective ending)
+no encaja en - does not fit in - insides don't fit when you are really excited
+hacer - do - instead of doing stuff some people just yap about what they'll do
+dormir - to sleep - is is someone turns to sleep, so you tell them, "oy, you!"
+depende - depends - it depends on the baller, dear
+albergue - hostel - it is a cheap hotel, but it has a pan, see on the shelf
+calcetines - socks - it is a chore to wrap your foot so you just wear a sock
+yo espero - i expect - it is a slightly more satisfied om that i hope for
+malo - little - it is bad to cut you
+malo - little - it is bad to fain a person who is already cold, but sometimes it is good to fan a person
+nublado - cloudy - it is cloudy, but we can still loot lou
+frío - cold - it is cold because i am soaked
+columna - column - it is cool to have tattoos on your arm
+enojo de nuevo - anger again - it is exhausting(öf) to be at a loss for words. you get na(ked) again
+bien - well - it is good to be nice
+cerca - search for - it is good to keep ya kin near you
+todos lo aman - everyone loves it - it is hard to kiss everyone
+excluyendo - excluding - it is hard to reach someone if they think you are excluding them
+novio - boyfriend - it is just male + friend
+ambas cosas - both - it is literally, the two also
+esta es una mala noticia - this is bad news - it is news that someone ha(s) a bear
+el verano - summer - it is nice to write in the summer
+fuera de lo común - out of the ordinary - it is out of the ordinary that sarah dish washes
+ser cruel - be cruel - it is painful to pity someone (acımak), to be without pity is to be cruel
+ser requerido - be required - it is required that you go reck your life
+vulgar - vulgar - it is rude to your father to ca(ll) him ba instead of baba
+bicicleta - bicycle - it is similar to bicycle, but more busy and with a klet(kleet)
+tímido - shy - it is similar to embarrassed(utanmiş), but with a "go w(atch)" like you are encouraging a shy person to go watch something
+café - coffee - it is so similar
+peculiar - peculiar - it is strange when something does not have two halves
+debajo de la cama - under the bed - it is the bed possesses the underneath of the bed
+largo - length - it is too soon for you to be so tall so they get rid of your t. also same word as long.
+ser afectado - be affected - it killin me how impressive you are!
+parecer - seem - it seems like the un sees(görmek) everything
+aksan - aksan - it sounds like accent with an accent that gets rid of the final t
+terrible - terrible - it would be scary if pick up an apple and the core crunches in the middle of it
+interesante - interesting - it would be very interesting if it turned out the grinch was ill, ilginç
+costa - costa - it's co(ol) ya live on the coast
+donde esta el gran asiento - where is the big seat - it's cool, kol took the sofa
+estupendo - great - it's great when you find gold so you say "harika" (yurika!)
+te escucho con todos los oídos - i hear you with all ears - it's time for dinner lee, can you listen when i tell you
+ningún libro debe tirarse a la basura - no book should be thrown away - jo pay you for doing chores, like taking out the trash. i'll tell mam a little on you, that should not be thrown out
+malabares - juggling - jong lore looks really cool, like juggling
+hokkabaz - hokkabaz - juggling is hokey, but it is the latest buzz
+regular - regular - just like böyle yani, you tell someone what happened, a boy lay on ya knee
+baño - bath - just like in spanish
+usted dijo - you said - just the to say verb with the ending that makes it be in the what + verb format
+verduras - vegetables - just vegetables in subs, ye!
+perder - to lose - kaius bets on something and loses
+desconcertante - baffling - kaius is nervous about getting gills
+identificación - id - kim is an octopus, she licks things to identify them
+tengo que instalar - i have to install - kurmak, the cure is to install, establish and build things, then with a lıyım ending
+aprendiste - did you learn - learning consists of oral and written (or ret) stuff
+autobús - bus - like autobus
+satisfecho - satisfied - like in memnun odlum(pleased to meet you)
+listado - list - lists are canadian 'ey'
+me encantaría - i would love to - lit, this much i want
+mascota - mascot - literally domestic animal. house(ev) jail makes someone domestic. there are animals high in a van
+novia - bride - literally girl + friend
+sendero para caminar es genial - walking trail is great - literally walking way great, yürüyüş has same root of to walk, yürümek, but the ending switched to yüş bc it is describing something you use, yolu is from yol, you'll find your way
+un poco más tarde probablemente haga ejercicio jugando al tenis o trotando - a little later you will probably exercise playing tennis or jogging - literally, a little later probably tennis or running excersise i will do. when you run you share a rock with someone you are running with.
+en tus sueños - in your dreams - literally, dream plural your in, you say "hi all" to all the dream characters
+fue aclarado - was cleared - literally, evident was making. the bell ear gain(geen) attention, and makes itself evident. when you kill someone you make/render them into being a zombie.
+estás bien - you are well - literally, fine you are
+girar a la derecha en la primera rotonda - turn right at the first roundabout - literally, first crossroads/roundabout right turn. it shocks a ton of people that they sell kava(kav shock ton) in the crossroads/roundabout.&nbsp;
+tu pez tiene nombre - your fish has a name - literally, fish a name exist?
+ayudar - to help - literally, help you make
+recordé otro drama que amaba - i remembered another drama that i loved - literally, i like another series i remembered
+de inglés - of english - literally, inglish your from
+bien tu - well you - literally, it is good, from you
+suena como - sounds like - literally, like comes, when something similar comes to mind, it sounds like this
+el momento más vergonzoso es un secreto - the most embarrassing moment is a secret - literally, most embarrassing memory a secret. you tan (you) dare a g.(i. joe). i need lots of memories. in the military every things is a secret, sir!
+mi turco no es tan bueno como parece - my turk is not as good as it seems - literally, my turkish seems as good as not
+mi turco es mejor de lo que parece - my turkish is better than it looks - literally, my turkish than it seems more good
+cual es la proxima parada - what is the next stop - literally, next stop what is
+lo que dije - what i said - literally, say past what me definite
+estaré disponible para hacer una llamada pronto - i will be available to make a call soon - literally, soon a call make for available i will be. when a moose eyes it, the other moose's knows it's available.
+la tienda cierra después de las seis en punto - the store closes after six o&#39;clock - literally, store hour from six after closes. when there is a cop near, the store closes.
+para esto - for this - literally, this for
+mentirle es lo peor - lying to him is the worst - literally, to her lie say the worst. i didn't lie, l wasn't on ya lawn.
+hasta ahora todo bien - so far, so good - literally, to now until
+eso suena mejor - that sounds better - literally, to the ear more good it comes
+desafortunadamente - unfortunately - literally, what pity that. it is a pity that ya zick because it's worse than being sick.
+de dónde eres - where are you from - literally, what place from are you
+algo terrible dijiste - something terrible did you say - literally, what you said terrible thing
+delicioso - delicious - liz eats lee and says he is delicious
+disculpa - excuses - losers don't give appologıes, özürs do
+famoso - famous - lou can't undo being famous
+aventuras - adventures - ma jeer(s) a(t) my advenures
+hijo - son - male child er.. keks are usually male, you have a lot of children in your house, ev
+en la mesa - in the table - masa is similar to mesa. who's toon day is it? look on the cartoon schedule table to find out
+fruta - fruit - maybe fruit is not so good for you
+mide - measure - me day has been ruined by a stomach ache
+posible ir - possible to go - me not going is possible. all i said is that it's possible.
+arquitectura - architecture - mimar is architect, means are make by architects, and when architects like architecture
+casado - married - mixed up evil(evli) people get married, it has that 'li' adjective ending
+posible - possible - mom might marry me kuna and they might change their middle letters to ü
+músico - musician - moo zee syen
+sin impureza - without impurity - moon (in the dar)k it didn't be rendered useless
+cocina - kitchen - mute people are so quiet they can fuck in the kitchen, normal consonant substitution witht he k to ğ
+ingeniero - engineer - my hand is tied, i have to be an engineer
+fácil - easy - my job is easy, it's cool i just lie here
+déjame ver a mi amado más de cerca - let me see my beloved more closely - my love final a time close let me see
+que has pasado - what have you been through - my time of get(ting mar)tinis has passed
+mi turco se ve mejor de lo que es - my turk looks better than it is - my turkish since more good it seems
+es difícil controlarte a ti mismo - it&#39;s hard to control yourself - myself is candy, they judge someone and then they hawk him out
+de todas formas - anyway - nay sayers will think of problems anyways
+de todos modos déjame decir al menos - anyway let me say at least - ney sayers will find problems anyways, barry obama wants to at least say one thing..
 para hacer - to make - no hint
 ahi - over there - no hint
 para mis hijos - for my children - no hint
@@ -1179,7 +1181,7 @@ comida - meal - no hint
 van a esquiar todos los inviernos - they go skiing every winter - no hint
 no hay mucho que hacer mañana - not much to do tomorrow - no hint
 mucho - a lot - no hint
-su - it's - no hint
+su - its - no hint
 no - no - no hint
 humano - human - no hint
 en - in - no hint
@@ -1193,7 +1195,7 @@ antes del mediodia - before noon - no hint
 cuando - when - no hint
 de esa manera - that way - no hint
 la caja de estos es roja - the box of these is red - no hint
-esta muy oscura esta noche - it39s very dark tonight - no hint
+esta muy oscura esta noche - it&#39;s very dark tonight - no hint
 podría ser cualquier chica - could be any girl - no hint
 uno - one - no hint
 por qué es este regalo mamá y papá - why is this gift mom and dad - no hint
@@ -1207,7 +1209,7 @@ el problema es no dar dinero - the problem is not giving money - no hint
 salgan - come out - no hint
 cenamos en la cocina - we had dinner in the kitchen - no hint
 cada invierno - every winter - no hint
-cuál es tu nombre - what39s your name - no hint
+cuál es tu nombre - what&#39;s your name - no hint
 nuestras costumbres son extraordinarias - our customs are extraordinary - no hint
 muy - very - no hint
 este regalo - this gift - no hint
@@ -1215,7 +1217,7 @@ más hermosa - more beautiful - no hint
 nosotros - we - no hint
 este suéter es de tamaño pequeño - this sweater is small size - no hint
 su hija - his daughter - no hint
-autocontrol - selfcontrol - no hint
+autocontrol - self/control - no hint
 encima - above - no hint
 un nuevo reloj - a new watch - no hint
 dentro - inside - no hint
@@ -1234,9 +1236,9 @@ dentro de la casa - inside the house - no hint
 iré allí ahora - i will go there now - no hint
 no es bueno repetir todo lo que escuchas - it is not good to repeat everything you hear - no hint
 repite todo lo que escuchas - repeat everything you hear - no hint
-hace calor afuera hoy - it39s hot outside today - no hint
+hace calor afuera hoy - it&#39;s hot outside today - no hint
 hacer - do - no hint
-no uses esa computadora - don39t use that computer - no hint
+no uses esa computadora - don&#39;t use that computer - no hint
 estamos comiendo en la cocina - we are eating in the kitchen - no hint
 a ella le encanta - she loves it - no hint
 prueba cosas - try things - no hint
@@ -1251,7 +1253,7 @@ tu nombre - your name - no hint
 ellos - they - no hint
 ntro - our - no hint
 yo solo - only me - no hint
-su - it's - no hint
+su - its - no hint
 bailando conmigo - dancing with me - no hint
 ben - ben - no hint
 gato debajo de la cama - cat under the bed - no hint
@@ -1262,12 +1264,12 @@ posible - possible - no hint
 seis - six - no hint
 hora - hour - no hint
 hacer - do - no hint
-su - it's - no hint
+su - its - no hint
 si se han ido déjame ir también - if they are gone let me go too - no hint
-si no vuelven - if they don39t come back - no hint
+si no vuelven - if they don&#39;t come back - no hint
 el mas vergonzoso - the most embarrassing - no hint
 solo una noche - just one night - no hint
-serias mas feliz si no lo fuera - you would be happier if it weren39t - no hint
+serias mas feliz si no lo fuera - you would be happier if it weren&#39;t - no hint
 mi primer dia - my first day - no hint
 el perro corre dentro de la casa - the dog runs inside the house - no hint
 estás - these - no hint
@@ -1279,10 +1281,10 @@ hoy - today - no hint
 estará soleado hoy - it will be sunny today - no hint
 después de la cena - after dinner - no hint
 el equipo esta jugando bien - the team is playing well - no hint
-nos vamos ahora - we39re leaving now - no hint
-nos vamos ahora - we39re leaving now - no hint
+nos vamos ahora - we&#39;re leaving now - no hint
+nos vamos ahora - we&#39;re leaving now - no hint
 intra - get in - no hint
-su - it's - no hint
+su - its - no hint
 hacer los deberes - do homework - no hint
 hasta la mañana - until the morning - no hint
 tengo tiempo hasta la mañana - i have time until the morning - no hint
@@ -1299,8 +1301,8 @@ adquisitivo - purchasing - no hint
 intentando ayer hoy se olvidan las cosas - trying yesterday today forget things - no hint
 salir de noche no es bueno - going out at night is not good - no hint
 ver - watch - no hint
-solo soy un pobre - i39m just poor - no hint
-su - it's - no hint
+solo soy un pobre - i&#39;m just poor - no hint
+su - its - no hint
 lunes - monday - no hint
 ahora - now - no hint
 te gustaría bailar conmigo - would you like to dance with me - no hint
@@ -1323,16 +1325,16 @@ tal vez llueva - maybe it will rain - no hint
 hasta - until - no hint
 cuando vendras aqui - when you coming here - no hint
 malo - little - no hint
-me gusta el chocolate pero no me gusta el pastel - i like chocolate but i don39t like cake - no hint
+me gusta el chocolate pero no me gusta el pastel - i like chocolate but i don&#39;t like cake - no hint
 su teléfono de nuevo - your phone again - no hint
 el próximo año - next year - no hint
 hoy tambien - also today - no hint
-siempre cocina a las cinco en punto - always cooks at five o39clock - no hint
+siempre cocina a las cinco en punto - always cooks at five o&#39;clock - no hint
 trabajar - to work - no hint
 no puedo entender nada - i can not understand anything - no hint
 viniendo a la oficina - coming to the office - no hint
 tengo - have - no hint
-a veces no puedo entenderte en absoluto - sometimes i can39t understand you at all - no hint
+a veces no puedo entenderte en absoluto - sometimes i can&#39;t understand you at all - no hint
 realmente existe - really exist - no hint
 bebo café todas las mañanas - i drink coffee every morning - no hint
 yendo a la tienda - going to the store - no hint
@@ -1364,7 +1366,7 @@ ellos quieren desayuno - they want breakfast - no hint
 no azul - not blue - no hint
 a veces tomar medicamentos es peligroso - sometimes taking medicine is dangerous - no hint
 yendo a la tienda - going to the store - no hint
-no tienes un buen auto - you don39t have a good car - no hint
+no tienes un buen auto - you don&#39;t have a good car - no hint
 saber - to know - no hint
 no lo sé - i do not know - no hint
 disfruta del tenis - enjoy tennis - no hint
@@ -1390,7 +1392,7 @@ sería mejor - it would be better - no hint
 yo bebo café - i drink coffe - no hint
 das - the - no hint
 vamos - come on - no hint
-no los conozco - i don39t know them - no hint
+no los conozco - i don&#39;t know them - no hint
 quieres - want - no hint
 muy - very - no hint
 con crema - with cream - no hint
@@ -1445,7 +1447,7 @@ esto y aquello - this and that - no hint
 eh - eh - no hint
 como ir - how to go - no hint
 tal vez llueva - maybe it will rain - no hint
-pero no me gusta el pastel - but i don39t like cake - no hint
+pero no me gusta el pastel - but i don&#39;t like cake - no hint
 hm ahora - hm now - no hint
 comí demasiado - i ate too much - no hint
 dónde - where - no hint
@@ -1455,7 +1457,7 @@ cuando tomar - when to drink - no hint
 solo - only - no hint
 si te vas yo también iré - if you go i will go too - no hint
 cuánto comiste - how much did you eat - no hint
-cuando esta soleado - when it39s sunny - no hint
+cuando esta soleado - when it&#39;s sunny - no hint
 de quien escuchaste esto - who did you hear this from - no hint
 porqué - because - no hint
 que libro leíste - what book did you read - no hint
@@ -1585,7 +1587,7 @@ madre - mother - no hint
 abierto - open - no hint
 cuyo - whose - no hint
 muestra - sample - no hint
-su - it's - no hint
+su - its - no hint
 sueño - dream - no hint
 pies - feet - no hint
 tipo - kind - no hint
@@ -1828,7 +1830,7 @@ a - a - no hint
 organo - organ - no hint
 roca - stone - no hint
 su numero - on number - no hint
-su - it's - no hint
+su - its - no hint
 trepar - screw - no hint
 sopa - soup - no hint
 bebé - baby - no hint
@@ -1901,7 +1903,7 @@ molécula - molecule - no hint
 persona - person - no hint
 para - for - no hint
 aparece - appear - no hint
-sal - salt - no hint
+sal - shall - no hint
 enojo - anger - no hint
 noticias - news - no hint
 alegación - allegation - no hint
@@ -1953,7 +1955,7 @@ mapa - map - no hint
 administración - management - no hint
 plural - plural - no hint
 continente - continent - no hint
-además - what39s more - no hint
+además - what&#39;s more - no hint
 el verano - summer - no hint
 probar - taste - no hint
 pierna - leg - no hint
@@ -1994,7 +1996,7 @@ plan - plan - no hint
 estrella - star - no hint
 tiene miedo - he is afraid - no hint
 talentoso - talented - no hint
-se acabó - it39s over - no hint
+se acabó - it&#39;s over - no hint
 conductor - conductor - no hint
 usted - you - no hint
 enseñar - to teach - no hint
@@ -2003,7 +2005,7 @@ verde - green - no hint
 libre - free - no hint
 detrás - behind - no hint
 espacio - space - no hint
-seguir - follow continue - no hint
+seguir - follow, continue - no hint
 cuadra - block - no hint
 momento - moment - no hint
 evento - event - no hint
@@ -2259,7 +2261,7 @@ es esta tu primera vez que vienes a nosotros - is this your first time you come 
 lo siento - sorry - no hint
 qué tal - how are you - no hint
 usted es tan guapo - you are so handsome - no hint
-me lo estoy pasando genial - i39m having a great time - no hint
+me lo estoy pasando genial - i&#39;m having a great time - no hint
 perdió sus llaves - lost his keys - no hint
 aquí está mi información de contacto - here is my contact information - no hint
 que es eso - what is that - no hint
@@ -2268,7 +2270,7 @@ te lo merecías - you deserved it - no hint
 qué estás haciendo aquí - what are you doing here - no hint
 ten cuidado - beware - no hint
 estoy cien por ciento seguro - i am one hundred percent sure - no hint
-soy tímido - i39m shy - no hint
+soy tímido - i&#39;m shy - no hint
 estaba muy avergonzado - i was very embarrassed - no hint
 carne - meat - no hint
 dólar - dollar - no hint
@@ -2285,10 +2287,10 @@ el agua está demasiado fría - the water is too cold - no hint
 tarda entre tres y cinco días laborables - takes three to five business days - no hint
 puedo obtener una explicación por favor - can i get an explanation please - no hint
 esta cuenta tiene una tarifa anual - this account has an annual fee - no hint
-va a nevar el viernes - it39s going to snow on friday - no hint
+va a nevar el viernes - it&#39;s going to snow on friday - no hint
 mañana estará soleado y lluvioso - tomorrow will be sunny and rainy - no hint
 cómo estuvo tu día - how was your day - no hint
-que hay para cenar - what39s for dinner - no hint
+que hay para cenar - what&#39;s for dinner - no hint
 por favor perdóname - please forgive me - no hint
 tarjeta de memoria - memory card - no hint
 hola - hello - no hint
@@ -2317,23 +2319,23 @@ motor - motor - no hint
 estar aquí antes del mediodía - be here before noon - no hint
 lo siento por su pérdida - sorry for your loss - no hint
 puedo traerte algo de beber - can i get you something to drink - no hint
-no deberías haberlo hecho - you shouldn39t have - no hint
+no deberías haberlo hecho - you shouldn&#39;t have - no hint
 me siento enfermo - i feel sick - no hint
 a donde quieres ir - where do you want to go - no hint
 te lo dejo a tí - i leave it to you - no hint
 te ha gustado - did you like it - no hint
-estoy buscando este lugar - i39m looking for this place - no hint
+estoy buscando este lugar - i&#39;m looking for this place - no hint
 quiero retirar dinero - i want to withdraw money - no hint
 regresa - came back - no hint
 tengo tos - i have a cough - no hint
 ya levantado - already up - no hint
 como dos semanas - like two weeks - no hint
 me quedaré en el hotel central - i will stay at the central hotel - no hint
-hace calor en los veranos - it39s hot in the summers - no hint
+hace calor en los veranos - it&#39;s hot in the summers - no hint
 se acerca una tormenta - a storm is coming - no hint
 cuál es tu número de teléfono - what is your phone number - no hint
 sentirse como en casa - feel like home - no hint
-es difícil - it39s hard - no hint
+es difícil - it&#39;s hard - no hint
 hubo un accidente automovilístico - there was a car accident - no hint
 puedo tener un recibo por favor - can i have a receipt please - no hint
 gracias a todos - thanks to all - no hint
@@ -2342,7 +2344,7 @@ general - general - no hint
 circulo - circle - no hint
 en - in - no hint
 sintió - he felt - no hint
-escucho - i39m listening - no hint
+escucho - i&#39;m listening - no hint
 qué haces en tu tiempo libre - what do you do in your free time - no hint
 felicitaciones - congratulations - no hint
 bienvenido - welcome - no hint
@@ -2354,7 +2356,7 @@ quiero abrir una cuenta - i want to open an account - no hint
 duele - hurts - no hint
 hay algún problema - is there a problem - no hint
 estoy aquí para una visita familiar - i am here for a family visit - no hint
-estoy aqui por trabajo - i39m here for work - no hint
+estoy aqui por trabajo - i&#39;m here for work - no hint
 habrá fuertes lluvias por la noche - there will be heavy rain at night - no hint
 lloverá por la tarde - it will rain in the afternoon - no hint
 llovió todo el día - it rained all day - no hint
@@ -2398,16 +2400,16 @@ a donde fuiste hoy - where you went today - no hint
 qué vas a hacer mañana - what are you going to do tomorrow - no hint
 no te preocupes - do not worry - no hint
 buenas noches - good evening - no hint
-estoy bien - i39m good - no hint
+estoy bien - i&#39;m good - no hint
 elegir - to choose - no hint
 años - years - no hint
 y - and - no hint
 talla - size - no hint
 establecerse - settle - no hint
 par - by - no hint
-vamos en veinte minutos - let39s go in twenty minutes - no hint
+vamos en veinte minutos - let&#39;s go in twenty minutes - no hint
 podemos irnos como seis - we can go like six - no hint
-son las tres en punto - it39s three o39clock - no hint
+son las tres en punto - it&#39;s three o&#39;clock - no hint
 no tengo dinero - i do not have money - no hint
 alo - alo - no hint
 encantado de conocerte - pleased to meet you - no hint
@@ -2458,7 +2460,7 @@ me pregunto si tienes reserva - i wonder if you have a reservation - no hint
 me pregunto cuantas personas - i wonder how many people - no hint
 que día es hoy - what day is today - no hint
 nos vamos a encontrar con alguien - we are going to meet someone - no hint
-cómo eran ellos - what we're they like - no hint
+cómo eran ellos - what were they like - no hint
 puedo hacer una llamada - can i make a call - no hint
 llámame si necesitas algo - call me if you need anything - no hint
 necesitas algo - you need something - no hint
@@ -2475,7 +2477,7 @@ tomaré este - i will take this - no hint
 por favor siéntate - please sit down - no hint
 lo mismo para mi - the same for me - no hint
 cuanto se necesita - how much is needed - no hint
-es asi - it39s like that - no hint
+es asi - it&#39;s like that - no hint
 que tipo de comida es esta - what kind of food is this - no hint
 sabes dónde está este lugar - do you know where this place is - no hint
 está abierta la piscina hoy - the pool is open today - no hint
@@ -2492,12 +2494,12 @@ te gusta el fútbol - do you like football - no hint
 por favor escribe - please write - no hint
 por favor espere un minuto - please wait a minute - no hint
 para aquí por favor - stop here please - no hint
-no puedo conectarme a internet - i can39t connect to the internet - no hint
+no puedo conectarme a internet - i can&#39;t connect to the internet - no hint
 a donde quieres ir - where do you want to go - no hint
 espera un minuto por favor - wait a minute please - no hint
 lo intentaré de nuevo más tarde - will try again later - no hint
 casi llegamos - we almost arrive - no hint
-parece que no quiero ir - i don39t seem to want to go - no hint
+parece que no quiero ir - i don&#39;t seem to want to go - no hint
 muy triste - very sad - no hint
 duele - hurts - no hint
 puedo sentarme aquí - i can sit here - no hint
@@ -2509,341 +2511,341 @@ definitivamente no es gracioso - definitely not funny - no hint
 me siento tan triste cuando pienso en el - i feel so sad when i think of him - no hint
 no me siento bien - i do not feel well - no hint
 se - i know - no hint
-estoy preocupado - i39m worried - no hint
-estoy de mal humor - i39m in a bad mood - no hint
-estoy realmente nervioso - i39m really nervous - no hint
+estoy preocupado - i&#39;m worried - no hint
+estoy de mal humor - i&#39;m in a bad mood - no hint
+estoy realmente nervioso - i&#39;m really nervous - no hint
 déjame en paz - leave me alone - no hint
 a usted no le incumbe - it is not your concern - no hint
-bueno en realidad no lo sé tan bien - well i don39t really know that well - no hint
-no tienes coche - you don39t have a car - no hint
-para mamá y papá - for mom and dad - no hint
-esto y aquello por favor - this and that please - no hint
-los - the - no hint
-parecer - seem - no hint
-año - year - no hint
-sí - yes - no hint
-no toques el mal de ojo - don39t touch the evil eye - no hint
-yo no digo - i do not say - no hint
-tengo que darme una ducha rápida ahora - i have to take a quick shower now - no hint
-el único - the only - no hint
-crear - create - no hint
-tener miedo de - to be afraid of - no hint
-quien lo entiende - who understands - no hint
-estoy asustado - i am scared - no hint
-considerable - considerable - no hint
-dormir - to sleep - no hint
-tipo - kind - no hint
-ducha - shower - no hint
-no podemos ir sin pagar esto - we can39t go without paying this - no hint
-avión - airplane - no hint
-lejos - far - no hint
-acuerdo - agreement - no hint
-temprano - early - no hint
-jugador - player - no hint
-el sultán lo hizo - the sultan did - no hint
-costoso - expensive - no hint
-dolorido - sore - no hint
-sal - shall - no hint
-de dónde eres - where are you from - no hint
-fue difícil pero lo logramos - it was difficult but we made it - no hint
-ser despiadado es una elección - being ruthless is a choice - no hint
-toco la guitarra - i play the guitar - no hint
-por favor ven antes del mediodía - please come before noon - no hint
-en internet - in internet - no hint
-televisión - tv - no hint
-taxi - taxi - no hint
-tren - train - no hint
-tu foto - your photo - no hint
-caramelo - candy - no hint
-programador - programmer - no hint
-zamir - zamir - no hint
-excepto - except - no hint
-sí - yes - no hint
-ruso - russian - no hint
-vendedor - seller - no hint
-algunos - some - no hint
-mi discurso - my speech - no hint
-la mayoría de - most of - no hint
-lindo - pretty - no hint
-sediento - thirsty - no hint
-artista - artist - no hint
-capital - capital - no hint
-en américa durante muchos años pero antes de que escocia daben - in america for many years but before scotland daben - no hint
-muchacha - girl - no hint
-zapato - shoe - no hint
-generelikle - generelikle - no hint
-cálido - warm - no hint
-laboral - labor - no hint
-comida - meal - no hint
-promesa - promise - no hint
-llave - key - no hint
-tabaco - tobacco - no hint
-bolso - bag - no hint
-pobre - poor - no hint
-falso - fake - no hint
-no te rindas - do not give up - no hint
-falso - fake - no hint
-gerente - manager - no hint
-cansado - tired - no hint
-relajante - relaxing - no hint
-psicológico - psychological - no hint
-me tragué la pastilla ahora - i swallowed the pill now - no hint
-industria - industry - no hint
-tranquilo - calm - no hint
-trabajar - to work - no hint
-único - unique - no hint
-limpio - cleansed - no hint
-en - in - no hint
-consejo - tip - no hint
-porque mis ojos estan rotos - because my eyes are broken - no hint
-lino - linen - no hint
-no puedo ir a ningún lado sin explicar eso - i can39t go anywhere without explaining that - no hint
-usar - to use - no hint
-prepara el cordero sin derramarlo - prepare the lamb without spilling it - no hint
-carne de cordero - mutton - no hint
-mitad - half - no hint
-se encuentra - it39s found - no hint
-gratis - free - no hint
-no importa - no matter - no hint
-auto - auto - no hint
-pollo - chicken - no hint
-el cliente viene a la oficina - the client comes to the office - no hint
-cómico - funny - no hint
-computadora - computer - no hint
-cocinero - cook - no hint
-pequeño - little - no hint
-todavía - yet - no hint
-establecer - set up - no hint
-la evolución humana continúa durante miles de años - human evolution continues for thousands of years - no hint
-no podría decir - i could not say - no hint
-emperador - emperor - no hint
-copa - cup - no hint
-el pez - the fish - no hint
-ropa - clothing - no hint
-débil - weak - no hint
-vaya - wow - no hint
-pecho - chest - no hint
-sol - sun - no hint
-hermosa - beautifull - no hint
-dinámico - dynamic - no hint
-industria - industry - no hint
-minuto - minute - no hint
-triste - sad - no hint
-recordar - remind - no hint
-motivo - reason - no hint
-recuerdas - remember - no hint
-ya - yes - no hint
-pero - but - no hint
-siguiente - following - no hint
-enfermera - nurse - no hint
-pantalones - pants - no hint
-brillante - shiny - no hint
-ventoso - windy - no hint
-presidente - president - no hint
-claro - sure - no hint
-cerveza - beer - no hint
-tienda - shop - no hint
-en el examen - in the exam - no hint
-tienda - shop - no hint
-tarjeta de crédito - credit card - no hint
-profesor - teacher - no hint
-postre - dessert - no hint
-todos - everybody - no hint
-hambre - hungry - no hint
-bueno en realidad - well actually - no hint
-la noche - the night - no hint
-acerca de - about - no hint
-lado asiático - asian side - no hint
-me pueden dar una manta - may i have a blanket - no hint
-sofá - couch - no hint
-niño - kid - no hint
-diferencia - difference - no hint
-libro - book - no hint
-necesito - needed - no hint
-viejo - old - no hint
-alto - high - no hint
-húmedo - damp - no hint
-esta zona es peligrosa - this area is dangerous - no hint
-la tarea del estudiante es hacer la tarea - the student39s homework is to do homework - no hint
-debe - has to - no hint
-estoy ocupado esta semana - i am busy this week - no hint
-entre - come in - no hint
-valor - value - no hint
-quemaremos si no vuelven - we will burn if they don39t come back - no hint
-mia - my - no hint
-bajo - under - no hint
-extranjero - foreign - no hint
-si se han ido - if they have gone - no hint
-hoy - today - no hint
-fórmula - formula - no hint
-pegar - take - no hint
-comparación - comparison - no hint
-rico - rico - no hint
-técnico - technical - no hint
-ser - to be - no hint
-eficiente - efficient - no hint
-comer mañana - eat tomorrow - no hint
-es posible venir mañana - it is possible to come tomorrow - no hint
-pueblo - town - no hint
-nuestras costumbres - our customs - no hint
-dejarlo - leave it - no hint
-motocicleta - motorcycle - no hint
-chaqueta - jacket - no hint
-helicóptero - helicopter - no hint
-doctor - doctor - no hint
-hotel - hotel - no hint
-quieres - want - no hint
-quemadura - burn - no hint
-un - a - no hint
-tú - your - no hint
-donde estabas cuando huimos - where we're you when we ran away - no hint
-atmósfera - atmosphere - no hint
-viva - alive - no hint
-divertido - funny - no hint
-cuando volverá - when will he return - no hint
-oír - hear - no hint
-uf se escapó de nuevo - ugh he ran away again - no hint
-creo que es bueno llorando - i think it39s good crying - no hint
-fresco - fresh - no hint
-corriendo - in a hurry - no hint
-cerca del oceano - looking for the ocean - no hint
-permiso - excuse me - no hint
-único - unique - no hint
-adulto - adult - no hint
-por supuesto - of course - no hint
-que - that - no hint
-denso - dense - no hint
-ingresar - enterokay - no hint
-explicar - explain - no hint
-motivar - to motivate - no hint
-asar - asar - no hint
-niño - kid - no hint
-blusa - shirt - no hint
-derecho - right - no hint
-derecho - right - no hint
-mientras corríamos - while we ran - no hint
-a quien le importa - who cares - no hint
-percibir - perceive - no hint
-mi oportunidad - my opportunity - no hint
-imposible - impossible - no hint
-sitio - site - no hint
-captura - capture - no hint
-expresión común - common expression - no hint
-lluvia - rain - no hint
-lluvioso - rainy - no hint
-nuevo - new - no hint
-asi que - so - no hint
-respuesta - answer - no hint
-cama - bed - no hint
-suficiente - enough - no hint
-talento - talent - no hint
-verduras - vegetables - no hint
-es la ciudad mas bella del mundo - it is the most beautiful city in the world - no hint
-medianoche - midnight - no hint
-tedioso - tedious - no hint
-tienes razón - you are right - no hint
-tienes tanta razón hablar es la mejor manera de aprender - you are so right talking is the best way to learn - no hint
-entusiasmado - enthusiastic - no hint
-estas durmiendo - are you sleeping - no hint
-estoy muy emocionado - i am very excited - no hint
-sin - without - no hint
-contento - happy - no hint
-emocionante - exciting - no hint
-a menudo - often - no hint
-has terminado - you have finished - no hint
-tomó - i take - no hint
-estaba tan sorprendido - i was so surprised - no hint
-viaje - travel - no hint
-como eso - how that - no hint
-pedir - ask for - no hint
-qué pasa - what39s the matter - no hint
-otro - other - no hint
-me duele la cabeza - i have a headache - no hint
-bebé - baby - no hint
-recibir - to receive - no hint
-llamar - call - no hint
-puede volver a llamarte más tarde - can call you back later - no hint
-sabor de - taste of - no hint
-edad - age - no hint
-feo - ugly - no hint
-venir - come - no hint
-cumplido - compliment - no hint
-avergonzado - ashamed - no hint
-sucio - dirty - no hint
-merecer - to deserve - no hint
-kar - kar - no hint
-ver - watch - no hint
-adelante - ahead - no hint
-dolor - pain - no hint
-disfruta siendo disfruta divirtiéndote - enjoy being enjoy having fun - no hint
-encontrar - meet - no hint
-enchufe - plug - no hint
-información - information - no hint
-vamos - come on - no hint
-quiero solicitar unas vacaciones de una semana en junio - i want to request a one week vacation in june - no hint
-término - finished - no hint
-semana - week - no hint
-que mal tiempo - what a bad weather - no hint
-cuidado - watch out - no hint
-segundos - seconds - no hint
-sentir - to feel - no hint
-difícil - hard - no hint
-vender - to sell - no hint
-pequeño - little - no hint
-cosa - thing - no hint
-su hija - his daughter - no hint
-dejar - let - no hint
-camisa - shirt - no hint
-mira - sight - no hint
-pero de esto - but from this - no hint
-decisión - decision - no hint
-ummak - ummak - no hint
-medio - half - no hint
-planificar - to plan - no hint
-pongo - i put - no hint
-champú - shampoo - no hint
-los niños se hacen amigos de inmediato - the children become friends immediately - no hint
-repugnante - disgusting - no hint
-oscuro - dark - no hint
-momento - moment - no hint
-momento - moment - no hint
-sueño - dream - no hint
-insatisfecho - dissatisfied - no hint
-decir - tell - no hint
-tratar - deal - no hint
-tengo - have - no hint
-caliente - hot - no hint
-tirar a la basura - throw away - no hint
-vino - wine - no hint
-accidente - accident - no hint
-bote - world - no hint
-en el show - at the show - no hint
-mostrar alrededor - show around - no hint
-espectáculo - show - no hint
-adjetivo - adjective - no hint
-por favor firme aquí - sign here please - no hint
-encima - above - no hint
-su - it's - no hint
-sugerir - suggest - no hint
-recibir - to receive - no hint
-larga historia - long story - no hint
-decir - tell - no hint
-amigo - friend - no hint
-pensar - to think - no hint
-caminar - to walk - no hint
-cuando abre - when do you open - no hint
-que serie estabas viendo - what series we're you watching - no hint
-espalda - back - no hint
-trabajar - to work - no hint
-ritmo - rhythm - no hint
-largo - length - no hint
-año - year - no hint
-mañana - morning - no hint
-tan bueno como tu - as good as you - no hint
-muchacha - girl - no hint
-ganar - win - no hint
-pie - pie - no hint
-calendario - calendar - no hint
-una parte de mi corazon - a part of my heart - no hint
-los mejores deseos - best wishes - no hint
-difícil - hard - no hint
+bueno en realidad no lo sé tan bien - well i don&#39;t really know that well - no hint<br>
+no tienes coche - you don&#39;t have a car - no hint<br>
+para mamá y papá - for mom and dad - no hint<br>
+esto y aquello por favor - this and that please - no hint<br>
+los - the - no hint<br>
+parecer - seem - no hint<br>
+año - year - no hint<br>
+sí - yes - no hint<br>
+no toques el mal de ojo - don&#39;t touch the evil eye - noah's ark must have had evil eye on it
+yo no digo - i do not say - normal rules, from söylemek
+tengo que darme una ducha rápida ahora - i have to take a quick shower now - now fast a shower take required
+el único - the only - o the lawn is amazing, this house is the one!
+crear - create - oh (this is) a lush tour, who created it?
+tener miedo de - to be afraid of - oh do scare me!
+quien lo entiende - who understands - oh no! (what's) on lion? who understands it?
+estoy asustado - i am scared - oh, doom is my dread
+considerable - considerable - oh, humid(nemli) weather is very important for some plants
+dormir - to sleep - once the enemy is asleep, you call your partner over to do the coup, "oy, coup"
+tipo - kind - one kind nazi eeked thru
+ducha - shower - only a douche doesnt shower
+no podemos ir sin pagar esto - we can&#39;t go without paying this - oo day mi(nes) done, i had to pay for something! literally this without paying we can't go
+avión - airplane - oo! they give us chalk on the airplane
+lejos - far - oo, zach is so far away
+acuerdo - agreement - oooo rash, deal with and struggle with thay
+temprano - early - our ken is always early
+jugador - player - oy! un jew is the best actor in the world!
+el sultán lo hizo - the sultan did - pa dish a the sultan, so, he commanded
+costoso - expensive - pa hallers because something is so expensive
+dolorido - sore - painful things are a le(sson)
+sal - shall - people in their twos like salt
+de dónde eres - where are you from - people with your nationality are nearly ever seen around here
+fue difícil pero lo logramos - it was difficult but we made it - pirates say that to achieve and overcome they must bash, ar!!
+ser despiadado es una elección - being ruthless is a choice - pityless to be a choice, tearjerker movies often inclıde a big choice
+toco la guitarra - i play the guitar - playing an instrument is work, but less complicated, çalmak
+por favor ven antes del mediodía - please come before noon - please noon before come, oh lay down, it is noon
+en internet - in internet - pretty much the same
+televisión - tv - pretty much the same
+taxi - taxi - pretty much the same
+tren - train - pretty much the same
+tu foto - your photo - pretty much the same with the ending
+caramelo - candy - pretty similar, but sugar is in a shaker
+programador - programmer - pretty similar, but with a 'cı' ending
+zamir - zamir - pronouns are za mirror to everything
+excepto - except - put the dish in the sink, except for this one, leave it outside
+sí - yes - really? is pretty much the same as in english, but since it isn't used as 'yes' slang, it also gets reused as a meaningless filler for the other words like well.. and ohh...
+ruso - russian - russian tea ya drink while speaking russian
+vendedor - seller - salespeople think sad is alamony because then people can't buy things
+algunos - some - same root as basen(sometimes)
+mi discurso - my speech - same root as speak, and your mommy is going to hear it because it is
+la mayoría de - most of - same root as çok
+lindo - pretty - same root of sevmek, to like/love. "eemly" is adjective sounding
+sediento - thirsty - sammy sosa misses the ball because he is so thirsty
+artista - artist - sanatra was a great performer
+capital - capital - sars (is) mine, yay! 
+en américa durante muchos años pero antes de que escocia daben - in america for many years but before scotland daben - scottish is coach, ya?
+muchacha - girl - she is your daughter 'cuz she is so little
+zapato - shoe - shoe cover
+generelikle - generelikle - similar to generally
+cálido - warm - similar to hot(sıcak), but with an extra 'ca' in the middle
+laboral - labor - similar to work
+comida - meal - similar to yemek, but with a jek ending like you eject food from a plane
+promesa - promise - so's this what your statement is?
+llave - key - someone asks you if this key is yours and you say "uh.. not our key"
+tabaco - tobacco - someone fastens a plate to your back
+bolso - bag - someone is carrying around a chanter in a bag
+pobre - poor - someone is so poor they let someone fuck (their) ear
+falso - fake - someone is telling you something that is wrong and so yawn(ing feels de)lic(ious) to show them you know they are wrong
+no te rindas - do not give up - someone is trying to piss at me and i tell them not to give up
+falso - fake - someone says something wrong and you mocingly yawn and think it is delicious
+gerente - manager - someone says they are the manager, and someone else says "you not tj"
+cansado - tired - someone says they're tired, so you tell them "you're goon"
+relajante - relaxing - someone tells me specifically that wearing a raw hat and singling will relax me, "raw hat la tj"
+psicológico - psychological - something psychologic is peace combined with logic
+me tragué la pastilla ahora - i swallowed the pill now - something will happen when you take this pill
+industria - industry - son a(to) ye i leve the industry
+tranquilo - calm - sound + -siz(without/less suffix)
+trabajar - to work - studying is work
+único - unique - tech people like to work alone. if you are the sole person here, nobody can take you.
+limpio - cleansed - tell me the court is clean enough for tenis
+en - in - ten hint
+consejo - tip - thanks for the advice, it is (tough) for me to (see) things that way, (yay)
+porque mis ojos estan rotos - because my eyes are broken - that bozo zuckerberg is broken
+lino - linen - that chum(p) a sheer(ed) my clothes!
+no puedo ir a ningún lado sin explicar eso - i can&#39;t go anywhere without explaining that - that not explaining from no place can't go
+usar - to use - thats a cool lawn, can i use it?
+prepara el cordero sin derramarlo - prepare the lamb without spilling it - the akuyza likes to eat lamb. how's her lion? can you prepare it
+carne de cordero - mutton - the akuza mainly eats lamb
+mitad - half - the audience boos and they chuck out half of them
+se encuentra - it&#39;s found - the balloon is located here
+gratis - free - the bed have a free pillow with it
+no importa - no matter - the bush's are very much like 'nevermind, nevermind' when people bring up their wars
+auto - auto - the car are a bar
+pollo - chicken - the chicken meat is tough, uk
+el cliente viene a la oficina - the client comes to the office - the client mushes terry up
+cómico - funny - the comic is funny
+computadora - computer - the computer tells you that your bill (is) ghee sire
+cocinero - cook - the cook sneezes in the food
+pequeño - little - the cool chick is really small
+todavía - yet - the crazy guy is still out there hollering
+establecer - set up - the cure is to install, establish and build things
+la evolución humana continúa durante miles de años - human evolution continues for thousands of years - the dev oms (because of) a dare, and he continues to do lt for a long time. they vom(it) on a dear for a long time
+no podría decir - i could not say - the difference between didn't and couldn't is that there is an extra vowel harmony in there (with y buffer), like you couldn't do it because there was too much extra to do
+emperador - emperor - the emperor, him par a (golf) tour
+copa - cup - the feen john loves cups
+el pez - the fish - the fish licks your ball
+ropa - clothing - the geese see you with your clothing and they are jealous
+débil - weak - the german says "you vill zie if you are weak"
+vaya - wow - the german says wow, vhy are you so amazing? or.. wow, these things vi for the most amazing thing ever
+pecho - chest - the ghost has a nice chest
+sol - sun - the god gunesh created the sun
+hermosa - beautifull - the guzel is a beautiful animal
+dinámico - dynamic - the high hat do lou when he is lively
+industria - industry - the industry end dus tree
+minuto - minute - the kicker is that there is only a minute left
+triste - sad - the leaders of goons are asking each other whose goon is the sad one
+recordar - remind - the mad hatter remembers me for my sake(hatır)
+motivo - reason - the mad hatter remembers(hatırmak) me for my sake
+recuerdas - remember - the mad hatter sings(la) to remember things
+ya - yes - the name satan was already taken, so you choose zaten
+pero - but - the narrow passage was so dark you couldn't see the last letter in dar(k)
+siguiente - following - the next thing is the key we need
+enfermera - nurse - the nurse must sheer the hem to prepare for the doctor
+pantalones - pants - the pants are all alone, same as spanish pretty much
+brillante - shiny - the parlor is locked, but it is bright inside
+ventoso - windy - the plot to take the girl in a dress out on a windy day is the "ruse garli(slightly altered code word for girl)
+presidente - president - the president bashes whoever he wants because he can
+claro - sure - the root is clean, and you have to have a clean court to play tennis, and cleaning is a french action (le)
+cerveza - beer - the same word with an a on the end
+tienda - shop - the shop is a mixture of a mall and plaza
+en el examen - in the exam - the sin of teachers is the exam
+tienda - shop - the store in ma plaza
+tarjeta de crédito - credit card - the t goes from the first word to the second
+profesor - teacher - the teacher says it is all right man
+postre - dessert - the toddler is very sweet
+todos - everybody - the tomb is where we are all headed
+hambre - hungry - the tree(ağaç) is so hungry it says its name in a hurry
+bueno en realidad - well, actually - the w goes and get flipped at the end of the word ellm -> ehh. you tell azlan how it actually is.. du
+la noche - the night - the way to do something new is to yawn
+acerca de - about - the yak that sings(la) shakes around this time every day
+lado asiático - asian side - the yak.. a.. so(ts one one side)
+me pueden dar una manta - may i have a blanket - there are buttons all over the blanket
+sofá - couch - there is a canopy of the sofa
+niño - kid - there is a child and you want to get away so you juke
+diferencia - difference - there is a difference between a fark and a fork
+libro - book - there is a key on top of the book
+necesito - needed - there is a need for et togo to(a) the gym
+viejo - old - there is a really old sky, you arnte sure what it is, you say "eh..ski?"
+alto - high - there is a uke sec(t) of tall people on a high building
+húmedo - damp - there is a word to describe when there is moisture in the air, namely "humid"
+esta zona es peligrosa - this area is dangerous - there is an area around alan. it is dangerous to tell leek (t)a lee
+la tarea del estudiante es hacer la tarea - the student&#39;s homework is to do homework - there is gore everywhere, and it's your task to clean it up. oh davey, we've got a lot of homework!
+debe - has to - there is something difficult(zor) you are under so you have to do it
+estoy ocupado esta semana - i am busy this week - there was a mess a ghoul made so i'm busy cleaning it up
+entre - come in - they are arresting a ducky for hiding between two buildings
+valor - value - they are of great value
+quemaremos si no vuelven - we will burn if they don&#39;t come back - they back if dont come we burn. ya nar(k) got us in trouble. the yawn(s) are what got home in trouble
+mia - my - they keep the baby calm by putting a sock in it's mouth
+bajo - under - they shook the tree and it made all the fruit fall low to the ground
+extranjero - foreign - they tell the foreign person, "ya banned ji(ew)". or you bungee jump when you are a foreigner
+si se han ido - if they have gone - they went to get tea they say, so they are gone
+hoy - today - this + day
+fórmula - formula - this formula is only for mules
+pegar - take - this hit is vor insulting my accent
+comparación - comparison - this word is long, it needs to be driven like a car (kar..)
+rico - rico - those rich people, zey gain lots of stuff.
+técnico - technical - to be a technician takes a neices yen
+ser - to be - to be is to be old
+eficiente - efficient - to be productive is very him, lee
+comer mañana - eat tomorrow - tomorrow meal
+es posible venir mañana - it is possible to come tomorrow - tomorrow to arrive might
+pueblo - town - towns have casas and bars, but they are small so they have to cut off the end of bars(ba)
+nuestras costumbres - our customs - tradition is a debt to our ancestors
+dejarlo - leave it - trump tells bırak obama he has to leave office
+motocicleta - motorcycle - very similar
+chaqueta - jacket - very similar
+helicóptero - helicopter - very similar
+doctor - doctor - very similar
+hotel - hotel - very similar
+quieres - want - wanting things in (s)ystemic
+quemadura - burn - watching the fire burn makes you yawn
+un - a - we are currently on this moment
+tú - your - we are currently on this moment, with the in ending da
+donde estabas cuando huimos - where were you when we ran away - we on the run you where were you. where were you was "day din" in it, like dayton
+atmósfera - atmosphere - what is happening in the atmosphere is at most fair
+viva - alive - what jan li(cks) micheal, he feels alive
+divertido - funny - when ellen has fun she turns to jelly
+cuando volverá - when will he return - when he is done somewhere, he returns
+oír - hear - when someone says(demek) something, you hear(duymak) something slightly different
+uf se escapó de nuevo - ugh he ran away again - when something escapes you have to catch it
+creo que es bueno llorando - i think it&#39;s good crying - when something is all a muck, we cry
+fresco - fresh - when the wqeather(hava) is li(t), it is really cool
+corriendo - in a hurry - when there are two shooters you should be running
+cerca del oceano - looking for the ocean - when they are of the ocean, oaks ya need sun. (your) akia new sun is of the ocean.
+permiso - excuse me - when you are a kid you need permission to get an ezine
+único - unique - when you are alone, it is easier for someone to take you
+adulto - adult - when you are an adult, ya tish(tish) your kin
+por supuesto - of course - when you are certain of something, you pray for it and say amen
+que - that - when you are in a hurry you just eat a gel pack
+denso - dense - when you are really busy you yawn alot
+ingresar - enterokay - when you enter into a place, you become one of the gears in that place
+explicar - explain - when you explain something, you open(açık) the truth
+motivar - to motivate - when you motivate, you make a motive
+asar - asar - when you roast something you should cover it
+niño - kid - where is the boy? oh, lawn
+blusa - shirt - which color blouses are the best? blues
+derecho - right - whichever door you pick will be the right one. also means straight, as in straight ahead
+derecho - right - whichever door you pick will be the right/true one. also means straight, as in straight ahead
+mientras corríamos - while we ran - while we are running we are trying to catch our ken
+a quien le importa - who cares - who + whom ruined da.. ah, who cares..
+percibir - perceive - who you detect something, you oogle it, like  "algle"
+mi oportunidad - my opportunity - with my luck, i accidently picked up shawn's sim card
+imposible - impossible - without possibility
+sitio - site - ya are standing on the ground in the yard
+captura - capture - ya collar caught the ball
+expresión común - common expression - ya eye gains access to common things often. he's far (out) today is an expression.
+lluvia - rain - ya murder people in the rain
+lluvioso - rainy - ya murder someone in the rain(yağmur) + -lu(adjective ending). do you drink wine when its rainy? "ya, merlot"
+nuevo - new - ya nee(d) new stuff all the time
+asi que - so - ya need to hear what i mean..
+respuesta - answer - ya nit pick someones response to your question
+cama - bed - ya tack was in my bed
+suficiente - enough - ya tar someone and they yell, enough! enough!
+talento - talent - ya ten (year old can juggle with just their) neck
+verduras - vegetables - yes, ill like some weed
+es la ciudad mas bella del mundo - it is the most beautiful city in the world - yesterday ya a ducky was the only thing in the word
+medianoche - midnight - you are a sissy if you are afraid of midnight
+tedioso - tedious - you are bored so you are start skinning injins, ski ji
+tienes razón - you are right - you are correct, a hawk listens very well
+tienes tanta razón hablar es la mejor manera de aprender - you are so right talking is the best way to learn - you are correct, my hawk listen well
+entusiasmado - enthusiastic - you are excited and say "hey john look!"
+estas durmiendo - are you sleeping - you are excited that someone is sleeping and you kind of stutter, ew, you
+estoy muy emocionado - i am very excited - you are excited to see john, hey ye john!, and it has the lıyım ending
+sin - without - you are finished when you are beat
+contento - happy - you are happy because someone muted lou
+emocionante - exciting - you are in an exciting situation and you say "hey john, (this is) very g"
+a menudo - often - you are sick so often that you say it twice
+has terminado - you have finished - you are so angry that something is finished that you beat your own ear
+tomó - i take - you are so full you can't talk
+estaba tan sorprendido - i was so surprised - you are surprised and someone hushes you, shush, and says someone will hear
+viaje - travel - you are travelling and there are lots of vendors who say a hat would be a nice thing to buy, you say a hat is a good thing to have when you travel
+como eso - how that - you are trying to describe the way something behaves and you compare it to an oily substance
+pedir - ask for - you ask someone about that thing they are sore about
+qué pasa - what&#39;s the matter - you ask your neighbor whats up
+otro - other - you bash another car
+me duele la cabeza - i have a headache - you bash arm into your head and then say "i have a headache"
+bebé - baby - you bekon the baby over to you
+recibir - to receive - you buy all the stuff
+llamar - call - you call someone over cha here
+puede volver a llamarte más tarde - can call you back later - you call someone to ask if they are a'ri(ght)
+sabor de - taste of - you can not taste anything until(ta), dinner(dinna)
+edad - age - you can not wash your age away
+feo - ugly - you cheer for ken because he has finally come out as being ugly
+venir - come - you come gel
+cumplido - compliment - you compliment someone on their ill tea fat, fat that looks like a tea shirt
+avergonzado - ashamed - you console an embarrassed lady and tell her "you tan miss"
+sucio - dirty - you cure lee from being dirty. dirty curly hair.
+merecer - to deserve - you deserve it because you made a hawk
+kar - kar - you drive your car in the snow
+ver - watch - you ease onto the couch and lay down to watch a show
+adelante - ahead - you eat a cherry inside another cherry + gel(come)
+dolor - pain - you eat something spicy and you say want to say you need a juice, all you can say is "a ji--!"
+disfruta siendo disfruta divirtiéndote - enjoy being enjoy having fun - you enjoy having a house at the end of the alphabet(zev), k?, literally, taste + eject, you enjoy it when a bad taste goes out of your mouth, ellen enjoys everything she does
+encontrar - meet - you find your bull
+enchufe - plug - you get a receipt for the fish you buy
+información - information - you get billed ghee for the information you got
+vamos - come on - you go geet something
+quiero solicitar unas vacaciones de una semana en junio - i want to request a one week vacation in june - you go on holiday to astatue of tati that's teal. you request telepathy.
+término - finished - you go to start a vaudeville show, but then you change to a deli because it is a better long term plan, vaud..deli
+semana - week - you hafta wait a week to see someone
+que mal tiempo - what a bad weather - you have a nice day if the weather is good. literally, what bad a weather
+cuidado - watch out - you have to be careful when you point your dick at lee
+segundos - seconds - you havn't seen your knee in a long time and now you get to see it for a second so you say yay!
+sentir - to feel - you hiss at someone to show them how you feel
+difícil - hard - you in(sert) the hard thing in
+vender - to sell - you just sat there and sold stuff
+pequeño - little - you kiss a short person
+cosa - thing - you know you are trying to think of a thing, but you don't know what so you just say thing
+su hija - his daughter - you kız your daughter, you are surprised when you hear that the person you are talking to named their daughter cousin
+dejar - let - you leave your fake beer behind(bira is actually beer)
+camisa - shirt - you lick gum off your shirt
+mira - sight - you look back at something
+pero de esto - but from this - you look in what you have been talking about and then say something from before then
+decisión - decision - you make a decision to cut off a lions roar
+ummak - ummak - you om for peace and you um for things you hope for or expect
+medio - half - you only get half if you are a light person
+planificar - to plan - you plan a simple song with one note (la)
+pongo - i put - you put koy in a fish tank
+champú - shampoo - you put shampoo on la(while you sing)
+los niños se hacen amigos de inmediato - the children become friends immediately - you quickly put a hem in something
+repugnante - disgusting - you rent a high tech "e-ranch", but it is disgusting
+oscuro - dark - you run into dark and say "i'm cool, you?"
+momento - moment - you sat and watch the clock
+momento - moment - you sat for an hour
+sueño - dream - you say "hi al" in a dream
+insatisfecho - dissatisfied - you say you are glad to meet someone, yet (your) sis is better so you are dissatisfied
+decir - tell - you say you like soylent
+tratar - deal - you say(de) what(ne) you will try. you try living in a den.
+tengo - have - you see a heap of stuff and you want to have it
+caliente - hot - you see jack is hot because he jumped over a candle stick
+tirar a la basura - throw away - you send something away at somewhere on a horse (at)
+vino - wine - you share wine with op so they shut up
+accidente - accident - you should have an accident cuz i say so
+bote - world - you should take (a) ne(t) on the boat
+en el show - at the show - you shove someone into the show, and it has the da ending
+mostrar alrededor - show around - you show someone around and you gaze at deer
+espectáculo - show - you show someone there is a ghost here
+adjetivo - adjective - you sift through all the people who use the adjective fat
+por favor firme aquí - sign here please - you sign because him all lyin. imzalamak, hims all a signin everything
+encima - above - you stay on top because you are the best
+su - its - you sue someone for not giving water
+sugerir - suggest - you suggest they be a öner, not a loner
+recibir - to receive - you take all the stuff
+larga historia - long story - you tell a story about getting a hickey on your eye, hey!
+decir - tell - you tell an lot of stuff to people
+amigo - friend - you tell your friend to dash to the ark because of the flood
+pensar - to think - you think it is too soon
+caminar - to walk - you walk to your room
+cuando abre - when do you open - you want to know when a chill(irs) opens
+que serie estabas viendo - what series were you watching - you watch someone who is laying down
+espalda - back - you wear a s(h)irt on your back
+trabajar - to work - you work hard to get a chalis(h)
+ritmo - rhythm - you write him off because he has no rhythm
+largo - length - you zoon a long time before you realise you should be on zoom
+año - year - you'll see me next year
+mañana - morning - you're in the future, it is tomorrow
+tan bueno como tu - as good as you - your amount good, llike the amount of your goodness
+muchacha - girl - your cousin is a girl
+ganar - win - your cousin wins because she is on the top of the mountain
+pie - pie - your foot is a yak
+calendario - calendar - your futuristic calendar is just talking to a virtual machine
+una parte de mi corazon - a part of my heart - your him, in my heart.
+los mejores deseos - best wishes - your wishes are obviously the leak out of you. your wish is delectable.
+difícil - hard - zoro does difficult things

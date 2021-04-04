@@ -1,2384 +1,2851 @@
-actor - aktör - no hint
-admirable - takdire şayan - no hint
-gündem - agenda - no hint
-alkol - alcohol - no hint
-altar - altar - no hint
-hayvan - animal - no hint
-alan - area - no hint
-yapay - artificial - no hint
-araba - auto - no hint
-denge - balance - no hint
-bar - bar - no hint
-baz - base - no hint
-acımasız - brutal - no hint
-kablo - cable - no hint
-kanal - canal - no hint
-kanser - cáncer - no hint
-kanon - canon - no hint
-sermaye - capital - no hint
-kömür - carbón - no hint
-karton - cartón - no hint
-merkezi - central - no hint
-beyin - cerebral - no hint
-kontrol - cheque - no hint
-çikolata - chocolate - no hint
-dairesel - circular - no hint
-sivil - civil - no hint
-kulüp - club - no hint
-yaka - collar - no hint
-sömürge - colonial - no hint
-koma - coma - no hint
-yanma - combustión - no hint
-sonuç - conclusión - no hint
-sürücü - conductor - no hint
-bilinç bulanıklığı, konfüzyon - confusión - no hint
-önemli - considerable - no hint
-kontrol - control - no hint
-samimi - cordial - no hint
-adli - criminal - no hint
-kriz - crisis - no hint
-kültürel - cultural - no hint
-tartışmak - debate - no hint
-karar - decisión - no hint
-diyagonal - diagonal - no hint
-boyut - dimensión - no hint
-yönetmen - director - no hint
-disk - disco - no hint
-bölünme - división - no hint
-doktor - doctor - no hint
-dram - drama - no hint
-dayanıklı - durable - no hint
-editoryal - editorial - no hint
-seçim - electoral - no hint
-temel - elemental - no hint
-muamma - enigma - no hint
-hata - error - no hint
-özel - exclusive - no hint
-gezi - excursión - no hint
-deneysel - experimental - no hint
-patlama - explosión - no hint
-ihraç - expulsión - no hint
-uzantı - extensión - no hint
-dış - exterior - no hint
-faktör - factor - no hint
-tanıdık - familiar - no hint
-ölümcül - fatal - no hint
+öf - puaj - no hint
+yüreğimin köşesi - rincón de mi corazón - no hint
+no te preocupes - endişelenme - no hint
+hola - masallah - no hint
+reunirse - buldüşmek - no hint
+a la ciudad - şehre - no hint
+incluso - bile - no hint
+rápidamente - çabuk - no hint
+correr - koşuya - no hint
+instrumento - enstrüman - no hint
+fuego - ateş - no hint
+en llamas - ateşte - no hint
+en casa - evde - no hint
+estaba en mi bolso - çantamdaydı - no hint
+universal - evrensel - no hint
+extranjero - yabancı - no hint
+huéspedes - misafirler - no hint
+se requiere - gerekiyor - no hint
+a quien le importa - kim umrunda ki - no hint
+a quien te importa - kimi umursuyorsun - no hint
+en ese caso - o halde - no hint
+qué haces en tu tiempo libre - boş zamanlarında ne yapıyorsun - no hint
+esto es realmente útil - bu gerçekten yardımcı bir söz - no hint
+tiempo libre - boş zaman - no hint
+últimamente - son zamanlarda - no hint
+alrededor de las doce - on iki çıvarında - no hint
+juntos - bir arada - no hint
+¿sueles dormir hasta tarde? - normalde de geç mi uyursun - no hint
+es por eso - bu yüzden - no hint
+lado europeo - avrupa yakası - no hint
+lado de anatolia - anadolu yakası - no hint
+buena suerte para ti - kolay gelsin sana - no hint
+es eso incorrecto - bu yanlış mı - no hint
+es esto correcto - bu doğru mu - no hint
+qué quieres decir - ne demek istiyorsun - no hint
+otro - başka - no hint
+buena suerte - iyi şanslar - no hint
+doydun mu - doydun mu - no hint
+por mi bien - hatırım için - no hint
+para qué - ne için - no hint
+tengo prisa - acelem var - no hint
+eso espero - öyle umuyorum - no hint
+calma - sakin ol - no hint
+por cierto - bu arada - no hint
+cuantas veces - kaç kere - no hint
+estas durmiendo - uyuyorsun - no hint
+pero normalmente solo trabajo en turco - ama genellikle sadece türkçe üzerinde çalışıyorum - no hint
+que tipo de deportes haces - ne tür sporlar yaparsın - no hint
+cómo te fué en el trabajo - iş nasıldı - no hint
+eres muy solidario - çok destekleyicisin - no hint
+tengo suerte de ser tu amigo - arkadaşın olduğum için şanslıyım - no hint
+estaba muy adentro - çekmiştim içimden - no hint
+son tus películas divertidas favoritas - en sevdiğin komik filmler mi - no hint
+espero que hayas tenido un buen día - umarım iyi bir gün geçirmişsindir - no hint
+creo que es asi - bence öyle - no hint
+que debemos estudiar - ne çalışmalıyız - no hint
+me harás una pregunta - bana bir soru soracaksın - no hint
+no, lamentablemente no entendí todo - hayır maalesef her şeyi anlamadım - no hint
+creo que lo tengo - sanırım anladım - no hint
+deberías decir eso - bunu demelisin - no hint
+tus palabras son muy notables - sözlerin çok dikkate değer - no hint
+estoy despierto - ben uyanığım - no hint
+mi corazón se derritió - kalbim eridi - no hint
+como estuvo tu caminar - yürüyüşün nasıldı - no hint
+y tú - senden naber - no hint
+buena salud - iyilik sağlık - no hint
+sin travesuras - yok bir yaramazlık - no hint
+bien, estoy haciendo esto - iyidir bunu yapıyorum - no hint
+seguimos intentando, lo que sea - uğraşıp duruyoruz ne olsun - no hint
+no hemos hecho mucho hoy - bugün pek bir şey yapmadık - no hint
+pero anoche me desperté como a la una tarde - ama dün gece yaklaşık saat bir geç kalktım - no hint
+¿qué hiciste hoy excepto el examen? - sınav dışında bugün ne yaptın - no hint
+espero que entiendas - anladığını umuyorum - no hint
+gracias por ayudarme - bana yardım için teşekkür ederim - no hint
+creo que voy a jugar al tenis - sanırım tenis oynayacağım - no hint
+creo que jugaré al tenis con mis hermanos - sanırım kardeşlerimle tenis oynayacağım - no hint
+voy a programar - programlayacağım - no hint
+haré un programa - program yapacağım - no hint
+esto o aquello cual es correcto - bu veya şu hangisi doğru - no hint
+esta frase es nueva para mi - bu cümle benim için yeni - no hint
+me alegro de que puedas entenderme - beni anlayabildiğine sevindim - no hint
+si lo digo en serio - evet bunu demek istedim - no hint
+pensé que había dicho lo siento - üzgünüm dedim sandım - no hint
+tekirova es una ciudad pequeña - tekirova küçük bir kasabadır - no hint
+me gusta asar verduras - sebze kavurmayı severim - no hint
+tienes un talento increible - inanılmaz bir yeteneğin var - no hint
+me estás tomando el pelo - şaka mı yapıyorsun - no hint
+hay mucha diferencia de edad entre mis hermanos. - kardeşlerim arasında çok yaş farkı var - no hint
+¿dije tu nombre correctamente? - ismini doğru söyledim mi - no hint
+tengo treinta y cuatro años - otuz dört yaşındayım - no hint
+cuántos años tienes - kaç yaşındasınız - no hint
+qué haces para divertirte - eğlenmek için ne yaparsın - no hint
+¿hiciste algo interesante hoy? - bugün ilginç bir şey yaptın mı - no hint
+saludos - selamlar - no hint
+tuviste un buen día - iyi bir gün geçirdin mi - no hint
+que estas haciendo - ne yapıyorsun - no hint
+si yo tambien tuve un buen dia - evet bende güzel bir gün geçirdim - no hint
+qué hiciste hoy - bugün ne yaptın - no hint
+se siente como un buen dia - güzel bir gün gibi geliyor - no hint
+espero que estés bien - umarım iyisindir - no hint
+y espero que estés bien - ve umarım iyisindir - no hint
+espero que tengas un buen día - umarım günün iyi geçiyordur - no hint
+todavía temprano aquí - burada hala erken - no hint
+no hice mucho - ben pek yapmadım - no hint
+limpié la cocina - mutfağı temizledim - no hint
+acabo de despertarme - biraz önce uyandım - no hint
+acabo de hacer café - az önce kahve yaptım - no hint
+dormí hasta tarde hoy - bugün geç uyudum - no hint
+cabalgué bien - iyi bisiklet sürdüm - no hint
+no dormí mucho anteayer - dünden önceki gün pek uyumadım - no hint
+dormí bien - iyi uyudum - no hint
+mi día ha estado bien hasta ahora pero aún es temprano - günüm şimdiye kadar iyi geçti ama hala erken - no hint
+como estuvo tu dia, hiciste algo divertido - günün nasıldı eğlenceli bir şey yaptın mı - no hint
+no vi gambito de reinas - queens gambit görmedim - no hint
+seguramente mira el gambito de las reinas - surely watch the queens gambit - no hint
+esto es un conjunto - bu bir dizi - no hint
+acabo de ver el primer episodio - sadece ilk bölümü izledim - no hint
+pero estoy emocionado de ver el próximo - ama bir sonrakini izleyeceğim için heyecanlıyım - no hint
+te gustó la mayoría de mis publicaciones de instagram - instagram gönderilerimin çoğunu beğendin - no hint
+ese festival se ve tan genial - o festival çok havalı görünüyor - no hint
+al mismo tiempo que el festival de malabares - jonglörlük festivali ile aynı zaman - no hint
+he visto un últimamente y pensé que también era bueno para mí. - geçenlerde a izledim bende iyi olduğunu düşündüm - no hint
+tiene hermanos - kardeşin var mı - no hint
+eres el mayor - sen en yaşlı mısın - no hint
+yo soy el segundo hijo - ben ikinci çocuğum - no hint
+estás casado - evli misin - no hint
+qué edad tiene tu hija - kızın kaç yaşında - no hint
+tan dulce es una gran edad - çok tatlı bu harika bir yaş - no hint
+tengo una sobrina de tres años - üç yaşında bir yeğenim var - no hint
+no tengo ninguna responsabilidad pero me divierto mucho - sorumluluğum yok ama çok eğleniyorum - no hint
+no tengo mascota - evcil hayvanım yok - no hint
+pero mi hermano tiene un gato - ama erkek kardeşimin bir kedisi var - no hint
+fui a correr - koşuya gittim - no hint
+compré café - kahve aldım - no hint
+tuve una mañana productiva - verimli bir sabah geçirdim - no hint
+si circo en ingles - evet ingilizce'de circus - no hint
+¿por qué quieres aprender turco? - neden türkçe öğrenmek istiyorsuniz - no hint
+tú que me enseñaste inglés y yo te hice turco - siz bana ingilizce öğreten ben de size türkçe - no hint
+gracias por felicitar a mi turco - türkçeme iltifat ettiğin için teşekkür ederim - no hint
+estoy muy impresionado por tu ingles - ingilizcenden çok etkilendim - no hint
+algún día espero hablar tan bien como tú - bir gün senin kadar iyi konuşmayı umuyorum - no hint
+uso mucho la traducción ahora - şimdi çeviri çok kullanıyorum - no hint
+escribir turco - türkçe yaz - no hint
+necesito más práctica oral - daha fazla konuşma pratiğine ihtiyacım var - no hint
+es mi pronunciación correcta - benim telaffuzum doğru mu - no hint
+suficiente, todo esta mal - yeter be her şey yanlış - no hint
+más natural - daha doğal - no hint
+¿cuál es la diferencia entre esto y aquello? - bu ve şu arasındaki fark ne - no hint
+¿puedes usar esto en una oración? - bunu cümle içinde kullanabilir misin - no hint
+buen lenguaje - güzel bir dil - no hint
+como aprendiste ruso - rusçayı nasıl öğrendin - no hint
+¿cuánto tiempo llevas usando helllo tallkk? - ne zamandır helllo tallkk kullanıyorsun - no hint
+escribí pronombres en papel - kağıda zamirleri yazdım - no hint
+a veces parece imposible - bazen imkansız görünüyor - no hint
+tengo que hacer una frase solo - tek başıma cümle kurmalıyım - no hint
+uso muchas traducciones - çok çeviri kullanıyorum - no hint
+tienes un acento muy bonito - çok güzel bir aksanın var - no hint
+gracias por el consejo - tavsiyen için teşekkürler - no hint
+necesito ayuda con turco - türkçe konusunda yardıma ihtiyacım var - no hint
+me entiendes - beni anlıyor musun - no hint
+estoy tratando de leer es dificil - okumaya çalışıyorum zor - no hint
+estoy muy contento de que te guste mi habla turca me da motivación. - türkçe konuşmamı sevmene çok sevindim bana motivasyon veriyor - no hint
+entiendes lo que digo - ne dediğimi anlıyor musun - no hint
+¿dónde vives en turquía? - türkiyenin neresindensin - no hint
+¿vives en algún lugar del pavo? - türkiye'nin neresinde yaşıyorsun - no hint
+de qué ciudad eres - hangi şehirdensin - no hint
+soy turco de azerbaiyán - azerbaycan türküyüm - no hint
+naciste ahí - orada mı doğdun - no hint
+cuando saliste - ne zaman ayrıldın - no hint
+amo tu acento - aksanını seviyorum - no hint
+está nevando mucho aquí ahora mismo - şu anda burada çok kar yağıyor - no hint
+¿alguna vez nieva donde estás? - olduğun yerde hiç kar yağar mı - no hint
+es muy inusual nevar aquí - burada kar yağması çok sıradışı - no hint
+fui allí hace unos cuatro años - oraya yaklaşık dört yıl önce gittim - no hint
+no, nunca lo hice - hayır hiç etmedim - no hint
+visitaste allí - orayı ziyaret ettin mi - no hint
+has estado en el extranjero - yurtdışına çıktın mı - no hint
+no, nunca fui - hayır hiç gitmedim - no hint
+te mostraré los alrededores - ben seni gezdiririm - no hint
+no, lamentablemente no pude irme - hayır maalesef çıkamadım - no hint
+no tengo dinero porque - param yok çünkü - no hint
+tuve tres meses del año pasado en turquía - geçen yil üç ay türkiyede yaşadım - no hint
+¿tu trabajo te permite viajar mucho? - işin çok seyahat etmene izin veriyor mu - no hint
+fuiste a algunos lugares agradables - bazı güzel yerlere gittin - no hint
+¿dónde te gustaría visitar en estados unidos? - usa'de nereyi ziyaret etmek istersin - no hint
+quiero venir este verano - bu yaz gelmek istiyorum - no hint
+depende de la pandemia - pandemiye bağlıdır - no hint
+toda mi vida esta viajando - tüm hayatım seyahat ediyor - no hint
+pero viajo mucho - ama çok seyahat ederim - no hint
+me quedé cerca de kadıköy - kadıköy yakınlarında kaldım - no hint
+has estado alguna vez en el extranjero - hiç yurtdışına çıktın mı - no hint
+pero quizás más común en turquía - ama belki türkiye'de daha yaygındır - no hint
+mis amigos tienen un centro de circo en estambul - arkadaşlarımın istanbulda sirk merkezi var - no hint
+allí dan lecciones de circo - orada sirk dersleri veriyorlar - no hint
+eres estudiante - öğrenci misiniz - no hint
+qué estás leyendo - ne okuyorsun - no hint
+estoy estudiando quimica - kimya okuyorum - no hint
+¿descubrió cómo aprobó su examen? - sınavında nasıl geçtiğini öğrendin mi - no hint
+tuviste una escuela hoy - bugün okulun var mıydı - no hint
+cuantos años mas tienes - daha kaç yılın var - no hint
+cuantos años llevas estudiando en la universidad - kaç yıldır üniversitede okuyorsun - no hint
+cómo le fue en su examen - sınavın nasıl gitti - no hint
+espero que halla ido bien - umarım iyi gitmiştir - no hint
+¿es esta una reunión escolar? - bu bir okul toplantısı mı - no hint
+será agradable cuando puedas volver a un salón de clases real. - gerçek bir sınıfa geri dönebildiğin zaman çok güzel olacak - no hint
+cuantos años tienen los estudiantes - öğrencilerin kaç yaşında - no hint
+qué estás enseñando - ne öğretiyorsun - no hint
+cuanto tiempo has enseñado - ne zamandır öğrettin - no hint
+yo era profesor - ben bir öğretmendim - no hint
+cuantos estudiantes tenias - kaç öğrenciniz vardı - no hint
+haz tu trabajo - çalışıyor musunuz - no hint
+soy un malabarista - ben bir hokkabazım - no hint
+soy un artista de circo - ben bir sirk sanatçısıyım - no hint
+pero tuve mucho trabajo - ama birçok işim oldu - no hint
+que vas a hacer cuando termine la universidad de verano - yaz üniversite bittiğinde ne yapacaksın - no hint
+si este es un trabajo muy divertido que haces - evet bu çok eğlenceli bir iş ne iş yapıyorsun - no hint
+arquitectura de interiores - iç mimarlık - no hint
+a qué te dedicas - ne iş yapıyorsun - no hint
+¿cuánto tiempo has querido ser actor? - ne zamandır oyuncu olmak istedin - no hint
+es genial que conozcas muy bien la ciencia - bilimi gerçekten iyi bilmen harika - no hint
+creo que tu actuacion es buena - oyunculuğun iyi olduğunu düşünüyorum - no hint
+chica grosera supongo que su nombre es temporada - kaba olan kız sanırım adı sezon - no hint
+quiero que seamos amigos - arkadaş olmak istiyorum - no hint
+eres gracioso me haces reir - komiksin beni güldürüyorsun - no hint
+oh mi eres tan gracioso - oh benim çok komiksin - no hint
+me encantaría jugar contigo también - bende seninle oynamayı çok isterim - no hint
+eres tan elegante - çok zarifsin - no hint
+te agradezco que digas eso - bunu söylediğin için minnettarım - no hint
+gracias eres dulce - teşekkür ederim tatlısın - no hint
+muchas gracias, eres tan amable - çok teşekkür ederim çok naziksin - no hint
+pero se convirtió en un presidente muy extraño - ama çok tuhaf bir başkan oldu - no hint
+voy a correr - koşuta çıkıyorum - no hint
+duerme bien contigo - sana iyi uykular - no hint
+tengo que ir - gitmek zorundayım - no hint
+fue muy agradable hablar contigo - seninle konuşmak çok güzeldi - no hint
+disfruta el resto de la noche - gecenin geri kalanının tadını çıkar - no hint
+y espero hablar contigo pronto - ve yakında seninle konuşmayı umuyorum - no hint
+espero que podamos hablar de nuevo pronto - umarım yakında tekrar konuşabiliriz - no hint
+definitivamente estás durmiendo ahora mismo - kesinlikle şu anda uyuyorsun - no hint
+tuve un sueño - bir hayalim vardı - no hint
+sueñas a menudo - sık sık rüya görür müsün - no hint
+espero que tengas aventuras en tus sueños ahora mismo. - umarım şu anda hayallerinde maceralar yaşıyorsundur - no hint
+si solo - keske olsa - no hint
+la gente ya aprende algo nuevo todos los días - insan her gün yeni bir şeyler öğreniyor zaten - no hint
+tengo una pregunta - bir sorum var - no hint
+el me ama bien - o beni gayette seviyor - no hint
+no duermas demasiado tarde - sen uyumuyor musun çok geç - no hint
+no importa, ahora lo sé - boşver şimdi biliyorum - no hint
+el día acaba de comenzar - gün henüz yeni başladı - no hint
+se siente duro - bu zor geliyor - no hint
+nombre en la parte superior - isim üstte - no hint
+me gustan ambos - ikisini de beğendim - no hint
+antier - dünden önceki gün - no hint
+todo aqui es perfecto - buradaki her şey mükemmel - no hint
+te encontré en instagram - seni instagramda buldum - no hint
+qué quieres decir - ne demek istiyorsun - no hint
+y puedo ayudarte - ve sana yardım edebilirim - no hint
+pero no tomará mucho tiempo - ama uzun sürmez - no hint
+nunca he visto esto - hiç bunu görmedim - no hint
+no hay nada de que disculparse - özür dileyecek hiçbir şey yok - no hint
+las preguntas difíciles son buenas preguntas - zor sorular iyi sorulardır - no hint
+si, eso sería muy bueno - evet bu harika olur - no hint
+el primero es el mejor - ilki en iyisidir - no hint
+entonces tal vez sea bueno - yani belki iyidir - no hint
+pero creo que lo es - ama o olduğunu düşünüyorum - no hint
+todavía me queda una hora y media para esperar - hala beklemek için bir buçuk saatim var - no hint
+estaba hablando solo - kendi kendime konuşuyordum - no hint
+entonces, ¿qué estás haciendo en su lugar? - peki onun yerine ne yapıyorsun - no hint
+¿cuál es la diferencia entre esto y aquello? - bu ile şu arasındaki fark nedir - no hint
+hablaré contigo - senle konuşacağım - no hint
+hablaré con mis otros amigos - diğer arkadaşlarımla konuşacağım - no hint
+envié un mensaje - attım mesaj - no hint
+esta es una oración completa - bu tam cümle - no hint
+tomar foto - fotoğraf çekmek - no hint
+lo percibí personalmente - kişisel algıladım - no hint
+sentí ganas de escribir una canción - içimden bir şarkı yazmak gelmişti - no hint
+¿es esta una expresión común? - bu yaygın bir ifade mi - no hint
+me gusta programar - programlamayı severim - no hint
+lo tomé ayer por la mañana - dün sabah çekmiştim - no hint
+me cuesta hablar en persona - şahsen konuşmak benim için zor - no hint
+antes de enviar - göndermeden önce - no hint
+normalmente puedo traducir y practicar antes de publicar un mensaje - normalde bir mesaj göndermeden önce çeviri yapabilir ve pratik yapabilirim - no hint
+tengo algunas palabras que puedo usar ahora - şimdi kullanabileceğim bazı sözlerim var - no hint
+practiqué turco - türkçe pratik yaptım - no hint
+solo practico turco ahora mismo - şu anda sadece türkçe pratik yapıyorum - no hint
+vamos a hacerlo - yapalım şunu - no hint
+miremos aquí - buraya bakalım - no hint
+qué estoy haciendo - ne yapıyorum - no hint
+pero esta mañana temprano - ama bu sabah erken saatlerde - no hint
+fui a dar un paseo - yürüyüşe çıktım - no hint
+yo hacía malabares - hokkabazlık yaptım - no hint
+limpié el auto - arabayı temizledim - no hint
+bebí un poco de agua - biraz su içtim - no hint
+creo que eso es todo - bence hepsi bu - no hint
+llevé a mi hermano a algún lugar ahora lo estoy esperando - kardeşimi bir yere sürdüm şimdi onu bekliyorum - no hint
+solo fui a correr - sadece koşuya gittim - no hint
+hasta ahora - şimdiye kadar - no hint
+así que conducir y correr es todo lo que he hecho hoy - öyleyse sür ve koş bugün şimdiye kadar yaptığım tek şey - no hint
+saliste el dia de hoy - bugün dışarı çıktın mı - no hint
+tal vez al mercado o al parque - belki pazara veya bir parka mı - no hint
+¿salió bien tu lección? - dersin iyi gitti mi - no hint
+ya tienes los resultados - sonuçları zaten aldın mı - no hint
+mago - sihirbaz - no hint
+verdadero - gerçek - no hint
+a clase - sınıfa - no hint
+espalda - geri - no hint
+puedes volver a - dönebildiğin - no hint
+reunión - toplantı - no hint
+recientemente - geçenlerde - no hint
+es eso - olduğunu - no hint
+no durará - sürmez - no hint
+pedir disculpas - özür dilemek - no hint
+preguntas - sorular - no hint
+pienso - bence - no hint
+tocar - oynatmak - no hint
+elegante - zarif - no hint
+sería - olur - no hint
+escuela secundaria - lise - no hint
+universidad - kolej - no hint
+asi que - yani - no hint
+propio - kendi - no hint
+en lugar de - yerine - no hint
+diferencia - fark - no hint
+qué - nedir - no hint
+divertido - eğlenceli - no hint
+ciencias - bilim - no hint
+tu actuación - oyunculuğun - no hint
+suponer - sanmak - no hint
+pensar - düşünmek - no hint
+pienso - bence - no hint
+común - yaygın - no hint
+estoy estresado - stresliyim - no hint
+mensaje - mesaj - no hint
+expresión - ifade - no hint
+tam - tam - no hint
+atraer - çekmek - no hint
+personal - kişisel - no hint
+dentro de mi - içimden - no hint
+canción - şarkı - no hint
+puedo usar - kullanabileceğim - no hint
+hagamos - yapalım - no hint
+en las horas - saatlerde - no hint
+todo - hepsi - no hint
+para ahora - şimdiye - no hint
+ud - dışarı - no hint
+resultado - sonuç - no hint
+estar lleno - doymak - no hint
+veces - kere - no hint
+disponible - müsait - no hint
+terminado - üzerine - no hint
+apoyo - desteklemek - no hint
+atraer - çekmek - no hint
+pensar - sanırmak - no hint
+deberías decir - demelisin - no hint
+consideración - dikkate - no hint
+despierto - uyanık - no hint
+además - ayrıca - no hint
+oído - kulak - no hint
+corazón - kalp - no hint
+gracias - nolsun - no hint
+favor - iyilik - no hint
+favor - iyilik - no hint
+salud - sağlık - no hint
+travesura - yaramazlık - no hint
+detener - durmak - no hint
+me gustó - beğendim - no hint
+lo siento - üzgünüm - no hint
+diferencia - farkı - no hint
+clínica - klinik - no hint
+clásico - klasik - no hint
+esfuerzo - efor - no hint
+información - enformasyon - no hint
+islam - islâm - no hint
+cantina - kantin - no hint
+canal - kanal - no hint
+comedia - komedi - no hint
+crisis - kriz - no hint
+extremo - ekstrem - no hint
+ideología - ideoloji - no hint
+ideológico - ideolojik - no hint
+chaqueta - ceket - no hint
+corán - kuran - no hint
+laboratorio - laboratuvar - no hint
+recreación - lazer - no hint
+líder - lider - no hint
+melodía - melodi - no hint
+milímetro - milimetre - no hint
+original - orijinal - no hint
+campaña - kampanya - no hint
+cáncer - kanser - no hint
+campeón - şampiyon - no hint
+personaje - karakter - no hint
+koro - koro - no hint
+kompleks - kompleks - no hint
+composición - kompozisyon - no hint
+control - kontrol - no hint
+crema - krem - no hint
+crema - krema - no hint
+tarjeta de crédito - kredi kartı - no hint
+dentro - dans - no hint
+la licenciatura - derece - no hint
+detective - dedektif - no hint
+la economía - ekonomi - no hint
+económico - ekonomik - no hint
+enérgico - enerjik - no hint
+exótico - egzotik - no hint
+adicional - ekstra - no hint
+favorito - favori - no hint
 federal - federal - no hint
-festival - festival - no hint
-nihai - final - no hint
-esnek - flexible - no hint
-resmi - formal - no hint
-formül - fórmula - no hint
-önden - frontal - no hint
-temel - fundamental - no hint
-gala - gala - no hint
-gaz - gas - no hint
-genel - general - no hint
-yaratılış - génesis - no hint
-küresel - global - no hint
-mezar - grave - no hint
-alışılmış - habitual - no hint
-hobi - hobby - no hint
-yatay - horizontal - no hint
-korku - horror - no hint
-hastane - hospital - no hint
-otel - hotel - no hint
-düşünce - idea - no hint
-ideal - ideal - no hint
-imparatorluk - imperial - no hint
-acımasız - implacable - no hint
-akın - incursión - no hint
-bireysel - individual - no hint
-sanayi - industrial - no hint
-kaçınılmaz - inevitable - no hint
-daha düşük - inferior - no hint
-gayri resmi - informal - no hint
-ayrılmaz - inseparable - no hint
-müfettiş - inspector - no hint
-sonsuz - interminable - no hint
-istila - invasión - no hint
-görünmez - invisible - no hint
-düzensiz - irregular - no hint
-adli - judicial - no hint
-kilo - kilo - no hint
-yanal - lateral - no hint
-yasal - legal - no hint
+película - film - no hint
+final - final - no hint
+gris - gri - no hint
+garantizado - garantili - no hint
+armonía - harmoni - no hint
+helicóptero - helikopter - no hint
+hobby - hobi - no hint
+industrial - endüstriyel - no hint
+inflación - enflasyon - no hint
+irónico - ironik - no hint
+jurado - jüri - no hint
+lamba - lamba - no hint
 liberal - liberal - no hint
-gerçek - literal - no hint
-yerel - local - no hint
-erkek - macho - no hint
-usta - maestro - no hint
-mango - mango - no hint
-mani - manía - no hint
-manuel - manual - no hint
-marjinal - marginal - no hint
-malzeme - material - no hint
-evlilik - matrimonial - no hint
-ortaçağa ait - medieval - no hint
-vasat - mediocre - no hint
-kavun - melón - no hint
-zihinsel - mental - no hint
-menü - menú - no hint
-metal - metal - no hint
-sefil - miserable - no hint
-ahlaki - moral - no hint
-ölümlü - mortal - no hint
-motel - motel - no hint
-motor - motor - no hint
-çoklu - múltiple - no hint
-belediye - municipal - no hint
-müzikal - musical - no hint
-doğal - natural - no hint
-asil - noble - no hint
+revista - magazin - no hint
+gerente - menajer - no hint
+partido - maç - no hint
+dejar un mensaje - to leave a message - no hint
+menú - menü - no hint
+metáfora - metafor - no hint
+metrópoli - metropol - no hint
+metros - metre - no hint
+impulso - momentum - no hint
+orgánico - organik - no hint
+organizar - to organize - no hint
+organización - organizasyon - no hint
+aparcar el vehículo - to park vehicle - no hint
+oxígeno - oksijen - no hint
+paquete - paket - no hint
+él dijo - söylediği - no hint
+botón - buton - no hint
+partido - kamp - no hint
+carbohidrato - karbonhidrat - no hint
+carbón - karbon - no hint
+mapa - kart - no hint
+carrera - kariyer - no hint
+catalogo - katalog - no hint
+católico - katolik - no hint
+suave - yumuşak - no hint
+chocolate - çikolata - no hint
+cine - sinema - no hint
+civil - sivil - no hint
+café - kahve - no hint
+colectivo - kolektif - no hint
+colonia - koloni - no hint
+cómico - komedyen - no hint
+comunicación - komünikasyon - no hint
+concentración - konsantrasyon - no hint
+copiar - kopya - no hint
+corredor - koridor - no hint
+crédito - kredi - no hint
+criterio - kriter - no hint
+cultural - kültürel - no hint
+detalle - detay - no hint
+diplomático - diplomat - no hint
+diploma - diploma - no hint
+directamente - direkt - no hint
+documento - doküman - no hint
+enciclopedia - ansiklopedi - no hint
+garaje - garaj - no hint
+generacion - jenerasyon - no hint
+es - jest - no hint
+garantía - garanti - no hint
+hamburguesa - hamburger - no hint
+honor - onur - no hint
+hotel - otel - no hint
+ilegal - illegal - no hint
+espejismo - illüzyon - no hint
+índice - indeks - no hint
+integración - entegrasyon - no hint
+internacional - enternasyonal - no hint
+instituto - enstitü - no hint
+ironía - ironi - no hint
+chorro - jet - no hint
+liga - lig - no hint
+limonada - limonata - no hint
+límite - limit - no hint
+listar - to list - no hint
+vestíbulo - lobi - no hint
+masajear - to massage - no hint
+local - lokal - no hint
+medalla - madalya - no hint
+mensaje - mesaj - no hint
+millón - milyon - no hint
+hacerse millonario - to become a millionaire - no hint
+millonario - milyoner - no hint
+mental - mental - no hint
+molécula - molekül - no hint
+musulmán - müslüman - no hint
+objetivo - objektif - no hint
+organo - organ - no hint
+panel - panel - no hint
+parque - park - no hint
+pasta - pasta - no hint
+multa - penaltı - no hint
+personal - personel - no hint
+cable - kablo - no hint
+cacao - kakao - no hint
+cámara - kamera - no hint
+instalaciones - kampüs - no hint
+capacidad - kapasite - no hint
+capitán - kaptan - no hint
+caravana - karavan - no hint
+carnaval - karnaval - no hint
+categoría - kategori - no hint
+camiseta de manga corta - kaos - no hint
+química - kimya - no hint
+cristiano - hıristiyan - no hint
+cigarrillo - sigara - no hint
+club - kulüp - no hint
+kola - kola - no hint
+cómico - komik - no hint
+comité - komite - no hint
+complicado - komplike - no hint
+el concepto - konsept - no hint
+prima - kuzen - no hint
+crítica - kritik - no hint
+democracia - demokrasi - no hint
+democrático - demokratik - no hint
+depresión - depresyon - no hint
+diseño - dizayn - no hint
+diálogo - diyalog - no hint
+digital - dijital - no hint
+desventaja - dezavantaj - no hint
+disciplina - disiplin - no hint
+drama - drama - no hint
+doctor - doktor - no hint
+empatía - empati - no hint
+energía - enerji - no hint
+equipo - ekipman - no hint
+experto - eksper - no hint
+federación - federasyon - no hint
+finanzas - finans - no hint
+financiero - finansal - no hint
+formato - format - no hint
+foro - forum - no hint
+ful - ful - no hint
+función - fonksiyon - no hint
+galería - galeri - no hint
+gas - gaz - no hint
+gendarme - jandarma - no hint
+caballero - centilmen - no hint
+geometría - geometri - no hint
+gol - gol - no hint
+golf - golf - no hint
+gramática - gramer - no hint
+grupo - grup - no hint
+guitarra - gitar - no hint
+gimnasia - jimnastik - no hint
+habitat - habitat - no hint
+dónde - hol - no hint
+hockey - hokey - no hint
+hipótesis - hipotez - no hint
+ideal - ideal - no hint
+ilusionista - illüzyonist - no hint
+imagen - imaj - no hint
+internet - internet - no hint
+brocheta - şiş kebap - no hint
+kilómetro - kilometre - no hint
+limón - limon - no hint
+lira - lira - no hint
+litro - litre - no hint
+para enmascarar - to mask - no hint
+máquina - makine - no hint
+manual - manüel - no hint
+marcha - mart - no hint
+máscara - maske - no hint
+material bélico - materyal - no hint
+matemáticas - matematik - no hint
+podrá - mayıs - no hint
+mecanismo - mekanizma - no hint
+enviar mensaje - mesaj göndermek - no hint
+transmitir un mensaje - to pass on a message - no hint
+metáfora - metaforik - no hint
+método - metot - no hint
+carro - mobil - no hint
+música - müzik - no hint
+musical - müzikal - no hint
+con - mit - no hint
+negativo - negatif - no hint
 normal - normal - no hint
-nostalji - nostalgia - no hint
-opera - ópera - no hint
-oral - oral - no hint
-oryantal - oriental - no hint
-orijinal - original - no hint
-panorama - panorama - no hint
-belirli - particular - no hint
-makarna - pasta - no hint
-papaz - pastor - no hint
-veranda - patio - no hint
-desen - patrón - no hint
-tuhaf - peculiar - no hint
-ceza - penal - no hint
-parfüm - perfume - no hint
-kişiye özel - personal - no hint
-peseta - peseta - no hint
-plan - piano - no hint
-plaza - plaza - no hint
-çoğul - plural - no hint
-popüler - popular - no hint
-i̇ddia - pretensión - no hint
-müdür - principal - no hint
-muhtemel - probable - no hint
-propaganda - propaganda - no hint
-koruyucu - protector - no hint
-il - provincial - no hint
-radikal - radical - no hint
-radyo - radio - no hint
-bölge - región - no hint
-bölgesel - regional - no hint
-düzenli - regular - no hint
-din - religión - no hint
-toplantı - reunión - no hint
-revizyon - revisión - no hint
-ritüel - ritual - no hint
-kırsal - rural - no hint
-laik - secular - no hint
-duygusal - sentimental - no hint
-seri - serial - no hint
-cinsel - sexual - no hint
-benzer - similar - no hint
-basit - simple - no hint
-tekil - singular - no hint
-sosyal - social - no hint
-güneş - solar - no hint
-sadece - solo - no hint
-yıkma - subversión - no hint
-yüzeysel - superficial - no hint
-üstün - superior - no hint
-taksi - taxi - no hint
-televizyon - televisión - no hint
-korkunç - terrible - no hint
-terör - terror - no hint
-toplam - total - no hint
-transandantal - transcendental - no hint
-üçlü - triple - no hint
-tropikal - tropical - no hint
-birlik - unión - no hint
-evrensel - universal - no hint
-olağan - usual - no hint
-sözlü - verbal - no hint
-versiyon - versión - no hint
-dikey - vertical - no hint
-vaktini boşa harcamak - violín - no hint
-gözle görülür - visible - no hint
-görsel - visual - no hint
-hayati - vital - no hint
-kaba - vulgar - no hint
-savunmasız - vulnerable - no hint
-soyutlama - abstracción - no hint
-aksiyon - acción - no hint
-suçlama - acusación - no hint
-adaptasyon - adaptación - no hint
-hayranlık - admiración - no hint
-uygulama - aplicación - no hint
-takdir - apreciación - no hint
-bağlantı - asociación - no hint
-özlem - aspiración - no hint
-dikkat - atención - no hint
-cazibe - atracción - no hint
-yetki - autorización - no hint
-kutlama - celebración - no hint
-dolaşım - circulación - no hint
-medeniyet - civilización - no hint
-sınıflandırma - clasificación - no hint
-işbirliği - colaboración - no hint
-toplamak - colección - no hint
-kombinasyon - combinación - no hint
-tazminat - compensación - no hint
-kompozisyon - composición - no hint
-konsantrasyon - concentración - no hint
-anlayış - concepción - no hint
-şart - condición - no hint
-koruma - conservación - no hint
-değerlendirme - consideración - no hint
-anayasa - constitución - no hint
-inşa - construcción - no hint
-sergileme - exposición - no hint
-kurgu - ficción - no hint
-eğitim - formación - no hint
-ulus - nación - no hint
-basitleştirme - simplificación - no hint
-i̇spanyol - spanish - no hint
-düşman - adversario - no hint
-yıldönümü - aniversario - no hint
-keyfi - arbitrario - no hint
-yorum - comentario - no hint
-tamamlayıcı - complementario - no hint
-tersine - contrario - no hint
-günlük - diario - no hint
-sözlük - glosario - no hint
-haliç - estuario - no hint
-birincil - primario - no hint
-tespih boncukları - rosario - no hint
-maaş - salario - no hint
-sekreter - secretario - no hint
-yalnız - solitario - no hint
-kelime hazinesi - vocabulario - no hint
-geçici - temporario - no hint
-akademik - académico - no hint
-alkollü - alcohólico - no hint
-sanatsal - artístico - no hint
-otantik - auténtico - no hint
-otomatik - automático - no hint
-temel - básico - no hint
-karakteristik - característico - no hint
-klasik - clásico - no hint
-komik - cómico - no hint
-demokratik - democrático - no hint
-dinamik - dinámico - no hint
-diplomatik - diplomático - no hint
-yerli - doméstico - no hint
-dramatik - dramático - no hint
-ekonomik - económico - no hint
-elektronik - electrónico - no hint
-erotik - erótico - no hint
-acayip - exótico - no hint
-fantastik - fantástico - no hint
-genel - genérico - no hint
-genetik - genético - no hint
-geometrik - geométrico - no hint
-kahramanca - heroico - no hint
-ironik - irónico - no hint
-büyülü - mágico - no hint
-doktor - médico - no hint
-mozaik - mosaico - no hint
-organik - orgánico - no hint
-panik - pánico - no hint
-plastik - plástico - no hint
-şiirsel - poético - no hint
-halka açık - público - no hint
-romantik - romántico - no hint
-sistematik - sistemático - no hint
-trajik - trágico - no hint
-meraklı - curioso - no hint
-lezzetli - delicioso - no hint
-şanlı - glorioso - no hint
-gizemli - misterioso - no hint
-sayısız - numeroso - no hint
-değerli - precioso - no hint
-dini - religioso - no hint
-sıkıcı - tedioso - no hint
-öz - abstracto - no hint
-davranmak - acto - no hint
-eser - artefacto - no hint
-kompakt - compacto - no hint
-fikir ayrılığı - conflicto - no hint
-i̇letişim - contacto - no hint
-sağ - correcto - no hint
-kesinlikle - exacto - no hint
-dışında - excepto - no hint
-böcek - insecto - no hint
-mükemmel - perfecto - no hint
-ürün - producto - no hint
-merhaba - hola - no hint
-nasılsın - qué tal - no hint
-sorun ne - qué pasa - no hint
-nasıl gidiyor - cómo te va - no hint
-iyi - bien - no hint
-çok iyi - muy bien - no hint
-şöyle böyle - así así - no hint
-çok iyi değil - no tan bien - no hint
-ya sen - y tú - no hint
-benim ismim - me llamo - no hint
-adınız ne - cómo te llamas - no hint
-zevk - mucho gusto - no hint
-yer - placér - no hint
-büyülü - encantadoencantada - no hint
-yarın görüşürüz - nos vemos mañana - no hint
-sonra görüşürüz - hasta luego - no hint
-yakında görüşürüz arkadaşım - hasta pronto amigo - no hint
-teşekkür ederim - gracias - no hint
-rica ederim - de nada - no hint
-rica ederim - no hay de qué - no hint
-affedersiniz - disculpe - no hint
-afedersiniz - lo siento - no hint
-ne yapmak istersin - qué te gusta hacer - no hint
-mi en sevdiğim hobi - mi pasatiempo favorito es - no hint
-hobilerin neler - cuáles son tus pasatiempos - no hint
-sen boş zamanlarında ne yaparsınız - qué haces en tu tiempo libre - no hint
-beğendim beğenmedim - me gusta no me gusta - no hint
-onu seviyorum - me encanta - no hint
-ne okumayı seversin - qué te gusta leer - no hint
-ne tür müzik seversin - que música te gusta - no hint
-benim favorim - mi favorito es - no hint
-gitmeyi seviyorum - me gusta ir - no hint
-i̇şiniz nedir - en qué trabajas - no hint
-i̇şini seviyor musun - te gusta tu trabajo - no hint
-çalışıyorum - trabajo en - no hint
-ne kadar - cuánto cuesta - no hint
-banyo nerede - dónde está el baño - no hint
-saat kaç - qué hora es - no hint
-bir şey olur - pasa algo - no hint
-bu doğru mu - es esto correcto - no hint
-ben hatalıydım - me equivocado - no hint
-bana bu konuda yardımcı olabilir misin - me puede ayudar con esto - no hint
-bana getirebilir misin lütfen - puedes traerme por favor - no hint
-girebilirim - puedo entrar - no hint
-bir şeyler içmek ister misin - quieres tomar una copa - no hint
-nerede yemek yemeliyiz - a dónde deberíamos ir a comer - no hint
-hazır mısın - estás listo - no hint
-onu görmeden ne kadar zamandır - cuánto tiempo sin verloa - no hint
-i̇yi ki doğdun - feliz cumpleaños - no hint
-iyi şanslar - buena suerte - no hint
-yüksek - alto - no hint
-sağlık - salud - no hint
-iyileşmek - que te mejores - no hint
-zevk almak - buen provecho - no hint
-kendine iyi bak - cuídate - no hint
-tebrikler - felicitaciones - no hint
-aferin - bien hecho - no hint
-harika - estupendo - no hint
-parlak - genial - no hint
-inanılmaz - increíble - no hint
-bakalım - a ver - no hint
-iyi - pues - no hint
-tamam - bueno - no hint
-bilmek - sabes - no hint
-emin - por supuesto - no hint
-diğer taraftan - por otra parte - no hint
-ancak - pero - no hint
-gerçekten mi - de verdad - no hint
-aman tanrım - dios mio - no hint
-sonra - entonces - no hint
-yani - asi que - no hint
-yardıma ihtiyacım var - necesito ayuda - no hint
-vardığında beni ara - llámame cuando llegues - no hint
-eve gidiyorum - me voy a casa - no hint
-gitmem gerek - necesito ir a - no hint
-oraya nasıl giderim - como llego hasta ahí - no hint
-bilmiyorum - no lo sé - no hint
-hiçbir fikrim yok - no tengo idea - no hint
-anladın - lo entiendes - no hint
-anlayamıyorum - no entiendo - no hint
-istiyorum - quiero - no hint
-daha yavaş konuşabilir misin lütfen - puede hablar más despacio por favor - no hint
-ve - y - no hint
-itibaren - de - no hint
-o - que - no hint
-yok - no - no hint
-at - a - no hint
-az - la - no hint
-el - el - no hint
-dır/dir - es - no hint
-içinde - en - no hint
-o - lo - no hint
-an - un - no hint
-için - por - no hint
-o - qué - no hint
-ben mi - me - no hint
-a - una - no hint
-/e - te - no hint
-biliyorum - se - no hint
-o - los - no hint
-ile - con - no hint
-para - para - no hint
-ben mi - mi - no hint
-bu - está - no hint
-eğer - si - no hint
-ay - sí - no hint
-ancak - pero - no hint
-iyi - bien - no hint
-ben - yo - no hint
-onun - su - no hint
-bu - eso - no hint
-burada - aquí - no hint
-of - del - no hint
-/e - al - no hint
-olarak - como - no hint
-sen - tu - no hint
-daha - más - no hint
-alt - todo - no hint
-evet - ya - no hint
-çok - muy - no hint
-bu - esto - no hint
-gitmek - vamos - no hint
-ha - ha - no hint
-şimdi - ahora - no hint
-dır/dir - esta - no hint
-ada - hay - no hint
-ben - estoy - no hint
-bir şey - algo - no hint
-sizin - tú - no hint
-sahip olmak - tengo - no hint
-yani - así - no hint
-hiçbir şey değil - nada - no hint
-bi̇ze - nos - no hint
-ne zaman - cuando - no hint
-nasıl - cómo - no hint
-o - él - no hint
-görmek - sé - no hint
-bunlar - estás - no hint
-tek başına - sólo - no hint
-veya - o - no hint
-istiyorum - quiero - no hint
-doğu - este - no hint
-var - tiene - no hint
-teşekkür ederim - gracias - no hint
-o - he - no hint
-olabilir miyim - puedo - no hint
-tamam - bueno - no hint
-bin - soy - no hint
-öyleydi - era - no hint
-olmak - ser - no hint
-zaman - vez - no hint
-do - hacer - no hint
-tüm - todos - no hint
-o - ella - no hint
-onun - son - no hint
-öyleydi - fue - no hint
-vardır - eres - no hint
-ön - usted - no hint
-var - tienes - no hint
-yapabilmek - puede - no hint
-bayım - señor - no hint
-diye - ese - no hint
-git - voy - no hint
-dsö - quién - no hint
-ev - casa - no hint
-sanırım - creo - no hint
-dahil - porque - no hint
-yani - tan - no hint
-iyilik - favor - no hint
-merhaba - hola - no hint
-var - dónde - no hint
-asla - nunca - no hint
-onların - sus - no hint
-bilmek - sabes - no hint
-nereden - dos - no hint
-hakikat - verdad - no hint
-istemek - quieres - no hint
-çok - mucho - no hint
-sonra - entonces - no hint
-ben ... idim - estaba - no hint
-hava - tiempo - no hint
-benim - mí - no hint
-o - esa - no hint
-daha iyi - mejor - no hint
-adam - hombre - no hint
-yapmak - hace - no hint
-niyet - va - no hint
-tanrı - dios - no hint
-çok - también - no hint
-vardır - has - no hint
-hayat - vida - no hint
-olmadan - sin - no hint
-öyle mi - están - no hint
-görmek - ver - no hint
-sr - sr - no hint
-sonsuza dek - siempre - no hint
-oh - oh - no hint
-yukarı - hasta - no hint
-sen - ti - no hint
-orada - ahí - no hint
-hissediyorum - siento - no hint
-yapabilirsiniz - puedes - no hint
-demek - decir - no hint
-ni - ni - no hint
-üzerinde - sobre - no hint
-ani - años - no hint
-sahibiz - tenemos - no hint
-bir - uno - no hint
-gün - día - no hint
-gece - noche - no hint
-bir şeyler - cosas - no hint
-birisi - alguien - no hint
-önce - antes - no hint
-yanlış - mis - no hint
-ve - ir - no hint
-biraz - poco - no hint
-diğer - otra - no hint
-ister - quiere - no hint
-sadece - solo - no hint
-kimse - nadie - no hint
-biz - nosotros - no hint
-ebeveyn - padre - no hint
-insanlar - gente - no hint
-anlaşılan - parece - no hint
-para - dinero - no hint
-standı - estar - no hint
-yapılan - hecho - no hint
-aynı - mismo - no hint
-deniz - sea - no hint
-biz - estamos - no hint
-görme - mira - no hint
-olur - pasa - no hint
-iş - trabajo - no hint
-söyledi - dijo - no hint
-onlar - ellos - no hint
-sen - vas - no hint
-elbette - claro - no hint
-sabah - mañana - no hint
-onlarda var - han - no hint
-diğer - otro - no hint
-sonra - después - no hint
-iz - desde - no hint
-dünya - mundo - no hint
-konuşmak - hablar - no hint
-nın/nin - tal - no hint
-oradaydı - había - no hint
-bilirsin - sabe - no hint
-anlaşma - acuerdo - no hint
-saat - momento - no hint
-nerede - donde - no hint
-dışarıda - fuera - no hint
-oğlu - hijo - no hint
-belki - podría - no hint
-sigorta - seguro - no hint
-kadın - mujer - no hint
-arkadaş - amigo - no hint
-günler - días - no hint
-ana - madre - no hint
-orada - allí - no hint
-şey - cosa - no hint
-sizin - tus - no hint
-yer - lugar - no hint
-diyor - dice - no hint
-sevmek - gusta - no hint
-olacak - será - no hint
-büyük - gran - no hint
-bok - mierda - no hint
-vardı - tenía - no hint
-anne - mamá - no hint
-baba - papá - no hint
-beklemek - espera - no hint
-bugün - hoy - no hint
-sahip olmak - tener - no hint
-arkadaş - ven - no hint
-iyi - buena - no hint
-durumu - estado - no hint
-yeni - nuevo - no hint
-sonra - luego - no hint
-yapabiliriz - podemos - no hint
-üç - tres - no hint
-dedim - dije - no hint
-bizim - nuestro - no hint
-olmuştur - sido - no hint
-daha az - menos - no hint
-zorunda - debe - no hint
-tür - tipo - no hint
-iyi - buen - no hint
-benimle - conmigo - no hint
-zamanlar - mal - no hint
-herşey - todas - no hint
-i̇sim soyisim - nombre - no hint
-yapmak - haciendo - no hint
-sence - crees - no hint
-herşey - toda - no hint
-aşk - amor - no hint
-kendi - mío - no hint
-görüldü - visto - no hint
-vardır - estas - no hint
-aranan - quería - no hint
-eh - eh - no hint
-geç - tarde - no hint
-fark eder, önemi var - importa - no hint
-bölüm - parte - no hint
-hala - aún - no hint
-bizim - nuestra - no hint
-sahip olmak - tienen - no hint
-bu kadar - tanto - no hint
-her biri - cada - no hint
-zaman - hora - no hint
-zamanlar - veces - no hint
-gerekli - necesito - no hint
-seninle - contigo - no hint
-ve - ve - no hint
-haber - haber - no hint
-iyi - buenas - no hint
-dedi - dicho - no hint
-dsö - quien - no hint
-yap - hacerlo - no hint
-çok - demasiado - no hint
-duyar - oye - no hint
-ah - ah - no hint
-yapmalısın - haces - no hint
-erkekler - hombres - no hint
-bilmek - saber - no hint
-arasında - entre - no hint
-güle güle - adiós - no hint
-sorun - problema - no hint
-biraz - unos - no hint
-vay - vaya - no hint
-sahibiz - hemos - no hint
-belirli - cierto - no hint
-yapacağım - debo - no hint
-sebep - razón - no hint
-herhangi - alguna - no hint
-şunlar - esos - no hint
-iyi - pues - no hint
-anlıyorum - veo - no hint
-kız - chica - no hint
-gerçekten mi - realmente - no hint
-polis - policía - no hint
-yapılmış - hizo - no hint
-bunlar - estos - no hint
-arkadaşlar - amigos - no hint
-siz çocuklar - ustedes - no hint
-olabilir - quizá - no hint
-güldüm - serio - no hint
-kafa - cabeza - no hint
-kardeş - hermano - no hint
-söyle - digo - no hint
-itibaren - van - no hint
-geçmiş - pasado - no hint
-defol - salir - no hint
-fatura - cuenta - no hint
-aile - familia - no hint
-tatlım - cariño - no hint
-tamam mi - vale - no hint
-biraz - algún - no hint
-birçok - muchas - no hint
-hanım - señora - no hint
-vardır - somos - no hint
-yapabilirler - pueden - no hint
-geceler - noches - no hint
-ölü - muerto - no hint
-dışarı - ud - no hint
-hala - todavía - no hint
-hızlı - rápido - no hint
-eski - viejo - no hint
-yan - lado - no hint
-olması gerekiyor - debería - no hint
-ves - ves - no hint
-biliyordum - sabía - no hint
-şanslı - suerte - no hint
-dikkat - cuidado - no hint
-iyi - buenos - no hint
-olur - sería - no hint
-verir - da - no hint
-süre - mientras - no hint
-korku - miedo - no hint
-ilk - primera - no hint
-karşı - contra - no hint
-kapı - puerta - no hint
-yakında - pronto - no hint
-dır/dir - e - no hint
-neredeyse - casi - no hint
-yeni - nueva - no hint
-bekle - espero - no hint
-hiç - cualquier - no hint
-şunlar - esas - no hint
-su - agua - no hint
-sen - os - no hint
-insan - chico - no hint
-ne kadar - cuánto - no hint
-çocuklar - niños - no hint
-gel - venga - no hint
-yol - camino - no hint
-ilk - primero - no hint
-doğru - hacia - no hint
-düşünce - pensé - no hint
-dans - dentro - no hint
-geçtim - pasó - no hint
-malısın - debes - no hint
-şehir - ciudad - no hint
-hikaye - historia - no hint
-yıl - año - no hint
-gelir - viene - no hint
-yapraklar - deja - no hint
-sırasında - durante - no hint
-form - forma - no hint
-dönüş - volver - no hint
-mutlu - feliz - no hint
-gözler - ojos - no hint
-savaş - guerra - no hint
-dava - caso - no hint
-erkek - chicos - no hint
-kadın eş - esposa - no hint
-ileride - adelante - no hint
-kuru - cuál - no hint
-mano - mano - no hint
-ben yaptım - hice - no hint
-biz - vi - no hint
-istemek - gustaría - no hint
-ölüm - muerte - no hint
-orada - allá - no hint
-fakat - mas - no hint
-deli - loco - no hint
-elbette - supuesto - no hint
-alma - toma - no hint
-dakika - minutos - no hint
-yapacağım - haré - no hint
-anladım - entiendo - no hint
-geçmek - pasar - no hint
-sadece - iba - no hint
-kalp - corazón - no hint
-hafta - semana - no hint
-patron - jefe - no hint
-gel - venir - no hint
-eller - manos - no hint
-yardım - ayuda - no hint
-sorunlar - problemas - no hint
-birlikte - juntos - no hint
-sanırım - supongo - no hint
-izin ver - déjame - no hint
-önemli - importante - no hint
-kendini - vete - no hint
-çocuk - niño - no hint
-yukarıda - arriba - no hint
-dır/dir - hija - no hint
-diğerleri - otros - no hint
-hanım - sra - no hint
-kişiler - personas - no hint
-arazi - tierra - no hint
-yol - manera - no hint
-konuşuyorum - hablando - no hint
-son - fin - no hint
-kadin - mujeres - no hint
-yol - cara - no hint
-büyük - grande - no hint
-hayır - ningún - no hint
-bizim - nuestros - no hint
-beş - cinco - no hint
-telefon etmek - llama - no hint
-konuşuyor - habla - no hint
-düşük - bajo - no hint
-diyorsun - dices - no hint
-güç - poder - no hint
-ne zaman - cuándo - no hint
-belki - quizás - no hint
-dinle - escucha - no hint
-kişi - persona - no hint
-saatler - horas - no hint
-amca dayı - tío - no hint
-olsa - aunque - no hint
-tek - único - no hint
-dedim - dijiste - no hint
-hatta - siquiera - no hint
-isterler - quieren - no hint
-yok - ninguna - no hint
-yakın - cerca - no hint
-küçük - pequeño - no hint
-zorunlu - debemos - no hint
-kadın - dame - no hint
-devam et - sigue - no hint
-araba - auto - no hint
-dört - cuatro - no hint
-let - dejar - no hint
-birçok - muchos - no hint
-eşit - igual - no hint
-yaparım - hago - no hint
-hazır - listo - no hint
-anlamı - significa - no hint
-kaptan - capitán - no hint
-sınıf - clase - no hint
-ulaşmak - llegar - no hint
-yeterli - suficiente - no hint
-almak - tomar - no hint
-yaşamak - vivir - no hint
-genç - joven - no hint
-çalışmak - trabajar - no hint
-dır/dir - haya - no hint
-aşağı - abajo - no hint
-vardı - hubiera - no hint
-ilk - primer - no hint
-parlak - genial - no hint
-adil - justo - no hint
-düşünmek - pensar - no hint
-aynı - misma - no hint
-zamanlar - puta - no hint
-yemek - comer - no hint
-ihtiyacı olmak - necesita - no hint
-bilmek - conozco - no hint
-gittim - fui - no hint
-bazı - algunos - no hint
-oturum aç - entrar - no hint
-güçlü - fuerte - no hint
-numara - número - no hint
-hanım - srta - no hint
-ölmek - morir - no hint
-bu yeterli - basta - no hint
-vermek - dar - no hint
-oldukça - bastante - no hint
-usta - amo - no hint
-geri - atrás - no hint
-onlar söylüyor - dicen - no hint
-sert - difícil - no hint
-doğu - éste - no hint
-yapabilmek - pueda - no hint
-nokta - punto - no hint
-şarap - vino - no hint
-kız kardeş - hermana - no hint
-oğullar - hijos - no hint
-çiviler - unas - no hint
-okul - escuela - no hint
-abilir - podía - no hint
-kasaba - pueblo - no hint
-yapmak - haga - no hint
-kan - sangre - no hint
-aylar - meses - no hint
-araba - coche - no hint
-oyunu - juego - no hint
-bulmak - encontrar - no hint
-gerçeklik - realidad - no hint
-vücut - cuerpo - no hint
-daha yüksek - mayor - no hint
-son - última - no hint
-/di - eran - no hint
-kalıntılar - queda - no hint
-tamam mı - ok - no hint
-barış - paz - no hint
-kuruş - dime - no hint
-dönüş - vuelta - no hint
-yaptı - hiciste - no hint
-boyalı - tenido - no hint
-tek başına - sola - no hint
-yapmak - hacen - no hint
-gitti - ido - no hint
-bal - querida - no hint
-gideceğim - iré - no hint
-suç - culpa - no hint
-kötü - malo - no hint
-kızlar - chicas - no hint
-gıda - comida - no hint
-dolar - dólares - no hint
-biliyorlar - saben - no hint
-kolay - fácil - no hint
-yüksek - alto - no hint
-mümkün - posible - no hint
-lanetlenmiş - maldito - no hint
-uyku - dormir - no hint
-malısın - deberías - no hint
-lanetlenmiş - maldita - no hint
-soru - pregunta - no hint
-hatta - incluso - no hint
-parti - fiesta - no hint
-her ikisi de - tampoco - no hint
-yatak - cama - no hint
-uzak - lejos - no hint
-orta - medio - no hint
-endişelenmek - preocupes - no hint
-evet - ay - no hint
-tel - teléfono - no hint
-söyle - diga - no hint
-hakkında - trata - no hint
-takım - equipo - no hint
-kelime - palabra - no hint
-ne kadar - cuanto - no hint
-moron - idiota - no hint
-doğu - esté - no hint
-ışık - luz - no hint
-sahiptim - tuve - no hint
-ülke - país - no hint
-ikinci - segundo - no hint
-sayın - querido - no hint
-şeytanlar - diablos - no hint
-yapmalısın - hagas - no hint
-özlemek - señorita - no hint
-şans - oportunidad - no hint
-öldürmek - matar - no hint
-biraz - algunas - no hint
-beklemek - esperando - no hint
-ihtiyacımız var - necesitamos - no hint
-nereye - adónde - no hint
-olacak - estará - no hint
-gelirim - venido - no hint
-sen - estabas - no hint
-onlar - fueron - no hint
-altı - seis - no hint
-sahip olmak - tenga - no hint
-oda - cuarto - no hint
-gökyüzü - cielo - no hint
-canlı - vivo - no hint
-hatırlıyorum - recuerdo - no hint
-afedersiniz - perdón - no hint
-eksiklik - falta - no hint
-küçük - pequeña - no hint
-kulak - oído - no hint
-inanmak - creer - no hint
-bence - pienso - no hint
-dır/dir - ésta - no hint
-beklemek - esperar - no hint
-ihtiyacın var - necesitas - no hint
-i̇şte - aqui - no hint
-film - película - no hint
-ayrıca - además - no hint
-koca - marido - no hint
-köpek - perro - no hint
-sokak - calle - no hint
-kesinlikle - exactamente - no hint
-kral - rey - no hint
-babalar - padres - no hint
-listesi - lista - no hint
-olacak - habrá - no hint
-oda - habitación - no hint
-bok - carajo - no hint
-düşünme - pensando - no hint
-çifti - par - no hint
-yangın - fuego - no hint
-kız - niña - no hint
-devam - seguir - no hint
-müzik - música - no hint
-nın/nin - di - no hint
-orada olurdu - habría - no hint
-çok - mucha - no hint
-adım - paso - no hint
-sense - sentido - no hint
-söyleyeceğim - diré - no hint
-yapabildin mi - podrías - no hint
-dışarıda - afuera - no hint
-diyorsun - digas - no hint
-benim - mía - no hint
-o öldü - murió - no hint
-verdi - dio - no hint
-kahve - café - no hint
-anladın - entiendes - no hint
-bizim - nuestras - no hint
-düşünmek - piensa - no hint
-o - ello - no hint
-taşır - lleva - no hint
-o - estuvo - no hint
-en son - último - no hint
-söyleme - diciendo - no hint
-büyük - grandes - no hint
-yer - sitio - no hint
-kitap - libro - no hint
-aranıyor - buscando - no hint
-bebek - bebé - no hint
-kapa çeneni - cállate - no hint
-i̇adeler - vuelve - no hint
-asla - jamás - no hint
-dakika - minuto - no hint
-silah - arma - no hint
-seyahat - viaje - no hint
-sadece - única - no hint
-erkekler - muchachos - no hint
-kayıp - perdido - no hint
-oyna - jugar - no hint
-on - diez - no hint
-görürüz - vemos - no hint
-zar - dado - no hint
-biliyoruz - sabemos - no hint
-bin - mil - no hint
-geri kalan - demás - no hint
-sevmek - gusto - no hint
-daha da kötüsü - peor - no hint
-çekip gitmek - irme - no hint
-/di - estaban - no hint
-sipariş - orden - no hint
-gidiyor - pasando - no hint
-değişim - cambio - no hint
-garip - extraño - no hint
-yoksul - pobre - no hint
-giyim - ropa - no hint
-istiyoruz - queremos - no hint
-ofis - oficina - no hint
-aksi takdirde - sino - no hint
-yol - modo - no hint
-olur - ocurre - no hint
-genç adam - muchacho - no hint
-diğer - otras - no hint
-yapacağım - hará - no hint
-ücretsiz - libre - no hint
-bilirsin - conoces - no hint
-sence - piensas - no hint
-devlet başkanı - presidente - no hint
-özel - especial - no hint
-dün gece - anoche - no hint
-milyonlar - millones - no hint
-hakkında - acerca - no hint
-sağ - derecho - no hint
-siyah - negro - no hint
-i̇şte - acá - no hint
-beyler - caballeros - no hint
-haftalar - semanas - no hint
-kelimeler - palabras - no hint
-arama - buscar - no hint
-güvenli - segura - no hint
-sağ - correcto - no hint
-alın - frente - no hint
-yaparız - hacemos - no hint
-denizler - seas - no hint
-bak - detrás - no hint
-pazar tezgahı - puesto - no hint
-iş - asunto - no hint
-kalıcı - duro - no hint
-olur - sucede - no hint
-telefon etmek - llamar - no hint
-affedersiniz - disculpe - no hint
-ağız - boca - no hint
-dikkat - atención - no hint
-pislik - mire - no hint
-silahlar - armas - no hint
-yukarıda - encima - no hint
-iblisler - demonios - no hint
-kötü - mala - no hint
-getirmek - llevar - no hint
-hangi - cual - no hint
-nefret - odio - no hint
-zorunlu - deben - no hint
-hayal - sueño - no hint
-istemek - quieras - no hint
-dinlenme - resto - no hint
-ararım - llamo - no hint
-kaybetmek - perder - no hint
-aranan - llamado - no hint
-mükemmel - perfecto - no hint
-olacağım - estaré - no hint
-sessiz - tranquilo - no hint
-güvenlik - seguridad - no hint
-yardım etmek - ayudar - no hint
-vardı - tuvo - no hint
-uzun - largo - no hint
-tüy - pena - no hint
-muhtemelen - probablemente - no hint
-dün - ayer - no hint
-dile - dile - no hint
-test - prueba - no hint
-olmak - siendo - no hint
-güzel - bonito - no hint
-hatırlamak - recuerdas - no hint
-yapmak - haz - no hint
-göreceksin - veras - no hint
-inanılmaz - increíble - no hint
-ben isterim - quisiera - no hint
-aptal - tonto - no hint
-basitçe - simplemente - no hint
-would - haría - no hint
-sorular - preguntas - no hint
-hava - aire - no hint
-bilinen - conoce - no hint
-kuvvet - fuerza - no hint
-kağıt - carta - no hint
-tedavi - trato - no hint
-o - ése - no hint
-onu gör - verlo - no hint
-aç - hambre - no hint
-döndü - vuelto - no hint
-başla - empezar - no hint
-kırsal bölge - campo - no hint
-acaba - acaba - no hint
-konuşmak - hablas - no hint
-yaşıyor - vive - no hint
-gemi - barco - no hint
-koymak - poner - no hint
-grup - grupo - no hint
-inandım - creí - no hint
-güneş - sol - no hint
-senin - tuyo - no hint
-olur - pase - no hint
-ses - voz - no hint
-banyo - baño - no hint
-kullanım - usar - no hint
-almak - conseguir - no hint
-zevk - placer - no hint
-geldi - llegado - no hint
-sana söyle - decirte - no hint
-öğretmen - profesor - no hint
-haber - noticias - no hint
-ağıt - lamento - no hint
-ona söyle - decirle - no hint
-beyaz - blanco - no hint
-kalmak - quédate - no hint
-oldu - estuve - no hint
-ayak - pie - no hint
-bekleyin - espere - no hint
-yaş - edad - no hint
-gizli - secreto - no hint
-yapabiliriz - podríamos - no hint
-şirket - compañía - no hint
-tren - tren - no hint
-hatırlamak - recuerda - no hint
-sonra - tras - no hint
-oturmak - siéntate - no hint
-acele - prisa - no hint
-görünüm - vista - no hint
-güzel - hermosa - no hint
-iş - negocio - no hint
-yapmalıyız - deberíamos - no hint
-onlar hoşlanıyor - gustan - no hint
-ödemek - pagar - no hint
-gelecek - futuro - no hint
-sessizlik - silencio - no hint
-hissetmek - siente - no hint
-doktor - médico - no hint
-usta - maestro - no hint
-istemek - quiera - no hint
-geldi - llegó - no hint
-çılgın - loca - no hint
-değişiklik - cambiar - no hint
-tuz - sal - no hint
-tuhaf - raro - no hint
-gösterdi - viste - no hint
-gelin - novia - no hint
-farklı - diferente - no hint
-imkansız - imposible - no hint
-arkadaş - amiga - no hint
-derhal - enseguida - no hint
-çağrı - llamada - no hint
-ve - dan - no hint
-i̇zin vermek - dejó - no hint
-benim - mes - no hint
-giyerim - llevo - no hint
-uçak - avión - no hint
-saç - pelo - no hint
-niyet - haremos - no hint
-sahip olacak - tendrá - no hint
-kendi - propia - no hint
-takip etme - siguiente - no hint
-kazanmak - ganar - no hint
-hukuk - ley - no hint
-ağrı - dolor - no hint
-altın - oro - no hint
-sadece - acabó - no hint
-lanet - maldición - no hint
-resmi - oficial - no hint
-durum - situación - no hint
-hasar - daño - no hint
-hissediyorsun - sientes - no hint
-anlaşıldı - entendido - no hint
-dilek - deseo - no hint
-zihin - mente - no hint
-ordu - ejército - no hint
-satın - comprar - no hint
-ölü - muertos - no hint
-düşünce - pensaba - no hint
-ona ver - darle - no hint
-aptal - estúpido - no hint
-dedi - decía - no hint
-bitmiş - acabo - no hint
-sesler - suena - no hint
-yarım - mitad - no hint
-at - caballo - no hint
-suikastçı - asesino - no hint
-testere - vio - no hint
-izin - permiso - no hint
-onlar - ellas - no hint
-çalışma - trabajando - no hint
-harikulade - maravilloso - no hint
-sıra - mesa - no hint
-eğlenceli - divertido - no hint
-üst - mejores - no hint
-sonraki - próxima - no hint
-girin - entra - no hint
-deniz - mar - no hint
-yedi - siete - no hint
-doğru - hacía - no hint
-seks - sexo - no hint
-seviyor - encanta - no hint
-güzel - amable - no hint
-i̇leti - mensaje - no hint
-bilgi - información - no hint
-takım elbise - traje - no hint
-ruh - alma - no hint
-bulundu - encontrado - no hint
-albay - coronel - no hint
-dale - dale - no hint
-san - san - no hint
-fiyat - cena - no hint
-buldum - encontré - no hint
-sahip olacaksın - tendrás - no hint
-çağlar - eras - no hint
-öz - propio - no hint
-göt - culo - no hint
-hakkında - asi - no hint
-içeride - adentro - no hint
-şarkı - canción - no hint
-hükümet - gobierno - no hint
-konu - temo - no hint
-açık - abre - no hint
-dediler - dijeron - no hint
-sen - fuiste - no hint
-medya - media - no hint
-bizdik - estábamos - no hint
-olur - estaría - no hint
-ben vereceğim - daré - no hint
-sen - vosotros - no hint
-soğuk - frío - no hint
-fotoğraf - foto - no hint
-kaza - accidente - no hint
-sağ - derecha - no hint
-işe yarıyor - funciona - no hint
-git - vayas - no hint
-merkez - centro - no hint
-gerekli - necesario - no hint
-bak - miren - no hint
-güzel - bonita - no hint
-görünümünde - ante - no hint
-abilir - pude - no hint
-teğmen - teniente - no hint
-ay - luna - no hint
-ayrıldı - izquierda - no hint
-sen - uds - no hint
-veririm - doy - no hint
-hizmet - servicio - no hint
-aramalar - llamas - no hint
-birlikte - junto - no hint
-mağaza - tienda - no hint
-noel - navidad - no hint
-adres - dirección - no hint
-büyükanne - abuela - no hint
-etrafında - alrededor - no hint
-o geliyor - vine - no hint
-sahip olacağım - tendré - no hint
-özgürlük - libertad - no hint
-satış - sale - no hint
-satır - línea - no hint
-avukat - abogado - no hint
-ayaklar - pies - no hint
-denemek - tratando - no hint
-geri vermek - regresar - no hint
-konuştu - hablo - no hint
-eski - vieja - no hint
-kâğıt - papel - no hint
-bitmiş - terminado - no hint
-ayrıldı - dejado - no hint
-yemin etmek - juro - no hint
-yakışıklı - hermoso - no hint
-şeker - dulce - no hint
-hissetmek - sentir - no hint
-başlangıç - principio - no hint
-ilginç - interesante - no hint
-kutu - caja - no hint
-hiç - cualquiera - no hint
-sekiz - ocho - no hint
-cevap - respuesta - no hint
-dişi köpek - perra - no hint
-komik - gracioso - no hint
-getirmek - trae - no hint
-öldürüldü - mató - no hint
-tamamen - completamente - no hint
-gelirler - vienen - no hint
-olmak - sean - no hint
-geldiğinde - llega - no hint
-büyükbaba - abuelo - no hint
-senin varmi - tengas - no hint
-linda - linda - no hint
-sahip olacağız - tendremos - no hint
-parçalar - partes - no hint
-hapis - cárcel - no hint
-oldu - hubo - no hint
-sistem - sistema - no hint
-güzel - lindo - no hint
-yap - hazlo - no hint
-onlar yaptı - hicieron - no hint
-teyze - tía - no hint
-arama - busca - no hint
-don - don - no hint
-düşük - baja - no hint
-abilir - pudo - no hint
-sağlık - salud - no hint
-hazır - listos - no hint
-tarih - cita - no hint
-sahiptin - tenías - no hint
-iş - negocios - no hint
-tipi - tipos - no hint
-kamera - cámara - no hint
-ajan - agente - no hint
-göreceksin - verás - no hint
-cehennem - infierno - no hint
-mevcut - regalo - no hint
-nehir - río - no hint
-vasıtasıyla - través - no hint
-et - carne - no hint
-tamamen - totalmente - no hint
-bana söyle - decirme - no hint
-zemin - piso - no hint
-koca - esposo - no hint
-duymak - oír - no hint
-çavuş - sargento - no hint
-ayrılmak - deje - no hint
-seninki - tuya - no hint
-bunların her ikisi de - ambos - no hint
-i̇çmek - beber - no hint
-sakin ol - calma - no hint
-elbise - vestido - no hint
-dışında - salvo - no hint
-o - ésa - no hint
-gerçek - verdadero - no hint
-çöp - basura - no hint
-zemin - suelo - no hint
-kariyer - carrera - no hint
-doğum günü - cumpleaños - no hint
-bir süre - rato - no hint
-biz gideceğiz - iremos - no hint
-kolej - universidad - no hint
-dans etmek - bailar - no hint
-üzgün - triste - no hint
-kilise - iglesia - no hint
-önünde - delante - no hint
-civciv - nena - no hint
-banka - banco - no hint
-birçok - cuántos - no hint
-bulur - encuentra - no hint
-varsayar - supone - no hint
-var - existe - no hint
-program - programa - no hint
-memnun - alegro - no hint
-kutsal - santo - no hint
-çünkü - porqué - no hint
-erkek arkadaş - novio - no hint
-şaka - broma - no hint
-söyleyebilirim - diría - no hint
-o ayrıldı - salió - no hint
-isa - jesús - no hint
-söz veriyorum - prometo - no hint
-maç - partido - no hint
-soruyorum - pregunto - no hint
-geri gel - vuelva - no hint
-akşam yemegi - cenar - no hint
-oluştu - ocurrió - no hint
-inanmış - creía - no hint
-koşar - corre - no hint
-bahaneler - disculpa - no hint
-sen gel - vienes - no hint
-bira - cerveza - no hint
-ölü - muerta - no hint
-düşünülmüş - pensado - no hint
-hedef - destino - no hint
-evlilik - matrimonio - no hint
-fotoğraflar - fotos - no hint
-şeytan - diablo - no hint
-döneceğim - volveré - no hint
-biliyor - saberlo - no hint
-cennet - cielos - no hint
-kuzey - norte - no hint
-oturma odası - sala - no hint
-emirler - órdenes - no hint
-göre - según - no hint
-yapacaksın - harás - no hint
-saldırı - ataque - no hint
-paris - parís - no hint
-misal - ejemplo - no hint
-sürpriz - sorpresa - no hint
-vardır - té - no hint
-abilir - pudiera - no hint
-ev - baile - no hint
-erken - temprano - no hint
-halka açık - público - no hint
-küçük - tí - no hint
-duydum - oí - no hint
-bakma - mirando - no hint
-penceresi - ventana - no hint
-tuttu - conocido - no hint
-şüphe - duda - no hint
-düğün - boda - no hint
-tehlike - peligro - no hint
-çalışma - trabaja - no hint
-istedim - quise - no hint
-sen istedin - querías - no hint
-sıcak - caliente - no hint
-yazmak - escribir - no hint
-kraliçe - reina - no hint
-tahmin etmiştim - esperaba - no hint
-güney - sur - no hint
-hasta - enfermo - no hint
-mükemmel - excelente - no hint
-yerler - pone - no hint
-sen - estés - no hint
-faliyet alani, sahne - escena - no hint
-toplantı - encuentro - no hint
-cinayet - asesinato - no hint
-inşaat sahası - obra - no hint
-göreceğim - veré - no hint
-ararım - llamó - no hint
-o - aquel - no hint
-sonuçlanmak - terminar - no hint
-arzu etmek - ganas - no hint
-bilmek - conocer - no hint
-kanıt - pruebas - no hint
-efendim - señores - no hint
-sizin - vos - no hint
-beni dinle - escúchame - no hint
-bakalım - veamos - no hint
-inanmak - creen - no hint
-hala - aun - no hint
-yok - ninguno - no hint
-gibi gorunmek - parecía - no hint
-canlı - viva - no hint
-sadece - apenas - no hint
-pazartesi - segunda - no hint
-anahtar - llave - no hint
-dönüş - regreso - no hint
-arka - trasero - no hint
-keşke - ojalá - no hint
-göreceğiz - veremos - no hint
-olacağım - seré - no hint
-o - éi - no hint
-ayrılmak - irse - no hint
-kartları - cartas - no hint
-kitabın - libros - no hint
-yakışıklı - apuesto - no hint
-okumak - leer - no hint
-aptal - imbécil - no hint
-görüş - opinión - no hint
-kahretsin - joder - no hint
-değişti - cambiado - no hint
-oldu - sucedió - no hint
-işaret - señal - no hint
-vardı - habían - no hint
-güzel - agradable - no hint
-kök - cocina - no hint
-ilişki - relación - no hint
-rüyalar - sueños - no hint
-saniye - segundos - no hint
-kesim - corte - no hint
-duymak - escuchar - no hint
-beyin - cerebro - no hint
-delilik - locura - no hint
-tehlikeli - peligroso - no hint
-kardeşler - hermanos - no hint
-anlamak - entender - no hint
-dsö - cine - no hint
-i̇zin vermek - dejes - no hint
-toplantı - reunión - no hint
-olurdu - tendría - no hint
-onu görmek - verla - no hint
-canı yanmak - duele - no hint
-yaptık - hicimos - no hint
-londra - londres - no hint
-oynamak - tocar - no hint
-bak - mirar - no hint
-verme - verme - no hint
-seninki - suyo - no hint
-sebep olmak - causa - no hint
-kavga - pelea - no hint
-hapishane - prisión - no hint
-çoğu - mayoría - no hint
-arka fon - fondo - no hint
-belki - acaso - no hint
-geri geldim - vuelvo - no hint
-olacak - serán - no hint
-yığın - montón - no hint
-dokunuşlar - toca - no hint
-komutan - comandante - no hint
-bana göre - tome - no hint
-başarı - éxito - no hint
-misyon - misión - no hint
-hayatları - vidas - no hint
-karar - decisión - no hint
-ev - hogar - no hint
-zengin - rico - no hint
-ben yutarım - trago - no hint
-yetenekli - capaz - no hint
-şarj - cargo - no hint
-katıldı - unidos - no hint
-tam - lleno - no hint
-bar - bar - no hint
-yıldız - estrella - no hint
-pozisyon - posición - no hint
-istasyon - estación - no hint
-ilgilenen - interesa - no hint
-bina - edificio - no hint
-git - vayan - no hint
-i̇pucu - consejo - no hint
-gun - pistola - no hint
-insan - humano - no hint
-ayrılmak - irnos - no hint
-fantastik - fantástico - no hint
-göz - ojo - no hint
-gençler - jóvenes - no hint
-ayakkabı - zapatos - no hint
-majesteleri - majestad - no hint
-lee - lee - no hint
-çiçekler - flores - no hint
-meşgul - ocupado - no hint
-hoşgeldiniz - bienvenido - no hint
-bölge - zona - no hint
-i̇letişim - contacto - no hint
-almak - sacar - no hint
-abilir - podrían - no hint
-tema - tema - no hint
-öldürüldü - matado - no hint
-asker - soldado - no hint
-biliyor musun - sabías - no hint
-soruyorum - pido - no hint
-kapatır - cierra - no hint
-denenmiş - intento - no hint
-niyet - irá - no hint
-ısı - calor - no hint
-en sonunda - finalmente - no hint
-yanlış - equivocado - no hint
-hayvanlar - animales - no hint
-bölüm - departamento - no hint
-düşman - enemigo - no hint
-beyefendi - caballero - no hint
-renk - color - no hint
-ihtiyaç - necesitan - no hint
-başlar - empieza - no hint
-askerler - soldados - no hint
-görmek - vea - no hint
-anlar - entiende - no hint
-değer - valor - no hint
-mavi - azul - no hint
-mil - miles - no hint
-uzay - espacio - no hint
-sen olacaksın - estarás - no hint
-tutmak - mantener - no hint
-öğrenmek - aprender - no hint
-akıllı - inteligente - no hint
-olacaksın - serás - no hint
-sanat - arte - no hint
-saygı duyuyorum - respeto - no hint
-sormak - pedir - no hint
-koymak - puso - no hint
-ararlar - llaman - no hint
-dinle - oiga - no hint
-hakim - juez - no hint
-ingilizce - inglés - no hint
-fiyat - precio - no hint
-kırmızı - rojo - no hint
-şekiller - formas - no hint
-yapmak - hagan - no hint
-yaz - verano - no hint
-sahibim - podido - no hint
-bacaklar - piernas - no hint
-ada - isla - no hint
-ver bana - darme - no hint
-hanımlar - damas - no hint
-koruma - guardia - no hint
-geri - espalda - no hint
-haydi - vengan - no hint
-dur - parar - no hint
-sen taşı - llevas - no hint
-bant - banda - no hint
-kalmak - quedarme - no hint
-sahip olmak - habéis - no hint
-mart - marcha - no hint
-ışıklar - luces - no hint
-oldu - estuviera - no hint
-suç - crimen - no hint
-ayrıldı - dejo - no hint
-sana yardım etmek - ayudarte - no hint
-bekle - esperen - no hint
-sahibiz - teníamos - no hint
-fark - diferencia - no hint
-arayacağım - llamaré - no hint
-ama - ama - no hint
-tanışmak - conocí - no hint
-zaman - tiempos - no hint
-yalnız bırakın - déjalo - no hint
-altında - debajo - no hint
-arkadaş - compañero - no hint
-ayrılmak - dejé - no hint
-gel - come - no hint
-izin ver - déjeme - no hint
-üzgün - molesta - no hint
-saymak - contar - no hint
-ayrılacağım - dejaré - no hint
-biz konuşuruz - hablamos - no hint
-yorgun - cansado - no hint
-çiftlik hayvanları - ganado - no hint
-görünüyorsun - pareces - no hint
-deneme - juicio - no hint
-konuşulmuş - hablado - no hint
-stil - estilo - no hint
-bana yardım et - ayúdame - no hint
-bilmek - sepa - no hint
-seyretme - viendo - no hint
-çıkış - salida - no hint
-memnun - alegra - no hint
-uyanmak - despierta - no hint
-harika - estupendo - no hint
-sana vermek için - darte - no hint
-durum - estados - no hint
-kalmak - quedan - no hint
-sonraki - próximo - no hint
-not - nota - no hint
-giyerim - llevó - no hint
-yapabilir misin - puedas - no hint
-mayıs - podrá - no hint
-onlar vardı - tenían - no hint
-yükselir - sube - no hint
-uçuş - vuelo - no hint
-dışında - excepto - no hint
-darbe - golpe - no hint
-rüzgar - viento - no hint
-olacağız - estaremos - no hint
-aksiyon - acción - no hint
-aptalca işler - tonterías - no hint
-saygı - respecto - no hint
-dilekler - desea - no hint
-ol - sigues - no hint
-meli - debía - no hint
-gelecek - vendrá - no hint
-bulduk - encontramos - no hint
-öpücük - beso - no hint
-soru - cuestión - no hint
-geri gitti - volvió - no hint
-kurallar - reglas - no hint
-gürültü - ruido - no hint
-bitiş - acabado - no hint
-dışarı - salga - no hint
-unutulmuş - olvidado - no hint
-yalan - mentira - no hint
-kol - brazo - no hint
-o başladı - empezó - no hint
-sakin ol - cálmate - no hint
-atlar - caballos - no hint
-deneyim - experiencia - no hint
-huzurlu - tranquila - no hint
-kalmak - quedar - no hint
-umut - esperanza - no hint
-ayrılmak - irte - no hint
-vd - vd - no hint
-köpekler - perros - no hint
-evli - casado - no hint
-vardım - llegue - no hint
-ilaçlar - drogas - no hint
-diye sordu - pidió - no hint
-ruh - espíritu - no hint
-tatiller - vacaciones - no hint
-fincan - copa - no hint
-soruşturma - investigación - no hint
-tercih etmek - prefiero - no hint
-alışığım - solía - no hint
-ben taşıyacağım - llevaré - no hint
-sıklıkla - menudo - no hint
-git - partir - no hint
-ziyaret etmek - visita - no hint
-yüksek - alta - no hint
-açık - abrir - no hint
-dokuz - nueve - no hint
+nota - nota - no hint
+número - numara - no hint
+oficina - ofis - no hint
+juegos olímpicos - olimpiyat oyunları - no hint
+ópera - opera - no hint
+operación - operasyon - no hint
+fotocopiar - to photocopy - no hint
+pánico - panik - no hint
+pareja - partner - no hint
+activar - parti - no hint
+pimienta - biber - no hint
+rendimiento - performans - no hint
+perspectiva - perspektif - no hint
+fobia - fobi - no hint
+fonética - fonetik - no hint
+bot - bot - no hint
+badigard - badigard - no hint
 bomba - bomba - no hint
-enerji - energía - no hint
-sırt çantası - bolsa - no hint
-seni yapmak - hacerte - no hint
-noel baba - santa - no hint
-ekmek - pan - no hint
-cilt - piel - no hint
-amerika birleşik devletleri - usa - no hint
-metre - metros - no hint
-afedersiniz - perdona - no hint
-yazılı - escrito - no hint
-kesinlikle - exacto - no hint
-çalma - jugando - no hint
-boyun - cuello - no hint
-uzun - larga - no hint
-kaçış - escapar - no hint
-kaydetmek - salvar - no hint
-duydum - escuche - no hint
-affedersiniz - perdone - no hint
-hizmet ediyor - sirve - no hint
-endişelenmek - preocupe - no hint
-türler - especie - no hint
-o - aquella - no hint
-göreceksin - verá - no hint
-silâh - brazos - no hint
-tam - llena - no hint
-yukarı git - subir - no hint
-beyaz - blanca - no hint
-fe - fe - no hint
-modlar - modos - no hint
-getirdi - traído - no hint
-filmler - películas - no hint
-bayan - dama - no hint
-onunki - suya - no hint
-söyle - decirlo - no hint
-çift - doble - no hint
-hemen - inmediatamente - no hint
-suçlu - culpable - no hint
-endişeler - preocupa - no hint
-öğleden sonra - tardes - no hint
-gelirim - vengo - no hint
-orman - bosque - no hint
-kaçırdım - perdí - no hint
-dönmek - volverá - no hint
-taksi - taxi - no hint
-uçmak - volar - no hint
-vadesi dolmuş - debido - no hint
-aniden - repente - no hint
-şaka - bromeando - no hint
-eski - viejos - no hint
-gezegen - planeta - no hint
-süt - leche - no hint
-bu kadar - tanta - no hint
-vardı - tuviera - no hint
-charmed - encantado - no hint
-mankafalı - cabrón - no hint
-run - correr - no hint
-bağlı olmak - depende - no hint
-yaygın - común - no hint
-bildiri - informe - no hint
-yalnız - solamente - no hint
-makine - máquina - no hint
-öl - muere - no hint
-saçma - ridículo - no hint
-giriş - entrada - no hint
-buldu - encontró - no hint
-yapabiliriz - podamos - no hint
-bitirmek için - acabar - no hint
-amerika - américa - no hint
-geri gel - regresa - no hint
-kanıtlamak - probar - no hint
-prens - príncipe - no hint
-hazırlanmış - preparado - no hint
-sipariş - pedido - no hint
-amaç - propósito - no hint
-verdi - dieron - no hint
-dışarı çıktı - salido - no hint
-müşteri - cliente - no hint
-ağaç - árbol - no hint
-mutlak - absoluto - no hint
-dans - dejas - no hint
-kim o - quiénes - no hint
-sahiptin - habías - no hint
-benziyorlar - parecen - no hint
-güzellik - belleza - no hint
-aradım - llame - no hint
-deneyin - intenta - no hint
-insanlar - humanos - no hint
-denemek - tratar - no hint
-sizin - vuestra - no hint
-kayın - hayas - no hint
-prenses - princesa - no hint
-takip ederim - sigo - no hint
-kalmak - quedarse - no hint
-batı - oeste - no hint
-getirmek - traer - no hint
-unut bunu - olvídalo - no hint
-fransa - francia - no hint
-sahibiz - tuvimos - no hint
-bana yardım et - ayudarme - no hint
-hızlı bir şekilde - deprisa - no hint
-anahtarlar - llaves - no hint
-attı - tiro - no hint
-domuz - cerdo - no hint
-kedi - gato - no hint
-i̇ngiltere - inglaterra - no hint
-bakış - vistazo - no hint
-kaç - cuántas - no hint
-savunma - defensa - no hint
-yeni - nuevos - no hint
-son - últimos - no hint
-izleyin - reloj - no hint
-gitti - fuimos - no hint
-savaş - batalla - no hint
-konuştum - hable - no hint
-yürümek - caminar - no hint
-onu yap - hacerle - no hint
-hadi gidelim - vayamos - no hint
-iç - interior - no hint
-güzel - bella - no hint
-mutlu - felices - no hint
-denemek - intentando - no hint
-apartman - apartamento - no hint
-tiyatro - teatro - no hint
-beni yap - hacerme - no hint
-papalar - papi - no hint
-önemli - asuntos - no hint
-güven - confiar - no hint
-buz - hielo - no hint
-meli - deberían - no hint
-şarkı söyle - cantar - no hint
-daha düşük - bajar - no hint
-sizin - vuestro - no hint
-kavga - pelear - no hint
-çılgın - locos - no hint
-ödemek - paga - no hint
-duyarsın - oyes - no hint
-komple - completo - no hint
-kavga - lucha - no hint
-kuvvetler - fuerzas - no hint
-sarhoş - borracho - no hint
-kahraman - héroe - no hint
-kamyon - camión - no hint
-pelerin - cabo - no hint
-diş - dientes - no hint
-yeşil - verde - no hint
-yavaşça - despacio - no hint
-karar - decidido - no hint
-toplum - sociedad - no hint
-ortak - pareja - no hint
-bana söyle - dígame - no hint
-sen - estuviste - no hint
-burun - nariz - no hint
-utanç - vergüenza - no hint
-sonbahar - caer - no hint
-yaralı - herido - no hint
-hesaplar - cuentas - no hint
-ipucu - pista - no hint
-oturmak - siéntese - no hint
-bebek - bebe - no hint
-ses - sonido - no hint
-yıldızlar - estrellas - no hint
-şapka - sombrero - no hint
-düştü - cayó - no hint
-kaçınmak - evitar - no hint
-o olacak - pasará - no hint
-mary - maría - no hint
-hafıza - memoria - no hint
-tek başına - solos - no hint
-ağlamak - llorar - no hint
-sinirli - nervioso - no hint
-yazık - lástima - no hint
-sahip olmak - haberlo - no hint
-çağ - época - no hint
-doğa - naturaleza - no hint
-satmak - vender - no hint
-siyaset - política - no hint
-kalkmak - levántate - no hint
-ders çalışma - estudio - no hint
-parlak - brillante - no hint
-seviyesi - nivel - no hint
-farklı - diferentes - no hint
-verme - dando - no hint
-olurdu - hubiese - no hint
-i̇zin veriyor - permite - no hint
-adalet - justicia - no hint
-planlar - planes - no hint
-bana bak - mírame - no hint
-vardık - llegamos - no hint
-roma - roma - no hint
-kesinlikle - seguramente - no hint
-papa - papa - no hint
-görünmek - parecer - no hint
-bitmiş - terminó - no hint
-bacak - pierna - no hint
-dsö - quienes - no hint
-milyon - millón - no hint
-muazzam - enorme - no hint
-masum - inocente - no hint
-kendilerini - mismos - no hint
-pantolon - pantalones - no hint
-bakan - ministro - no hint
-hoşgeldiniz - bienvenida - no hint
-sen - u - no hint
-demek istediğim - refiero - no hint
-i̇simler - nombres - no hint
-komut - mando - no hint
-değerli - preciosa - no hint
-kaldı - quedó - no hint
-yapabilirsiniz - podrás - no hint
-tartmak - pesar - no hint
-hasta - enferma - no hint
-garip - extraña - no hint
-aşık - enamorado - no hint
-otobüs - autobús - no hint
-hatırlatmak - recordar - no hint
-sen - estáis - no hint
-küçük olanlar - pequeños - no hint
-mücadele etmek - luchar - no hint
-tersine - contrario - no hint
-alınmış - tomado - no hint
-olmak - sois - no hint
-hareket - movimiento - no hint
-bunlar - estan - no hint
-oturma - sentado - no hint
-kazanmak - gana - no hint
-olmak - estén - no hint
-sebep - motivo - no hint
-kesinlikle - absolutamente - no hint
-itibaren - dé - no hint
-köprü - puente - no hint
-anlama - comprendo - no hint
-yumurtalar - huevos - no hint
-alırım - tomó - no hint
-masal - cuento - no hint
-şişe - botella - no hint
-maliyet - cuesta - no hint
-aceleyle - corriendo - no hint
-güven - confianza - no hint
-mutluluk - felicidad - no hint
-kılıç - espada - no hint
-sandalye - silla - no hint
-haberler - noticia - no hint
-evler - casas - no hint
-televizyon - televisión - no hint
-katılıyor musun - acuerdas - no hint
-gerekli - necesitaba - no hint
-duvar - pared - no hint
-acele - aquellos - no hint
-basın - prensa - no hint
-tuzak - trampa - no hint
-buradayım - presente - no hint
-olacak - estarán - no hint
-bahçe - jardín - no hint
-saç - cabello - no hint
-göstermek - espectáculo - no hint
-yapabileceğim - podré - no hint
-mezar - grave - no hint
-piç - bastardo - no hint
-vermek - dará - no hint
-takip et - siga - no hint
-gazete - periódico - no hint
-koni - coño - no hint
-siyahlar - negros - no hint
-hiç - alguno - no hint
-halka - anillo - no hint
-canavar - monstruo - no hint
-taş - piedra - no hint
-mutlu - contento - no hint
-kalmak - quedarte - no hint
-sahip olmak - tengan - no hint
-hey - oigan - no hint
-hissettim - sentí - no hint
-almalıyım - debí - no hint
-oradaki - ahi - no hint
-polisler - policías - no hint
-yerler - lugares - no hint
-anlaşma - contrato - no hint
-plaj - playa - no hint
-sahil - costa - no hint
-kapılar - puertas - no hint
-oturma yeri - asiento - no hint
-kart - tarjeta - no hint
-restoran - restaurante - no hint
-kalmak - quede - no hint
-yürümek - paseo - no hint
-gerçekler - hechos - no hint
-hadi yapalım - hagamos - no hint
-olağanüstü - maravillosa - no hint
-pzt. - pon - no hint
-pazar - domingo - no hint
-özellikle - especialmente - no hint
-hız - velocidad - no hint
-siyah - negra - no hint
-girişim - intentar - no hint
-taslak - proyecto - no hint
-müşteriler - clientes - no hint
-win - victoria - no hint
-isterdim - encantaría - no hint
-operasyon - operación - no hint
-kaybetti - perdió - no hint
-aptal - tonta - no hint
-görüntü - imagen - no hint
-taşıdım - lleve - no hint
-sevdiğiniz - amas - no hint
-beğendi - gustaba - no hint
-görünüm - aspecto - no hint
-çok fazla - tantos - no hint
-hisler - sentimientos - no hint
-buna inan - creerlo - no hint
-hedef - objetivo - no hint
-onlar taşır - llevan - no hint
-kötü - malas - no hint
-kırmızı - red - no hint
-i̇zin vermek - dejen - no hint
-yeni - nuevas - no hint
-kız - muchacha - no hint
-uykuda - dormido - no hint
-hikayeler - historias - no hint
-düzenlemek - arreglar - no hint
-dönüş - turno - no hint
-gidiyor - yendo - no hint
-gördün - tuviste - no hint
-koymak - ponga - no hint
-unutmak - olvides - no hint
-dinlemek - escuché - no hint
-geçmek - pasada - no hint
-göz - mata - no hint
-birçok - tantas - no hint
-dağ - montaña - no hint
-komik - gracia - no hint
-hastalık - enfermedad - no hint
-parmaklar - dedos - no hint
-güzel - guapa - no hint
-istemek - querer - no hint
-olmuş - ocurrido - no hint
-az - pocos - no hint
-gerekir - deber - no hint
-diyorsun ki - refieres - no hint
-cuma - viernes - no hint
-endişeli - preocupado - no hint
-dersler - clases - no hint
-ray - rayos - no hint
-faydasız - inútil - no hint
-açık - abierto - no hint
-sana sahip olmak - haberte - no hint
-karanlık - oscuridad - no hint
-doğru - verdadera - no hint
-amerikan - americano - no hint
-getirdi - trajo - no hint
-damak zevki - gustó - no hint
-ilk - primo - no hint
-ulusal - nacional - no hint
-biliyordum - supe - no hint
-okul - colegio - no hint
-lanetli - malditos - no hint
-bıçak - cuchillo - no hint
-ibas - ibas - no hint
-vardım - llegué - no hint
-günlük - diario - no hint
-fransızca - francés - no hint
-ben kalıyorum - quedo - no hint
-yapabileceğiz - podremos - no hint
-gururlu - orgulloso - no hint
-hırsız - ladrón - no hint
-sor - preguntar - no hint
-diye sordum - pedí - no hint
-niyet - voluntad - no hint
-yapacaklar - harán - no hint
-askeri - militar - no hint
-takdir ediyorum - agradezco - no hint
-giydi - llevaba - no hint
-anne - mami - no hint
-yağmur - lluvia - no hint
-bizdik - éramos - no hint
-sokaklar - calles - no hint
-cen - cien - no hint
-dil - lengua - no hint
-şahitlik - testigo - no hint
-yardım - ayude - no hint
-aranan - quiso - no hint
-yorgun - cansada - no hint
-mevcut - puse - no hint
-gideceksin - irás - no hint
-almanlar - alemanes - no hint
-ödeme - pago - no hint
-bak - mirada - no hint
-anlar - momentos - no hint
-hala - quieto - no hint
-keçe - sentía - no hint
-dinlemek - escuchen - no hint
-dinlenmek - descansar - no hint
-pazar - mercado - no hint
-zor - dura - no hint
-insan - humana - no hint
-aptal - estúpida - no hint
-hoşgeldiniz - bienvenidos - no hint
-biliyordu - conocía - no hint
-bütün - entero - no hint
-roja - roja - no hint
-aranan - llamaba - no hint
-tomalar - tomas - no hint
-sahip - dueño - no hint
-atmak - echar - no hint
-acil durum - emergencia - no hint
-içeride - roto - no hint
-davranmak - actuar - no hint
-şimdi - inmediato - no hint
-puan - puntos - no hint
-hasta - paciente - no hint
-unutmak - olvidé - no hint
-konuşmak - hables - no hint
-birkaç - varios - no hint
-toz - polvo - no hint
-melekler - ángeles - no hint
-almak - coger - no hint
-mesafe - distancia - no hint
+kafe - kafe - no hint
+centímetro - santimetre - no hint
+colección - koleksiyon - no hint
+concierto - konser - no hint
+conferencia - konferans - no hint
+contrato - kontrat - no hint
+disfraz - kostüm - no hint
+cultura - kültür - no hint
+diplomático - diplomatik - no hint
+disco - disk - no hint
+dólar - dolar - no hint
+editor - editör - no hint
+electrónico - elektronik - no hint
+principio moral - etik - no hint
+étnico - etnik - no hint
+euro - avro - no hint
+ejercicio - egzersiz - no hint
+factor - faktör - no hint
+terminar - finiş - no hint
+galaxia - galaksi - no hint
+general - general - no hint
+general - genel - no hint
+geografía - coğrafya - no hint
+geométrico - geometrik - no hint
+global - global - no hint
+alo - alo - no hint
+idealista - idealist - no hint
+endirekt - endirekt - no hint
+infección - enfeksiyon - no hint
+instrumento - enstrüman - no hint
+kilogramo - kilogram - no hint
+legal - legal - no hint
+licencia - lisans - no hint
+cabildear - to lobby - no hint
+mercado - market - no hint
+masaje - masaj - no hint
+máximo - maksimum - no hint
+mecánico - mekanik - no hint
+mineral - mineral - no hint
+mínimo - minimum - no hint
+microbús - minibüs - no hint
+minifalda - mini etek - no hint
+minibar - minibar - no hint
+modelo - model - no hint
+moderno - modern - no hint
+moral - moral - no hint
+motor - motor - no hint
+museo - müze - no hint
+natural - natürel - no hint
+nota - not - no hint
+juegos olímpicos - olimpik - no hint
+entrar en pánico - to panic - no hint
+organizar - organize - no hint
+período - periyot - no hint
+dirección - adres - no hint
+asistan - asistan - no hint
+rama - branş - no hint
+ceremonia - seremoni - no hint
+cristal - kristal - no hint
+facultad - fakülte - no hint
+fútbol - futbol - no hint
+forma - form - no hint
+funcional - fonksiyonel - no hint
+gramo - gram - no hint
+media - medya - no hint
+metalizado metalico - metal metalik - no hint
+motivación - motivasyon - no hint
+nuclear - nükleer - no hint
+operador - operatör - no hint
+rociar - sprey - no hint
+telescopio - teleskop - no hint
+terror - terör - no hint
+terrorista - terörist - no hint
+automático - otomatik - no hint
+galleta - bisküvi - no hint
+patata - patates - no hint
+príncipe - prens - no hint
+promoción - promosyon - no hint
+proteína - protein - no hint
+riesgo - risk - no hint
+rutina - rutin - no hint
+ensalada - salata - no hint
+sexo opuesto - opposite sex - no hint
+simpático - sempatik - no hint
+técnico - teknik - no hint
+tecnología - teknoloji - no hint
+telegrafiar - to telegraph - no hint
+terrorismo - terörizm - no hint
+arena - arena - no hint
+atleta - atlet - no hint
+auto - oto - no hint
+autobiografía - otobiyografi - no hint
+versión - versiyon - no hint
+balcón - balkon - no hint
+biología - biyoloji - no hint
+oficina - büro - no hint
+posición - pozisyon - no hint
+perfil - profil - no hint
+protesta - protesto - no hint
+radical - radikal - no hint
+racional - rasyonel - no hint
+emparedado - sandviç - no hint
+deporte - spor - no hint
+estadio - stadyum - no hint
+estándar - standart - no hint
+quedar asombrado - şaşırmak - no hint
+estratégico - stratejik - no hint
+supermercado - süpermarket - no hint
+simpatía - sempati - no hint
+táctica - taktik - no hint
+taxi - taksi - no hint
+telegrama - telgraf - no hint
+llamar por teléfono - to telephone - no hint
+televisión - televizyon - no hint
+zona tropical - tropik - no hint
+túnel - tünel - no hint
+atletismo - atletik - no hint
+apartamento - apartman - no hint
+agosto - ağustos - no hint
+universidad - üniversite - no hint
+video - video - no hint
+carro - otomobil - no hint
+visión - vizyon - no hint
+globo - balon - no hint
+banco - banka - no hint
+baloncesto - basketbol - no hint
+blucin kot - blucin kot - no hint
 bravo - bravo - no hint
-avrupa - europa - no hint
-öldürdüler - mataron - no hint
-alma - tomando - no hint
-onu gör - verle - no hint
-lordluk - señoría - no hint
-evlenmek - casarse - no hint
-dokunma - toque - no hint
-zil sesleri - toques - no hint
-melek - ángel - no hint
-sevgili - amante - no hint
-konuştu - habló - no hint
-dışarı çıkarır - saca - no hint
-diyelimki - digamos - no hint
-mükemmel - perfecta - no hint
-gül - rosa - no hint
-beni ara - llámame - no hint
-biz - nosotras - no hint
-ağırlık - peso - no hint
-yük - carga - no hint
-davranmak - acto - no hint
-çalmak - robar - no hint
-bıraktın - dejaste - no hint
-felaket - desastre - no hint
-tekne - bote - no hint
-kokuyor - huele - no hint
-hamile - embarazada - no hint
-örnek - muestra - no hint
-şişman - gordo - no hint
-lanet - puto - no hint
-yaşam - viviendo - no hint
-kapatmak - cerrar - no hint
-kağıtlar - papeles - no hint
-cesur - valiente - no hint
-ihtişam - gloria - no hint
-katılıyorum - aceptar - no hint
-affedersiniz - perdóname - no hint
-mükemmel bir şekilde - perfectamente - no hint
-karanlık - oscuro - no hint
-umursamak - cuidar - no hint
-parmak - dedo - no hint
-yalvarırım - ruego - no hint
-görünüyordu - pareció - no hint
-mezar - tumba - no hint
-almak - coge - no hint
-sonuç - resulta - no hint
-bırak - dejarlo - no hint
-başla - comenzar - no hint
-alan - área - no hint
-sıkışmış - metido - no hint
-temiz - limpio - no hint
-gerisi - descanso - no hint
-yanlar - lados - no hint
-olasılık - posibilidad - no hint
-yakışıklı - guapo - no hint
-kullanım - uso - no hint
-yetenek - talento - no hint
-beni öldür - matarme - no hint
-devam et - continuar - no hint
-kodu - código - no hint
-başladı - comenzó - no hint
-uyku - duerme - no hint
-kesinlikle - definitivamente - no hint
-doğrudan - directo - no hint
-geri gel - vuelvas - no hint
-gün - dia - no hint
-şeytan - demonio - no hint
-park - parque - no hint
-değişiklik - cambia - no hint
-unutmak - olvidar - no hint
-aşk - cinta - no hint
-ünlü - famoso - no hint
-öldüreceğim - mataré - no hint
-takip et - siguen - no hint
-çıkma - saliendo - no hint
-hareket - muevas - no hint
-hanımlar - señoras - no hint
-ateş etmek - disparar - no hint
-ortak - sóio - no hint
-sorar - pide - no hint
-sahip olmalı - debió - no hint
-şirket - empresa - no hint
-değerli - precioso - no hint
-biter - termina - no hint
-niyet - intención - no hint
-aynı zamanda - tambien - no hint
-almak - recibir - no hint
-olurdu - hubieras - no hint
-barınak - abrigo - no hint
-bulursun - encuentras - no hint
-verdiğiniz - diste - no hint
-sahip olacak - tendrán - no hint
-kapalı - cerrado - no hint
-seni tanıyorum - conocerte - no hint
-konuştum - hablé - no hint
-daha az - menor - no hint
-i̇sterdim - querría - no hint
-hayal ediyorum - imagino - no hint
-dahi - genio - no hint
-profesyonel - profesional - no hint
-duyuyorum - oigo - no hint
-koydum - pongo - no hint
-kızlar - niñas - no hint
-devam et - muévete - no hint
-seçenek - opción - no hint
-mahkeme - tribunal - no hint
-var - tenéis - no hint
-göl - lago - no hint
-ünitesi - unidad - no hint
-açık - abierta - no hint
-etki - efecto - no hint
-basınç - presión - no hint
-birkaç - varias - no hint
-çaldı - robo - no hint
-cıkacak - saldrá - no hint
-testere - veía - no hint
-ayrıldı - quedado - no hint
-belediye başkanı - alcalde - no hint
-iş - empleo - no hint
-tavuk - pollo - no hint
-viski - whisky - no hint
-otoyol - carretera - no hint
-cumartesi - sábado - no hint
-havalimanı - aeropuerto - no hint
-lanet - jodido - no hint
-yoksul - pobres - no hint
-ilaç - medicina - no hint
-taşımak - llevará - no hint
-bedava - gratis - no hint
-düşer - cae - no hint
-şans - fortuna - no hint
-kale - castillo - no hint
-kar - nieve - no hint
-ben ararım - busco - no hint
-risk - riesgo - no hint
-almanca - alemán - no hint
-kirli - sucio - no hint
-aptallar - idiotas - no hint
-konuşma - conversación - no hint
-oldu - fuese - no hint
-başlangıç - comienzo - no hint
-olur - pasé - no hint
-onlar buldular - encontraron - no hint
-seçim - elección - no hint
-çıkmak - salgan - no hint
-araba - carro - no hint
-onlar düşünür - piensan - no hint
-yüz - rostro - no hint
-nedenleri - razones - no hint
-öyleydi - fué - no hint
-mülkiyet - propiedad - no hint
-dünya - mundial - no hint
-tanıdık - familiar - no hint
-pound - libras - no hint
-hadi konuşalım - hablemos - no hint
-parça - pedazo - no hint
-devam et - continúa - no hint
-kuyruk - cola - no hint
-düşmanlar - enemigos - no hint
-marka - marca - no hint
-önder - líder - no hint
-onlar konuşur - hablan - no hint
-uyuyor - durmiendo - no hint
-rahatlama - socorro - no hint
-futbol - fútbol - no hint
-detaylar - detalles - no hint
-yapardım - hiciera - no hint
-alınan - recibido - no hint
-hazine - tesoro - no hint
-gömlek - camisa - no hint
-başlar - comienza - no hint
-öncülük etmek - conducir - no hint
-yürümek - andar - no hint
-yoldaşlar - compañeros - no hint
-taşınan - llevado - no hint
-sevinç - alegría - no hint
-nakliye - envió - no hint
-faiz - interés - no hint
-benzer - parecido - no hint
-sen - fueras - no hint
-sahip olmak - hayan - no hint
-hayalet - fantasma - no hint
-sahip olmak - teniendo - no hint
-ait - pertenece - no hint
-sunuyorum - presento - no hint
-biz taşıyoruz - llevamos - no hint
-anne - mama - no hint
-kahvaltı - desayuno - no hint
-hak ediyor - merece - no hint
-biliyoruz - conocemos - no hint
-hareket - mueve - no hint
-lárgate - lárgate - no hint
-sen koy - pones - no hint
-memurlar - oficiales - no hint
-kurban - víctima - no hint
-kötü - malos - no hint
-semt - barrio - no hint
-teklif - oferta - no hint
-talihsiz - desgraciado - no hint
-sonuç - resultado - no hint
-sorumluluk - responsabilidad - no hint
-giriyorum - entró - no hint
-mücadele - combate - no hint
-soğuk - fría - no hint
-fırtına - tormenta - no hint
-konuştu - hablaba - no hint
-duydun - oíste - no hint
-aradım - llamé - no hint
-koku - olor - no hint
-miktar - cantidad - no hint
-kurşun - bala - no hint
-önemli - importantes - no hint
-muhteşem - grandioso - no hint
-kilometre - kilómetros - no hint
-istediler - querían - no hint
-güçsüz - débil - no hint
-laboratuar - laboratorio - no hint
-sigara içmek - fumar - no hint
-eğitimci - entrenador - no hint
-arama - llamando - no hint
-ödül - premio - no hint
-var - conseguido - no hint
-kenar - bordo - no hint
-delik - agujero - no hint
-dinleme - escuchando - no hint
-yazdı - escribió - no hint
-korkmuş - asustado - no hint
-davet edildi - invitado - no hint
-harita - mapa - no hint
-vardı - tenia - no hint
-çiftlik - granja - no hint
-geldin mi - viniste - no hint
-jüri - jurado - no hint
-derin - profundo - no hint
-bana göre - tomé - no hint
-almanya - alemania - no hint
-sigorta - seguros - no hint
-biliyorlar - conocen - no hint
-pastel - pastel - no hint
-amerikan - americanos - no hint
-özel - privado - no hint
-senin - lunes - no hint
-direkt olarak - directamente - no hint
-sosyo - socio - no hint
-çalıntı - robado - no hint
-açıklamak - explicar - no hint
-ihtiyaç - necesidad - no hint
-oyunlar - juegos - no hint
-önem - importancia - no hint
-akım - corriente - no hint
-olmuştur - habido - no hint
-haklar - derechos - no hint
-okumak - leído - no hint
-ulaşmak - llegará - no hint
-çöl - desierto - no hint
-model - modelo - no hint
-kış - invierno - no hint
-gümüş - plata - no hint
-destek - apoyo - no hint
-gidiyordu - iban - no hint
-dostum - maté - no hint
-üçüncü - tercer - no hint
-açıkça - obviamente - no hint
-alacağım - tomaré - no hint
-yeni - recién - no hint
-ağaçlar - árboles - no hint
-tavan - techo - no hint
-beyazlar - blancos - no hint
-bana sahip - haberme - no hint
-tomo - tomo - no hint
-şampiyon - campeón - no hint
-oturma odası - salón - no hint
-son zamanlarda - últimamente - no hint
-ilişkiler - relaciones - no hint
-bakım - cura - no hint
-sahne - escenario - no hint
-ödlek - cobarde - no hint
-üçüncü - tercera - no hint
-düşme - quedas - no hint
-kullanma - usando - no hint
-garanti ederim - aseguro - no hint
-eski - ex - no hint
-gördüler - vieron - no hint
-almak - obtener - no hint
-bütün - entera - no hint
-kalacak - quedará - no hint
-leo - leo - no hint
-güven bana - créeme - no hint
-sırlar - secretos - no hint
-göğüs - pecho - no hint
-yalanlar - mentiras - no hint
-oturmak - sienta - no hint
-sevmek - guste - no hint
-köşe - esquina - no hint
-ilk - primeros - no hint
-duygu - sensación - no hint
-kör - ciego - no hint
-fabrika - fábrica - no hint
-bilinen - sabido - no hint
-anlatacağım - dirá - no hint
+fotocopia - fotokopi - no hint
+foto - fotoğraf - no hint
+hacer un picnic - to picnic - no hint
+pizza - pizza - no hint
+piano - plan - no hint
+político - politik - no hint
+retrato - portre - no hint
+popular - popüler - no hint
+potencial - potansiyel - no hint
+paune - paunt - no hint
+profesor - profesör - no hint
+procedimiento - prosedür - no hint
+protokol - protokol - no hint
+psicología - psikoloji - no hint
+arriesgado - risky - no hint
+psicólogo - psikolog - no hint
+realista - realist - no hint
+realidad - realite - no hint
+dieta - rejim - no hint
+restaurante - restoran - no hint
+robot - robot - no hint
+cohete - roket - no hint
+papel - rol - no hint
+romántico - romantik - no hint
+guión - senaryo - no hint
+selfie - selfie - no hint
+seminario - seminer - no hint
+champú - şampuan - no hint
+social - sosyal - no hint
+estación - istasyon - no hint
+sorpresa - şaşırtmak - no hint
+estado - statü - no hint
+estrategia - strateji - no hint
+estrés - stres - no hint
+subjetivo - sübjektif - no hint
+sorpresa - sürpriz - no hint
+símbolo - sembol - no hint
+simbólico - sembolik - no hint
+sistema - sistem - no hint
+tableta - tablet - no hint
+tanque - tank - no hint
+tecnológico - teknolojik - no hint
+teléfono - telefon - no hint
+tenis - tenis - no hint
+prueba - test - no hint
+activo - aktif - no hint
+anti - anti - no hint
+tropical - tropikal - no hint
+uniforme - üniforma - no hint
+unidad - ünite - no hint
+jarrón - vazo - no hint
+virus - virüs - no hint
+bacterias - bakteri - no hint
+visionario - vizyoner - no hint
+vitamina - vitamin - no hint
+bar - bar - no hint
+barrera - bariyer - no hint
+biológico - biyolojik - no hint
+fotografiar - to photograph - no hint
+física - fizik - no hint
+piano - piyano - no hint
+oficial de policía - police officer - no hint
+piloto - pilot - no hint
+policía - polis - no hint
+política - poliçe - no hint
+política - politika - no hint
+positivo - pozitif - no hint
+práctico - pratik - no hint
+pratik n - pratik n - no hint
+presentación - prezantasyon - no hint
+profesional - profesyonel - no hint
+programa - program - no hint
+proyecto - proje - no hint
+reforma - reform - no hint
+informe - rapor - no hint
+romance - romantizm - no hint
+sos - sos - no hint
+escándalo - skandal - no hint
+sector - sektör - no hint
+secular - seküler - no hint
+servicio - servis - no hint
+show - şov - no hint
+especulación - spekülasyon - no hint
+estrella - star - no hint
+estudio - stüdyo - no hint
+caramelo - şeker - no hint
+súper - süper - no hint
+academia - akademi - no hint
+ácido - asit - no hint
+actriz - aktris - no hint
+ventaja - avantaj - no hint
+tragedia - trajedi - no hint
+antidemocrático - antidemokratik - no hint
+aritmética - aritmetik - no hint
+tubo - tüp - no hint
+alfabeto - alfabe - no hint
+universal - üniversal - no hint
+volumen - volüm - no hint
+yate - yat - no hint
+bicicleta - bisiklet - no hint
+picnic - piknik - no hint
+póster - poster - no hint
+princesa - prenses - no hint
+principio - prensip - no hint
+problema - problem - no hint
+protestar - to protest - no hint
+radio - radyo - no hint
+reacción - reaksiyon - no hint
+modelo a seguir - rol model - no hint
+zapatos - skor - no hint
+secretario - sekreter - no hint
+sexo - seks - no hint
+sexy - seksi - no hint
+específico - spesifik - no hint
+tener sexo - to have sex - no hint
+teológico - teolojik - no hint
+termometros - termometre - no hint
+baño - tuvalet - no hint
+alternativa - alternatif - no hint
+aficionado - amatör - no hint
+tráfico - trafik - no hint
+tren - tren - no hint
+antipatía - antipati - no hint
+antipatik - antipatik - no hint
+astronauta - astronot - no hint
+vóleibol - voleybol - no hint
+equipaje - bagaj - no hint
+grande - büyük - no hint
+plástico - plastik - no hint
+patrocinador - sponsor - no hint
+aksan - aksan - no hint
+acción - aksiyon - no hint
+terapeuta - terapist - no hint
+teoría - teori - no hint
+alcohol - alkol - no hint
+alcohólico - alkolik - no hint
+tipo - tür - no hint
+turismo - turizm - no hint
+analiz - analiz - no hint
+trágico - trajik - no hint
+académico - akademik - no hint
+consejo - tip - no hint
+teatro - tiyatro - no hint
+terapia - terapi - no hint
+teología - teoloji - no hint
+actor - aktör - no hint
+adaptación - adaptasyon - no hint
+teórico - teorik - no hint
+alarma - alarm - no hint
+álbum - albüm - no hint
+tomate - domates - no hint
+tu - ton - no hint
+ambulancia - ambulans - no hint
+camiseta de manga corta - tişört - no hint
+televisor - tv - no hint
+bien - iyi - no hint
+texto - tekst - no hint
+turista - turist - no hint
+torneo - turnuva - no hint
+transferir - transfer - no hint
+tolerancia - tolerans - no hint
+saber - bilmek - no hint
+hipocresía - yapamaz - no hint
+tragar la pastilla - hapı yutmak - no hint
+salud a tus manos - ellerine sağlık - no hint
+te cuento mas tarde es una larga historia - sonra anlatırım uzun hikaye - no hint
+tienes un corazón muy limpio - çok temiz kalplisin - no hint
+buenas noches dios te bendiga - iyi geceler allah rahatlık versin - no hint
+poner la mente - kafaya koymak - no hint
+buena suerte para usted - senin için hayırlısı olsun - no hint
+que lindo bebe no debe tocar el mal de ojo - ne güzel bir bebek nazar değmesin - no hint
+escucha con todos los oídos - can kulağı ile dinlemek - no hint
+no puedo caber dentro de mi - içim içime sığmıyor - no hint
+llano - temiz kalpli - no hint
+no más - yok daha neler - no hint
+revisión - göz gezdirmek - no hint
+pesado - ağır - "ah er" is like a grunt sound you make picking up something heavy. air is really heavy.
+agrio - ekşi - "ek!" she says, "this is so sour!"
+tarde - geç - "getchur stuff, we're late"
+por supuesto - emin - "hey man, i'm sure saying amen is appropriate"
+responsabilidad - sorumluluk - "i am responsible for my question(sorum), lu", and when you look at responisbile it becomes a noun responsibility
+por favor siéntate - lütfen oturun - "oh to run" says the person who has to sit down
+está bien si no vienes - sen gelmesende olur - </div>
+seguramente lo encontraré donde sea - nerede olursa olsun onu mutlaka bulacağım - <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+personalmente - şahsen - sha sends better hashes than people can make in person
+regular - böyle yani - a boy comes and lays on your knee, and you later you are telling someone and you say "i mean that, that's what happened"
+hielo - buz - a bus made completely out of ice
+contra - karşı - a car should not hit up against anything
+central - merkezi - a center is like a market but it is crazy. or, you are in a horse center and the mare there is crazy
+pongo mi ropa en la lavadora - çamaşırlarımı çamaşır makinesine koydum - a chum a sheers your laundry
+perfecto - mükemmel - a cow(moo) as funny as jimmy kimmel would be perfect
+tarjeta de débito - bankamatik kartı - a debit card is a bank automatic card
+natural - doğal - a doe is all natural
+nacer - doğmak - a doe is born at it is very natural(doğal) to be born
+cerdo - domuz eti - a doe moos so you don't eat it and instead you eat pork
+diferente - farklı - a farklı is a little different from a forklift
+deseo - dilek - a good wish is a delectible thing
+marido - koca - a horror book like kujo, but instead of a crazy dog it is a crazy husband
+frase - cümle - a jewish zoom type show where they lay around and make sentences
+broma - şaka - a joke is a shocker to common thinking
+inteligente - akıllı - a killer must be very intelligent
+vulgar - kaba - a mean person gives a baby a cutting baba
+cocina - mutfak - a mute person can fuck in the kitchen and noone will hear
+por ciento - yüzde - a percent is what part of a hundred something is
+oficial de policía - polis memuru - a police officer remembers you
+serie - diziyi - a really good series makes you dizzy because it is so good (iyi)
+fuerte - güçlü - a really strong guy wearing gucci and louis vuitton. if gucci and louis vuitton combined, they would be the strongest fashion company in the world!
+frio - serin - a serene, cool, chilly night
+nervioso - sinirli - a sinner li(cks) someone when they are angry
+especial - özel - a special person is like a beautiful person without the need for the extra g(lamour)
+consejo - tip - a type of showing gratitude is to tip someone
+mujer - kadın - a woman is kuttin in line
+lugar - place - a year is a time place
+en el piso - yerde - a year is the ground we stand on, with the de ending for on
+puedes bajar de peso si te importa - aklına koyarsan kilo verebilirsin - ak lin has a ak in her mind
+casi crepúsculo - neredeyse alacakaranlık - all a jack a(that) ran lick at dusk
+por mi mismo - başıma - all by myself i bash a ma
+posible - olası - all i said is that it may be possible
+llorar - ağlamak - all uh the people cry because of allah
+tocar - oynamak - an actor says oy! to get someone's attention, then says na! when the wrong person looks
+lápiz - kurşun kalem - an apple core has shown you a pencil, so you call them
+¿es este un libro viejo? - bu eski bir kitap mı - an example of an old thing is a ski
+ver - görmek - an eye(gör) is all gorey
+no es relevante - ilgilendirmez - an ill gill end there mess, but this is not relevant to what made the fishes mess
+ana - anne - anne is a good mothers name, or mother is on a long trip
+ha aumentado - arttı - art increases in value, from artmak
+mismo - aynı - as you are dying you say "i ne--" to be the same as living people, but you die before finishing the word 'need'
+bari - bari - at least we can barry our heads in the sand
+antibiótico - antibiyotik - aunty be oh teek
+carne de vaca - sığır eti - because it is a proper meat, people say sir meat(eti)
+lamento haberte hecho esperar - beklettiğim için özür dilerim - beckon le team to keep witing
+joven - genç - being late(geç) and young is very similar, you are late to existing if you are young
+nube - bulut - bullets that seem french come out of a cloud. you shoot the cloud with a bullet and then you loot it.
+nieva - kar yağar - car covered in snow, it snows/rains so ya are going to be cold/wet
+kare - kare - carry is a very square person, both words end the same
+teléfonos móviles - cep telefonu - cep looks a lot like cell, just the second l is curved and attached to the first l
+té - çay - chai tea
+traductor - çevirmeni - chef hear many foreign words and becomes a translator
+muy - pek - chicken peck very much
+expulsar - çıkarmak - chicks are being ejected from eggs
+tan bueno como - kadar iyi - cud are something that goes again and again, like as something as
+de esto - bundan - daniel boon got his power from this, being up at dawn
+soleado - güneşli - day = gün, güneş = sun, -li = adjective suffix
+decir - demek - de people make words, they say stuff
+llamar - aramak - december(aralık) is the month where people call family.
+grave - ciddi - dee got a sex change, you accidently start to call her by her old name, jim, but then you correct yourself ji-dee and everyone acts like this is a seriosu offense
+ayer - dün - dün is just before the alphabet from gün
+interior - iç - each house has an inner
+pan - ekmek - ek, don't make bread
+vestido - elbise - el busy woman wears a dress
+electricidad - elektrik - electricity is electric
+divertirse - eğlenmek - ellen likes to have fun
+fundir - erimek - erie makes you melt
+cónyuge - eş - esh backwards is she, and a backwards she is a wife
+necesitar - ihtiyac - et needs help because something is about to hit him, you quickly tell him he needs to dodge it "et ya..odge"
+episodio - bölüm - every episode starts with a balloon with an m on it
+sabah - sabah - every morning is a sabath
+me gusta - beğenmek - everyone reluctantly likes themselves, be-en
+barato - ucuz - ew, jews are so cheap
+el lo hizo - öyle eyledi - ey lady! i commanded you
+actuar - eylemek - ey! lay! someone commands
+desconcertante - kaygılı - flying a kite when saying goodbye(gule gule) makes me anxious
+absolutamente - mutlaka - foot locker for mute people is absolutely real and it is called mutlaka
+ejercicio - egzersiz - for the excercise, the eggs ear must be seized
+cuando esté terminado - bittiğinde - from bitmek
+ganamos - biz kazandık - from kazanmak, if you win you get a new cousin
+yo no salí - çıkmadım - from çıkmak chicks like to go out
+no pude salir - çıkamadım - from çıkmak chicks like to go out, the difference between didn't and couldn't is that there is an extra vowel harmony in there, like you couldn't do it because there was too much extra to do
+ancho - genış - ganesh is the widest god
+descanso - gerisi - garry sees that we need a rest 
+demás - geri kalan - garry will stay with you the rest of your life
+meter en - geçirmek - get here so we can spend time
+ser requerido - gerekmek - get wrecked! this is what's required
+muy - gayet - guy ate very much food
+lástima - acımak - has pain(acı) as its root, pain makes you sneeze
+desaparecido - gitmiştir - has the go, gitmek root
+error - hata - hatters always point out mistakes
+todavía - hala - he is still out there hala ing
+pierna - bacak - he is supposed to jump over a candlestick, but jack doesn't have any legs
+tomar medicina - ilaç almak - he latched the medicine
+contacto - iletişim - he let it seem like we were in contact / communication
+sueños - rüya görür - he uses his dream to rue his gorer
+carta - kağıt - here is the paper, kut it
+ruidoso - yüksek sesli - high(yüksek) sound(ses)li
+su comida está lista para comer - onun yiyeceği yemek hazır - his food to eat is ready. how's (the) ear, is it ready?
+hm donde sea que vayamos ahora - hm şimdi nereye gitsek - hm now to where if we go. if we get sick we should go somewhere.
+estoy muy listo para viajar de nuevo - tekrar seyahat etmeye çok hazırım - how's your ear, are you ready? literally, again travel make very ready
+listo - hazır - hows her, is she ready?
+evolución humana - insan evrimi - humans are insane, and every me exists because of evolution
+nervioso - gergin - i am nervous because the gears in my car are green
+estoy agradecido - minnettarım - i appreciate that the men they tarred him
+dedo - parmak - i can make par with just one finger
+cobre - bâkir - i can tell from back here that you are a virgin, virgin are made of copper
+a mí mismo - kendime - i give me a candy to me, myself
+miré a los estantes - raflara göz gezdirdim - i look over my shelves, all i have is knockoff ralph lauren stuff
+máquina - makine - i make machine that makes my key neigh
+correo - gönderisi - i post that im gone dear and he see it
+deje - ayrılmak - i real(ly) will leave
+señal - sinyal - i should give them the signal to let them know i've seen ya'll
+si no lo soy - ben olmasam - i to be not if i, if i don't exist, i'll miss em
+deseo - dilemek - i wish they would delay the show
+a ver - bakalım - i'm going to back a limb in this robot fight, so let's see here which limb should i back?
+oportunidad - imkan - if it is a possibility, him can do it
+exacto - kesinlikle - if kissing is likely you are absolutely thrilled
+sobre - hakkında - if there is a hawk in da discussion, the discussion is about the hawk
+si hay - varsa - if there is a varsity basketball team, i will play
+si - eğer - if there is no air we can not breath
+mejor - en iyi - if you are in good, you are the best
+ahora - şu anda - if you are that in the moment then it is right now
+soltero - bekar - if you have a bad car you are more likely to be single
+deseo lo mejor - hayırlısı olsun - if you hire lisa it will be the best
+bolso - poşet - if you push it, your bag will fall
+cálmate - sakinleş - if you put a sock in you will be worked up less, you will calm down
+adán - adam - if you remove the m(boobs) from the front of a madam, it becomes a man
+probablemente - muhtemelen - if you try to mute a melon you will probably be successful
+pronunciación - telaffuz - if your pronunciation is bad, you tell a fuz(zy) statement
+el bebe cae al suelo - bebek yere düşer - in a shower(düş), the water falls. the douche falls over.
+extranjero - yurtdışına - in foreign lands they live in yurts and have dis in a yurt kitchen
+sobrino - yeğen - in japan nephews and nieces are used as currency(yen)
+cuerpo - vücut - in the holocaust they would (view) the body of a (jew) and then sh(oot)
+hacer - kılmak - in the zombie game when you kill something, you make it render the next level
+pandemia - pandemiye - in turkey they are excited about the pandemic, so it is pretty much the same word, but with a yay at the end
+cabeza - kafa - in turkey, religious people cover their head
+salado - tuzlu - in you twos, you love salt(tuz) + -lu(adjective ending)
+no encaja en - içi içine sığmamak - insides don't fit when you are really excited
+hacer - yapmak - instead of doing stuff some people just yap about what they'll do
+dormir - uyumak - is is someone turns to sleep, so you tell them, "oy, you!"
+depende - bağlıdır - it depends on the baller, dear
+albergue - pansiyon - it is a cheap hotel, but it has a pan, see on the shelf
+calcetines - çorap - it is a chore to wrap your foot so you just wear a sock
+yo espero - umuyorum - it is a slightly more satisfied om that i hope for
+malo - kötü - it is bad to cut you
+malo - fena - it is bad to fain a person who is already cold, but sometimes it is good to fan a person
+nublado - bulutlu - it is cloudy, but we can still loot lou
+frío - soğuk - it is cold because i am soaked
+columna - kol - it is cool to have tattoos on your arm
+enojo de nuevo - öf gene - it is exhausting(öf) to be at a loss for words. you get na(ked) again
+bien - iyi - it is good to be nice
+cerca - yakın - it is good to keep ya kin near you
+todos lo aman - herkes onu sever - it is hard to kiss everyone
+excluyendo - hariç - it is hard to reach someone if they think you are excluding them
+novio - erkek arkadaş - it is just male + friend
+ambas cosas - ikisi de - it is literally, the two also
+esta es una mala noticia - bu kötü haber - it is news that someone ha(s) a bear
+el verano - yaz - it is nice to write in the summer
+fuera de lo común - sıradış - it is out of the ordinary that sarah dish washes
+ser cruel - acımasız olmak - it is painful to pity someone (acımak), to be without pity is to be cruel
+ser requerido - gerekmek - it is required that you go reck your life
+vulgar - kaba - it is rude to your father to ca(ll) him ba instead of baba
+bicicleta - bisiklet - it is similar to bicycle, but more busy and with a klet(kleet)
+tímido - utangaç - it is similar to embarrassed(utanmiş), but with a "go w(atch)" like you are encouraging a shy person to go watch something
+café - kahve - it is so similar
+peculiar - tuhaf - it is strange when something does not have two halves
+debajo de la cama - yatağın altında - it is the bed possesses the underneath of the bed
+largo - uzun - it is too soon for you to be so tall so they get rid of your t. also same word as long.
+ser afectado - etkilenmek - it killin me how impressive you are!
+parecer - görünmek - it seems like the un sees(görmek) everything
+aksan - aksan - it sounds like accent with an accent that gets rid of the final t
+terrible - korkunç - it would be scary if pick up an apple and the core crunches in the middle of it
+interesante - ilginç - it would be very interesting if it turned out the grinch was ill, ilginç
+costa - kıyı - it's co(ol) ya live on the coast
+donde esta el gran asiento - büyük koltuk nerede - it's cool, kol took the sofa
+estupendo - harika - it's great when you find gold so you say "harika" (yurika!)
+te escucho con todos los oídos - seni can kulağı ile dinliyorum - it's time for dinner lee, can you listen when i tell you
+ningún libro debe tirarse a la basura - hiçbir kitap çöpe atılmamalı - jo pay you for doing chores, like taking out the trash. i'll tell mam a little on you, that should not be thrown out
+malabares - jonglörlük - jong lore looks really cool, like juggling
+hokkabaz - hokkabaz - juggling is hokey, but it is the latest buzz
+regular - öyle yani - just like böyle yani, you tell someone what happened, a boy lay on ya knee
+baño - banyo - just like in spanish
+usted dijo - söylediğin - just the to say verb with the ending that makes it be in the what + verb format
+verduras - sebze - just vegetables in subs, ye!
+perder - kaybetmek - kaius bets on something and loses
+desconcertante - kaygılı - kaius is nervous about getting gills
+identificación - kimlik - kim is an octopus, she licks things to identify them
+tengo que instalar - kurmalıyım - kurmak, the cure is to install, establish and build things, then with a lıyım ending
+aprendiste - öğrendin - learning consists of oral and written (or ret) stuff
+autobús - otobüs - like autobus
+satisfecho - memnun - like in memnun odlum(pleased to meet you)
+listado - liste - lists are canadian 'ey'
+me encantaría - bunu çok isterim - lit, this much i want
+mascota - evcil hayvan - literally domestic animal. house(ev) jail makes someone domestic. there are animals high in a van
+novia - kız arkadaş - literally girl + friend
+sendero para caminar es genial - yürüyüş yolu harika - literally walking way great, yürüyüş has same root of to walk, yürümek, but the ending switched to yüş bc it is describing something you use, yolu is from yol, you'll find your way
+un poco más tarde probablemente haga ejercicio jugando al tenis o trotando - biraz sonra muhtemelen tenis ya da koşarak egzersiz yapacağım - literally, a little later probably tennis or running excersise i will do. when you run you share a rock with someone you are running with.
+en tus sueños - hayallerinde - literally, dream plural your in, you say "hi all" to all the dream characters
+fue aclarado - belirgin kılıyordu - literally, evident was making. the bell ear gain(geen) attention, and makes itself evident. when you kill someone you make/render them into being a zombie.
+estás bien - iyisindir - literally, fine you are
+girar a la derecha en la primera rotonda - ilk kavşaktan sağa dön - literally, first crossroads/roundabout right turn. it shocks a ton of people that they sell kava(kav shock ton) in the crossroads/roundabout.&nbsp;
+¿tu pez tiene nombre? - balığınızın bir adı var mı - literally, fish a name exist?
+ayudar - yardım edin - literally, help you make
+recordé otro drama que amaba - sevdiğim başka bir diziyi hatırladım - literally, i like another series i remembered
+de inglés - ingilizcenden - literally, inglish your from
+bien tu - iyidir senden - literally, it is good, from you
+suena como - gibi geliyor - literally, like comes, when something similar comes to mind, it sounds like this
+el momento más vergonzoso es un secreto - en utandırıcı anı bir sırdır - literally, most embarrassing memory a secret. you tan (you) dare a g.(i. joe). i need lots of memories. in the military every things is a secret, sir!
+mi turco no es tan bueno como parece - türkçem göründüğü kadar iyi değil - literally, my turkish seems as good as not
+mi turco es mejor de lo que parece - türkçem göründüğünden daha iyi - literally, my turkish than it seems more good
+cual es la proxima parada - sonraki durak nedir - literally, next stop what is
+lo que dije - dediğimi - literally, say past what me definite
+estaré disponible para hacer una llamada pronto - yakında bir arama yapmak için müsait olacağım - literally, soon a call make for available i will be. when a moose eyes it, the other moose's knows it's available.
+la tienda cierra después de las seis en punto - dükkan saat altıdan sonra kapanır - literally, store hour from six after closes. when there is a cop near, the store closes.
+para esto - bunun için - literally, this for
+mentirle es lo peor - ona yalan söylemek en kötüsü - literally, to her lie say the worst. i didn't lie, l wasn't on ya lawn.
+hasta ahora todo bien - şimdiye kadar iyi - literally, to now until
+eso suena mejor - bu kulağa daha iyi geliyor - literally, to the ear more good it comes
+desafortunadamente - ne yazık ki - literally, what pity that. it is a pity that ya zick because it's worse than being sick.
+de dónde eres - neredensin - literally, what place from are you
+algo terrible dijiste - söylediğin korkunç birşey - literally, what you said terrible thing
+delicioso - lezzetli - liz eats lee and says he is delicious
+disculpa - özür - losers don't give appologıes, özürs do
+famoso - ünlü - lou can't undo being famous
+aventuras - macera - ma jeer(s) a(t) my advenures
+hijo - erkek evlat - male child er.. keks are usually male, you have a lot of children in your house, ev
+en la mesa - masanın üstünde - masa is similar to mesa. who's toon day is it? look on the cartoon schedule table to find out
+fruta - meyve - maybe fruit is not so good for you
+mide - mide - me day has been ruined by a stomach ache
+posible ir - gitmam olası - me not going is possible. all i said is that it's possible.
+arquitectura - mimarlık - mimar is architect, means are make by architects, and when architects like architecture
+casado - evli - mixed up evil(evli) people get married, it has that 'li' adjective ending
+posible - mümkün - mom might marry me kuna and they might change their middle letters to ü
+músico - müzisyen - moo zee syen
+sin impureza - mundar etmeden - moon (in the dar)k it didn't be rendered useless
+cocina - mutfağı - mute people are so quiet they can fuck in the kitchen, normal consonant substitution witht he k to ğ
+ingeniero - mühendis - my hand is tied, i have to be an engineer
+fácil - kolay - my job is easy, it's cool i just lie here
+déjame ver a mi amado más de cerca - sevdiğimi son bir kez yakından göreyim - my love final a time close let me see
+que has pasado - geçtiğini - my time of get(ting mar)tinis has passed
+mi turco se ve mejor de lo que es - türkçem olduğundan daha iyi görünüyor - my turkish since more good it seems
+es difícil controlarte a ti mismo - kendine hakim olmak zor - myself is candy, they judge someone and then they hawk him out
+de todas formas - neyse - nay sayers will think of problems anyways
+de todos modos, déjame decir al menos - neyse söyliyim bari - ney sayers will find problems anyways, barry obama wants to at least say one thing..
+para hacer - etmek - no hint
+ahi - oraya - no hint
+para mis hijos - çocuklarım için - no hint
+dar dinero - para vermek - no hint
+eso - bu - no hint
+nuevo - yeni - no hint
+subiendo - yukarı çıkıyor - no hint
+servido con crema de tarta de manzana - elmalı pie krema ile servis edilir - no hint
+el ascensor sube - asansör yukarı çıkıyor - no hint
+decir - söylemek - no hint
+ver - görmek - no hint
+salir de noche - gece dışarı çıkmak - no hint
+venir - gelmek - no hint
+comida - yemek - no hint
+van a esquiar todos los inviernos - her kış kayak yapmaya giderler - no hint
+no hay mucho que hacer mañana - yarın yapılacak çok şey yok - no hint
+mucho - çok şey - no hint
+su - onların - no hint
+no - hiçbir - no hint
+humano - insan - no hint
+en - en - no hint
+hasta - kadar - no hint
+más - daha - no hint
+su hija es tan linda - onların kızı çok şeker - no hint
+el pan está en la mesa - ekmek masanın üstünde - no hint
+mi casa esta cerca del rio - benim evim ırmağa yakın - no hint
+tu eres el unico que lo entiende - onu anlayan sadece sensin - no hint
+antes del mediodia - öğleden önce - no hint
+cuando - ne zaman - no hint
+de esa manera - o yöne - no hint
+la caja de estos es roja - bunların kutusu kırmızı - no hint
+esta muy oscura esta noche - bu gece çok karanlık - no hint
+podría ser cualquier chica - herhangi bir kız olabilir - no hint
+uno - bir - no hint
+¿por qué es este regalo mamá y papá? - bu hediye anne ve baba niçin - no hint
+en la casa - evin içinde - no hint
+es un buen amigo - o iyi bir arkadaş - no hint
+por - için - no hint
+usar - kullanmak - no hint
+se ve caliente - sıcak görünüyor - no hint
+déjame ver de cerca - yakından göreyim - no hint
+el problema es no dar dinero - sorun para vermek değil - no hint
+salgan - çıkmak - no hint
+cenamos en la cocina - akşam yemeğini mutfakta yiyoruz - no hint
+cada invierno - her kış - no hint
+cuál es tu nombre - senin adın ne - no hint
+nuestras costumbres son extraordinarias - bizim adetlerimiz sıradışı - no hint
+muy - çok - no hint
+este regalo - bu hediye - no hint
+más hermosa - daha güzel - no hint
+nosotros - biz - no hint
+este suéter es de tamaño pequeño - bu kazak küçük boy - no hint
+su hija - onların kızı - no hint
+autocontrol - kendine hakim olmak - no hint
+encima - üstü - no hint
+un nuevo reloj - yeni bir saat - no hint
+dentro - içine - no hint
+sólo yo - benim - no hint
+jugando bien - iyi oynuyor - no hint
+posible - olası - no hint
+volverse amigos - arkadaş olur - no hint
+regresaré el próximo año - gelecek yıl geri geliyorum - no hint
+entonces - sonra - no hint
+beber café después de la cena - akşam yemeğinden sonra kahve içer - no hint
+después de las seis - saat altıdan sonra - no hint
+más hermoso - en güzel - no hint
+nuestra casa está cerca del océano - evimiz okyanusun yakınında - no hint
+fue por ese camino - o yöne gitti - no hint
+dentro de la casa - evin içine - no hint
+iré allí ahora - şimdi oraya gideceğim - no hint
+no es bueno repetir todo lo que escuchas - her duyduğunu tekrar etmek iyi bir şey değildir - no hint
+repite todo lo que escuchas - her duyduğunu tekrar etmek - no hint
+hace calor afuera hoy - bugün dışarısı sıcak görünüyor - no hint
+hacer - yapmak - no hint
+no uses esa computadora - o bilgisayarı kullanma - no hint
+estamos comiendo en la cocina - mutfakta yiyoruz - no hint
+a ella le encanta - onu sever - no hint
+prueba cosas - dener şeyler - no hint
+como - gibi - no hint
+sólo quiero - sadece istemek - no hint
+bebida - içmek - no hint
+compré tres boletos - üç bilet satın aldım - no hint
+¿es este regalo mío? - bu hediye benim mi - no hint
+pequeño - küçük - no hint
+esta casa es mas linda - bu ev daha güzel - no hint
+tu nombre - senin adın - no hint
+ellos - onlar - no hint
+ntro - bizim - no hint
+yo solo - ben sadece - no hint
+su - her - no hint
+bailando conmigo - benimle dans etmek - no hint
+ben - ben - no hint
+gato debajo de la cama - kedi yatağın altında - no hint
+con - ile - no hint
+cocinaré mañana - yarına yemek yapacağım - no hint
+cae al piso - yere düşer - no hint
+posible - mümkün - no hint
+seis - altı - no hint
+hora - zaman - no hint
+hacer - yapmak - no hint
+su - onun - no hint
+si se han ido, déjame ir también - onlar gittiyse bende gideyim - no hint
+si no vuelven - onlar geri gelmezse - no hint
+el mas vergonzoso - en utandırıcı - no hint
+solo una noche - sadece bir gece - no hint
+serias mas feliz si no lo fuera - ben olmasam daha mutlu olursun - no hint
+mi primer dia - benim ilk günüm - no hint
+el perro corre dentro de la casa - köpek evin içinde koşuyor - no hint
+estás - bunlar - no hint
+mi hogar - benim evim - no hint
+antes de - önce - no hint
+mentirle - ona yalan söylemek - no hint
+ser - olmak - no hint
+hoy - bugün - no hint
+estará soleado hoy - bugün de güneşli olacak - no hint
+después de la cena - akşam yemeğinden sonra - no hint
+el equipo esta jugando bien - takım iyi oynuyor - no hint
+nos vamos ahora - şimdi ayrılıyoruz - no hint
+nos vamos ahora - biz şimdi ayrılıyoruz - no hint
+intra/ - içi - no hint
+su - onun - no hint
+hacer los deberes - ödevi yapmak - no hint
+hasta la mañana - sabaha kadar - no hint
+tengo tiempo hasta la mañana - sabaha kadar vaktim var - no hint
+no es mio - benim değil - no hint
+me gusta - hoşlanmak - no hint
+conseguir el libro - kitabı al - no hint
+usando la computadora - bilgisayarı kullanma - no hint
+oír - duymak - no hint
+dar - vermek - no hint
+como la seda - ipek gibi - no hint
+los fantasmas realmente existen - hayaletler gerçekten var - no hint
+todo no se puede solo querer - her şey sadece istemekle olmaz - no hint
+adquisitivo - satın almak - no hint
+intentando ayer, hoy se olvidan las cosas - dün dener şeyler bugün unutulur - no hint
+salir de noche no es bueno - gece dışarı çıkmak iyi bir şey değil - no hint
+ver - görmek - no hint
+solo soy un pobre - ben sadece fakir bir adamım - no hint
+su - sen - no hint
+lunes - senin - no hint
+ahora - şimdi - no hint
+te gustaría bailar conmigo - benimle dans etmek ister misin - no hint
+pequeño - küçük boy - no hint
+su cabello la hacía distinta - saçı onu belirgin kılıyordu - no hint
+propio - kendi - no hint
+solo nos quedamos una noche - sadece bir gece kalıyoruz - no hint
+cerca - yakınında - no hint
+ayer - dün - no hint
+ayer por la mañana - dün sabah - no hint
+quiero un reloj nuevo - yeni bir saat istiyorum - no hint
+su bolsa - onun çantası - no hint
+asiento grande - büyük koltuk - no hint
+caja de estos - bunların kutusu - no hint
+su bolsa es pesada - onun çantası ağır - no hint
+un dia soleado - güneşli bir gün - no hint
+malas noticias - kötü haber - no hint
+derribarle - onu yere düşürmek - no hint
+tal vez llueva - belki yağmur yağar - no hint
+hasta - yukarı - no hint
+cuando vendras aqui - buraya ne zaman geleceksin - no hint
+malo - kötü - no hint
+me gusta el chocolate pero no me gusta el pastel - çikolatayı severim ama pasta sevmem - no hint
+su teléfono de nuevo - onun telefonu yine - no hint
+el próximo año - gelecek yıl - no hint
+hoy tambien - bugün de - no hint
+siempre cocina a las cinco en punto - her zaman saat beşte yemek yapar - no hint
+trabajar - çalışmak - no hint
+no puedo entender nada - hiç anlayamıyorum - no hint
+viniendo a la oficina - ofise geliyor - no hint
+tengo - sahip olmak - no hint
+a veces no puedo entenderte en absoluto - bazen seni hiç anlayamıyorum - no hint
+realmente existe - gerçekten var - no hint
+bebo café todas las mañanas - her sabah kahve içerim - no hint
+yendo a la tienda - dükkana gidiyor - no hint
+los - o - no hint
+ningún libro - hiçbir kitap - no hint
+vinimos ayer por la mañana - dün sabah geldik - no hint
+mañana - yarın - no hint
+grande - büyük - no hint
+mi hermana esta en la casa - kız kardeşim evin içinde - no hint
+recibir - almak - no hint
+cocineros - yemek yapar - no hint
+algo que quieras decir - söylemek istediğin bir şey - no hint
+mirar y ver - bakmak ve görmek - no hint
+no - değil - no hint
+te gusta el tenis - tenisten hoşlanır mısın - no hint
+dónde - var - no hint
+decir - demek - no hint
+si - eğer - no hint
+si vas - eğer gidersen - no hint
+aqui es mi primer dia - burada benim ilk günüm - no hint
+bien - iyi - no hint
+primero - ilk - no hint
+a menudo - sık sık - no hint
+pescar a menudo - sık sık balık avlamaya - no hint
+he trabajado duro - çok çalıştım ya - no hint
+toma el libro en el estante - raftaki kitabı al - no hint
+ellos quieren desayuno - kahvaltı istiyorlar - no hint
+ellos quieren desayuno - kahvaltı istiyorlar - no hint
+no azul - mavi değil - no hint
+a veces tomar medicamentos es peligroso - bazen ilaç almak tehlikelidir - no hint
+yendo a la tienda - dükkana gidiyor - no hint
+no tienes un buen auto - iyi bir araba sahibi değilsin - no hint
+saber - bilmek - no hint
+no lo sé - bilmiyorum - no hint
+disfruta del tenis - tenisten hoşlanır - no hint
+su cabello es como la seda - saçları ipek gibi - no hint
+me estas dando esto - bunu bana mı veriyorsun - no hint
+demasiado oscuro - çok karanlık - no hint
+rojo o blanco - kırmızı veya beyaz - no hint
+cualquier chica - herhangi bir kız - no hint
+cuando aqui - buraya ne zaman - no hint
+uso lentes porque tengo los ojos dañados - gözlük takıyorum çünkü gözlerim bozuk - no hint
+cuál libro - hangi kitabı - no hint
+esto no es mío - bu benim değil - no hint
+ha - ha - no hint
+¿bebes una copa de vino tinto o blanco? - bir bardak kırmızı veya beyaz şarap içer misin - no hint
+hora - zaman - no hint
+he trabajado - çalıştım ya - no hint
+la mujer tiene que trabajar el sábado - kadın cumartesi günü çalışmak zorunda - no hint
+mirar y ver son cosas diferentes - bakmak ve görmek farklı şeylerdir - no hint
+yo compré - satın aldım - no hint
+gusta - sevmek - no hint
+hay algo que quiero decirte - sana söylemek istediğim bir şey var - no hint
+sería mejor - daha iyi olur - no hint
+yo bebo café - kahve içerim - no hint
+das - veriyorsun - no hint
+vamos - gitmek - no hint
+no los conozco - onları bilmiyorum - no hint
+quieres - istemek - no hint
+muy - çok - no hint
+con crema - krema ile - no hint
+día - gün - no hint
+cuando le gustaria hacer su cita - randevunuzu ne zaman almak istersiniz - no hint
+hm - hm - no hint
+su teléfono - onun telefonu - no hint
+muy frio por la noche - geceleyin gerçekten soğuk - no hint
+habla de tí - kendin hakkında bahset - no hint
+seguro que puedes comerlo - tabii olur onu yiyebilirsiniz - no hint
+que es esto - bu nedir - no hint
+porqué es eso - neden - no hint
+realmente frio - gerçekten soğuk - no hint
+le pregunté por qué se escapó - onun neden kaçtığını sordum - no hint
+kim - kim - no hint
+por qué te escapaste - neden kaçtığını - no hint
+cómo llegar allá - oraya nasıl gidilir - no hint
+entender - anlamak - no hint
+trabajar el sábado - cumartesi günü çalışmak - no hint
+es mejor que hagas deporte - spor yapsan daha iyi olur - no hint
+queremos lápiz rojo, no azul - kırmızı kalem istiyoruz mavi değil - no hint
+bien - iyi - no hint
+un dia soleado - güneşli bir gün - no hint
+tómalo sin olvidarlo - ha unutmadan şunu al - no hint
+haría cualquier cosa por mis hijos - çocuklarım için her şeyi yaparım - no hint
+que - şu - no hint
+una buena amiga - iyi bir arkadaş - no hint
+de verdad - gerçekten - no hint
+alguna - herhangi - no hint
+quizás - belki - no hint
+antes de olvidar - ha unutmadan - no hint
+no importa donde - nerede olursa olsun - no hint
+fácil de derribarlo - onu yere düşürmek kolay - no hint
+sin explicar eso - şunu açıklamadan - no hint
+a menudo salgo a pescar - sık sık balık avlamaya çıkarım - no hint
+allí ahora - şimdi oraya - no hint
+aquí - buraya - no hint
+soy feliz cuando el clima esta soleado - hava güneşli olduğu zaman mutluyum - no hint
+todas las tiendas están cerradas ahora - tüm dükkanlar şimdi kapalı - no hint
+cuando - ne zaman - no hint
+mi hermano y hermana - abim ve ablam - no hint
+qué - nedir - no hint
+o - veya - no hint
+de quien - kimden - no hint
+sobre - hakkında - no hint
+ser - be - no hint
+para - ad - no hint
+cuales - hangi - no hint
+comer su comida - onun yiyeceği yemek - no hint
+incluso un maestro - öğretmen bile - no hint
+esto y aquello - bu ve şu - no hint
+eh - eh - no hint
+como ir - nasıl gidilir - no hint
+tal vez llueva - belki yağmur - no hint
+pero no me gusta el pastel - ama pasta sevmem - no hint
+hm ahora - hm şimdi - no hint
+comí demasiado - çok yedim be - no hint
+dónde - nerede - no hint
+y - ve - no hint
+mi hermano y mi hermana son doctores - abim ve ablam doktordur - no hint
+cuando tomar - ne zaman almak - no hint
+solo - sadece - no hint
+si te vas yo también iré - eğer gidersen ben de giderim - no hint
+cuánto comiste - ne çok yedin be - no hint
+cuando esta soleado - güneşli olduğu zaman - no hint
+de quien escuchaste esto - bunu kimden duydun - no hint
+porqué - çünkü - no hint
+que libro leíste - hangi kitabı okudun - no hint
+ser - olmak - no hint
+incluso el maestro llega tarde - öğretmen bile geç kaldı - no hint
+por supuesto - tabii - no hint
+nacido - ne - no hint
+todas las tiendas - tüm dükkanlar - no hint
+con - ile - no hint
+sin pagarlo - bunu ödemeden - no hint
+ama - ama - no hint
+los - o - no hint
+seguro voluntad - tabii olur - no hint
+acerca de ti mismo - kendin hakkında - no hint
+todos - tüm - no hint
+cómo - nasıl - no hint
+usar - kullanım - no hint
+hora - süre - no hint
+verdadero - gerçek - no hint
+cerca - yakın - no hint
+episodio - bölüm - no hint
+debajo - altında - no hint
+caso - dava - no hint
+ciudad - şehir - no hint
+árbol - ağaç - no hint
+excitar - heyecanlandırmak - no hint
+vida - hayat - no hint
+ciencias - bilim - no hint
+comida - yemek - no hint
+su amigo - arkadaşı - no hint
+empezado - başladı - no hint
+letra - mektup - no hint
+usual - olağan - no hint
+mundo - dünya - no hint
+esperanza - umut - no hint
+oficina - ofis - no hint
+hecho - yapılan - no hint
+adán - adam - no hint
+a mi - bana - no hint
+frase - cümle - no hint
+diferente - farklı - no hint
+allí - orada - no hint
+escribir - yazmak - no hint
+largo - uzun - no hint
+cosa - şey - no hint
+leche - süt - no hint
+dónde - var - no hint
+detrás - bak - no hint
+puede ser - olabilir - no hint
+colegio - okul - no hint
+crecer - büyümek - no hint
+sol - güneş - no hint
+cuatro - dört - no hint
+expresar - devlet - no hint
+siglo - yüzyıl - no hint
+correr - run - no hint
+noche - gece - no hint
+norte - kuzey - no hint
+peligro - tehlike - no hint
+fruta - meyve - no hint
+habitación - oda - no hint
+grueso - kalın - no hint
+juntos - birlikte - no hint
+próximo - sonraki - no hint
+muestra - örnek - no hint
+ferrocarril - demiryolu - no hint
+kilómetro - kilometre - no hint
+mantenimiento - bakım - no hint
+derecho - düz - no hint
+muchacha - kız - no hint
+afilado - keskin - no hint
+recibir - almak - no hint
+sitio - yer - no hint
+tam - tam - no hint
+morir - ölmek - no hint
+entonces - sonra - no hint
+sesión - sesi - no hint
+año - yıl - no hint
+llegó - geldi - no hint
+dama - bayan - no hint
+nombre de pila - adı - no hint
+formulario - formu - no hint
+confundir - karıştırmak - no hint
+posee - hat - no hint
+jardín - bahçe - no hint
+derecho - sağ - no hint
+niño - çocuk - no hint
+ese - diye - no hint
+otro - başka - no hint
+en bancarrota - kırdı - no hint
+lunes - senin - no hint
+escala - ölçek - no hint
+nación - ulus - no hint
+pago - ödeme - no hint
+vestido - elbise - no hint
+llamada - çağrı - no hint
+yan - yan - no hint
+metal - metal - no hint
+trabaja - çalışma - no hint
+comida - gıda - no hint
+sostuvo - tutulan - no hint
+pelo - saç - no hint
+cocinero - aşçı - no hint
+suelo - zemin - no hint
+ojo - göz - no hint
+nunca - asla - no hint
+cruzar - çapraz - no hint
+granja - çiftlik - no hint
+mar - deniz - no hint
+dibujar - çizmek - no hint
+tarde - geç - no hint
+dedo - parmak - no hint
+el valor de - değeri - no hint
+prensa - basın - no hint
+mentir - yalan - no hint
+ganó - yendi - no hint
+la - az - no hint
+vista - görünüm - no hint
+silla - sandalye - no hint
+idea - fikir - no hint
+difícil - dur - no hint
+separar - ayrı - no hint
+oír - duymak - no hint
+a - at - no hint
+de madera - ahşap - no hint
+madre - ana - no hint
+abierto - açık - no hint
+cuyo - kimin - no hint
+muestra - göstermektedir - no hint
+su - her - no hint
+sueño - hayal - no hint
+pies - ayaklar - no hint
+tipo - nazik - no hint
+necesario - gerekli - no hint
+joven - genç - no hint
+listo - hazır - no hint
+sobre - yukarıdaki - no hint
+rojo - kırmızı - no hint
+cerrado - kapalı - no hint
+nosotros - bizi - no hint
+flor - çiçek - no hint
+negocio - iş - no hint
+línea - satır - no hint
+de todas formas - olsun - no hint
+boca - ağız - no hint
+símbolo - sembol - no hint
+viva - canlı - no hint
+problema - sorun - no hint
+espalda - geri - no hint
+descanso - molası - no hint
+patio - avlu - no hint
+se levantará - yükselecek - no hint
+golpe - darbe - no hint
+petróleo - yağ - no hint
+por ciento - yüzde - no hint
+pensar - düşünmek - no hint
+decir - demek - no hint
+ayuda - yardım - no hint
+bajo - düşük - no hint
+marrón - kahverengi - no hint
+usar - giymek - no hint
+regreso - dönüş - no hint
+porqué es eso - neden - no hint
+selección - seçim - no hint
+justa - adil - no hint
+viejo - eski - no hint
+mismo - aynı - no hint
+control - kontrolü - no hint
+ellos - onları - no hint
+haría - would - no hint
+consonante - ünsüz - no hint
+velocidad - hız - no hint
+edad - yaş - no hint
+la gente - gel - no hint
+no - hayır - no hint
+gente - insanlar - no hint
+sólo yo - benim - no hint
+sobre - üzerinde - no hint
+planchar - demir - no hint
+único - tek - no hint
+kim - kim - no hint
+sonreír - gülümseme - no hint
+sucedió - oldu - no hint
+arrugado - kırışık - no hint
+cabeza - kafa - no hint
+página - sayfa - no hint
+deber - gerekir - no hint
+fue encontrado - bulundu - no hint
+respuesta - cevap - no hint
+resolver - çözmek - no hint
+eso - it - no hint
+todavía - hala - no hint
+aprender - öğrenmek - no hint
+planta - bitki - no hint
+cubrir - kapak - no hint
+mantener - tutmak - no hint
+resultado - sonuç - no hint
+quemadura - yanmak - no hint
+dejar - let - no hint
+tipos - tipi - no hint
+ley - hukuk - no hint
+difícil - sert - no hint
+comienzo - başlangıç - no hint
+costa - sahil - no hint
+padrino - kum - no hint
+sol - sol - no hint
+rollo - rulo - no hint
+natural - doğal - no hint
+sentido - duyu - no hint
+libro - kitap - no hint
+cogí - aldı - no hint
+rico - zengin - no hint
+soldado - asker - no hint
+proceso - süreç - no hint
+montaña - dağ - no hint
+por favor - lütfen - no hint
+reloj - izle - no hint
+color - renk - no hint
+rostro - yüz - no hint
+estudiante - öğrenci - no hint
+esquina - köşe - no hint
+parecer - görünmek - no hint
+alimentar - besleme - no hint
+sitio - yerleştirmek - no hint
+blanco - beyaz - no hint
+periodo de - dönemi - no hint
+facilidad de - kolaylığı - no hint
+papel - kâğıt - no hint
+eso - bu - no hint
+el efecto de - etkisi - no hint
+río - nehir - no hint
+auto - araba - no hint
+segundo - ikinci - no hint
+kanat - kanat - no hint
+vecino - komşu - no hint
+murciélago - yarasa - no hint
+en lugar de - yerine - no hint
+lista - listesi - no hint
+pronto - yakında - no hint
+tierra - arazi - no hint
+tipo - tür - no hint
+pasado - geçmiş - no hint
+hogar - ev - no hint
+tratar - denemek - no hint
+aire - hava - no hint
+sí - ay - no hint
+punto - nokta - no hint
+contento - mutlu - no hint
+propio - öz - no hint
+partera - baba - no hint
+viaje - gezi - no hint
+redondo - yuvarlak - no hint
+semilla - tohum - no hint
+unirse - katılmak - no hint
+show - gösterisi - no hint
+ha crecido - büyüdü - no hint
+teléfono - tel - no hint
+costo - maliyet - no hint
+perdió - kaybetti - no hint
+igual - eşit - no hint
+enviado - gönderildi - no hint
+asi que - yani - no hint
+cayó - düştü - no hint
+apropiado - uygun - no hint
+movimiento - hareket - no hint
+fluir - akış - no hint
+banco - banka - no hint
+recoger - toplamak - no hint
+oído - kulak - no hint
+bastante - oldukça - no hint
+camino - yol - no hint
+hijo - oğlu - no hint
+muchos - birçok - no hint
+alto - yüksek - no hint
+bahar - bahar - no hint
+como - gibi - no hint
+él/ella/eso - onu - no hint
+diccionario - sözlük - no hint
+nube - bulut - no hint
+sorpresa - sürpriz - no hint
+tranquilo - sessiz - no hint
+yo hice - yaptım - no hint
+frio - serin - no hint
+diseño - dizayn - no hint
+llave - anahtar - no hint
+mayo - mayis - no hint
+abajo - aşağı - no hint
+piel - cilt - no hint
+agujero - delik - no hint
+encontrar - bulmak - no hint
+saltar - atlama - no hint
+estar - standı - no hint
+propio - kendi - no hint
+encontrarse - karşılamak - no hint
+aumentar - yükseltmek - no hint
+párrafo - paragraf - no hint
+tercera - üçüncü - no hint
+definir - tanımlamak - no hint
+entre - arasında - no hint
+sí - ya - no hint
+cerro - tepe - no hint
+idea - düşünce - no hint
+gato - kedi - no hint
+copiar - kopya - no hint
+historia - hikaye - no hint
+sierra - testere - no hint
+transporte - taşımak - no hint
+el pez - balık - no hint
+funcionar - işletmek - no hint
+solicitud - uygulama - no hint
+base - baz - no hint
+corte - kesim - no hint
+por supuesto - emin - no hint
+contemporáneo - çağdaş - no hint
+anillo - halka - no hint
+personaje - karakter - no hint
+comienzo - başla - no hint
+insecto - böcek - no hint
+caminar - yürümek - no hint
+radio - radyo - no hint
+grupo - grup - no hint
+es el átomo - atomudur - no hint
+música - müzik - no hint
+electricidad - elektrik - no hint
+elegante - sık - no hint
+hueso - kemik - no hint
+estoy de acuerdo - katılıyorum - no hint
+mujer - kadın - no hint
+creo - sanırım - no hint
+lavado - yıkama - no hint
+no - hiç - no hint
+aunque - olsa - no hint
+sentir - hissetmek - no hint
+discusión - tartışma - no hint
+pájaro - kuş - no hint
+campana - çan - no hint
+cuerpo - vücut - no hint
+magia - büyü - no hint
+incluso - hatta - no hint
+tabla de - kurulu - no hint
+alegría - sevinç - no hint
+semejante - böyle - no hint
+reloj - izleyin - no hint
+pedir - sormak - no hint
+cambio - değişim - no hint
+suave - yumuşak - no hint
+brillante - parlak - no hint
+fotografía - resim - no hint
+gas - gaz - no hint
+otra vez - tekrar - no hint
+animal - hayvan - no hint
+finalizar - bitirmek - no hint
+construcción - inşa - no hint
+vestirse - giydirmek - no hint
+tierra - toprak - no hint
+desaparecido - gitti - no hint
+comercio - ticaret - no hint
+gritar - bağırmak - no hint
+escribió - yazdı - no hint
+limpio - temiz - no hint
+no tocar - dokunma - no hint
+equipo - takım - no hint
+ahorrar - kaydetmek - no hint
+decimal - ondalık - no hint
+medio - orta - no hint
+matar - öldürmek - no hint
+lago - göl - no hint
+para observar - gözlemlemek - no hint
+a - iki - no hint
+organo - organ - no hint
+roca - taş - no hint
+su numero - numarası - no hint
+su - ses - no hint
+trepar - tırmanış - no hint
+sopa - sopa - no hint
+bebé - bebek - no hint
+ocho - sekiz - no hint
+bahía - köy - no hint
+cocina - kök - no hint
+país - ülke - no hint
+comprar - satın - no hint
+tengo tiempo la semana que viene - gelecek hafta zamanım var - no hint
+siete - yedi - no hint
+un poco - bit - no hint
+expresión - ifade - no hint
+lucha - kavga - no hint
+de ninguna manera - olmaz - no hint
+difícil - zor - no hint
+doctor - doktor - no hint
+proteger - korumak - no hint
+mediodía - öğlen - no hint
+recorte - kırpma - no hint
+obrero - eleman - no hint
+activar - parti - no hint
+atrapó - yakalandı - no hint
+habló - konuştu - no hint
+historia de - geçmişi - no hint
+signo - işareti - no hint
+estamos esperando - bekliyoruz - no hint
+capitán - kaptan - no hint
+suficiente - yeterli - no hint
+egipto - mısır - no hint
+cuerda - dize - no hint
+perro - köpek - no hint
+paso - adım - no hint
+amor - aşk - no hint
+regla - kural - no hint
+frío - soğuk - no hint
+poner - koymak - no hint
+deseo - dilek - no hint
+escrito - yazılı - no hint
+instrumento - enstrüman - no hint
+césped - çim - no hint
+vaca - inek - no hint
+hombres - erkekler - no hint
+necesitar - gerek - no hint
+millón - milyon - no hint
+melodía - melodi - no hint
+método - yöntem - no hint
+diminuto - küçücük - no hint
+juicio - deneme - no hint
+todo - alt - no hint
+veinte - yirmi - no hint
+a salvo - güvenli - no hint
+la temperatura - sıcaklık - no hint
+proveer - sağlamak - no hint
+por lo tanto - böylece - no hint
+poesía - şiir - no hint
+conectado - bağlı - no hint
+pulgada - inch - no hint
+neumático - lastik - no hint
+pintura - boya - no hint
+bala - kurşun - no hint
+llorar - ağlamak - no hint
+detenido - durdu - no hint
+incluso - içeren - no hint
+oh - oh - no hint
+rápido - hızlı - no hint
+recuerdo - hatırlıyorum - no hint
+especialmente - özellikle - no hint
+guerra - savaş - no hint
+molécula - molekülü - no hint
+persona - kişi - no hint
+para - para - no hint
+aparece - görünür - no hint
+sal - tuz - no hint
+enojo - öfke - no hint
+noticias - haber - no hint
+alegación - iddia - no hint
+tocar - oynamak - no hint
+solamente - yalnız - no hint
+leyendo - okumak - no hint
+puerto - liman - no hint
+captura - catch - no hint
+agregar - ekleyin - no hint
+cielo - gökyüzü - no hint
+aquí - burada - no hint
+salvaje - vahşi - no hint
+conocido - tuttu - no hint
+borde - kenar - no hint
+soportar - ayı - no hint
+extraño - garip - no hint
+mayo - kan - no hint
+deberá - shall - no hint
+atestado - kalabalık - no hint
+articulo - poz - no hint
+pasar - geçmek - no hint
+ya que - beri - no hint
+cima - üst - no hint
+calle - sokak - no hint
+llegar - varmak - no hint
+protuberancia - çarpmak - no hint
+lección - ders - no hint
+trajo - getirdi - no hint
+delgado - ince - no hint
+solución - çözüm - no hint
+máquina - makine - no hint
+caja - kutu - no hint
+manzana - elma - no hint
+banda - bant - no hint
+deslizar - kayma - no hint
+desarrollar - geliştirmek - no hint
+he oído - duydum - no hint
+cinco - beş - no hint
+temprano - erken - no hint
+tabaco - tutun - no hint
+verbo - fiil - no hint
+escucha - dinle - no hint
+derecho - doğru - no hint
+dibujo - desen - no hint
+central - merkezi - no hint
+columna - sütun - no hint
+seleccione - seçin - no hint
+mapa - harita - no hint
+administración - idare - no hint
+plural - çoğul - no hint
+continente - kıta - no hint
+además - ayrıca - no hint
+el verano - yaz - no hint
+probar - kanıtlamak - no hint
+pierna - bacak - no hint
+ejercicio - egzersiz - no hint
+el - el - no hint
+invierno - kış - no hint
+ligero - ışık - no hint
+visitar - ziyareti - no hint
+divertido - eğlenceli - no hint
+no tengo tiempo para esto - bunun için zamanim yok - no hint
+directo - doğrudan - no hint
+tubo - tüp - no hint
+rakam - rakam - no hint
+asi que - kaya - no hint
+él sabía - biliyordu - no hint
+maestro - usta - no hint
+quédate - kalmak - no hint
+objeto - nesne - no hint
+superficie - yüzey - no hint
+sistema - sistem - no hint
+registro - kayıt - no hint
+bote - tekne - no hint
+posible - mümkün - no hint
+de alguien más - başkasının - no hint
+soy - bin - no hint
+caliente - sıcak - no hint
+me perdí - özledim - no hint
+hablar - konuşma - no hint
+traer - getirmek - no hint
+sí - evet - no hint
+pueblo - kasaba - no hint
+muerte - ölüm - no hint
+otoño - düşmek - no hint
+agradecer - teşekkür - no hint
+calificación - notu - no hint
+espere - bekleyin - no hint
+plan - planı - no hint
+estrella - yıldız - no hint
+tiene miedo - korkuyor - no hint
+talentoso - yetenekli - no hint
+se acabó - bitti - no hint
+conductor - sürücü - no hint
+usted - ön - no hint
+enseñar - öğretmek - no hint
+semana - hafta - no hint
+verde - yeşil - no hint
+libre - ücretsiz - no hint
+detrás - arkasında - no hint
+espacio - uzay - no hint
+seguir - devam - no hint
+cuadra - bloğu - no hint
+momento - saat - no hint
+evento - olay - no hint
+contrato - anlaşma - no hint
+nadar - yüzmek - no hint
+interesar - faiz - no hint
+llegar - ulaşmak - no hint
+arreglar - düzenlemek - no hint
+canción - şarkı - no hint
+invención - icat - no hint
+seis - altı - no hint
+viaje - seyahat - no hint
+nueve - dokuz - no hint
+sencillo - basit - no hint
+unos pocos - birkaç - no hint
+famoso - ünlü - no hint
+tirar a la basura - atmak - no hint
+lento - yavaş - no hint
+propiedad - mülkiyet - no hint
+servicio - hizmet - no hint
+gris - gri - no hint
+requiere - gerektirir - no hint
+grande - geniş - no hint
+lluvia - yağmur - no hint
+preparar - hazırlamak - no hint
+controlar - çek - no hint
+energía - enerji - no hint
+navegar - yelken - no hint
+dilo - söyle - no hint
+quiero - istiyorum - no hint
+raza - yarış - no hint
+ventana - penceresi - no hint
+tren - tren - no hint
+pared - duvar - no hint
+cts - cts - no hint
+no tan bueno como dijo - onun söylediği kadar iyi değil - no hint
+producto - ürün - no hint
+negro - siyah - no hint
+pequeño - kısa - no hint
+planeta - gezegen - no hint
+clase - sınıf - no hint
+pregunta - soru - no hint
+sería - olur - no hint
+embarcacion - gemi - no hint
+mi amor - yarım - no hint
+fresco - taze - no hint
+buscar - arama - no hint
+orden - sipariş - no hint
+sur - güney - no hint
+pedazo - parça - no hint
+desierto - çöl - no hint
+desde - iz - no hint
+rueda - tekerlek - no hint
+lámina - levha - no hint
+importar - madde - no hint
+fuerza - kuvvet - no hint
+azul - mavi - no hint
+correo/ - sonrası - no hint
+gastar - harcamak - no hint
+profundo - derin - no hint
+pie - ayak - no hint
+parte de - payı - no hint
+estación - istasyon - no hint
+ocupado - meşgul - no hint
+prueba - test - no hint
+cargo - şarj - no hint
+pareja - ortak - no hint
+oro - altın - no hint
+licitación - teklif - no hint
+plano - düzlem - no hint
+esclavo - köle - no hint
+preguntarse - wonder - no hint
+reír - gülmek - no hint
+grado de - derecesi - no hint
+llenar - doldurmak - no hint
+control - kontrol - no hint
+juego - oyunu - no hint
+figura - şekil - no hint
+bebida - içki - no hint
+ocurrir - meydana - no hint
+apoyo - destek - no hint
+calor - ısı - no hint
+líquido - sıvı - no hint
+lejos - uzak - no hint
+llenar - doldurun - no hint
+este - doğu - no hint
+diente - dişler - no hint
+poder - güç - no hint
+hermosa - güzel - no hint
+específico - belirli - no hint
+mosca - uçmak - no hint
+rama - şube - no hint
+sonek - sonek - no hint
+debate - tartışmak - no hint
+libra - kiloluk - no hint
+similar - benzer - no hint
+guía - kılavuz - no hint
+belleza - güzellik - no hint
+punto - puan - no hint
+abrió - açtı - no hint
+tono - zift - no hint
+dio - verdi - no hint
+halat - halat - no hint
+oceano - okyanus - no hint
+noche - akşam - no hint
+fuerte - güçlü - no hint
+mente - zihin - no hint
+básico - temel - no hint
+vadi - vadi - no hint
+cola - kuyruk - no hint
+grafico - grafiği - no hint
+sombrero - şapka - no hint
+oeste - batı - no hint
+su esposa - karısı - no hint
+hombro - omuz - no hint
+irradiar - yaymak - no hint
+gráfico - tablo - no hint
+nacido - doğmuş - no hint
+determinar - belirlemek - no hint
+sabah - sabah - no hint
+camión - kamyon - no hint
+ruido - gürültü - no hint
+oportunidad - şans - no hint
+tienda - dükkan - no hint
+tramo - streç - no hint
+brillo - parlaklık - no hint
+falso - yanlış - no hint
+nariz - burun - no hint
+dicho - dedi - no hint
+dormir - uyku - no hint
+¿puedo tener una bolsita por favor? - bir poşet alabilir miyim lütfen - no hint
+uno de esto por favor - bundan bir tane lütfen - no hint
+si tienes algo que decir, dilo - eğer söyleyecek birşeyin varsa söyle - no hint
+familia - aile - no hint
+dejalo - bırakın - no hint
+para medir - ölçmek - no hint
+puerta - kapı - no hint
+opinión - görüş - no hint
+aquellos - acele - no hint
+cabeza - baş - no hint
+viento - rüzgar - no hint
+colonia - koloni - no hint
+mayo - mayın - no hint
+completo - komple - no hint
+corbata - kravat - no hint
+fuego - yangın - no hint
+pistola - gun - no hint
+permiso - izin - no hint
+actual - akım - no hint
+todos - bütün - no hint
+rey - kral - no hint
+padre - ebeveyn - no hint
+favor - iyilik - no hint
+conectar - bağlamak - no hint
+acorde - akor - no hint
+gordo - şişman - no hint
+hay - ada - no hint
+bar - bar - no hint
+segmentos - segmenti - no hint
+cuál - kuru - no hint
+instante - anlık - no hint
+mercado - pazar - no hint
+polluelo - civciv - no hint
+enemigo - düşman - no hint
+naturaleza - doğa - no hint
+kar - kar - no hint
+vapor - buhar - no hint
+iniciar sesión - log - no hint
+el corazón - dil - no hint
+unidad - ünitesi - no hint
+oxígeno - oksijen - no hint
+caramelo - şeker - no hint
+oscuro - karanlık - no hint
+partido - maç - no hint
+dominio - alan - no hint
+chaqueta - ceket - no hint
+final - nihai - no hint
+masa - kitle - no hint
+victoria - win - no hint
+minuto - dakika - no hint
+nutrir - beslemek - no hint
+herramienta - aracı - no hint
+especial - özel - no hint
+koku - koku - no hint
+para producir - üretmek - no hint
+sillón - koltuk - no hint
+expulsar - çıkarmak - no hint
+contra - karşısında - no hint
+zapato - ayakkabı - no hint
+partido - kamp - no hint
+nivel - seviyesi - no hint
+sobre - üzerinden - no hint
+otro - diğer - no hint
+posición - pozisyon - no hint
+columna - kol - no hint
+no - yok - no hint
+tres - üç - no hint
+sentarse - oturmak - no hint
+cuántos grados - kaç derece - no hint
+iré al cine este fin de semana - bu haftasonu sinemaya gideceğim - no hint
+qué haces este fin de semana - bu haftasonu ne yapıyorsun - no hint
+quieres bailar - dans etmek ister misin - no hint
+no fui yo - ben değildim - no hint
+se llevaron mi teléfono - onlar telefonumu aldı - no hint
+mi suerte ha aumentado - şansim arttı - no hint
+nada grande - büyük bir şey değil - no hint
+besar - ovmak - no hint
+miedo - korku - no hint
+triángulo - üçgen - no hint
+ingresar - girin - no hint
+enviar - göndermek - no hint
+amarillo - sarı - no hint
+dijo - söyledi - no hint
+ascensor - asansör - no hint
+rosa - gül - no hint
+división - bölünme - no hint
+satisfecho - memnun - no hint
+original - orijinal - no hint
+pan - ekmek - no hint
+pato - ördek - no hint
+el corrió - koştu - no hint
+estimado - sevgili - no hint
+cascarón - kabuk - no hint
+cuello - boyun - no hint
+habilidad - beceri - no hint
+temporada - sezon - no hint
+imán - mıknatıs - no hint
+plata - gümüş - no hint
+higo - incir - no hint
+hermano - kardeş - no hint
+acero - çelik - no hint
+más lejos - ileri - no hint
+experiencia - deneyim - no hint
+mapa - kart - no hint
+sueño - rüya - no hint
+estado - durumu - no hint
+total - toplam - no hint
+nacido - ne - no hint
+doble - çift - no hint
+éxito - başarı - no hint
+durante - sırasında - no hint
+empresa - şirket - no hint
+algodón - pamuk - no hint
+cuarto de galón - kuart - no hint
+caja - kutu - no hint
+todavía - henüz - no hint
+material bélico - materyal - no hint
+fracción - kesir - no hint
+colocar - set - no hint
+bosque - orman - no hint
+cuáles son tus aficiones - hobilerin ne - no hint
+¿es esta tu primera vez que vienes a nosotros? - bu bize ilk gelişiniz mi - no hint
+lo siento - üzgünüm - no hint
+qué tal - nasılsın - no hint
+usted es tan guapo - çok yakışıklısın - no hint
+me lo estoy pasando genial - harika zaman geçiriyorum - no hint
+perdió sus llaves - o anahtarlarını kaybetti - no hint
+aquí está mi información de contacto - burada benim iletişim bilgilerim bulunuyor - no hint
+que es eso - şu nedir - no hint
+que es esto - bu nedir - no hint
+te lo merecías - sen bunu hak ettin - no hint
+qué estás haciendo aquí - burada ne yapıyorsun - no hint
+ten cuidado - dikkatli ol - no hint
+estoy cien por ciento seguro - yüzde yüz eminim - no hint
+soy tímido - utangaçım - no hint
+estaba muy avergonzado - çok utandım - no hint
+carne - et - no hint
+dólar - dolar - no hint
+fluir - akışı - no hint
+impresión - baskı - no hint
+gama de - aralığı - no hint
+ola - dalga - no hint
+hacer - do - no hint
+eres muy considerado - çok düşüncelisin - no hint
+tienes una cita - randevunuz var mı - no hint
+disculpe estamos llenos - kusara bakmayın tamamen doluyuz - no hint
+nosotros te llamaremos - biz sizi arayacağız - no hint
+¿el agua está demasiado fría? - su çok mu soğuk - no hint
+tarda entre tres y cinco días laborables - üç ile beş iş günü arasında sürer - no hint
+¿puedo obtener una explicación por favor? - bir açıklama alabilir miyim lütfen - no hint
+¿esta cuenta tiene una tarifa anual? - bu hesabın yıllık ücreti var mı - no hint
+va a nevar el viernes - cuma kar yağacak - no hint
+mañana estará soleado y lluvioso - yarın güneşli ve yağışlı olacak - no hint
+cómo estuvo tu día - günün nasıldı - no hint
+que hay para cenar - akşam yemeğinde ne var - no hint
+por favor, perdóname - beni affet lütfen - no hint
+tarjeta de memoria - minnetkarım - no hint
+hola - merhaba - no hint
+buenos días - günaydın - no hint
+cuántos años tienes - kaç yaşındasın - no hint
+bienvenido - bir şey değil rica ederim - no hint
+una vez más por favor - bir kez daha lütfen - no hint
+no entiendo - anlamadım - no hint
+he cambiado - ben değiştim - no hint
+no lo volveré hacer - tekrar yapmayacağım - no hint
+estas listo para empezar - başlamaya hazır mısınız - no hint
+te quiero - seni seviyorum - no hint
+era mi bolso - o benim çantamdı - no hint
+necesito un médico - bir doktara ihtiyacım var - no hint
+llame a la policía - polisi ara - no hint
+tienes alguna identificación - herhangi bir kimliğiniz var mı acaba - no hint
+sigo pensando en ella - onun hakkında hala düşünüyorum - no hint
+muerto - ölü - no hint
+peso - ağırlık - no hint
+tenía - vardı - no hint
+cima - top - no hint
+corazón - kalp - no hint
+disponible - mevcut - no hint
+será - olacak - no hint
+motor - motor - no hint
+estar aquí antes del mediodía - öğleden önce burada ol - no hint
+lo siento por su pérdida - kaybınız için çok üzgünüm - no hint
+¿puedo traerte algo de beber? - size içecek herhangi birşey getirebilirmiyim - no hint
+no deberías haberlo hecho - yapmamalıydın - no hint
+me siento enfermo - hasta hissediyorum - no hint
+a donde quieres ir - nereye gitmek istersin - no hint
+te lo dejo a tí - size bırakıyorum - no hint
+te ha gustado - sevdin mi - no hint
+estoy buscando este lugar - bu yeri arıyorum - no hint
+quiero retirar dinero - para çekmek istiyorum - no hint
+regresa - geri git - no hint
+tengo tos - öksürüğüm var - no hint
+ya levantado - doldu bile - no hint
+como dos semanas - yaklaşık iki hafta - no hint
+me quedaré en el hotel central - central otelde kalacağım - no hint
+¿hace calor en los veranos? - yazları sıcak mı - no hint
+se acerca una tormenta - bir fırtına geliyor - no hint
+cuál es tu número de teléfono - telefon numaran ne - no hint
+sentirse como en casa - kendini evinde hisset - no hint
+es difícil - bu zor - no hint
+hubo un accidente automovilístico - bir araba kazası vardı - no hint
+puedo tener un recibo por favor - fiş alabilir miyim lütfen - no hint
+gracias a todos - tüm teşekkürlerim size - no hint
+no puedo hacer esto - bunbu yapamam - no hint
+general - genel - no hint
+circulo - daire - no hint
+en - içinde - no hint
+sintió - keçe - no hint
+escucho - duyuyorum - no hint
+qué haces en tu tiempo libre - boş zamanlarında ne yaparsın - no hint
+felicitaciones - tebrikler - no hint
+bienvenido - hoşgeldiniz - no hint
+puedes venir de nuevo mas tarde - daha sonra tekrar gelebilir misin - no hint
+se ve muy bien - harika görünüyor - no hint
+quiero cambiar dinero - para bozdurmak istiyorum - no hint
+quiero hacer un deposito - depozito yatırmak istiyorum - no hint
+quiero abrir una cuenta - bir hesap açtırmak istiyorum - no hint
+duele - bu aciyor mu - no hint
+hay algún problema - bir sorun mu var - no hint
+estoy aquí para una visita familiar - aile ziyareti için buradayım - no hint
+estoy aqui por trabajo - iş için buradayım - no hint
+habrá fuertes lluvias por la noche - akşam yoğun yağış olacak - no hint
+lloverá por la tarde - akşamüzeri yağmur yağacak - no hint
+llovió todo el día - bütün gün yağmur yağdı - no hint
+donde está todo el mundo - herkes nerede - no hint
+gracias - teşekkür ederim - no hint
+adiós - güle güle - no hint
+¿cuánto tiempo hace que no nos reunimos? - ne zamandır görüşmüyoruz - no hint
+estupendo - harika - no hint
+delicioso - leziz - no hint
+me gusta - severim - no hint
+no me gusta - sevmem - no hint
+qué hora es - saat kaç - no hint
+bueno - tamam - no hint
+de verdad - gerçekten mi - no hint
+de dónde eres - nerelisin - no hint
+esto es para ti - bu senin için - no hint
+más lento por favor - daha yavaş lütfen - no hint
+cuarto - yatak odası - no hint
+ellos - onlar - no hint
+palabra - kelime - no hint
+porque - dahil - no hint
+dividir - bölmek - no hint
+sílaba - hece - no hint
+pesado - ağır - no hint
+mediodía - öğle - no hint
+a que hora es buena para ti - saat kaç senin için iyi - no hint
+tienes hijos - hiç çocuğun var mı - no hint
+soy estadounidense - amerikalıyım - no hint
+te vas de vacaciones - tatile mi gidiyorsun - no hint
+te ves genial - harika görünüyorsun - no hint
+quiero ir aquí - buraya gitmek istiyorum - no hint
+tengo dolor de estómago - karın ağrım var - no hint
+tengo fiebre - ateşim var - no hint
+has estado aquí antes - daha önce burada bulundunuz mu - no hint
+mañana estará soleado - yarın güneşli olacak - no hint
+como esta el clima en invierno - kışın hava nasıl - no hint
+habrá tormentas eléctricas por la noche - akşamüzeri gökgürültülü sağanak yağış olacak - no hint
+muy buen día - çok güzel bir gün - no hint
+entonces hay algo nuevo - ee yeni birşey var mı - no hint
+a donde fuiste hoy - buğün nereye gittin - no hint
+qué vas a hacer mañana - yarın ne yapıyorsun - no hint
+no te preocupes - merak etme - no hint
+buenas noches - iyi akşamlar - no hint
+estoy bien - ben iyiyim - no hint
+elegir - seçmek - no hint
+años - ani - no hint
+y - dan - no hint
+talla - boyut - no hint
+establecerse - yerleşmek - no hint
+par - çifti - no hint
+vamos en veinte minutos - hadi yirmi dakika içinde gidelim - no hint
+podemos irnos como seis - altı gibi ayrılabilir miyiz - no hint
+son las tres en punto - saat üç - no hint
+no tengo dinero - bende para yok - no hint
+alo - alo - no hint
+encantado de conocerte - tanıştığımıza memnun oldum - no hint
+huevo - yumurta - no hint
+celda - hücre - no hint
+largo - uzunluk - no hint
+representación - temsil - no hint
+región - bölge - no hint
+pero - ancak - no hint
+cambio - değiştirmek - no hint
+algunos - bazı - no hint
+es eso - olduğunu - no hint
+pasado mañana es viernes - yarından sonraki gün cuma - no hint
+al parecer, tardará unos treinta minutos más en llegar allí. - görünüşe göre oraya varmak yaklaşık otuz dakika daha fazla sürecek - no hint
+el se va ahora - o şimdi gidiyor - no hint
+has hecho esto antes - bunu daha önce yaptın mı - no hint
+probable - muhtemel - no hint
+cama - yatak - no hint
+subirse - binmek - no hint
+yo creo - inanıyorum - no hint
+posee - vardır - no hint
+ser - olmak - no hint
+hay un malentendido - bir yanlış anlaşılma var - no hint
+ya el domingo - pazar olmuş bile - no hint
+termina en treinta minutos - otuz dakika içinde biter - no hint
+el avión llegará por la noche - uçak akşam varacak - no hint
+como - olarak - no hint
+arte - sanat - no hint
+por - tarafından - no hint
+hielo - buz - no hint
+habla usted inglés - ingilizce konuşuyor musunuz - no hint
+como podemos arreglar esto - bunu nasıl düzeltebiliriz - no hint
+voy - şimdi gidiyorum - no hint
+no hay papel higiénico - tuvalet kağıdı yok - no hint
+la televisión no funciona - televizyon çalışmıyor - no hint
+a que hora es el desayuno - kahvaltı saat kaçta - no hint
+tengo una reservación - bir rezervasyonum var - no hint
+solo martes - sadece salı - no hint
+serán como las siete de la tarde aquí - o burada akşam yedi gibi olacak - no hint
+llegaremos treinta minutos antes - otuz dakika erken varacağız - no hint
+cazar - avı - no hint
+contar - saymak - no hint
+sujeto - konu - no hint
+hablar - konuşmak - no hint
+una mesa para cinco - beş kişilik bir masa - no hint
+al otro lado de la calle de la biblioteca - kütüphanenin karşısındaki sokak - no hint
+me pregunto si tienes reserva - rezervasyonunuz var mı acaba - no hint
+me pregunto cuantas personas - kaç kişi acaba - no hint
+que día es hoy - bugün günlerden ne - no hint
+nos vamos a encontrar con alguien - biz birisi ile buluşuyoruz - no hint
+cómo eran ellos - neye benziyorlardı - no hint
+puedo hacer una llamada - arama yapabilir miyim - no hint
+llámame si necesitas algo - eğer birşeye ihtiyacın olursa beni ara - no hint
+necesitas algo - birşey ihtiyaciniz var mı - no hint
+estaré de vuelta esta noche - bu akşam döneceğim - no hint
+hoy es miercoles - bugün çarşamba - no hint
+llevaba una camisa roja de bitcoin y jeans. - o kırmızı bit gömlek ve kot pantalon giyiyordu - no hint
+el lunes es el peor día de la semana - pazartesi haftanın en berbat günü - no hint
+soy alérgico a los camarones - karidese alerjim var - no hint
+comí demasiado - çok fazla yedim - no hint
+qué le gustaría beber - ne içmek istersiniz - no hint
+tokum - tokum - no hint
+cuánto cuesta este - bu ne kadar - no hint
+tomaré este - bunu alıcam - no hint
+por favor siéntate - lütfen oturun - no hint
+lo mismo para mi - bana da aynısından - no hint
+cuanto se necesita - ne kadar sürer - no hint
+es asi - bu o mu - no hint
+que tipo de comida es esta - bu ne tür bir yemek - no hint
+¿sabes dónde está este lugar? - bu yer nerde biliyor musunuz - no hint
+¿está abierta la piscina hoy? - havuz bugün açık mı - no hint
+qué quieres comer - ne yemek istersiniz - no hint
+realmente bueno - gerçekten çok iyi - no hint
+a dónde vamos - nereye gidiyoruz - no hint
+puedo tomar un poco de leche - biraz süt alabilir miyim - no hint
+cuenta - hesap - no hint
+girar a la izquierda en el segundo semáforo - ikinci trafik ışıklarından sola dön - no hint
+suena genial - kulağa harika geliyor - no hint
+las flores están floreciendo - çiçekler açıyor - no hint
+quieres ir a dar una vuelta - araba ile gezmeye gitmek ister misin - no hint
+te gusta el fútbol - futbol sever misin - no hint
+por favor escribe - lütfen yazınız - no hint
+por favor, espere un minuto - lütfen bir dakika bekleyin - no hint
+para aquí por favor - burada durun lütfen - no hint
+no puedo conectarme a internet - internete bağlanamıyorum - no hint
+a donde quieres ir - nereye gitmek istersiniz - no hint
+espera un minuto por favor - bir dakika bekleyiniz lütfen - no hint
+lo intentaré de nuevo más tarde - sonra tekrar deneyeceğim - no hint
+casi llegamos - nerdeyse vardık - no hint
+parece que no quiero ir - gitmek istemiyor gibiyim - no hint
+muy triste - çok üzücü - no hint
+duele - o acıtır - no hint
+puedo sentarme aquí - buraya oturabilir miyim - no hint
+qué color - hangi renk - no hint
+se siente muy triste - o gerçekten çok üzgün hissediyor - no hint
+creo que puedes hacerlo - bence yapabilirsin - no hint
+casi lo hago - neredeyse yapmıştım - no hint
+definitivamente no es gracioso - kesinlikle komik değil - no hint
+me siento tan triste cuando pienso en el - onu düşündüğümde çok üzgün hissediyorum - no hint
+no me siento bien - iyi hissetmiyorum - no hint
+se - biliyorum - no hint
+estoy preocupado - endişeliyim - no hint
+estoy de mal humor - ben kötü bir ruh hali içindeyim - no hint
+estoy realmente nervioso - gerçekten gerginim - no hint
+déjame en paz - beni yalnız bırak - no hint
+a usted no le incumbe - bu seni ilgilendirmez - no hint
+bueno, en realidad no lo sé tan bien - eh aslında ben bunu pek iyi bilmiyorum - no hint<br>
+no tienes coche - araba sahibi değilsin - no hint<br>
+para mamá y papá - anne ve baban için - no hint<br>
+esto y aquello por favor - bu ve şu lütfen - no hint<br>
+los - o - no hint<br>
+parecer - görünmek - no hint<br>
+año - yıl - no hint<br>
+sí - ya - no hint<br>
+no toques el mal de ojo - nazar değmesin - noah's ark must have had evil eye on it
+yo no digo - söylemedim - normal rules, from söylemek
+tengo que darme una ducha rápida ahora - şimdi hızlıca duş almam gerekiyor - now fast a shower take required
+el único - olan - o the lawn is amazing, this house is the one!
+crear - oluşturmak - oh (this is) a lush tour, who created it?
+tener miedo de - ödü patlamak - oh do scare me!
+quien lo entiende - onu anlayan - oh no! (what's) on lion? who understands it?
+estoy asustado - ödüm patladı - oh, doom is my dread
+considerable - önemli - oh, humid(nemli) weather is very important for some plants
+dormir - uyku - once the enemy is asleep, you call your partner over to do the coup, "oy, coup"
+tipo - nazik - one kind nazi eeked thru
+ducha - duş - only a douche doesnt shower
+no podemos ir sin pagar esto - bunu ödemeden gidemeyiz - oo day mi(nes) done, i had to pay for something! literally this without paying we can't go
+avión - uçak - oo! they give us chalk on the airplane
+lejos - uzak - oo, zach is so far away
+acuerdo - uğraşmak - oooo rash, deal with and struggle with thay
+temprano - erken - our ken is always early
+jugador - oyuncu - oy! un jew is the best actor in the world!
+el sultán lo hizo - padişah öyle eyledi - pa dish a the sultan, so, he commanded
+costoso - pahalı - pa hallers because something is so expensive
+dolorido - ağrılı - painful things are a le(sson)
+sal - tuz - people in their twos like salt
+de dónde eres - nerelisin - people with your nationality are nearly ever seen around here
+fue difícil pero lo logramos - o zordu ama biz başardık - pirates say that to achieve and overcome they must bash, ar!!
+ser despiadado es una elección - acımasız olmak bir tercihtir - pityless to be a choice, tearjerker movies often inclıde a big choice
+toco la guitarra - ben gitar çalıyorum - playing an instrument is work, but less complicated, çalmak
+por favor ven antes del mediodía - lütfen öğleden önce gel - please noon before come, oh lay down, it is noon
+en internet - internette - pretty much the same
+televisión - televizyon - pretty much the same
+taxi - taksi - pretty much the same
+tren - tren - pretty much the same
+tu foto - fotoğrafın - pretty much the same with the ending
+caramelo - şeker - pretty similar, but sugar is in a shaker
+programador - programcı - pretty similar, but with a 'cı' ending
+zamir - zamir - pronouns are za mirror to everything
+excepto - dışında - put the dish in the sink, except for this one, leave it outside
+sí - ya - really? is pretty much the same as in english, but since it isn't used as 'yes' slang, it also gets reused as a meaningless filler for the other words like well.. and ohh...
+ruso - rusçayı - russian tea ya drink while speaking russian
+vendedor - satis elemani - salespeople think sad is alamony because then people can't buy things
+algunos - bazı - same root as basen(sometimes)
+mi discurso - konuşmamı - same root as speak, and your mommy is going to hear it because it is
+la mayoría de - çoğunu - same root as çok
+lindo - sevimli - same root of sevmek, to like/love. "eemly" is adjective sounding
+sediento - susamış - sammy sosa misses the ball because he is so thirsty
+artista - sanatçı - sanatra was a great performer
+capital - sermaye - sars (is) mine, yay! 
+en américa durante muchos años, pero antes de que escocia daben - amerıkada çok yıldır lakin bundan önce scotland daben - scottish is coach, ya?
+muchacha - kız - she is your daughter 'cuz she is so little
+zapato - ayakkabı - shoe cover
+generelikle - generelikle - similar to generally
+cálido - sıcacık - similar to hot(sıcak), but with an extra 'ca' in the middle
+laboral - çalışan - similar to work
+comida - yiyecek - similar to yemek, but with a jek ending like you eject food from a plane
+promesa - söz - so's this what your statement is?
+llave - anahtar - someone asks you if this key is yours and you say "uh.. not our key"
+tabaco - tabak - someone fastens a plate to your back
+bolso - çanta - someone is carrying around a chanter in a bag
+pobre - fakir - someone is so poor they let someone fuck (their) ear
+falso - yanlıs - someone is telling you something that is wrong and so yawn(ing feels de)lic(ious) to show them you know they are wrong
+no te rindas - pes etme - someone is trying to piss at me and i tell them not to give up
+falso - yanlış - someone says something wrong and you mocingly yawn and think it is delicious
+gerente - yönetici - someone says they are the manager, and someone else says "you not tj"
+cansado - yorgun - someone says they're tired, so you tell them "you're goon"
+relajante - rahatlatıcı - someone tells me specifically that wearing a raw hat and singling will relax me, "raw hat la tj"
+psicológico - psikolojik - something psychologic is peace combined with logic
+me tragué la pastilla ahora - şimdi hapı yuttum - something will happen when you take this pill
+industria - sanayi - son a(to) ye i leve the industry
+tranquilo - sessiz - sound + -siz(without/less suffix)
+trabajar - çalışmak - studying is work
+único - tek - tech people like to work alone. if you are the sole person here, nobody can take you.
+limpio - temiz - tell me the court is clean enough for tenis
+en - on - ten hint
+consejo - tavsiye - thanks for the advice, it is (tough) for me to (see) things that way, (yay)
+porque mis ojos estan rotos - çünkü gözlerim bozuk - that bozo zuckerberg is broken
+lino - çamaşır - that chum(p) a sheer(ed) my clothes!
+no puedo ir a ningún lado sin explicar eso - şunu açıklamadan hiçbir yere gidemez - that not explaining from no place can't go
+usar - kullanmak - thats a cool lawn, can i use it?
+prepara el cordero sin derramarlo - koyun etini mundar etmeden hazırlayın - the akuyza likes to eat lamb. how's her lion? can you prepare it
+carne de cordero - kuzu eti - the akuza mainly eats lamb
+mitad - buçuk - the audience boos and they chuck out half of them
+se encuentra - bulunuyor - the balloon is located here
+gratis - bedava - the bed have a free pillow with it
+no importa - boşver - the bush's are very much like 'nevermind, nevermind' when people bring up their wars
+auto - araba - the car are a bar
+pollo - tavuk - the chicken meat is tough, uk
+el cliente viene a la oficina - müşteri ofise geliyor - the client mushes terry up
+cómico - komik - the comic is funny
+computadora - bilgisayar - the computer tells you that your bill (is) ghee sire
+cocinero - aşçı - the cook sneezes in the food
+pequeño - küçük - the cool chick is really small
+todavía - hala - the crazy guy is still out there hollering
+establecer - kurmak - the cure is to install, establish and build things
+la evolución humana continúa durante miles de años - binlerce yıldır insan evrimi devam eder - the dev oms (because of) a dare, and he continues to do lt for a long time. they vom(it) on a dear for a long time
+no podría decir - söyleyemedim - the difference between didn't and couldn't is that there is an extra vowel harmony in there (with y buffer), like you couldn't do it because there was too much extra to do
+emperador - imparator - the emperor, him par a (golf) tour
+copa - fincan - the feen john loves cups
+el pez - balık - the fish licks your ball
+ropa - giysi - the geese see you with your clothing and they are jealous
+débil - zayıf - the german says "you vill zie if you are weak"
+vaya - vay - the german says wow, vhy are you so amazing? or.. wow, these things vi for the most amazing thing ever
+pecho - göğüs - the ghost has a nice chest
+sol - güneş - the god gunesh created the sun
+hermosa - güzel - the guzel is a beautiful animal
+dinámico - hayat dolu - the high hat do lou when he is lively
+industria - endüstri - the industry end dus tree
+minuto - dakika - the kicker is that there is only a minute left
+triste - üzgün - the leaders of goons are asking each other whose goon is the sad one
+recordar - hatırmak - the mad hatter remembers me for my sake(hatır)
+motivo - hatır - the mad hatter remembers(hatırmak) me for my sake
+recuerdas - hatırlamak - the mad hatter sings(la) to remember things
+ya - zaten - the name satan was already taken, so you choose zaten
+pero - dar - the narrow passage was so dark you couldn't see the last letter in dar(k)
+siguiente - sonrakini - the next thing is the key we need
+enfermera - hemşire - the nurse must sheer the hem to prepare for the doctor
+pantalones - pantolon - the pants are all alone, same as spanish pretty much
+brillante - parlak - the parlor is locked, but it is bright inside
+ventoso - rüzgarlı - the plot to take the girl in a dress out on a windy day is the "ruse garli(slightly altered code word for girl)
+presidente - başkan - the president bashes whoever he wants because he can
+claro - temizlemek - the root is clean, and you have to have a clean court to play tennis, and cleaning is a french action (le)
+cerveza - bira - the same word with an a on the end
+tienda - mağaza - the shop is a mixture of a mall and plaza
+en el examen - sınavında - the sin of teachers is the exam
+tienda - mağaza - the store in ma plaza
+tarjeta de crédito - kredi kartı - the t goes from the first word to the second
+profesor - öğretmen - the teacher says it is all right man
+postre - tatlı - the toddler is very sweet
+todos - tüm - the tomb is where we are all headed
+hambre - aç - the tree(ağaç) is so hungry it says its name in a hurry
+bueno en realidad - eh aslında - the w goes and get flipped at the end of the word ellm -> ehh. you tell azlan how it actually is.. du
+la noche - yön - the way to do something new is to yawn
+acerca de - yaklaşık - the yak that sings(la) shakes around this time every day
+lado asiático - asya yakası - the yak.. a.. so(ts one one side)
+me pueden dar una manta - bir battaniye alabilir miyim - there are buttons all over the blanket
+sofá - kanepe - there is a canopy of the sofa
+niño - çocuk - there is a child and you want to get away so you juke
+diferencia - fark - there is a difference between a fark and a fork
+libro - kitap - there is a key on top of the book
+necesito - ihtiyacım - there is a need for et togo to(a) the gym
+viejo - eski - there is a really old sky, you arnte sure what it is, you say "eh..ski?"
+alto - yüksek - there is a uke sec(t) of tall people on a high building
+húmedo - nemli - there is a word to describe when there is moisture in the air, namely "humid"
+esta zona es peligrosa - bu alan tehlikeli - there is an area around alan. it is dangerous to tell leek (t)a lee
+la tarea del estudiante es hacer la tarea - öğrencinin görevi ödevi yapmak - there is gore everywhere, and it's your task to clean it up. oh davey, we've got a lot of homework!
+debe - zorunda - there is something difficult(zor) you are under so you have to do it
+estoy ocupado esta semana - ben bu hafta meşgulüm - there was a mess a ghoul made so i'm busy cleaning it up
+entre - arasındaki - they are arresting a ducky for hiding between two buildings
+valor - değer - they are of great value
+quemaremos si no vuelven - onlar geri gelmezse yanarız - they back if dont come we burn. ya nar(k) got us in trouble. the yawn(s) are what got home in trouble
+mia - sakin - they keep the baby calm by putting a sock in it's mouth
+bajo - düşük - they shook the tree and it made all the fruit fall low to the ground
+extranjero - yabancı - they tell the foreign person, "ya banned ji(ew)". or you bungee jump when you are a foreigner
+si se han ido - onlar gittiyse - they went to get tea they say, so they are gone
+hoy - bugün - this + day
+fórmula - formül - this formula is only for mules
+pegar - vurmak - this hit is vor insulting my accent
+comparación - karşılaştırma - this word is long, it needs to be driven like a car (kar..)
+rico - zengin - those rich people, zey gain lots of stuff.
+técnico - teknisyen - to be a technician takes a neices yen
+ser - olmak - to be is to be old
+eficiente - verimli - to be productive is very him, lee
+comer mañana - yarına yemek - tomorrow meal
+es posible venir mañana - yarın gelmesi mümkün - tomorrow to arrive might
+pueblo - kasaba - towns have casas and bars, but they are small so they have to cut off the end of bars(ba)
+nuestras costumbres - bizim adetlerimiz - tradition is a debt to our ancestors
+dejarlo - bırak - trump tells bırak obama he has to leave office
+motocicleta - motosiklet - very similar
+chaqueta - ceket - very similar
+helicóptero - helikopter - very similar
+doctor - doktor - very similar
+hotel - otel - very similar
+quieres - istemek - wanting things in (s)ystemic
+quemadura - yanmak - watching the fire burn makes you yawn
+un - an - we are currently on this moment
+tú - anda - we are currently on this moment, with the in ending da
+donde estabas cuando huimos - biz kaçarken siz neredeydiniz - we on the run you where were you. where were you was "day din" in it, like dayton
+atmósfera - atmosfer - what is happening in the atmosphere is at most fair
+viva - canlı - what jan li(cks) micheal, he feels alive
+divertido - eğlenceli - when ellen has fun she turns to jelly
+cuando volverá - ne zaman döner - when he is done somewhere, he returns
+oír - duymak - when someone says(demek) something, you hear(duymak) something slightly different
+uf se escapó de nuevo - uf gene kaçtı - when something escapes you have to catch it
+creo que es bueno llorando - o ağlamakta iyidir bence - when something is all a muck, we cry
+fresco - havalı - when the wqeather(hava) is li(t), it is really cool
+corriendo - koşuta - when there are two shooters you should be running
+cerca del oceano - okyanusun yakınında - when they are of the ocean, oaks ya need sun. (your) akia new sun is of the ocean.
+permiso - izin - when you are a kid you need permission to get an ezine
+único - tek - when you are alone, it is easier for someone to take you
+adulto - yetişkin - when you are an adult, ya tish(tish) your kin
+por supuesto - emin - when you are certain of something, you pray for it and say amen
+que - acel - when you are in a hurry you just eat a gel pack
+denso - yoğun - when you are really busy you yawn alot
+ingresar - girmek - when you enter into a place, you become one of the gears in that place
+explicar - açıklamak - when you explain something, you open(açık) the truth
+motivar - to motivate - when you motivate, you make a motive
+asar - kavurmak - when you roast something you should cover it
+niño - oğlan - where is the boy? oh, lawn
+blusa - bluz - which color blouses are the best? blues
+derecho - doğru - whichever door you pick will be the right one. also means straight, as in straight ahead
+derecho - doğru - whichever door you pick will be the right/true one. also means straight, as in straight ahead
+mientras corríamos - biz kaçarken - while we are running we are trying to catch our ken
+a quien le importa - kimin umrunda - who + whom ruined da.. ah, who cares..
+percibir - algılamak - who you detect something, you oogle it, like  "algle"
+mi oportunidad - şansim - with my luck, i accidently picked up shawn's sim card
+imposible - imkansız - without possibility
+sitio - yer - ya are standing on the ground in the yard
+captura - yakalamak - ya collar caught the ball
+expresión común - yaygın ifade - ya eye gains access to common things often. he's far (out) today is an expression.
+lluvia - yağmur - ya murder people in the rain
+lluvioso - yağmurlu - ya murder someone in the rain(yağmur) + -lu(adjective ending). do you drink wine when its rainy? "ya, merlot"
+nuevo - yeni - ya nee(d) new stuff all the time
+asi que - yani - ya need to hear what i mean..
+respuesta - yanıt - ya nit pick someones response to your question
+cama - yatak - ya tack was in my bed
+suficiente - yeter - ya tar someone and they yell, enough! enough!
+talento - yetenek - ya ten (year old can juggle with just their) neck
+verduras - yeşillik - yes, ill like some weed
+es la ciudad mas bella del mundo - o dünyadaki en güzel şehir - yesterday ya a ducky was the only thing in the word
+medianoche - gece yarısı - you are a sissy if you are afraid of midnight
+tedioso - sıkıcı - you are bored so you are start skinning injins, ski ji
+tienes razón - haklısın - you are correct, a hawk listens very well
+tienes tanta razón hablar es la mejor manera de aprender - çok haklısın konuşmak öğrenmenin en iyi yolu - you are correct, my hawk listen well
+entusiasmado - heyecanlı - you are excited and say "hey john look!"
+estas durmiendo - uyuyorsun - you are excited that someone is sleeping and you kind of stutter, ew, you
+estoy muy emocionado - heyecanlıyım - you are excited to see john, hey ye john!, and it has the lıyım ending
+sin - bitmek - you are finished when you are beat
+contento - mutlu - you are happy because someone muted lou
+emocionante - heyecan verici - you are in an exciting situation and you say "hey john, (this is) very g"
+a menudo - sık sık - you are sick so often that you say it twice
+has terminado - bitirdin mi - you are so angry that something is finished that you beat your own ear
+tomó - tok - you are so full you can't talk
+estaba tan sorprendido - o çok şaşırdı - you are surprised and someone hushes you, shush, and says someone will hear
+viaje - seyahat - you are travelling and there are lots of vendors who say a hat would be a nice thing to buy, you say a hat is a good thing to have when you travel
+como eso - öyle böyle - you are trying to describe the way something behaves and you compare it to an oily substance
+pedir - sormak - you ask someone about that thing they are sore about
+qué pasa - naber - you ask your neighbor whats up
+otro - başka - you bash another car
+me duele la cabeza - baş ağrım var - you bash arm into your head and then say "i have a headache"
+bebé - bebek - you bekon the baby over to you
+recibir - almak - you buy all the stuff
+llamar - çağırmak - you call someone over cha here
+¿puede volver a llamarte más tarde? - sizi sonra tekrar arayabilir mi - you call someone to ask if they are a'ri(ght)
+sabor de - tadını - you can not taste anything until(ta), dinner(dinna)
+edad - yaş - you can not wash your age away
+feo - çirkin - you cheer for ken because he has finally come out as being ugly
+venir - gelmek - you come gel
+cumplido - iltifat - you compliment someone on their ill tea fat, fat that looks like a tea shirt
+avergonzado - utanmiş - you console an embarrassed lady and tell her "you tan miss"
+sucio - kirli - you cure lee from being dirty. dirty curly hair.
+merecer - hak etmek - you deserve it because you made a hawk
+kar - kar - you drive your car in the snow
+ver - izlemek - you ease onto the couch and lay down to watch a show
+adelante - içeri gel - you eat a cherry inside another cherry + gel(come)
+dolor - acı - you eat something spicy and you say want to say you need a juice, all you can say is "a ji--!"
+disfruta siendo disfruta divirtiéndote - zevk olmak tadını çıkarmak eğlenmek - you enjoy having a house at the end of the alphabet(zev), k?, literally, taste + eject, you enjoy it when a bad taste goes out of your mouth, ellen enjoys everything she does
+encontrar - bulmak - you find your bull
+enchufe - fiş - you get a receipt for the fish you buy
+información - bilgi - you get billed ghee for the information you got
+vamos - gitmek - you go geet something
+quiero solicitar unas vacaciones de una semana en junio. - haziranda bir haftalık tatil talep etmek istiyorum - you go on holiday to astatue of tati that's teal. you request telepathy.
+término - vadeli - you go to start a vaudeville show, but then you change to a deli because it is a better long term plan, vaud..deli
+semana - hafta - you hafta wait a week to see someone
+que mal tiempo - ne kötü bir hava - you have a nice day if the weather is good. literally, what bad a weather
+cuidado - dikkatli - you have to be careful when you point your dick at lee
+segundos - saniye - you havn't seen your knee in a long time and now you get to see it for a second so you say yay!
+sentir - hissetmek - you hiss at someone to show them how you feel
+difícil - sert - you in(sert) the hard thing in
+vender - satmak - you just sat there and sold stuff
+pequeño - kısa - you kiss a short person
+cosa - şey - you know you are trying to think of a thing, but you don't know what so you just say thing
+su hija - kızın - you kız your daughter, you are surprised when you hear that the person you are talking to named their daughter cousin
+dejar - bırakmak - you leave your fake beer behind(bira is actually beer)
+camisa - gömlek - you lick gum off your shirt
+mira - bakmak - you look back at something
+pero de esto - lakin bundan - you look in what you have been talking about and then say something from before then
+decisión - karar - you make a decision to cut off a lions roar
+ummak - ummak - you om for peace and you um for things you hope for or expect
+medio - hafıf - you only get half if you are a light person
+planificar - to plan - you plan a simple song with one note (la)
+pongo - koydum - you put koy in a fish tank
+champú - şampuanlamak - you put shampoo on la(while you sing)
+los niños se hacen amigos de inmediato - çocuklar hemen arkadaş olur - you quickly put a hem in something
+repugnante - iğrenç - you rent a high tech "e-ranch", but it is disgusting
+oscuro - koyu - you run into dark and say "i'm cool, you?"
+momento - saat - you sat and watch the clock
+momento - saat - you sat for an hour
+sueño - hayal - you say "hi al" in a dream
+insatisfecho - memnuniyetsiz - you say you are glad to meet someone, yet (your) sis is better so you are dissatisfied
+decir - söylemek - you say you like soylent
+tratar - denemek - you say(de) what(ne) you will try. you try living in a den.
+tengo - sahip olmak - you see a heap of stuff and you want to have it
+caliente - sıcak - you see jack is hot because he jumped over a candle stick
+tirar a la basura - atmak - you send something away at somewhere on a horse (at)
+vino - şarap - you share wine with op so they shut up
+accidente - kazası - you should have an accident cuz i say so
+bote - tekne - you should take (a) ne(t) on the boat
+en el show - şovda - you shove someone into the show, and it has the da ending
+mostrar alrededor - gezdirmek - you show someone around and you gaze at deer
+espectáculo - göstermek - you show someone there is a ghost here
+adjetivo - sıfat - you sift through all the people who use the adjective fat
+por favor firme aquí - lütfen burayı imzalayın - you sign because him all lyin. imzalamak, hims all a signin everything
+encima - üstte - you stay on top because you are the best
+su - su - you sue someone for not giving water
+sugerir - önermek - you suggest they be a öner, not a loner
+recibir - almak - you take all the stuff
+larga historia - uzun hikaye - you tell a story about getting a hickey on your eye, hey!
+decir - anlatmak - you tell an lot of stuff to people
+amigo - arkadaş - you tell your friend to dash to the ark because of the flood
+pensar - düşünmek - you think it is too soon
+caminar - yürümek - you walk to your room
+cuando abre - ne zaman açılıyor - you want to know when a chill(irs) opens
+que serie estabas viendo - hangi diziyi izliyordun - you watch someone who is laying down
+espalda - sırt - you wear a s(h)irt on your back
+trabajar - çalışmak - you work hard to get a chalis(h)
+ritmo - ritim - you write him off because he has no rhythm
+largo - uzun - you zoon a long time before you realise you should be on zoom
+año - yıl - you'll see me next year
+mañana - yarın - you're in the future, it is tomorrow
+tan bueno como tu - senin kadar iyi - your amount good, llike the amount of your goodness
+muchacha - kız - your cousin is a girl
+ganar - kazanmak - your cousin wins because she is on the top of the mountain
+pie - ayak - your foot is a yak
+calendario - takvim - your futuristic calendar is just talking to a virtual machine
+una parte de mi corazon - yüreğimin bir parçası - your him, in my heart.
+los mejores deseos - en iyi dileklerimle - your wishes are obviously the leak out of you. your wish is delectable.
+difícil - zor - zoro does difficult things

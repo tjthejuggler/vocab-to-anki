@@ -1,8 +1,6 @@
-make a script that puts '_langCode' at the end of each mp3 so we dont have issues with cognates
-make TurkishOnly into TurkishSpanishOnly and SpanishEnglish partner decks
-	to do this we want to ignore all altpron tagged notes, this can be done with an opt
-a way to switch first and second language of formatted text file
+
 make a script that gets all 0kb pronunciation files and redownloads them
+	add_lang_to_mp3 has some useful code to cycling through folders
 can probably remove 3rd lang since we now have hint lang
 bugs
 	first line didn't download once, is this every time?
