@@ -1,4 +1,77 @@
+ー_ja.mp3
+לרוב_he.mp3
+ــ_ar.mp3
+ـ_ar.mp3
+rue_fr.mp3
+barbouillé_fr.mp3
+beraksi_ind (copy).mp3
+यह_hi.mp3
+आदवतऽसय_hi.mp3
+overeind_nl.mp3
+voet_nl.mp3
+gevoel_nl.mp3
+ails_en.mp3
+baulked_en.mp3
+i have a question_en.mp3
+blitzkrieg_en.mp3
+per_af.mp3
+sloot_af.mp3
+bars_af.mp3
+의자_ko.mp3
+서비스_ko.mp3
+사건_ko.mp3
+재빨리_ko.mp3
+미스_ko.mp3
+어색하다_ko.mp3
+별도_ko.mp3
+결승_ko.mp3
+arkasında1_tr.mp3
+sicht_de.mp3
+bezeichnet_de.mp3
+köpfen_de.mp3
+abitur_de.mp3
+signal_de.mp3
+tragen_de.mp3
+schreiber_de.mp3
+katkaisin_fi.mp3
+exploración_es.mp3
+zapatos_es.mp3
+visitó_es.mp3
+observar_es.mp3
+hoy es miercoles_es.mp3
+volverse_es.mp3
+_es.mp3
+inducir_es.mp3
+conectar_es.mp3
+entendido_es.mp3
+recordado_es.mp3
+dava_it.mp3
+готовиться_ru.mp3
+б_ru.mp3
+преступный_ru.mp3
+посему_ru.mp3
+глупый_ru.mp3
+а_ru.mp3
+станция_ru.mp3
+beraksi_ind.mp3
+típic_ca.mp3
+senyoria_ca.mp3
+trobat_ca.mp3
+学生_zh.mp3
 
+first item on unformated list doesnt download
+
+make a script to get these files
+
+make download prints cleaner
+
+-f firststring opt should work with unformatted lists too
+
+we should still be keeping track of the words we cant get from forvo so we dont try to get them again in situations where synth doesnt work
+
+make output text better
+	give the output the name of the file being worked on
+	make something that just prints the source to a file, this is useful for anki sources and formatting
 make a script that gets all 0kb pronunciation files and redownloads them
 	add_lang_to_mp3 has some useful code to cycling through folders
 can probably remove 3rd lang since we now have hint lang
