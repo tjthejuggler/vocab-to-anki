@@ -42,7 +42,7 @@ def get_chunk_count(lines, is_formatted, max_lines, operation_type, first_lang, 
 
 def get_confirmation(lines, using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
 		should_translate, should_randomize_order, is_formatted, should_make_audio_lesson,
-		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang, third_lang,
+		only_get_anki_cards_being_worked_on, use_anki_file, first_lang, second_lang,
 		require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name):
 	if should_translate:

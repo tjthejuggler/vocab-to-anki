@@ -1,19 +1,8 @@
-first item on unformated list doesnt download
-
-save failed synths to a file
-	right now all the failed synths from this recent list are the languages without synths and their 
-			-could write a script to get the languages we cant synth
-failed synth also means failed forvo too
-	these words should be ignored by 
-
 make output text better
-	give the output the name of the file being worked on
 	make something that just prints the source to a file, this is useful for anki sources and formatting
-make a script that gets all 0kb pronunciation files and redownloads them
-	add_lang_to_mp3 has some useful code to cycling through folders
-can probably remove 3rd lang since we now have hint lang
+
 bugs
-	first line didn't download once, is this every time?
+	doesn't download first word
 
 test
 	second language downloading
@@ -73,3 +62,6 @@ do this for single words in turkish_conversation
 shalu
 	ask if longer mp3s are better, or shorter ones
 	make a smple where it says the hindi once before the en and the turkish
+
+Other language
+	a player that lets me listen to audio, but shows the words on the screen as it says them
