@@ -62,8 +62,6 @@ def get_synth_data(lang):
 		lang_code, nm, sgen = 'uk-UA', 'uk-UA-Standard-A', texttospeech.SsmlVoiceGender.FEMALE
 	elif lang == 'vi':
 		lang_code, nm, sgen = 'vi-VN', 'vi-VN-Standard-D', texttospeech.SsmlVoiceGender.MALE		 	 	
-	else:
-		print("Fatal error! Synt info doesn't exist for this language!")
 	return lang_code, nm, sgen
 
 #data doesn't exist

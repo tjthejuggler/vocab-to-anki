@@ -215,6 +215,10 @@ def main():
 				for word in split_phrase:
 					phrase = phrase.replace(word, add_apostrophe_if_needed(word, first_lang))
 				phrase = phrase.strip()
+				if phrase == user_first_string or user_first_string == '':				
+					user_first_string_reached = True
+				if not user_first_string_reached: #TODO turn this into an opt?
+					continue
 				if phrase != "":
 					if should_translate:
 						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
@@ -252,7 +256,6 @@ def main():
 				if first_word == user_first_string or user_first_string == '':				
 					user_first_string_reached = True
 				if not user_first_string_reached: #TODO turn this into an opt?
-					print('continue')
 					continue
 				if not stop_everything_except_make_audio:
 					if should_download:

@@ -67,7 +67,7 @@ def synthesize_text(text, lang):
 			out.write(response.audio_content)
 			print(' '*9,':| MP3 Synthesized.', text+'_'+lang)
 	else:
-		print("No synth data for this language.")
+		print(" "*9+":( Can't synthesize.", text+'_'+lang)
 
 def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations):
 	#print('download_if_needed')
@@ -191,7 +191,6 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 				word_with_num = word
 				if i != 0:
 					word_with_num = word + str(i)
-				print('check if exists',word_with_num)
 				if not mp3_exists(word_with_num, lang) and len(r)>i:# gut the stuff that links it			   
 					mp3 = requests.get(r[i], headers=headers)
 					file_name   = word_with_num.replace('\n','')+'_'+lang+'.mp3'
