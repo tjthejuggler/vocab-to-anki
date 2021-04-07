@@ -6,10 +6,6 @@ save failed synths to a file
 failed synth also means failed forvo too
 	these words should be ignored by 
 
--f firststring opt should work with unformatted lists too
-
-we should still be keeping track of the words we cant get from forvo so we dont try to get them again in situations where synth doesnt work
-
 make output text better
 	give the output the name of the file being worked on
 	make something that just prints the source to a file, this is useful for anki sources and formatting
