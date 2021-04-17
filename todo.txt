@@ -1,3 +1,21 @@
+make something that double checks a local dictionary
+
+command line individual phrase source
+
+overwrite existing pronunciation file
+
+
+
+find a way to get some audio into the cloze deletions cards
+
+make a way to cut the program short, but make it's current mp3 or whatever its doing now
+
+be able to make audio lessons from apkg on phone
+
+in audio lesson, make it take into account
+ the current state of the card when deciding how many times to repeat and how many times to present the same word pair
+ 	this could make creating multiple mp3s helpful because of that limit we run into with the audio library
+ we want to go for making it more likely to start getting on a memory chain, those most efficient memory bumps on the forgetting curve
 bugs
 	doesn't download first word
 

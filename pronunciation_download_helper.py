@@ -69,10 +69,17 @@ def synthesize_text(text, lang):
 	else:
 		print(" "*9+":( Can't synthesize.", text+'_'+lang)
 
-def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations):
+def delete_pronunciation_file(word, lang):
+	if mp3_exists(word, lang):
+		os.remove(pron_fold+'/'+lang+'/'+word+'_'+lang+".mp3")
+		print('deleted', pron_fold+'/'+lang+'/'+word+'_'+lang+".mp3")
+
+def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations, use_forvo, should_overwrite):
 	#print('download_if_needed')
 	api_limit_reached = False
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = mp3_download_lists
+	if should_overwrite:
+		delete_pronunciation_file(word, lang)
 	if not has_previously_failed(word, lang):
 		for i in range(0, min(alternate_pronunciations, 2)):
 			if word.strip():
@@ -81,8 +88,10 @@ def download_if_needed(word, lang, api_calls, mp3_download_lists, max_api_calls,
 					word_with_num = word + str(i)
 				if not mp3_exists(word_with_num, lang):#instead of looping this stuff here, it should be looped in the actual download
 					#print('about to download', word_with_num, lang, alternate_pronunciations)
-					new_api_calls = DownloadMp3ForAnki(word, lang, alternate_pronunciations)
-					api_calls = api_calls + new_api_calls
+					new_api_calls = 1
+					if use_forvo:
+						new_api_calls = DownloadMp3ForAnki(word, lang, alternate_pronunciations)
+						api_calls = api_calls + new_api_calls
 					if new_api_calls == 0:
 						api_limit_reached = True
 					elif new_api_calls == 1 and i == 0:

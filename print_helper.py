@@ -2,6 +2,7 @@ import re
 from translation_helper import *
 from string_helper import *
 from pronunciation_download_helper import *
+#import printstack
 
 def get_chunk_count(lines, is_formatted, max_lines, operation_type, first_lang, second_lang, number_of_languages_to_download):
 	lines = lines[:min(max_lines, len(lines))]
