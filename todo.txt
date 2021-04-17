@@ -1,16 +1,15 @@
 make something that double checks a local dictionary
 
-command line individual phrase source
-
-overwrite existing pronunciation file
-
-
+the failed list is currently a 'failed forvo' list, 
+	this list should not prevent us from synthing a phrase
 
 find a way to get some audio into the cloze deletions cards
 
 make a way to cut the program short, but make it's current mp3 or whatever its doing now
 
 be able to make audio lessons from apkg on phone
+
+make local dicts be pretty printed
 
 in audio lesson, make it take into account
  the current state of the card when deciding how many times to repeat and how many times to present the same word pair

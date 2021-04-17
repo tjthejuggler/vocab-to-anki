@@ -19,13 +19,14 @@ def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang
 	second_text = dest_text
 	if not first_text in local_dict:
 		local_dict[first_text] = second_text
-		my_json = json.dumps(local_dict)
+		my_json = json.dumps(local_dict, ensure_ascii=False, indent=1, sort_keys=True)
 		f = open(cwd+'/local_dictionaries/'+local_dict_file,"w")
 		f.write(my_json)
 		f.close()
 
 def get_translation_from_local_library(src_text, first_lang, second_lang):
 	local_dict_file = first_lang+'_'+second_lang+'.json'
+	print(local_dict_file)
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:
