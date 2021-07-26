@@ -1,0 +1,10 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-05-01 21:17 CDT
+Nmap scan report for 192.168.1.143
+Host is up (0.024s latency).
+All 1000 scanned ports on 192.168.1.143 are closed
+MAC Address: 2C:AA:8E:77:2C:72 (Wyze Labs)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 4.05 seconds

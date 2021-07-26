@@ -88,7 +88,7 @@ def get_word_list_from_apkg(filename, only_get_anki_cards_being_worked_on, shoul
 			lines_to_return.append(new_card)
 	return lines_to_return, new_deck_name
 
-def determine_if_formatted(lines):
+def determine_if_formatted(lines): #ignore empty lines
 	percent_formatted = 0
 	formatted_line_count = 0
 	is_formatted = True
@@ -100,3 +100,11 @@ def determine_if_formatted(lines):
 	if percent_formatted < .9:
 		is_formatted = False
 	return is_formatted
+
+def remove_duplicate_lines(lines):
+	new_lines = []
+	for i in lines:
+		if i not in new_lines:
+			print(i)
+			new_lines.append(i)
+	return new_lines

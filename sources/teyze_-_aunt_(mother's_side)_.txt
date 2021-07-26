@@ -1,0 +1,376 @@
+dede, büyükbaba - grandfather
+nine, büyükanne - grandmother
+anneanne - grandmother (mother's side) 
+babaanne - grandmother (father's side)
+yeğen - nephew, niece
+amca - uncle (father's side)
+dayı - uncle (mother's side) 
+kuzen - cousin
+kayınbaba, kayınpeder - father in law
+kaynana, kayınvalide - mother in law
+baldız - sister in law of a male
+görümce - sister in law of a female
+kayınbirader - brother in law
+damat - son in law
+gelin - daughter in law
+enişte - sister's husband
+torun - grandchild
+ikiz - twin
+ikiz kardeş - twin sibling
+eş - wife
+hanım - wife
+karı - wife
+koca - husband
+üvey anne - step mother
+üvey baba - step father
+ancak - scarcely, hardly
+ayrıca - moreover
+bari - at least
+bu sebeple - consequently
+bununla beraber - nevertheless
+halbuki - whereas
+ise - as for
+mademki - seeing that
+mesela - for example
+neyse - whatever
+olmazsa - at least
+örnek - for example
+öyleyse - if so
+sanki - as if
+veya - or
+yani - that is to say
+yoksa - otherwise
+zaten - anyway, besides
+güzellik - beauty
+mutluluk - happiness
+iyilik - goodness
+çocukluk - childhood
+zorluk - difficulty
+zorluk - complication
+gençlik - youth
+insanlık - humankind
+Bakan - Minister
+Bakanlık - Ministry
+balıkçı - fisherman 
+biber - pepper
+biberlik - pepper shaker
+gözlük - glasses
+orman - forest adjective
+ormanlık - forest place
+elmalık - apple orchard 
+sebzelik - vegetable garden
+çiçeklik - flower garden
+kitaplık - book case, book store
+sabırsızlığı - impatience object
+isteksizliğim - my reluctance
+mutsuz - unhappy
+mutsuzluüum - my unhappiness
+dikkatsizliğınız - your carelessness
+dikkat - care
+Çantanın fermuarı - The bag's zip
+Bankanın kapısı - The bank's door
+Yaz mevsimi - summer season
+Kış tatili - winter holiday
+Armut ağacı - pear tree
+Yolcu gemisi - ferryboat
+gece kulübü - nightclub
+onun ışık direği - his lamppost
+bisiklet yeri - the bicycle place
+yaz okulu - the summer school
+yolcu gemisinde - on the ferry boat
+bilgisayar ekranı - the computer screen
+elma suyu - apple juice
+el çanta - handbag 
+elma ağaç - apple tree
+alüminyum pencere - aluminium window
+plastik sandalye - plastic chair
+tahta masa - wooden table
+su bardak - water glass
+ortaokul - middle school 
+başbakan - prime minister
+Kitabının sayfaların resimleri - The pictures of the book's pages
+Manisa Trafik Polis karakolu - Manisa Traffic Police headquarters
+Armut bahçeleri - Plum orchards
+Çiftçi elma bahçelerini suladı - The farmer watered the apple orchards
+Çiftçi portakal bahçesine gitti - farmer went to his orange orchard
+Çocuk sebze bostanında oynuyorlar - The children are playing in the vegetable garden
+izin - leave, time off
+iznim - my leave
+iznimden - since my time off
+izindeyim - I am on leave
+fikrimiz - our idea
+keyfi - his/her joy
+oğlun - your son
+boyun - neck 
+boynum - my neck
+ağzınız - your mouth
+ağız - mouth
+vakit - time
+kayıp - loss
+kaybı - his loss
+Mehmet filmi seyretmiş - it seems Mehmet watched the film
+ağzında - in his mouth
+ağızda - in the mouth
+ev, mavi - the house is blue
+mavi ev - the blue house
+adam, zengin - the man is rich
+Geniş yol, uzun - The wide road is long
+Uzun geniş yol - The long wide road
+Uzun yol, geniş - The long road is wide
+Yol, uzun geniş - The road is long and wide
+yaşlı bir adam - an old man
+boş bir kutu - an empty box
+hasta - ill, sick
+bir hasta - a patient
+Hastalar hastanede - The patients are in hospital
+zengin - rich
+bir zengin - a rich person
+Otelde kalan bir zengin var - There is a rich person who is staying at the hotel
+Beyaz beyaz arabalar - cars so white
+Sıcak sıcak çörekler - Really fresh buns
+Uzun uzun yollar - Really long roads
+Taze taze yumurtala - Really fresh eggs
+Sıcak mı sıcak çörekler - such fresh buns
+Bembeyaz etek - Bright white skirt
+Kıpkırmızı elma - Bright red apple
+Tertemiz bir ev - A squeaky clean house
+Dosdoğru yol - Dead straight road
+çırılçıplak - stark naked
+çiplak - naked
+güzelce araba - a niceish car
+yeşilimsi elma - a greenish apple
+mavimsi çanta - a bluish bag
+kısacık pantolon - little short pants
+mavimtırak çanta - a bluish bag
+sarımtırak elma - a yellowish apple
+düşen yapraklar - falling leaves
+düşmüş olan - which has fallen
+Düşmüş olan yapraklar nemlidir - The leaves which have fallen are damp
+boş - empty
+serbest - free
+dolu - full
+ağır - heavy
+hafif - light
+occupied - meşgul
+çabuk - quick
+Londra İstanbul kadar güzel - London is as beautiful as Istanbul
+Mehmet Ali kadar zengin - Mehmet is as rich as Ali
+Kar kadar beyaz - As white as snow
+Londra İstanbul kadar güzel değil - London is not as beautiful as Istanbul
+Ayşe Deren kadar boylu değil - Ayşe is not as tall as Deren
+Mehmet Ali'den daha zengin - Mehmet is richer than Ali
+İstanbul Londra'dan daha güzel - Istanbul is more beautiful than London
+Londra İstanbul'dan az meşgul - London is less busy than İstanbul
+Mehmet en zengin adam - Mehmet is the richest man
+Dünyanın en güzel şehri, İstanbul - Istanbul is the world's most beautiful city
+Dünyanİn en fakir memleketleri Afrika'da - The world's poorest countries are in Africa
+Ahmet en az Mehmet kadar zekidir - Ahmet is at least as intelligent as Mehmet
+Bu, o kadar iyi - This, is as good as that
+Çok para istiyor - He wants a lot of money
+Çok mutluyum - I'm very happy
+Ali'nin en çok parası var - Ali has got the most money
+Fazla yemek geldi - Too much food has arrived
+Fazla para istediler - They wanted too much money
+Daha fazla yemek geldi - Much more food has arrived
+Daha fazla para istediler - They wanted much more money
+Az sonra çarşıya gidiyorum - I'm going to the shops a little later on
+Biraz tuz istiyorum - I want a little salt
+Yemeğe daha az tuz koyunuz - put less salt on the food
+Buralarda, daha az polis var - there are less policemen around here
+Pek az sigara kullanıyorum - I smoke (cigarettes) just a little
+Pek az şeker istiyorum - I only want a little sugar
+Çok az benzin kalıyor - just a small amount of petrol is left
+Çok az para istedi - he only wanted a very small amount of money
+Bende para yok - I've got no money
+Bize inanıyorlar - They believe us
+Onlara bakınız - Look at them
+Bana onu verin - Give it to me
+Sende para var mı? - Have you got any money?
+Bizde para var mı? - Have we got any money?
+Benden bir şemsiye alabilirsiniz - You can have an umbrella off me.
+Senden bir sigara alır mıyım? - Can I have a cigarette off you?
+Ondan korkuyorum - I am frightened of him
+Senin araban yeni mi? - Is your car new?
+Onların arabası eskidir - Their car is old
+Mehmet, beni vurdu - Mehmet shot me
+Ali, arabanı onardı mı? - Did Ali repair your car?
+Mustafa, onu yaptı - Mustapha did it
+Mustafa, bizimle kalacak - Mustapha will stay with us
+Ali, onlarla geldi mi? - Did Ali come with them?
+kendi bahçem - my own garden
+kendi evin - your own house
+kendi evi - his own house
+kendim - myself
+kendin - yourself
+kendi - himself, herself, itself
+kendimiz - ourselves
+kendiniz - yourselves
+kendileri - themselves
+kendime - to myself
+Kendime bir bilgisayar aldım - I bought a computer for myself
+Bu resmi ben kendim yaptım - I made this picture on my own (by myself)
+Kendi kendime konuşuyorum - I am talking to myself
+Türkçe'yi kendi kendime öğrendim - I learned Turkish by myself
+Yıkandım - I washed myself
+yıkadım - I washed
+islanmak - get wet
+Kimi gördünüz? - Whom did you see?
+Arabayı kimlerden aldınız? - From whom plural did you buy the car?
+biri - somebody singular general
+birisi - somebody singular particular
+birleri - somebody plural
+kimse - nobody
+kimse - anybody
+Kimse var mı? - Is there anybody there?
+Kimseler var mı? - Is there anybody there?
+Kimse yok - There is nobody there
+Kimse yok mu? - Isn't there anybody there?
+olmalı - must be
+Saat sekizde parkta kimse görünmedi - At eight o'clock there was nobody to be seen in the park
+Şu anda ofisinizde kimse yok mu? - Isn't there anybody in your office at the moment?
+Odanın içinde kimse var mı? - Is there anybody inside the room?
+sabun - soap
+sabunum - my soap
+sabunlarım - my soaps
+suyumuz - our water
+suyun - your water
+suyu - his water
+suları - their water
+arabalarımız - our cars
+kapılarım - my doors
+kulaklarınız - your ears
+onun domuzları - his pigs
+onların domuzları - their pigs
+odası - his room
+onun odaları - his rooms
+onların odası - their rooms
+aile - family
+ailesi - his family
+onların aileleri - their families
+onların ailesi - their family
+kedilerime - to my cats
+arabalarında - in your cars
+köyümüzde - in our village
+köy - village
+köyümüz - our village
+köyümüzde - in our village
+köyümüzden - from our village
+köyler - villages
+köylerimiz - our villages
+köylerimizde - in our villages
+köylerimizden - from our villages
+köpek - dog
+köpeğiniz - your dog
+köpekleriniz - your dogs
+köpeğinizde - on your dog
+köpeğinize - to your dog
+köpekler - dogs
+köpekleri - hıs dogs, their dogs
+onun köpeklerine - to his dogs
+onların köpeklerine - to their dogs
+onların köpeklerinden - from their dogs
+ev - house
+onların evi ‑ their house
+onların evine - to their house
+onların evinde - in their house
+onların evinden - from their house
+evler - houses
+onun evleri - his houses
+onların evleri - their houses
+onun evlerinde - in his houses
+onların evlerinde - in their houses
+onun evlerinden - from his houses
+onların evlerinden - from their houses
+adamların - of the men
+adamın arabası - the man's car
+yıldızların ışığı - the light of the stars
+adamların arabası - the men's car
+adamın arabaları - the man's cars
+adamın arabası - the man's car
+adamın arabasının - of the man's car, the man's car's
+adamın arabasına - to the man's car
+adamın arabasını - the man's car (object)
+adamın arabasında - in the man's car
+adamın arabasından - from the man's car
+adamın arabasıyla - with the man's car
+adamın arabaları - the man's cars
+adamın arabalarının - of the man's cars, the man's car's
+adamın arabalarına - to the man's cars
+adamın arabalarını - the man's cars (object)
+adamın arabalarında - in the man's cars
+adamın arabalarından - from the man's cars
+adamın arabalarıyla - with the man's cars
+adamların arabası - the men's car
+adamların arabasının - of the men's car, the men's car's
+adamların arabasına - to the men's car
+adamların arabasını - the men's car (object)
+adamların arabasında - in the men's car
+adamların arabasından - from the men's car
+adamların arabasıyla - with the men's car
+adamların arabaları - the men's cars
+adamların arabalarının - of the men's cars, the men's cars'
+adamların arabalarına - to the men's cars
+adamların arabalarını - the men's cars (object)
+adamların arabalarında - in the men's cars
+adamların arabalarından - from the men's cars
+adamların arabalarıyla - with the men's cars
+Adamın büyük ve pahalı arabasında - In the man's large and expensive car
+evin kapısının penceresi - the house's door's window
+evin kapısının pencereleri - the house's door's windows
+evlerin kapısının penceresi - the houses' door's window
+evin duvarına - to the wall of the house
+Mehmet'in kutuda ne var? - What is in Mehmet's box?
+İki gün içinde geri döneceğim - I'll return inside of two days
+Bir hafta içinde kitabını bitirecek - He will finish his book within a week
+Bu ağaçta çok meyve vardı - There was a lot of fruit on this tree
+Garajda hiç araba yoktu - There wasn't a (single) car in the garage
+Ağaçta meyve var mıydı? - Was there is any fruit on the tree?
+şuna nazaran - compared to that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

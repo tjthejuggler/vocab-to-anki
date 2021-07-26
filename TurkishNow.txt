@@ -1,0 +1,48 @@
+Turkish Now
+
+hafif - light
+akılı - intelligent
+sinirli - angry
+komik - funny
+yoğun - busy
+sakin - calm
+sevimli - cute
+koyu - dark
+iğrenç - disgusting
+memnuniyetsizlik - dissatisfied 
+utanmış - embarrassed
+ünlü - famous
+bedava - free
+tok - full
+sert - hard	
+hayat dolu - lively
+kaba - mean
+dar - narrow
+ağrılı - painful
+fakir - poor
+rahatlatıcı - relaxing
+aynı - same
+korkunç - scary
+ciddi - serious
+kısa - short
+yumuşak - soft
+ekşi - sour
+güçlü - strong
+uzun - tall
+susamış - thirsty
+zayıf - weak
+geniş - wide
+her ne - whatever
+Bihter - Hatice'nin arkadaşı
+zulal - Bihter'in ablası
+kübra - Bihter ve zülal'in kuzeni
+yirmi - twenty
+otuz - thirty
+kırk - forty
+elli - fifty
+altmış - sixty
+yetmiş - seventy
+seksen - eighty
+doksan - ninety
+bin - thousand
+milyon - million

@@ -1,0 +1,491 @@
+acı mıydı? - was it bitter?
+sıcak mıydı? - was it hot?
+hava soğuk muydu? - was the weather cold?
+mutlu muyduk? were - we happy?
+yorgun muydular? - were they tired?
+hasta mıydınız? - were you ill? or have you been ill?
+güzel miydi? was - she beautiful?
+ev büyük müydü? - was it a large house?
+Yarın hazır olacağım. - I will be ready tomorrow.
+Er geç zengin olacaksın. - You will become rich sooner or later.
+Bu gece parti çok güzel olacak. - It will be a great party tonight.
+ben değilim I am not - zengin değilim I am not rich
+sen değilsin you are not - yorgun değilsin you are not tired
+değildir - he/she/it is not
+pahalı değil - it is not dear
+değil  - he is not
+şişman değil - she is not fat
+biz değiliz - we are not
+hasta değiliz - we are not ill
+siz değilsiniz - you are not
+yaşlı değilsiniz - you are not old
+değildirler - they are not
+genç değildirler - they are not young
+değiller - they are not
+çirkin değiller - they are not ugly
+Ben zengin değilim. - I am not rich.
+Zengin değilim. - I'm not rich.
+O hasta değil. - he is not ill
+Hasta değil. - he's not ill.
+zengin değil miyim? - am I not rich? aren't I rich?
+pahalı değil mi? - isn't it dear?
+hasta değil miyiz? - aren't we ill?
+genç değiller mi? - aren't they young?
+yorgun değil misin? - aren't you tired?
+büyük değil mi? - isn't it big?
+yaşlı değil misiniz? - aren't you old?
+yoksul değiller mi? - aren't they poor?
+açık değil miydi? - wasn't it open?
+mutlu değil miydik? - weren't we happy?
+hava soğuk değil miydi? - wasn't the weather cold?
+zengin değil miydiler? - weren't they rich?
+emin değil miydim? - wasn't I sure?
+Mehmet meşgul değil miydi? - wasn't Mehmet busy?
+yorgun değil miydiniz? - weren't you tired?
+çocuklar mutlu değil miydiler? - weren't the children happy?
+Hava soğuk değil mi? - The weather is cold, isn't it?
+Hava soğuktu, değil mi? - The weather was cold, wasn't it?
+Mutlusunuz, değil mi? - You are happy, aren't you?
+Mutlu olacaksın, değil mi? - You will be happy, won't you?
+Hastadırlar, değil mi? - They are ill, aren't they?
+Mehmet kazanabilir, değil mi? - Mehmet can win, can't he?
+Mutluyum. - I am happy.
+İyisiniz. - You are good.
+Bozuk. - It is spoiled, broken, no good.
+Kolay. It is easy.
+Neşeliyiz. - We are merry.
+İngilizsiniz. - You are English.
+Zekiler. - They are clever.
+Pek/Çok şişmansınız. - You are very fat.
+Çok/Pek naziksiniz. - You are very nice.
+Mehmet pek hasta. - Mehmet is quite ill.
+Genç değilim. - I am not young.
+Hasta değilsiniz. - You are not ill.
+Pek aç değilim. - I am not very hungry.
+Yüksek değil. - It is not high.
+Deli değiliz. - We are not crazy.
+Pek/Çok çabuk değil. - It ıs not very quick/fast.
+Pek nazik değilsiniz. - You are not very nice.
+Pek zeki değiller. - They are not very clever.
+Zengin miyim? - Am I rich?
+Zengin değil miyim? - Am I not rich?
+Hasta mısınız? - Are you ill?
+Ali bey genç mi? - Is Ali bey young?
+Kolay mı(dır)? - Is it easy?
+Zeki miyiz? - Are we clever?
+Zeki değil miyiz? - Aren't we clever?
+Deli misin? - Are you crazy?
+Arkadaşınız yaşlı mı? - Is your friend old?
+Arkadaşım yaşlı değil. - My friend is not old.
+Evet,arkadaşım genç. - Yes, my friend is young.
+Mehmet mutlu mudur? - Is Mehmet happy.
+Evet, mutlu. - Yes, he is happy.
+Hayır,mutlu değil. - No, he is not happy.
+Hazır mısın? - Are you ready?
+Hazır değil misin bile? - Aren't you ready yet?
+gitmek - to go
+gidiyorum - I am going
+ditmek - to shred (verb used in recipes) 
+didiyor - he/it shreds
+tatmak - to taste (of) 
+tadıyor - it tastes (of)
+etmek - to do/perform 
+ediyorum - I am doing
+kaybetmek - to lose
+affetmek - to pardon, to excuse and many others.
+bitmek - to end
+bitiyor - it is finishing
+batmak - to sink
+batıyor - it is sinking
+geliyorum - I am coming
+bakıyorsun - you are looking
+giriyor - he, she, it is entering
+çıkıyoruz - we are going out
+buluyorsunuz - you are finding
+gülüyorlar - they are laughing
+gelmek - to come
+geliyorum - I am coming
+geliyorsun - you are coming
+geliyor - he is coming
+geliyoruz - we are coming
+geliyorsunuz - you are coming
+geliyorlar - they are coming
+gelmemek - not to come
+gelmiyorum - I am not coming
+gelmiyorsun - you are not coming
+gelmiyor - he is not coming
+gelmiyoruz - we are not coming
+gelmiyorsunuz - you are not coming
+gelmiyorlar - they are not coming
+vermek - to give
+veriyor - giving
+bilmek - to know
+biliyor - knowing
+görmek - to see
+görüyor - seeing
+gülmek - to laugh
+gülüyor - laughing
+vermemek - not to give
+vermiyor - not giving
+bilmemek - not to know
+bilmiyor - not knowing
+görmemek - not to see
+görmüyor - not seeing
+gülmemek - not to laugh
+gülmüyor - not laughing
+yapmak - to do, make, perform
+yapıyor - doing
+ağrımak - to ache
+ağrıyor - aching
+kopmak - to snap
+kopuyor - snapping
+kurumak - to dry
+kuruyor - drying
+yapmamak - not to do
+yapmıyor - not doing
+ağrımamak - not to ache
+ağrımıyor - not aching
+kopmamak - not to snap
+kopmuyor - not snapping
+kurumamak - not to dry
+kurumuyor - not drying
+beklemek - to wait, expect
+bekliyorum - I am waiting
+bekliyorsun - you are waiting
+bekliyor - he/she/it is waiting
+bekliyoruz - we are waiting
+bekliyorsunuz - you are waiting
+bekliyorlar - they are waiting
+beklememek - to not wait, expect
+beklemiyorum - I am not waiting
+beklemiyorsun - you are not waiting
+beklemiyor - he/she/it is not waiting
+beklemiyoruz - we are not waiting
+beklemiyorsunuz - you are not waiting
+beklemiyorlar - they are not waiting
+bakmak - to look
+bakmamak - not to look
+bakmak - to look, to look at
+bakıyorum - I am looking
+bakıyorsun - you are looking
+bakıyor - he is looking
+bakıyoruz - we are looking
+bakıyorsunuz - you are looking
+bakıyorlar - they are looking
+bakmamak - not to look, not to look at
+bakmıyorum - I am not looking
+bakmıyorsun - you are not looking
+bakmıyor - he is not looking
+bakmıyoruz - we are not looking
+bakmıyorsunuz - you are not looking
+bakmıyorlar - they are not looking
+yürümek - to walk
+yürüyorum - I am walking
+yürüyorsun - you are walking
+yürüyor - he is walking
+yürüyoruz - we are walking
+yürüyorsunuz - you are walking
+yürüyorlar - they are walking
+yürümemek - not to walk
+yürümemek - not to walk
+yürümüyorum - I am not walking
+yürümüyorsun - you are not walking
+yürümüyor - he is not walking
+yürümüyoruz - we are not walking
+yürümüyorsunuz - you are not walking
+yürümüyorlar - they are not walking
+Mehmet, şimdi eve gidiyor mu? - Is Mehmet going home now?
+"Mehmet, is he going home now?" - Question on the verb "gitmek" "to go".
+Mehmet, eve mi gidiyor? - Is it home that Mehmet is going to? (Question on the object "ev" "home.")
+Mehmet mi, eve gidiyor? - Is it Mehmet who is going home? [Question on The subject "Mehmet".]
+Bisiklet, ters mi duruyor? - Is the bicycle upside down?
+Mehmet, kemen mi çalıyor? - Is Mehmet playing the violin? [The "keman" "violin" is in question.]
+çalmak - To play a musical instrument.
+çalmak - To steal something.
+O, kemen mi çalıyor? - Is it a violin that he is stealing?
+O, kemen mi çalıyor? - Is it a violin that he is playing?
+Bir hirsiz arabamı çaldı. - A thief stole/has stolen my car.
+Bir kız piyanoyu güzelce çaldı. - A girl played the piano well.
+gelmek - to come
+geliyor muyum? - am I coming?
+geliyor musun? - are you coming?
+geliyor mu? - is he coming?
+geliyor muyuz? - are we coming?
+geliyor musunuz? - are you coming?
+geliyorlar mı? - are they coming?
+gelmemek - to not come
+gelmiyor muyum? - aren't I coming?
+gelmiyor musun? - aren't you coming?
+gelmiyor mu? - isn't he coming?
+gelmiyor musunuz? - aren't you coming?
+gelmiyor muyuz? - aren't we coming?
+gelmiyorlar mı? - aren't they coming?
+Yarın şehre gidiyorum. - Tomorrow I am going to town.
+Yarın şehre gitmiyorum. - Tomorrow I am not going to town.
+Benimle gelmiyor musunuz? - Aren't you coming with me?
+Küçük odada uyumuyorlar mı? - Aren't they sleeping in the small room?
+Evi boyuyor. - He is painting the house.
+Mehmet kendi evini boyamıyor. - Mehmet is not painting his own house.
+beklemekteyim - I have been waiting (and am still waiting)
+beklemektesin - you have been waiting (and are still waiting)
+beklemektedir - he has been waiting (and is still waiting)
+beklemekteyiz - we have been waiting (and are still waiting)
+beklemektesiniz - you have been waiting (and are still waiting)
+beklemekteler - they have been waiting (and are still waiting)
+Saat beşten beri bankada seni beklemekteyim. - I have been waiting for you in the bank since five o'clock (and I am still waiting)
+Şimdilik futbol takımınız İtalya'da oynamaktadır. - Our football team are presently playing in Italy (and are still there).
+Evde Mehmet'i belemekteydim. - I had been waiting for Mehmet at home.
+Mehmet evde beni belemekteydi. - Mehmet had been waiting for me at home.
+Sabırsızlıkla bu filmi beklemektelerdi. - They had been waiting for this film with impatience.
+Bu akşam üzeri ülke genelinde sağnak yağış beklenmekteymiş. - In the evening scattered showers may be expected over the countryside.
+Her gün denizde yüzerim. - I swim in the sea every day.
+Ayşe hanım dondurmayı çok sever. - Miss Ayshe likes ice cream a lot.
+Her gece eve dönerim. - I come back home every night.
+traş - shaved
+düzenli - tidy 
+Her gün düzenli olarak traş olur. - He shaves regularly each day.
+Genelikle et yeriz. - Generally we eat meat.
+Her hafta sonunda futbol oynarlar. - They play football every weekend.
+Bakar mısınız? - Would you look, please?
+Bana yardım edebilir misıniz? - Could you help me, (please)?
+Bir çay rica ederim. - A tea, please. literaly, I request a tea. 
+Pencereyi kapatır mısınız? - Would you close the window, please?
+Ben onu yaparım - I'll do it.
+Saatin altında seni beklerim. - I'll be waiting under the clock for you.
+Parkın yanındaki bankayı tabii ki bulursunuz. - You'll find the bank all right, next to the Park.
+Yarın ofiste buluşuruz. - We'll see each other in the office tomorrow.
+yapmak - to do, to make
+yaparım - I do
+yaparsın - you do
+yapar - he does
+yaparız - we do
+yaparsınız - you do
+yaparlar - they do
+kesmek - to cut
+keserim - I cut
+kesersin - you cut
+keser - he cuts
+keseriz - we cut
+kesersiniz - you cut
+keserler - they cut
+almak ‑ alır to take
+alırım - I take
+bilmek ‑ alır to know
+bilir - he knows
+bulmak ‑ bulur to find
+bulur - he finds
+durmak ‑ durur to stop, halt
+dururuz - we stop
+gelmek ‑ gelir to come
+gelirsiniz - you come
+görmek ‑ görür to see
+görürler - they see
+kalmak ‑ kalır to stay
+kalırım - I stay
+olmak ‑ olur to become
+olursun - you become
+ölmek ‑ ölür to die
+ölür - it dies
+sanmak ‑ sanır to suppose
+sanırız - we suppose
+vermek ‑ verir to give
+verirsiniz - you give
+varmak ‑ varır to arrive
+varırlar - they arrive
+vurmak ‑ vurur to hit
+vururum - I hit
+anlamak - to understand
+anlarım - I understand
+anlarsın - you understand
+anlar - he understands
+anlarız - we understand
+anlarsınız - you understand
+anlarlar - they understand
+demek - to say, mean
+derim - I say
+dersin - you say
+der - he says
+deriz - we say
+dersiniz - you say
+derler - they say
+demek - der to say
+Dünya yuvarlaktır derler. - They say the world is round.
+yemek yer - to eat
+Her gün ekmek yeriz. - We eat bread every day.
+beklemek - to wait
+Her gün köşede beklersiniz, değil mi? - Every day you wait at the corner, don't you?
+söylemek - to speak
+Her zaman "hayır'ı" derler. - They say "No" every time.
+kazanmak to win - kazanırım I win
+kazanırsın - you win
+kazanır - he wins
+kazanırız - we win
+kazanırsınız - you win
+kazanırlar - they win
+göndermek - to send
+gönderirim - I send
+gönderirsin - you send
+gönderir - he sends
+göndeririz - we send
+gönderirsiniz - you send
+gönderirler - they send
+tırmanmak - to climb
+götürmek - to bring
+beğenmek - to like
+Türk kahvesini beğenirler, - They like Turkish coffee.
+Sık sık buraya gelirdim. - I used to come here very often.
+Gençken çok gülerdin. - You used to laugh a lot when [Lit: while..] you were young.
+Kuşadası'nda kalırken her zaman denizde yüzerdi. - He always used to swim in the sea when staying at Kuşshadasi.
+1950 yılından önce (1950'den önce) Türkiye'de kola içilirdi. - Cocacola used to be drunk in Turkey before 1950.
+Dersler bittikten sonra uzun zaman/süre beni beklerdin. - You always used to wait for me a long time after school finished.
+Tatilde kamp yaparken hep/daima iyi uyurlardı. - They always used to sleep very well while on holiday while camping.
+Acele işe, şeytan karışır. - If you hurry, the devil intervenes.
+Çabuk parlayan çabuk söner. - A flash is quickly extinguished.
+Damlaya damlaya göl olur. - Lakes form drop by drop.
+Emek ver, kulak ver, bilgi ver, ama hiçbir zaman boş verme. - Give labour, ear and knowledge, but never give notice.
+Fakirlik ayıp değil tembellik ayıp. - Poverty is no shame but idleness is.
+Güzel gören güzel düşünür. Güzel düşünen hayattan lezzet alır. - An observer of beauty thinks of beauty. Those who think beauty taste life.
+İyilik eden iyilik bulur. - Those who do good find goodness themselves.
+Ne ekersen onu biçersin. - You reap what you sow.
+Önce düşün sonra söyle. - Think first, speak later.
+Sağlam kafa sağlam vücutta bulunur. - A healthy mind is found in a healthy body.
+Tok iken yemek yiyen, mezarını kendi kazar. - Those who eat when they are full dig their own grave.
+gitmek - to go
+gidiyorum - I am going
+etmek - to do
+ederim - I do
+tatmak - to taste of
+tadarlar - they taste of
+ditmek - to shred [used in recipes]
+didersin - you shred
+gütmek - to nourish/feed animals
+güderim - I nourish
+gitmem - I don't go
+gitmezsin - you don't go
+gitmez - he doesn't go
+gitmeyiz - we don't go
+gitmezsiniz - you don't go
+gitmezler - they don't go
+bakmam - I don't look
+bakmazsın - you don't look
+bakmaz - he doesn't look
+bakmayız - we don't look
+bakmazsınız - you don't look
+bakmazlar - they don't look
+Beni tanımazsınız. - You don't know me
+Beni tanımaz mısınız? - Don't you know me?
+içmez - does not to drink 
+O bira içmez - He doesn't drink beer. generally
+Mehmet, bira içmez mi? - Doesn't Mehmet drink beer? usually?
+Mehmet birayı içmez mi? - Doesn't Mehmet drink the (or that) beer? particular beer
+konuşmamak - not to talk
+Onun hakkında konuşmayız. -We don't talk about it.
+giymemek - not to wear
+Genellikle bir şapka giymez misiniz? - Don't you generally wear a hat?
+seyretmemek - not to watch
+Televizyonu seyretmezler. - They don't watch the television. [in particular]
+Televizyon seyretmezler. - They don't watch television. [generally]
+bakmaz mıyım? - don't I look?
+bakmam mı? - don't I look?
+kalmamak - not to stay
+kalmaz mısın? - don't you stay?
+bitirmemek - not to finish
+bitirmez mi? - doesn't he finish?
+yazmamak - not to write
+yazmaz mıyız? - don't we write?
+koşmamak - not to run
+Koşmaz mısınız? - don't you run?
+yürümemek - not to walk
+Yürümezler mi? - don't they walk?
+Her gün saat beşte seni görmez miyim? - Don't I see you every day at five o'clock?
+Londra'da oturmaz mısınız? - Don't you live in London?
+Ali bey bir bankada çalışmaz mi? - Doesn't Ali Bey work in a bank?
+Hepimiz bir parti sevmez miyiz? - Don't we all love a party?
+Sık sık buraya gelmezdim. - I didn't used to come here very often.
+Genç iken o kadar gülmezdin. - You didn't used to laugh very much when you were young.
+Kuşadada kalırken denizde yüzmezdi. - He never used to swim in the sea when staying at Kuşadası.
+1950 yıldan önce Türkiye'de kola içilmezdi. - Coca‑cola did not used to be drunk in Turkey before 1950.
+Derslerimiz bittikten sonra yeterli zaman için beni beklemezdiniz. - You didn't used to wait long enough for me after school finished.
+Tatilde kamp yaparken o kadar iyi uyumazdılar. - They didn't used to sleep very well while on holiday while camping.
+Her gün çarşıya gitmez miydim? - Didn't I used to go to the shops everyday?
+Hatice'yi sevmez miydin? - Didn't you used to love Hatice?
+Ummaz mıydı? - Didn't he used to hope?
+Açmaz mıydık? - Didn't we used to open?
+Kazmaz mıydınız? - Didn't you used to dig?
+Soğan satmaz mıydılar? - Didn't they used to sell onions?
+Çıkmaz mıydılar? - Didn't they used to go out?
+Her gün seni görmez miydim? - Didn't I used to see you every day?
+Bıkmaz mıydık? - Didn't we used to get fed up?
+Londra'da oturmaz mıydın? - Didn't you used to live in London?
+Ali İstanbul'da oturur - Ali lives in Istanbul.
+Ben, mavi sandalyede oturuyorum - I am sitting in the blue chair.
+Atlara binmez miydiniz? - Didn't you used to ride horses?
+binmek - to get on, to ride, to board 
+Yıllar önce Manisa'da çalışıyordum. - Many years ago I was working in Manisa
+Boş çuval ayakta durmaz. - An empty sack does stand up.
+Mum dibine ışık vermez. - The bottom of a candle sheds no light.
+Havlayan köpek ısırmaz. - A barking dog does not bite.
+Küçük suda büyük balık olmaz. - There are no big fish in small pools.
+Yuvarlanan taş yosun tutmaz. - A rolling stone gathers no moss.
+geleceğim - I shall come
+geleceksin - you will come
+O gelecek - he will come
+geleceğiz - we shall come
+geleceksiniz - you will come
+gelecekler - they will come	
+gelmeyeceğim - I shall not come
+gelmeyeceksin - you will not come
+O gelmeyecek - he will not come
+gelmeyeceğiz - we shall not come
+gelmeyeceksiniz - you will not come
+gelmeyecekler - they will not come
+gelmeyeceğim - I shall not come
+gelmeyeceksin - you will not come
+O gelmeyecek - he will not come
+gelmeyeceğiz - we shall not come
+gelmeyeceksiniz - you will not come
+gelmeyecekler - they will not come
+arayacağım - I shall look for
+arayacaksın - you will look for
+O arayacak - he will look for
+arayacağız - we shall look for
+arayacaksınız - you will look for
+arayacaklar - they will look for
+aramayacağım - I shall not look for
+aramayacaksın - you will not look for
+O aramayacak - he will not look for
+aramayacağız - we shall not look for
+aramayacaksınız - you will not look for
+aramayacaklar - they will not look for
+Uyuyakaldım, koşa koşa ofise gidicem şimdi. - I overslept, now I'll go to the office a running..
+yürüyecek miyim? - Shall I walk?, Am I going to walk? 
+yürüyecek misin? - Will you walk?, Are you going to walk?
+O yürüyecek mi? - Will he walk?, Is he going to walk?
+yürüyecek miyiz? - Shall we walk?, Are we going to walk?
+yürüyecek misiniz? - Will you walk?, Are you going to walk?
+yürüyecekler mi? - Will they walk?, Are they going to walk?
+yazmayacak mıyım? - Shall I not write?, Am I not going to write?
+yazmayacak mısın? - Will you not write?
+O yazmayacak mı? - Will he not write?
+yazmayacak mıyız? - Shall we not write?
+yazmayacak mısınız? - Will you not write?
+yazmayacaklar mı? - Will they not write?
+hazırım - I am ready
+hazır olacağım - I shall be ready
+zenginsin - you are rich
+zengin olacaksın - you will be rich
+yorgundur - he is tired
+yorgun olacak - he will be (get) tired
+yoksuldurlar - they are poor
+yoksul olacaklar - they will be poor
+Şimdilik İstanbul'dayım. - Just now I am in Istanbul.
+Yarın İstanbul' da olacağım. - Tomorrow I shall be in Istanbul.
+zengin değilsin - you are not rich
+zengin olmayacaksın - you will not be rich
+tembel değildi - he was not lazy
+tembel olmayacak - he will not be lazy
+yoksul değiller - they are not poor
+yoksul olmayacaklar - they will not be poor
+Yarın İstanbul' da olmayacağım. - I shall not be in Istanbul tomorrow.
+Şimdi İstanbul'da değilim. - I am not in Istanbul now.
+O, yarın kesilecek. - It will be cut tomorrow.

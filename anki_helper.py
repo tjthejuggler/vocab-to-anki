@@ -53,7 +53,8 @@ def create_anki_deck(deck, new_deck_name, all_audio_files):
 	my_package.media_files = all_audio_files
 	my_package.write_to_file("anki/"+new_deck_name+'.apkg')
 
-def create_anki_note(word, translation, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs):
+def create_anki_note(word, translation, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, show_anki_text):
+	print('tag', tag, word)
 	word_audio_file = word+'_'+first_lang+'.mp3'
 	each_audios = []
 	translation_audio_file = translation+'_'+second_lang+'.mp3'
@@ -62,10 +63,15 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files, first_l
 	if should_make_anki_deck_audio_only:
 		if mp3_exists(translation, second_lang):
 			all_audio_files.append(pron_fold+'/'+second_lang+'/'+translation_audio_file)
+		word_text = ''
+		translation_text = ''
+		if show_anki_text:
+			word_text = word
+			translation_text = translation
 		my_note = genanki.Note(
 						model=deck_model_audio_only,
 						tags=[tag],
-						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')', '[sound:'+translation_audio_file+']', word+'\n'+hint, url, word +' - '+translation])
+						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')' + ' '+word_text, '[sound:'+translation_audio_file+']' + ' ' + translation_text, word+'\n'+hint, url, word +' - '+translation])
 	else:
 		if using_two_langs:
 			if mp3_exists(translation, second_lang):

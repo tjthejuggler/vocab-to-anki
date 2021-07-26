@@ -1,0 +1,686 @@
+Geliyordum - I was coming
+Gelirdim - I used to come
+Gelecektim - I was going to come, I would have come
+Gelmiştim - I had come
+Gelmeliydim - I had to come
+Gelseydim - If only I had come
+anlamak - to understand
+anladım - I understood
+anladın - you understood
+(o) anladı - he understood
+anladık - we understood
+anladınız - you understood
+anladılar - they understood
+çıkmak - to go out exit
+çıktım - I went out
+çıktın - you went out
+(o) çıktı - he went out
+çıktık - we went out
+çıktınız - you went out
+çıktılar - they went out
+koşmak - to run
+koştum - I ran
+koştun - you ran
+(o) koştu - he ran
+koştuk - we ran
+koştunuz - you ran
+koştular - they ran
+bulmak - to find
+buldum - I found
+buldun - you found
+(o) buldu - he found
+bulduk - we found
+buldunuz - you found
+buldular - they found
+geldim - I came
+geldin - you came
+(o) geldi - he came
+geldik - we came
+geldiniz - you came
+geldiler - they came
+içmek - to drink or smoke
+içtim - I drank or smoked
+içtin - you drank or smoked
+(o) içti - he drank or smoked
+içtik - we drank or smoked
+içtiniz - you all drank or smoked
+içtiler - they drank or smoked
+görmek - to see
+gördüm - I saw
+gördün - you saw
+(o) gördü - he saw
+gördük - we saw
+gördünüz - you saw
+gördüler - they saw
+gülmek - to laugh
+güldüm - I laughed
+güldün - you laughed
+(o) güldü - he laughed
+güldük - we laughed
+güldünüz - you laughed
+güldüler - they laughed
+Gelmişim - It seems they say I came
+Geliyormuşum - It seems (they say) I am coming
+Gelecekmişim - It seems I would have come
+Gelirmişim - It seems I come
+Gelmeliymişim - They say I must come
+Gelseymişim - If only I had come
+anlamışım - I (apparently) have understood
+anlamışsın - you (apparently) have understood
+(o) anlamış - he must (apparently) understood
+anlamışız - we must (apparently) understood
+anlamışsınız - you (apparently) have understood
+anlamışlar - they must (apparently) understood
+çıkmak - to go out exit
+çıkmışım - I (apparently) have gone out
+çıkmışsın - you (apparently) have gone out
+(o) çıkmış - he (apparently) have gone out
+çıkmışız - we (apparently) have gone out
+çıkmışsınız - you all (apparently) have gone out
+çıkmışlar - they (apparently) have gone out
+koşmuşum - I (apparently) have run
+koşmuşsun - you (apparently) have run
+(o) koşmuş - he (apparently) have run
+koşmuşuz - we (apparently) have run
+koşmuşsunuz - you (apparently) have run
+koşmuşlar - they (apparently) have run
+bulmuşum - I (apparently) have found
+bulmuşsun - you (apparently) have found
+(o) bulmuş - he (apparently) have found
+bulmuşuz - we (apparently) have found
+bulmuşsunuz - you all (apparently) have found
+bulmuşlar - they (apparently) have found
+gelmişim - I (must) have come
+gelmişsin - you (must) have come
+(o) gelmiş - he⁄she⁄it (must) have come
+gelmişiz - we (must) have come
+gelmişsiniz - you all (must) have come
+gelmişler - they (must) have come
+içmek - to drink smoke
+içmişim - I (must) have drunk smoked
+içmişsin - you (must) have drunk smoked
+(o) içmiş - he (must) have drunk smoked
+içmişiz - we (must) have drunk smoked
+içmişsiniz - you (must) have drunk smoked
+içmişler - they (must) have drunk smoked
+görmek - to see
+görmüşüm - I (must) have seen
+görmüşsün - you (must) have seen
+(o) görmüş - he (must) have seen
+görmüşüz - we (must) have seen
+görmüşsünüz - you (must) have seen
+görmüşler - they (must) have seen
+gülmek - to laugh
+gülmüşüm - I (must have laughed
+gülmüşsün - you (must) have laughed
+(o) gülmüş - he must have laughed
+gülmüşüz - we (must) have laughed
+gülmüşsünüz - you all (must) have laughed
+gülmüşler - they (must) have laughed
+anlamadım - I didn't understand, I have not understood
+anlamadın - you didn't understand, you have not understood
+(o) anlamadı - he, she, it didn't understand, he has not understood
+anlamadık - we didn't understand, we have not understood
+anlamadınız - you didn't understand, you have not understood
+anlamadılar - they don't understand, they have not understood
+gitmedim - I didn't go, I have not gone
+gitmedin - you didn't go, you have not gone
+(o) gitmedi - he, she, it didn't go, he has not gone
+gitmedik - we didn't go, we have not gone
+gitmediniz - you all didn't go, you all have not gone
+gitmediler - they don't go, they have not gone
+anlamadım - I didn't understand, I have not understood
+anlamadın - you didn't understand, you have not understood
+(o) anlamadı - he, she, it didn't understand, he has not understood
+anlamadık - we didn't understand, we have not understood
+anlamadınız - you all didn't understand, you all have not understood
+anlamadılar - they don't understand, they have not understood
+gitmedim - I didn't go, I have not gone
+gitmedin - you didn't go, you have not gone
+(o) gitmedi - he, she, it didn't go, he has not gone
+gitmedik - we didn't go, we have not gone
+gitmediniz - you all didn't go, you all have not gone
+gitmediler - they don't go, they have not gone
+anlamamışım - I have not understood it seems
+anlamamışın - you have not understood it seems
+(o) anlamamış - he has not understood it seems
+anlamamışız - we have not understood it seems
+anlamamışsınız - you all have not understood it seems
+anlamamışlar - they have not understood it seems
+gitmemişim - I probably did not go
+gitmemişsin - you probably did not go
+(o) gitmemiş - he probably did not go
+gitmemişiz - we probably did not go
+gitmemişsiniz - you all probably did not go
+gitmemişler - they probably did not go
+geliyordum - I was coming
+geliyordun - you were coming
+(o) geliyordu - it was coming
+geliyorduk - we were coming
+geliyordunuz - you all were coming
+geliyorlardı geliyordular - they were coming
+gitmiyordum - I wasn't going
+gitmiyordun - you weren't going
+(o) gitmiyordu - it wasn't going
+gitmiyorduk - we weren't going
+gitmiyordunuz - you all weren't going
+gitmiyorlardı gitmiyordular - they weren't going
+Okula gittin mi? - Did you go to school?
+Okula gitmeli miydin? -  Did you have to go to school?
+Henüz Ayşe hanım ders çalıştı mı? - Has Miss Ayshe done her lesson yet?
+Henüz Ayşe hanım ders çalışmadı mı? - Hasn't Miss Ayshe done her lesson yet?
+Mehmet televizyon seyrediyor muydu? - Was Mehmet watching television?
+Mehmet televizyonu seyrediyor muydu? - Was Mehmet watching THE television?
+Kemal gazete okudu mu? - Did Kemal read a newspaper?
+Kemal gazeteyi okudu mu? - Did Kemal read THE newspaper?
+Kemal bu gazeteyi okudu mu? - Did Kemal read THIS newspaper?
+Serhan içki içti mi? - Did Serhan drink alcohol?
+Serhan içki içiyor muydu? - Was Serhan drinking alcohol?
+Faruk Ankara'ya gitti mi? - Has Faruk gone Ankara?
+Faruk Ankara'ya gidebildi mi? - Was Faruk able to go Ankara?
+gelmiştim - I had come
+unutmuştun - you had forgotten
+yürümüştü - he had walked
+bilmiştik - we had known
+çıkmıştınız - you all had gone out
+anlamıştılar - they had understood
+çıkmışmışım - I think that I had gone out
+çıkmışmışsın - Presumably you had left
+çıkmışmış - He had left as far as I know
+çıkmışmışız - I think that we had left
+çıkmışmışsınız - They say that you all had gone out
+çıkmışmışlar - It was pretty sure that they had left
+Mehmet çıktı mı? - Has Mehmet gone out?
+O çıktı. - He has gone out.
+O çıkmış. - He has gone out i think.
+Onu yapmış mıyım? - Have I done it? Did I do it? 
+Onu yapmış mısın? - Have you done it? Did you do it?
+Onu yapmış mı? - Has he done it? Did he do it?
+Onu yapmış mıyız? - Have we done it? Did we do it?
+Onu yapmış mısınız? - Have you all done it? Did you do it?
+Onu yapmışlar mı? - Have they done it? Did they do it?
+Onu yapmamış mıyım? - Haven't I done it? Didn't I do it?
+Onu yapmamış mısın? - Haven't you done it? Didn't you do it?
+Onu yapmamış mı? - Hasn't he done it? Didn't he do it?
+Onu yapmamış mıyız? - Haven't we done it? Didn't we do it?
+Onu yapmamış mısınız? - Haven't you done it? Didn't you do it?
+Onu yapmamışlar mı? - Haven't they done it? Didn't they do it?
+Çıkmış mi? - Has he (seemingly) left?
+Gülmüşler mi? - Did they laugh?
+Onu yapmamış mısınız? - Haven't you all done it?
+Onu yapmamış mısınız? - You haven't (gone and) done it have you?
+biliyormuşum - (it seems that) I was knowing
+biliyormuşsun - (it seems that) you were knowing
+(o) biliyormuş - (it seems that) she was knowing
+biliyormuşuz - (it seems that) we were knowing
+biliyormuşsunuz - (it seems that) you were knowing
+biliyorlarmış biliyormuşlar - (it seems that) they were knowing
+okumuyormuşum - (it seems that) I wasn't reading
+okumuyormuşsun - (it seems that) you weren't reading
+(o) okumuyormuş - (it seems that) she wasn't reading
+okumuyormuşuz - (it seems that) we weren't reading
+okumuyormuşsunuz - (it seems that) you weren't reading
+okumuyorlarmış, okumuyormuşlar - (it seems that) they weren't reading
+anlamıyormuşum - it seems that I was not understanding
+anlamıyormuşsun - it seems that you were not understanding
+anlamıyormuş - it seems that he was not understanding
+anlamıyormuşuz - it seems that we were not understanding
+anlamıyormuşsunuz - it seems that you were not understanding
+anlamıyorlarmış anlamıyormışlar - it seems that they were not understanding
+gitmiyormuşum - I do not think that I was going
+gitmiyormuşsun - I do not think that you were going
+gitmiyormuş - I am pretty sure that he is not going
+gitmiyormuşuz - I think that we are not going
+gitmiyormuşsunuz - I believe that you all are not going
+gitmiyorlarmış gitmiyormışlar - apparently they are not going
+almak - to take
+aldı - he took
+almış - probably he took almamak to not take
+almadı - he did not take
+almamış - he probably did not take
+Temel İngiltere'ye gitmişti. - It seems Temel had gone to England.
+Eğer erken kalkarsan, kahvaltıyı yapabilirsen. - If you get up early, you can make the breakfast.
+Eğer erken kalkarsan, bizi beklersin. - If you get up early, wait for us.
+Eğer sana yardım edebilirsem, memnun olacağım. - If I can help you, I will be happy.
+Şayet çok antrenör edemezsen, asla koşu kazanmayacaksın. - If you do not train a lot, you will never win the race.
+Şayet sigaradan vazgeçersen, daha sıhhatli kendi kendine hissedersin. - If you give cigarettes up you will feel healthier.
+Erken kalksaydın, bizi bekleyecektin. - If you had got up early, you would have waited for us.
+Kötü hava olmasaydı, çarsıya gidecektik. - If the weather had not been bad, we would have gone to the shops.
+Bu lokantaya gelmeseydim, senle görüşemedim. - If I had not come to this cafe, I would not have met you.
+O lokantaya gitseydim, senle görüşürdüm. - If I had gone to that cafe, I would have met you.
+Paranız varsa bana verin. - If you have money give it to me.
+Bir taksi yoksa burada kalalım. - If there isn't a taxi let's stay here.
+yaparsam - if I do
+giriyorsan - if you are entering
+kesilecekse - if it will be cut, if it is to be cut
+anlaşmasaydık - if we have not agreed
+mutlu olmayacaksanız - if you will not be happy
+gelebilecekseler - if they will be able to come
+gelemezsem - If I cannot come
+yazabilirsen - If you can write
+gülse - If he laughs
+içsek - If we drink
+görebilirseniz - If you all can see
+yapmalısalar - If must they do
+gelsem - if I were to come
+gelsen - if you were to come
+gelse - if he were to come
+gelsek - if we were to come
+gelseniz - if you all were to come
+gelseler - if they were to come
+geliyorsam - if I am coming
+geliyorsan - if you are coming
+geliyorsa - if he is coming
+geliyorsak - if we coming
+geliyorsanız - if you all are coming
+geliyorsalar - if they are coming
+gelirsem - if I (usually) come
+gelirsen - if you (usually) come
+gelirse - if he (usually) comes
+gelirsek - if we (usually) come
+gelirseniz - if you all (usually) come
+gelirseler - if they (usually) come
+geleceksem - if I (will) come
+geleceksen - if you (will) come
+gelecekse - if he (will) come
+geleceksek - if we (will) come
+gelecekseniz - if you all (will) come
+gelecekseler - if they (will) come
+geldiysem - if I came
+geldiysen - if you came
+geldiyse - if he came
+geldiysek - if we came
+geldiyseniz - if you all came
+geldiyseler - if they came
+gelseydim - If only I had come
+gelseydin - If only you had come
+gelseydi - If only had come
+gelseydik - If only we had come
+gelseydiniz - If only you all had come
+gelseydiler - If only they had come
+
+
+gelmesem - if I were to not come
+gelmesen - if you were to not come
+gelmese - if he were to not comes
+gelmesek - if we were not not come
+gelmeseniz - if you all were to not come
+gelmeseler - if they were to not come
+gelmiyorsam - if I am not coming
+gelmiyorsan - if you are not coming
+gelmiyorsa - if he is not coming
+gelmiyorsak - if we are not coming
+gelmiyorsanız - if you all are not coming
+gelmiyorsalar - if they are not coming
+gelmezsem - if I (usually) do not come
+gelmezsen - if you (usually) do not come
+gelmezse - if he (usually) do not comes
+gelmezsek - if we (usually) do not come
+gelmezseniz - if you (usually) do not come
+gelmezseler - if they (usually) do not come
+gelmeyeceksem - if I (will) not come
+gelmeyeceksen - if you (will) not come
+gelmeyecekse - if he (will) not come
+gelmeyeceksek - if we (will) not come
+gelmeyecekseniz - if you (will) not come
+gelmeyecekseler - if they (will) not come
+gelmediysem - if I had not come
+gelmediysen - if you had not come
+gelmediyse - if he had not come
+gelmediysek - if we had not come
+gelmediyseniz - if you had not come
+gelmediyseler - if they had not come
+gelmeseydim - If only I had not come
+gelmeseydin - If only you had not come
+gelmeseydi - If only he had not come
+gelmeseydik - If only we had not come
+gelmeseydiniz - If only you not had come
+gelmeseydiler - If only they had not come
+Erken varırsanız, beklemelisiniz. - If you arrive early, you will have to wait.
+Erken varırsanız, beklersiniz. - If you arrive early, you would have to wait.
+Erken varsaydınız, bekleyecektiniz. - If you had arrived early, you would have had to wait.
+Sana yardım edebilirlerse, yardım edecekler. - They will help you if they can.
+Sana yardım etseler, yardım ederler. - They would help you if they could.
+Sana yardım edebilseydiler, (yardım) ederlerdi. - They would have helped you if they could have.
+Fazla içersen sarhoş olursun. - If you drink too much you get drunk.
+Çok çalışmazsan, sınavı geçemeyeceksin - Unless you work hard you will not be able to pass your test.
+Sigara içmeyi bırakırsan, daha uzun yaşarsın. - If you stop smoking you will live longer.
+Yağmur yağmasaydı dışarı çıkacaktık. - We would have gone out if it had stopped raining.
+Eğer buradan gitseydim sana yazardım. - If I had gone away, I would have written to you.
+küçümsemek - to belittle [to consider as small]
+kötümsemek - to disparage [to consider as bad]
+benimsemek - to appropriate [to consider as personal]
+çekimsemek - to refrain from [to consider as absent]
+gereksemek - to consider as necessary 
+hafifsemek - to take s.o lightly [to consider as light]
+yakınsamak - to converge [to consider as nearing]
+umursamak - to care [to have consideration]
+çıkarsamak - to infer, to deduce [to consider as resulting in]
+Gülümsüyorsam. - If I am smiling.
+Onu gereksemiyorsak. - If we do not consider it necessary.
+telefon etmek - to telephone
+dans etmek - to dance
+şikâyet etmek - to complain
+tereddüt etmek - to hesitate
+zannetmek ya da zan etmek - to suppose
+sabretmek ya da sabir etmek - to be patient
+affetmek ya da af etmek - to pardon
+seyretmek ya da seyir etmek - to watch
+kaybetmek ya da kayıp etmek - to lose
+hissetmek ya da his etmek - to feel
+teşekkür - a thanking
+teşekkür etmek - to thank somebody
+teşekkür ederim - (I) thank you
+servis etmek - to serve
+iyi etmek - To do well
+iyi ettin! - you did well!
+iyi etmedin! - you did not do well!
+Beş üç daha sekiz eder. - 5 plus three makes 8
+Bu masa yüz elli bin eder. - This table is worth 150,000.
+Toplam yüz elli lira ediyor. - The total amounts to 150 lira.
+af - pardon 
+affetmek - to beg pardon
+affedersiniz! - Pardon!
+ret - a refusal 
+reddetmek - to refuse
+reddederim! - I refuse!
+kastetmek - to intend, to mean
+bahsetmek - to mention
+terketmek (terk etmek) - to leave, to quit
+yardım etmek - to help, to aid
+kabul etmek - to accept
+farketmek (fark etmek) - to notice, to realize
+izole etmek - to isolate, to insulate
+Şu fişi izole ettim. - I have isolated that plug.
+download etmek - to download
+Bunu da download edelim. - Let's download this as well.
+farketmek [fark etmek] - to notice, to realize
+O köşeyi farketmedim [fark etmedim] - I did not notice that corner.
+Park etmek - to park a car
+Arabayı tam buraya park etmiştim. - I had just parked my car right here.
+Bu akşamki partiye geliyor musun? Evet geliyorum. - Are you coming to the party tonight? Yes I am.
+ayıp - a shaming
+ayıp etmek - to cause make a shame
+Onun için Mehmet bana ayıp etti. - Because of it that Mehmet shamed me.
+teslim - a delivering 
+teslim etmek - to deliver
+Mektubu teslim ettim. - I delivered the letter.
+Koliyi teslim ettirdiniz. - You had the the parcel delivered.
+tamir - a repairing 
+tamir etmek - to repair
+Onu tamir etsek. - If we repair it that.
+Onu tamir edemem. - I can't repair it that.
+kontrol - a checking
+kontrol etmek - to check
+Onu kontrol ettiler. - They checked it that.
+Onu kontrol edebilir misiniz? - Would you check it that?
+ret - a refusing 
+reddetmek - to refuse
+Onu reddedeceğiz. - We shall refuse it that
+Onu reddedelim. - Let's refuse it that
+takdir - an appreciation 
+takdir etmek - to appreciate
+Ahmet, onu takdir etti. - Ahmet appreciated it that.
+Ali, onu takdir edememiş. - (Probably) Ali couldn't have appreciated it that.
+teslim - a delivering,
+teslim etmek - to deliver.
+Ali, mektubu teslim etti. - Ali delivered the letter.
+teslim edilmek - to be delivered
+Dün teslim edildi. - It was delivered yesterday.
+Mektup teslim edildi. - The letter has been delivered
+tamir edilmek - to repair
+O tamir edilecek - It will be repaired
+O tamir edilemedi. - It could not have been repaired.
+kontrol edilmek - to be checked
+O kontrol edildi. - It has been checked.
+Onu kontrol edilebilecek mi? - Can it be repaired?
+ret - a refusing
+reddedilmek - to be refused
+Ben, reddedildim. - I was refused
+O, reddedilince. - On it being refused
+takdir - an appreciation
+takdir edilmek - to be appreciated
+Ahmet, takdir edildi. - Ahmet was appreciated
+Ali, takdir edilecek . - Ali will be appreciated.
+hazırım. - I am ready.
+hazır olacağım. - I shall be ready.
+zengin - rich
+zenginsiniz - you are rich
+zengin olsaydınız - If you had been rich.
+yoksul - poor
+O yoksul - he is poor
+O yoksul olabilir. - He may be poor.
+Pişman oldum - I regret I was sorry.
+fena - bad ill
+Fena oluyorum - I feel ill.
+memnun - pleased happy
+yapmak - to do as an action
+Hatalar yaptım! - I made some mistakes!
+gelmek - to come
+Geri geldim. - I came back!
+kalmak - to remain stay
+Uyuyakaldım! - I kept on sleeping!
+bulunmak - to be found to be
+Kitap çekmecede bulunurmuş. - The book will probably be found in the drawer!
+eylemek - to carry out 
+Pes demek - to give in
+Bir dur demek - to draw the line at
+Ne demek? - what does it mean?
+dilemek - to wish
+Özür dilemek - to apologize
+Başarı dilemek - to wish success to someone
+Dilek dilemek - to make a wish
+Başsağlığı dilemek - to sympathize
+söylemek - to speak
+Şarkı söylemek - to sing
+Yalan söylemek. - to tell a lie,
+Şaka söylemek - to make a joke
+durmak - to stop to keep on doing
+Bakadurmak - to keep on looking,
+Çalışadurmak - to keep on tryıng
+Yapıverdim onu! - I did it quickly!
+yazmak - to write
+Düşeyazdım. - I almost fell down.
+yüzekalmak - to keep on swimming
+Yüzekaldı - He kept on swimming
+alakalmak -  to keep on taking
+Alakalacağım. - I will keep on taking.
+durakalmak - to keep on stopping
+Durakalıyorsun - You keep on stopping
+bekleyedurmak - to keep on waiting
+Bekleyedurabilecek misiniz? - Will you be able to keep on waiting?
+uyuyakalmak - to oversleep
+Uyuyakaldım - I overlept.
+kalakalmak - to stand aghast, to be astounded
+Kalakaldım. - I was astounded.
+donakalmak - to petrify
+Donakaldım. - I was petrified, I was scared stiff
+düşeyazmak - to almost fall down stumble
+Düşeyazdım. - I almost fell down.
+Koşuverin! - Hurry up and run!
+İçkisini içiverdi. - He gulped his drink down,
+Gelivereceğim. - I'll dash along and come,
+gülüverin - Laugh!
+bakıverin - Look!
+tutuverin - Get hold!
+alayım - let me buy take
+bekleyeyim - let me wait.
+bakmak becomes bakayım - let me look.
+alalım - let us buy take
+bekleyelim - let us wait.
+görelim - let's see.
+Bak - Look!
+Gel - Come!
+Bakma - Don't look!
+Gelme - Don't come!
+Bakın - Look!
+Bakmayın - Don't look!
+Gelin - Come!
+Gelmeyin - Don't come!
+bakmasın - (You) let him not look
+girsin - (You) let him enter
+girmesinler - (You) let them not enter
+olsun - let it be
+olmasın - let it not be
+koşmak - to run
+koşsun - let him run
+koşmasın - let him not run
+koşsunlar - let them run
+koşmasınlar - let them not run
+Hamam - Turkish Bath
+Keseci gelsin. - I am ready for the masseur.
+Keseci gelsin mi?. - Should the masseur come (now)?
+Bu akşam televizyonu seyredelim. - Let's watch TV this evening
+gel - Come!
+Buraya gel! - Come here!
+gelin - come! polite
+Girin! - come in! polite
+Durunuz - Stop, Halt! (on a "Stop" sign)
+Onu yapınız - do that!
+Partiye gelsin - Let him come to the party!
+Mehmet, pikniğe arabayı sürsün. - Let Mehmet drive the car to the picnic.
+gelsinler - let them come!
+Kızlar dans etsinler. - Let the girls dance.
+Gitmeyeyim! - Let me not go!
+Saçımı kestireyim mi kestirmeyeyim mi? - Should I get my hair cut or not?
+Gitmeyelim! - Let us not go!
+Bugün yüzmeyelim. - Let's not go swimming today.
+Gitme! Don't go!
+Sakın ha, onu yapma! - (You) Careful, don't do that!
+Girmeyin! - Don't come in! polite
+Sakın ha, onu yapmayın! - Careful, don't do that! polite
+Gitmeyiniz! - Don't Go!
+Sigara İçmeyiniz - No Smoking! [on a public sign]
+Gitmesin! - let him not go!
+Mehmet, Ayşe'yi öpmesin! - Don't let Mehmet kiss Ayshe!
+Gitmesinler! - Let them not go!
+Çocuklar mesajımı görmesinler! - Don't let the children see my message!
+görsün - let him see!
+alın - Take!
+bulsunlar - let them find!
+bulmasınlar - let them not find!
+onu yapmayın - Don't do it!
+gülünüz - Laugh!
+Geçmiş olsun! - May it pass (from you)! Get better soon!
+Kolay gelsin! - May it come easy!, Take it easy!
+Neden olmasın? - Why let it not be?
+çarpmak - to bump, collide
+Bir duvara çarptım. - I bumped a wall.
+çarpışmak - to bump, collide with.
+Bir arabayla çarpıştım. - I collided with a car.
+giriş - an entrance
+çıkış - an exit
+öpüş - a kıss
+ona vurdum. - I shot him.
+vuruşmak - to hit cooperative verb
+Birbirleriyle vuruştular. - They fought each other.
+Mehmet kuşu vurdu. - Mehmet shot the bird [dead].
+görmek - to see
+Memet'i gördüm. - I saw Mehmet.
+görüşmek - to see each other to meet
+Mehmet ile görüşeceğim. - I'm going to meet Mehmet.
+anlamak - to understand
+Ali'yi anlıyoruz. - We understand Ali.
+anlaşmak - to agree
+Anlaşıyoruz, değil mi? - We agree, don't we?
+Ali ile anlaşıyoruz. - We agree with Ali.
+Birbirleriyle - with each other
+anlaşmak - to agree
+sevişmek - to make love
+öpüşmek - to kiss
+Çamaşırı yıkadım. - I washed the shirt.
+soymak - to undress somebody
+soyunmak - to undress oneself
+acımak - to feel pain
+acınmak - to feel pain in oneself, to grieve
+acındırmak - to cause to grieve
+acındırılmak - to be made to grieve
+tanımak - to know
+tanışmak - to know one another
+tanıştırmak - to introduce
+tanıştırılmak - to be introduced
+yapmak - to do
+yapıyorum - I am doing
+yapılmak - to be done
+yapılıyor - It is being done
+yapabilmek - to be able do
+yapabilirim - I can do
+yapılabilmek - to be able to be done
+yapılabilir - it can be done
+yapmamak - to not do
+yapmıyorum - I am not doing
+yapılmamak - to not be done
+yapılmıyor - it is not being done
+yapılamamak - to not be able to be done
+yapılamayacak - it will not be able to be done
+yapabilmek - to be able to do
+Onu yapabileceğiz - we will be able to do it
+yaptırabilmek - to be able to get it done
+Onu yaptırabileceğiz - we will be able to get it done
+yaptırabilmek - to be able to have it done
+Onu yaptırabileceğiz - we will be able to have get it done
+yapmak - to do
+yapılmak - to be done
+bilmek - to know
+bilinmek - to be known
+kırmak - to break
+kırılmak - to be broken
+düzmek - to arrange
+düzülmek - to be arranged
+yapmamak - to not do
+yapılmamak - to be not done
+kesmemek - to not cut
+kesilmemek - to be not cut
+kırmamak - to not break
+kırılmamak - to not be not broken
+yapmak - to do
+yapılmak - to be done
+yaptırmak - to have something done
+yaptırılmak - to be done
+yapabilmek - to be able to do something
+yapılabilmek - to be able to be done
+yapmamak - to not do
+yapılmamak - to not be done
+yaptırmamak - to not have something done
+yaptırılmamak - to be not done
+yapamamak - to not be able to do something
+yapılamamak - to not be able get something done
+anlamak - to understand 
+anlatmak - to explain Active Mood Causative
+anlatılmak - to be understood
+kırmak - to break
+kırdırmak - to break something
+kırılmak - to be broken
+kırdırılmak - to be broken by somebody
+bulmak - to find
+buluşmak - to meet to find each other
+buluşulmak - to be met to be found together
+anlamak - to understand
+anlaşmak - to agree to understand each other
+anlaşılmak - to be agreed
+çarpmak - to hit, collide
+çarpışmak - to collide with something
+çarpışılmak - to be in collision with something
+delmek - to pierce
+delinmek - to be pierced
+bilmek - to know
+bilinmek - to be known
+almak - to take
+alınmak - to be taken
+bulmak - to find
+bulunmak - to be found
+beklemek - to wait to expect
+beklenmek - to be waited for to be expected
+kapamak - to close
+kapanmak - to be closed
+yemek - to eat
+yenmek - to be eaten
+Ali, pencereyi kapadı. - Ali closed the window.
+Pencere kapandı. - The window was closed
+Ali tarafından pencere kapandı. - The window was closed by Ali.
+tarafından - by
+ali tarafından - by ali
+Hesap, benim tarafımdan ödenecek. - The bill will be paid by me.
+Kitap, onların tarafından yazılacak. - The book will be written by them.
+Top, Mustafa tarafından bulundu. - The ball was found by Mustapha.
+Araba, Ali tarafından temizleniyor. - The car is being cleaned by Ali.

@@ -1,5 +1,11 @@
 make something that double checks a local dictionary
 
+i made a todo in source helper i think
+
+when sources are saved, give the 2 line header
+
+get rid of all duplicates in all failed words lists
+
 the failed list is currently a 'failed forvo' list, 
 	this list should not prevent us from synthing a phrase
 
@@ -20,15 +26,12 @@ bugs
 
 Information gathering
 	figure out how big/how many chunks can go into a pydub audio file
-	find out how pretty printed jsons can be used
 
 Confirmation print
 	-give remaining api requests for the day
 		-this requires saving number of requests to an extenal file, along with dates
 
 Simple
-	-make option to not use forvo
-	-make an option to overwrite files if they exist
 	-make an opt for showing prints
 		show number of lines/max, and/or number of api calls/max
 	-make exporting an audio lesson show stats

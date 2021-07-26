@@ -1,1 +1,796 @@
-hello - hola - no hint
+entschuldigen sie - excuse me - no hint
+verstehen sie englisch - do you understand english - no hint
+nein ich verstehe kein englisch - no i understand no english - no hint
+ich verstehe ein bisschen deutsch - i understand a little german - no hint
+sind sie amerikaner - are you american - no hint
+ja amerikaner - yes american - no hint
+englisch - english - no hint
+verstehen sie - do you understand - no hint
+sie verstehen - you understand - no hint
+sie verstehen englisch - you understand english - no hint
+nein - no - no hint
+ich - i - no hint
+ich verstehe - i understand - no hint
+ich verstehe englisch - i understand english - no hint
+ich verstehe kein englisch - i understand no english - no hint
+deutsch - german - no hint
+ich verstehe deutsch - i understand german - no hint
+ich verstehe kein deutsch - i understand no german - no hint
+sie verstehen deutsch - you understand german - no hint
+verstehen sie deutsch - do you understand german - no hint
+nein ich verstehe kein deutsch - no i understand no german - no hint
+ein bisschen - a little - no hint
+nur - only - no hint
+nur ein bisschen - only a little - no hint
+ich verstehe nur ein bisschen - i understand only a little - no hint
+nur ein bisschen deutsch - only a little german - no hint
+amerikaner - american - no hint
+sie sind - you are - no hint
+sie sind amerikaner - you are american - no hint
+sind sie amerikaner - are you an american - no hint
+ja - yes - no hint
+ja ein bisschen - yes a little - no hint
+sie verstehen ein bisschen deutsch - you understand a little german - no hint
+entschuldigen sie verstehen sie deutsch - excuse me do you understand german - no hint
+ja ein bisschen - yes a little bit - no hint
+ja amerikaner verstehen sie englisch - yes american do you understand english - no hint
+nein ich verstehe kein englisch - no i understand no english - no hint
+englisch - english - no hint
+kein englisch - no english - no hint
+ich verstehe ein bisschen - i understand a little - no hint
+ein bisschen - a little - no hint
+ich verstehe ein bisschen deutsch - i understand a little german - no hint
+ja sie sind amerikaner - yes you are american - no hint
+guten tag - good day - no hint
+wie - how - no hint
+geht es - goes it - no hint
+wie geht es - how's it going - no hint
+ihnen - to you - no hint
+wie geht es ihnen - how are you - no hint
+guten tag frau meier - good day ms meier - no hint
+frau - miss - no hint
+frau meier - ms meier - no hint
+sehr gut danke - very well thank you - no hint
+danke - thank you - no hint
+gut - good well - no hint
+sehr - very - no hint
+herr - mister - no hint
+herr gordon - mr gordon - no hint
+guten tag herr gordon - hello mr gordon - no hint
+sehr gut frau meier - very well ms meier - no hint
+es geht mir gut - i'm well it goes to me good - no hint
+mir - to me - no hint
+wie geht es ihnen herr gordon - how are you mr gordon - no hint
+auf wiedersehen - goodbye - no hint
+ich verstehe nicht - i don't understand - no hint
+nein ich verstehe nicht - no i don't understand - no hint
+nein kein amerikaner - no not an american - no hint
+auf wiedersehen frau meier - goodbye ms meier - no hint
+ja ich verstehe deutsch - yes i understand german - no hint
+nicht sehr gut - not very well - no hint
+guten tag herr gordon wie geht es ihnen - hello mr gordon how are you - no hint
+sehr gut frau meier danke - very well ms meier thank you - no hint
+ah sie verstehen deutsch - ah you understand german - no hint
+nur ein bisschen - only a little bit - no hint
+sie sind amerikaner - you're american - no hint
+aber sie verstehen sehr gut deutsch - but you understand german very well - no hint
+nein nein nicht sehr gut - no no not very well - no hint
+entschuldigen sie ich verstehe nicht - excuse me i don't understand - no hint
+wie geht es ihnen - how are you - no hint
+es geht mir gut - i'm well - no hint
+danke - thank you - no hint
+guten tag - hello - no hint
+auf wiedersehen - goodbye - no hint
+nicht sehr gut - not very wellgood - no hint
+sind sie amerikaner - are you an american male - no hint
+sind sie amerikanerin - are you an american female - no hint
+ich verstehe nicht sehr gut - i don't understand very well - no hint
+entschuldigen sie - excuse me - no hint
+sie verstehen kein englisch - you understand no english - no hint
+verstehen sie nur deutsch - do you understand only german - no hint
+nein es geht mir nicht gut - no i'm not well - no hint
+es geht mir nicht sehr gut - i'm not very well - no hint
+geht es ihnen gut - are you well - no hint
+ja danke - yes thank you - no hint
+nein nicht sehr gut - no not very well - no hint
+ja ich bin amerikaner - yes i'm an american - no hint
+ich bin - i am - no hint
+bin - am - no hint
+ich bin amerikaner - i'm an american male - no hint
+ich bin amerikanerin - i'm an american female - no hint
+ich bin deutscher - i'm german male - no hint
+sind sie deutscher - are you german - no hint
+nein ich bin amerikaner - no i'm american - no hint
+sind sie deutsche - are you german female - no hint
+ich bin keine deutsche - i'm not german - no hint
+und sie - and you - no hint
+und - and - no hint
+ich bin amerikaner und sie - i'm american and you - no hint
+sie sind keine amerikanerin - you are not an american - no hint
+sie sind kein amerikaner - you are not an american - no hint
+aber - but - no hint
+aber ich verstehe - but i understand - no hint
+aber ich verstehe deutsch - but i understand german - no hint
+bitte - please - no hint
+ich bin kein amerikaner - i'm not an american - no hint
+ja ja - emphatic yes - no hint
+sie sprechen sehr gut - you speak very well - no hint
+entschuldigen sie sind sie deutscher - excuse me are you german - no hint
+ja ich bin deutscher und sie - yes i'm germanand you - no hint
+ich bin amerikanerin - i'm an american - no hint
+aber sie verstehen deutsch - but you understand german - no hint
+ach ich verstehe ein bisschen aber nicht sehr gut - ach i understand a little but not very well - no hint
+doch sie verstehen sehr gut - you understand very well - no hint
+nein nein nur ein bisschen - no no only a little bit - no hint
+sehr gut danke - very well thanks - no hint
+und ihnen - and you - no hint
+nicht sehr gut - not very well - no hint
+sehr gut danke und ihnen - very well thanks and you - no hint
+sie sind deutsche - you are german female - no hint
+und sie sind sie amerikaner - and you are you an american - no hint
+sind sie deutsche - are you german - no hint
+sie verstehen - you understand - no hint
+ich verstehe ein bisschen - i understand a little english - no hint
+ich verstehe ein bisschen englisch - i understand a little english - no hint
+ich bin kein deutscher - i'm not german - no hint
+sie sind kein amerikaner - you're not an american - no hint
+entschuldigen sie - excuse me - no hint
+sie sprechen - you speak - no hint
+sie sprechen gut - you speak well - no hint
+ich spreche - i speak - no hint
+ich spreche nicht gut - i don't speak well - no hint
+ich spreche nicht sehr gut - i don't speak very well - no hint
+doch - polite contradiction - no hint
+sie sprechen gut deutsch - you speak german well - no hint
+und sie verstehen kein englisch - and you don't understand english - no hint
+sie sprechen kein englisch - you understand no english - no hint
+ich spreche englisch - i speak english - no hint
+und ich spreche ein bisschen - and i speak a little - no hint
+sie sprechen gut englisch - you speak english well - no hint
+doch ich bin amerikaner - i am an american - no hint
+wo ist die goethestrasse - where is goethe street - no hint
+goethe die strasse - the street - no hint
+die goethestrasse - goethe street - no hint
+die beethovenstrasse - beethoven street - no hint
+wo - where - no hint
+ist - is - no hint
+wo ist - where is - no hint
+wo ist die strasse - where is the street - no hint
+der platz - the square - no hint
+der opernplatz - opera square - no hint
+wo ist der opernplatz - where is opera square - no hint
+wo ist der opernplatz bitte - where is opera square please - no hint
+hier - here - no hint
+der opernplatz ist heir - opera square is here - no hint
+ist die goethestrasse hier - is goethe street here - no hint
+ja hier - yes here - no hint
+nein die goethestrasse ist nicht heir - no goethe street is not here - no hint
+dort drüben - over there - no hint
+die goethestrasse ist dort drüben - goethe street is over there - no hint
+die goethestrasse ist nicht hier - goethe street is not here - no hint
+der opernplatz ist nicht heir - opera square is not here - no hint
+der opernplatz ist dort drüben - opera square is over there - no hint
+ja bitte - yes - no hint
+wo ist die goethestrasse bitte - where is goethe street please - no hint
+und opernplatz - and opera square - no hint
+und wie geht es ihnen - and how are you - no hint
+mir sehr gut danke auf wiedersehen - me very well thank you good bye - no hint
+auf wiedersehen - good bye - no hint
+guten tag - hello - no hint
+ja ich verstehe gut deutsch - yes i understand german well - no hint
+die goethestrasse - goethe street - no hint
+die strasse - street - no hint
+der opernplatz - opera square - no hint
+der platz - square - no hint
+entschuldigen sie bitte - excuse me please - no hint
+die goethestrasse ist hier - goethe street is here - no hint
+nein dort drüben - no over there - no hint
+die goethestrasse ist nicht dort drüben - goethe street is not over there - no hint
+aber der opernplatz ist heir - but opera square is here - no hint
+es geht mir gut - i'm fine - no hint
+ich verstehe - i understand - no hint
+nein danke - no thank you - no hint
+sehr gut danke - very well thanks - no hint
+es geht mir sehr gut - i'm very well - no hint
+der opernplatz ist nicht hier - opera square is not here - no hint
+und nicht dort drüben - and not over there - no hint
+wo - where - no hint
+ah sehr gut - ah very well - no hint
+auf wiedersehen - goodbye - no hint
+mir sehr gut - me very well - no hint
+mir nicht sehr gut - me not very well - no hint
+ich weiss es nicht - i don't know i know it not - no hint
+ich weiss es - i know - no hint
+wo ist die mozartstrasse bitte - where is mozart street please - no hint
+aber ich weiss es - but i know - no hint
+die mozartstrasse ist dort drüben - mozart street is over there - no hint
+sie wissen es - you know - no hint
+wissen sie es - do you know - no hint
+nein ich weiss es nicht - no i don't know - no hint
+die mozartstrasse ist nicht dort drüben - mozart street is not over there - no hint
+ich möchte - i would like - no hint
+sie möchten - you would like - no hint
+ich möchte nicht - i would not like - no hint
+möchten sie - would you like - no hint
+sie möchten etwas essen - you would like to eat something - no hint
+essen - to eat - no hint
+etwas - something - no hint
+möchten sie etwas essen - would you like to eat something - no hint
+möchten sie etwas - would you like something - no hint
+ich möchte essen - i would like to eat - no hint
+ja ich möchte etwas essen - yes i would like to eat something - no hint
+ich möchte etwas trinken - i would like to drink something - no hint
+trinken - to drink - no hint
+möchten sie etwas trinken - would you like to drink something - no hint
+aber ich möchte etwas essen - but i would like to eat something - no hint
+nein danke aber ich möchte etwas essen - no thank you but i would like to eat something - no hint
+doch ich weiss es - yes i know - no hint
+wo möchten sie essen - where would you like to eat - no hint
+aber ich nicht - but i don't - no hint
+guten tag brigete - hello brigete - no hint
+guten tag gunter wie geht es ihnen - hello gunter how are you - no hint
+gut danke ich möchte etwas essen sie auch - fine thanks i would like something to eat you too - no hint
+nein ich möchte nur etwas trinken - no i would like only something to drink - no hint
+wo am opernplatz - where at opera square - no hint
+ja gut - yes fine - no hint
+die goethestrasse - goethe street - no hint
+und der opernplatz - and opera square - no hint
+der opernplatz ist dort dr ü ben - opera square is over there - no hint
+und ist die goethestrasse hier - and is goethe street here - no hint
+nein nicht heir - no not here - no hint
+ja ich möchte etwas trinken - yes i would like to drink something - no hint
+trinken - to drink - no hint
+etwas - something - no hint
+nein danke aber ich möchte etwas trinken - no thank you but i would like to drink something - no hint
+ich weiss es nicht - i don't know - no hint
+die goethestrasse ist nicht hier - goethe street is not here and nicht dort dr - no hint
+üben - and not down there - no hint
+sie wissen es nicht - you don't know - no hint
+nein ich weiss es nicht - no i don't know - no hint
+sehr gut - very well - no hint
+gut - fine - no hint
+bei mir - at my place - no hint
+bei ihnen - at your place - no hint
+ich auch - me too - no hint
+auch - too - no hint
+ja bei ihnen - yes at your place - no hint
+ich möchte auch essen - i would like to eat too - no hint
+wann - when - no hint
+jetzt - now - no hint
+wann möchten sie essen - when would you like to eat - no hint
+möchten sie jetzt essen - would you like to eat now - no hint
+nein nicht jetzt - no not now - no hint
+später - later - no hint
+und wann möchten sie etwas trinken - and when would you like to drink something - no hint
+nein später - no later - no hint
+wann möchten sie etwas essen - when would you like to eat something - no hint
+später bitte - later please - no hint
+am opernplatz - at opera square - no hint
+nicht bei mir - not at my place - no hint
+ja am opernplatz - yes at opera square - no hint
+ich möchte auch etwas trinken - i would also like to drink something - no hint
+ja ich auch - yes me too - no hint
+wann möchten sie etwas trinken - when would you like to drink something - no hint
+nein jetzt - no now - no hint
+möchten sie bei mir etwas trinken - would you like to drink something at my place - no hint
+ja gerne - yes gladly - no hint
+gerne - gladly - no hint
+aber ich möchte auch etwas essen - but i would also like to eat something - no hint
+ja später - yes later - no hint
+ich möchte später essen - i would like to eat later - no hint
+entschuldigen sie brigete - excuse me brigete - no hint
+ja - yes - no hint
+wann möchten sie etwas essen jetzt - when would you like to eat something now - no hint
+nein nicht jetzt später bitte aber ich möchte jetzt etwas trinken - no not now later please but i would like to drink something now - no hint
+wo bei mir - where at my place - no hint
+ja gerne - yes gladly - no hint
+bei mir - at my place - no hint
+ich möchte etwas essen - i would like to eat something - no hint
+essen - to eat - no hint
+etwas essen - to eat something - no hint
+ich möchte - i would like - no hint
+jetzt - now - no hint
+später - later - no hint
+möchten sie hier etwas essen - would you like to eat something here - no hint
+heir - here - no hint
+nicht - not - no hint
+nicht hier - not here - no hint
+dort drüben - over there - no hint
+am opernplatz - at opera square - no hint
+nein nicht am opernplatz - no not at opera square - no hint
+bei ihnen - at your place - no hint
+gut - fine good okay - no hint
+nein nicht bei ihnen - no not at your place - no hint
+ich möchte hier essen - i would like to eat here - no hint
+ja sehr gut - yes very good - no hint
+aber nicht jetzt - but not now - no hint
+ich möchte etwas trinken - i would like something to drink - no hint
+möchten sie jetzt etwas essen - would you like to eat something now - no hint
+gut wann - ok when - no hint
+jetzt bitte - now please - no hint
+nicht am opernplatz - not at opera square - no hint
+gut und was möchten sie trinken - fine and what would you like to drink - no hint
+aber ich möchte jetzt etwas trinken - but i would like to drink something now - no hint
+nein nein - no no - no hint
+im restaurant - in the restaurant - no hint
+im - in the - no hint
+was möchten sie essen - what would you like to eat - no hint
+was - what - no hint
+was möchten sie trinken - what would you like to drink - no hint
+wein - wine - no hint
+ich möchte wein trinken - i would like to drink wine - no hint
+möchten sie wein trinken - would you like to drink wine - no hint
+bier - beer - no hint
+ich möchte bier trinken - i would like to drink beer - no hint
+ich möchte wein - i would like wine - no hint
+ich möchte bier - i would like beer - no hint
+ich auch ich möchte auch bier - me too i would also like beer - no hint
+wo möchten sie bier trinken - where would you like to drink beer - no hint
+im restaurant bitte - in the restaurant please - no hint
+im restaurant zum lowen - in the restaurant zum lowen - no hint
+das restaurant - the restaurant - no hint
+wo ist das restaurant zum lowen - where is the restaurant zum lowen - no hint
+das restaurant ist dort drüben - the restaurant is over there - no hint
+in der goethestrasse - on goethe street - no hint
+das restaurant ist in der goethestrasse - the restaurant is on goethe street - no hint
+möchten sie bier trinken - would you like to drink beer - no hint
+heir in der goethestrasse - here on goethe street - no hint
+ingrid möchten sie jetzt essen - ingrid would you like to eat now - no hint
+danke peter jetzt nicht aber ich möchte etwas trinken - thank you peter not now but i would like something to drink - no hint
+ja gut was möchten sie trinken - yes fine what would you like to drink - no hint
+ich möchte wein trinken nein nein ich trinke ein bier - i would like to drink wine no no i'll drink a beer - no hint
+ich auch ich möchte auch ein bier trinken entschuldigen sie zwei bier bitte wie bitte essen nein jetzt nicht später - me too i would also like to drink a beer excuse me two beers please what eat no not now later - no hint
+möchten sie essen - would you like to eat - no hint
+im restaurant - in the restaurant - no hint
+nein bei ihnen - no at your place - no hint
+ich auch - me too - no hint
+aber später - but later - no hint
+möchten sie jetzt etwas trinken - would you like to drink something now - no hint
+was möchten sie trinken - what would you like to drink - no hint
+möchten sie etwas trinken - would you like something to drink - no hint
+kein bier - no beer - no hint
+ich möchte kein bier - i would not like beer - no hint
+nein kein bier - no no beer - no hint
+sie auch - you too - no hint
+nein ich möchte jetzt etwas essen - no i would like to eat something now - no hint
+ein bier - a beer - no hint
+das bier - the beer - no hint
+das bier ist gut - the beer is good - no hint
+möchten sie ein bier trinken - would you like to drink a beer - no hint
+zwei bier bitte - two beers please - no hint
+zwei - two - no hint
+oder - or - no hint
+möchten sie ein bier - would you like a beer - no hint
+oder wein - or wine - no hint
+ich möchte ein bier trinken - i would like to drink a beer - no hint
+wein oder bier - wine or beer - no hint
+was möchten sie machen - what would you like to do - no hint
+machen - to do - no hint
+im hotel - in the hotel - no hint
+das hotel - the hotel - no hint
+ich möchte etwas kaufen - i would like to buy something - no hint
+kaufen - to buy - no hint
+was möchten sie kaufen - what would you like to buy - no hint
+mit wem - with whom - no hint
+mit - with - no hint
+wem - whom - no hint
+mit ihnen - with you - no hint
+etwas kaufen - to buy something - no hint
+aber mit wem - but whom - no hint
+mit mir - with me - no hint
+ja mit ihnen - yes with you - no hint
+guten tag ingrid wie geht es ihnen - hello ingrid how are you - no hint
+es geht mir gut michael danke - i'm fine michael thank you - no hint
+sagen sie ingrid was möchten sie jetzt machen - tell me ingrid what would you like to do now - no hint
+ich ich möchte etwas trinken und sie - me i would like to drink something and you - no hint
+ich möchte jetzt etwas essen möchten sie mit mir essen - i would like to eat something now would you like to eat with me - no hint
+wo ist der restaurant zum bären - where is the restaurant zum bären - no hint
+in der beethovenstrasse - on beethoven street - no hint
+ah ja ich weiss wo das ist - oh yeah i know where that is - no hint
+und ich möchte auch ein bisschen wein trinken - and i would also like to drink a little wine - no hint
+ja gut ich auch - yes good me too - no hint
+wo ist die goethestrasse - where is goethe street - no hint
+ja - yes - no hint
+ja bitte - yes please - no hint
+wo ist das restaurant zum bären - where is the restaurant zum bären - no hint
+wo ist das restaurant - where is the restaurant - no hint
+ich möchte jetzt etwas essen - i would like to eat something now - no hint
+möchten sie auch etwas essen - would you like to eat something too - no hint
+nein ich nicht - no i don't - no hint
+was möchten sie jetzt machen - what would you like to do now - no hint
+und was möchten sie kaufen - and what would you like to buy - no hint
+ich möchte wein kaufen - i'd like to buy wine - no hint
+ja ich möchten mit ihnen wein kaufen - yes i'd like to buy wine with you - no hint
+oder bier - or beer - no hint
+aber ich möchte mit ihnen etwas trinken - but i'd like to drink something with you - no hint
+aber nicht hier - but not here - no hint
+und auch nicht dort drüben im hotel - ands also not over there in the hotel - no hint
+wo möchten sie etwas trinken - where would you like to drink something - no hint
+ich möchte bei ihnen trinken - i'd like to drink something at your place - no hint
+aber ich ich möchte etwas essen - but me i'd like to eat something - no hint
+zwei - two - no hint
+wo ist das hotel zum bären bitte - where to the zum bären hotel please - no hint
+dort drüben in der beethovenstrasse - over there on beethoven street - no hint
+möchten sie mit mir etwas trinken - would you like to drink something with me - no hint
+nein danke nicht jetzt - no thank you not now - no hint
+und auch nicht später - and also not later - no hint
+ah ich verstehe sie - ah i understand you - no hint
+sehr gut jetzt verstehen sie - very good now you understand - no hint
+sie möchten mit mir etwas essen - you would like to eat something with me - no hint
+sie verstehen nicht - you understand - no hint
+was verstehe ich nicht - what don't i understand - no hint
+sie verstehen kein deutsch - you don't understand german - no hint
+sagen sie - tell me - no hint
+nichts - nothing - no hint
+ich möchte jetzt nichts essen - i would not like to eat anything now - no hint
+ich möchte nichts essen - i wouldn't like to eat anything - no hint
+geht das - is that okay is that possible will that be alright - no hint
+das geht - that's alright that'll work - no hint
+das - that - no hint
+sie möchten nichts essen - you wouldn't like to eat anything - no hint
+um wieviel uhr - at what time - no hint
+uhr - o'clock hour - no hint
+wieviel - how much - no hint
+um ein uhr - at one o'clock - no hint
+ein uhr - one o'clock - no hint
+neun uhr - nine o'clock - no hint
+neun - nine - no hint
+um neun uhr - at nine o'clock - no hint
+acht - eight - no hint
+acht uhr - eight o'clock - no hint
+um acht uhr - at eight o'clock - no hint
+nein um neun uhr - no at nine o'clock - no hint
+zwei uhr - two o'clock - no hint
+um eins - at one - no hint
+um zwei uhr - at two o'clock - no hint
+um ein uhr oder um zwei uhr - at one o'clock or at two o'clock - no hint
+ja das geht aber ich möchte bei ihnen etwas essen - yes that's okay but i'd like to eat something at your place - no hint
+um zwei uhr geht das - at two o'clock is that alright - no hint
+ja das geht - yes that'll work - no hint
+aber um ein uhr geht das - but at one o'clock is that okay - no hint
+nein das geht nicht - no that won't work - no hint
+später um acht uhr - later at eight o'clock - no hint
+nein nicht um acht uhr - no not at eight - no hint
+oder um nein uhr - or at nine o'clock - no hint
+sicher nicht - certainly not - no hint
+sie möchten nichts trinken - you don't want to drink anything - no hint
+um acht uhr oder um neun uhr - at eight o'clock or at nine o'clock - no hint
+nicht um ein uhr und nicht um zwei uhr - not at one o'clock and not at two o'clock - no hint
+nicht um acht uhr und nicht um neun uhr - not at eight o'clock and not at nine o'clock - no hint
+peter ich möchte mit ihnen zusammen essen - peter i'd like to eat together with you - no hint
+gerne aber um wieviel uhr um zwei - gladly but at what time at two - no hint
+nein nein später viel später - no no later much later - no hint
+ah ich verstehe um acht uhr oder um neun uhr - ah i understand at eight o'clock or at nine o'clock - no hint
+ja um neun uhr - yes at nine o'clock - no hint
+also dann bis neun uhr auf wiedersehen - so then until nine o'clock good bye - no hint
+ich möchte etwas essen - i'd like to eat something - no hint
+ich möchte etwas machen - i'd like to do something - no hint
+ich möchte etwas kaufen - i'd like to buy something - no hint
+um neun uhr - at nine o'clock - no hint
+nein nein um acht uhr - no no at eight o'clock - no hint
+gut um zwei uhr - fine at two o'clock - no hint
+nein sie verstehen nicht - no you don't understand - no hint
+nichts - nothing not anything - no hint
+ich möchte nichts trinken - i would not like to drink anything - no hint
+nichts - nothing - no hint
+sie möchten nichts trinken - you would not like to drink anything - no hint
+nein aber ich möchte etwas essen - no but i would like to eat something - no hint
+oder möchten sie etwas essen - or would you like to eat something - no hint
+ja bei ihnen - yes at your place - no hint
+aber ich möchte etwas essen - but i'd like to eat something - no hint
+ich möchte später etwas essen - i'd like to eat something later - no hint
+möchten sie später etwas essen - would you like to eat something later - no hint
+nein später - no later - no hint
+danke ich möchte jetzt etwas essen - thank you i'd like to eat something now - no hint
+wieviel uhr ist es - what time is it - no hint
+es ist   - it is   - no hint
+es ist neun uhr - it is nine o'clock - no hint
+es ist zwei uhr - it is two o'clock - no hint
+es ist fünf uhr - it is five o'clock - no hint
+es ist drei uhr - it is three o'clock - no hint
+drei - three - no hint
+es ist vier uhr - it is four o'clock - no hint
+ist es vier uhr - is it four o'clock - no hint
+nein es ist drei uhr - no it is three o'clock - no hint
+es ist acht uhr - it is eight o'clock - no hint
+vier uhr - four o'clock - no hint
+fünf uhr - five o'clock - no hint
+neun uhr - nine o'clock - no hint
+drei uhr - three o'clock - no hint
+viel später - much later - no hint
+ich esse jetzt - i'm going to eat now - no hint
+ich esse - i eat i'm eating i'm going to eat - no hint
+sie essen - you eat you're eating you're going to eat - no hint
+essen sie jetzt - are you going to eat now - no hint
+ja ich esse jetzt - yes i'm going to eat now - no hint
+ich esse um fünf uhr - i'm going to eat at five o'clock - no hint
+essen sie um fünf uhr - are you going to eat at five o'clock - no hint
+ich esse um acht uhr - i'm eating at eight o'clock - no hint
+aber ich trinke etwas - but i'm going to drink something - no hint
+um drei uhr oder um vier uhr - at three o'clock or at four o'clock - no hint
+ich trinke etwas um neun uhr - i'm going to drink something at nine o'clock - no hint
+wieviel uhr ist es jetzt - what time is it now - no hint
+es ist jetzt ein uhr - it is one o'clock now - no hint
+es ist eins - it's one - no hint
+um wieviel uhr möchten sie mit mir essen - at what time would you like to eat with me - no hint
+um ein uhr geht das - at one o'clock is that alright - no hint
+nein um ein uhr geht es nicht geht es um zwei uhr - no at one o'clock doesn't work is two o'clock alright - no hint
+nein um zwei uhr geht das nicht um drei - no at two o'clock doesn't work at three - no hint
+nein nein nicht um drei uhr geht es um vier uhr - no no not at three o'clock does four o'clock work - no hint
+nein um vier uhr geht das nicht - no at o'clock doesn't work - no hint
+um fünf uhr - at five o'clock - no hint
+nein viel später bitte - no much later please - no hint
+geht es um acht uhr - does eight o'clock work - no hint
+nein nicht um acht uhr um neun geht das - no not at eight o'clock at nine is that alright - no hint
+nein neun uhr ist zu spät - no nine o'clock is too late - no hint
+ich möchte nicht mit ihnen essen - i would not like to eat with you - no hint
+doch ich weiss es - yes i know - no hint
+es ist fund uhr - it is five o'clock - no hint
+mochten sie jetzt etwas essen - would you like to ear something now - no hint
+nein ich esse später - no i'm going to eat later - no hint
+um acht uhr - at eight o'clock - no hint
+ich trinke wein - i'm going to drink wine - no hint
+später viel später - later much later - no hint
+es ist jetzt vier uhr - it is not four o'clock - no hint
+ich esse später - i'm going to eat later - no hint
+möchten sie mit mir etwas essen - would you like to eat something with me - no hint
+gerne wann - gladly when - no hint
+wann jetzt - when now - no hint
+nein nein nicht jetzt - no no not now - no hint
+sicher nicht jetzt - certainly not now - no hint
+später - later - no hint
+ich esse mit ihnen - i'm going to eat with you - no hint
+geht das - is that alright - no hint
+nicht um neun uhr - not at nine o'clock - no hint
+nicht jetzt später - not now later - no hint
+gut - fine - no hint
+hören sie zu - listen - no hint
+um sechs uhr - at six o'clock - no hint
+oder um sieben uhr - or at seven o'clock - no hint
+um sieben uhr - at seven o'clock - no hint
+um sechs uhr oder um sieben uhr - at six o'clock or at seven o'clock - no hint
+nicht um sechs uhr - not at six o'clock - no hint
+also dann um sieben uhr - well then at seven o'clock - no hint
+dann - then - no hint
+also dann - well then - no hint
+also dann um acht uhr - well then at eight o'clock - no hint
+heute abend - this evening - no hint
+heute - today - no hint
+abend - evening - no hint
+ich möchte heute abend mit ihnen essen - i would like to eat with you this evening - no hint
+um zehn uhr - at ten o'clock - no hint
+ich esse heute abend um zehn uhr - i'm going to eat tonight at ten o'clock - no hint
+um wieviel uhr heute abend - at what time tonight - no hint
+morgen - tomorrow - no hint
+und morgen - and tomorrow - no hint
+ich esse morgen mit ihnen - i'm going to eat with you tomorrow - no hint
+morgen um vier uhr - tomorrow at four o'clock - no hint
+nein um sechs uhr oder um sieben uhr - no at six o'clock or at seven o'clock - no hint
+also dann um zehn uhr - well then at ten o'clock - no hint
+morgen abend - tomorrow evening - no hint
+morgen abend um sieben uhr - tomorrow evening at seven o'clock - no hint
+nein um zehn uhr - no at ten o'clock - no hint
+wiederholen sie - repeat - no hint
+möchten sie heute mit mir essen - would you like to eat with me today - no hint
+nicht heute morgen - not today tomorrow - no hint
+heute und morgen auch - today and tomorrow also - no hint
+es ist zehn uhr - it is ten o'clock - no hint
+nicht heute abend morgen abend - not this evening tomorrow evening - no hint
+also dann um acht uhr bei mir - well then at eight o'clock at my place - no hint
+wie bitte - what how please - no hint
+bitte wiederholen sie - please repeat - no hint
+gut aber hören sie zu - fine but listen - no hint
+bis morgen - until tomorrow - no hint
+hallo brigete - hello brigete - no hint
+ja ich bins - yes it's me - no hint
+hier ist peter wie geht es ihnen - this is peter how are you - no hint
+gut danke - fine thanks - no hint
+sagen sie brigete möchten sie heute abend mit mir essen - tell me brigete would you like to eat with me this evening - no hint
+heute abend geht das nicht peter aber morgen abend gerne - this evening doesn't work peter but tomorrow morning is fine - no hint
+gut um wieviel uhr um acht - good at what time at eight - no hint
+das ist sehr spät - that is very late - no hint
+also dann um sieben uhr - well then at seven o'clock - no hint
+ja das geht morgen abend um sieben uhr bei ihnen - yes that works tomorrow evening at seven o'clock at your place - no hint
+auf wiederhören brigete - talk to you later brigete - no hint
+auf wiederhören peter bis morgen - talk to you later peter until tomorrow - no hint
+bis - until - no hint
+bis morgen um sechs uhr - until tomorrow at six o'clock - no hint
+bis morgen um acht - until tomorrow at eight - no hint
+es ist jetzt zehn uhr - it is now ten o'clock - no hint
+nein es ist vier uhr - no it's four o'clock - no hint
+fünf uhr - five o'clock - no hint
+sie essen um fünf - you're going to eat at five - no hint
+ja ich möchte auch essen - yes i'd like to eat too - no hint
+mochten sie wein trinken - would you like to drink wine - no hint
+nein ich möchte ein bier - no i'd like a beer - no hint
+ein bier - one beer - no hint
+heute - today - no hint
+nichts - nothing - no hint
+ich trinke nichts - i'm not drinking anything - no hint
+sie trinken nichts - you're drinking nothing - no hint
+nein ich trinke heute nichts - no i'm not drinking anything today - no hint
+ich esse heute um drei uhr - i'm eating today at three o'clock - no hint
+order um zwei uhr - or at two o'clock - no hint
+gut - okay - no hint
+wieviel - how much - no hint
+die strasse - the street - no hint
+eine strasse - a street - no hint
+ein bier - one beer - no hint
+sechs - six - no hint
+nicht fünf vier - not five four - no hint
+ja ich verstehe - yes i understand - no hint
+hören sie jetzt zu - listen now - no hint
+wieviel schulde ich ihnen - how much do i owe you - no hint
+ich schulde - i owe - no hint
+ich schulde ihnen - i owe you - no hint
+bitte wieviel schulde ich ihnen - please how much do i owe you - no hint
+eine mark - one mark - no hint
+wieviel schulde ich ihnen heute - how much do i owe you today - no hint
+acht mark - eight marks - no hint
+elf mark - eleven marks - no hint
+zwölf mark - twelve marks - no hint
+zwei mark - two marks - no hint
+dreizehn mark - thirteen marks - no hint
+sechs mark - six marks - no hint
+schulde ich ihnen fünf mark - do i owe you five marks - no hint
+nein vier mark - no four marks - no hint
+und sieben mark - and seven marks - no hint
+ich schulde ihnen dreizehn mark - i owe you thirteen marks - no hint
+nein nicht dreizehn - no not thirteen - no hint
+nicht dreizehn zwölf - not thirteen twelve - no hint
+schulde ich ihnen zwölf mark - do i owe you twelve marks - no hint
+nein elf mark - no eleven marks - no hint
+hallo ich möchte mit brigete sprechen bitte ah sie sind brigete guten tag hier ist gunter - hello i would like to speak with brigete please oh it's you brigete hello it's gunter - no hint
+gut danke sagen sie brigete möchten sie heute abend mit mir essen - fine thanks tell me brigete would you like to eat with me this evening - no hint
+das geht nicht gunter ich esse heute abend mit erika aber möchten sie später bei mir etwas trinken - that doesn't work gunter i'm eating tonight with erika but would you like to drink something later at my place - no hint
+ja gerne um wieviel uhr - yes gladly at what time - no hint
+um neun uhr oder später um zehn uhr geht das - at nine o'clock or later at ten o'clock does that work - no hint
+ja das geht um zehn uhr bei ihnen auf wiederhören brigete - yes that works at ten o'clock at your place talk to you later brigete - no hint
+bis heute abend gunter - until tonight gunter - no hint
+wieviel uhr ist es bitte - what time is it - no hint
+es ist elf uhr - it is eleven o'clock - no hint
+nein es ist acht uhr - no it's eight o'clock - no hint
+nein zwölf - no twelve - no hint
+zwei order zwölf - two twelve - no hint
+ich verstehe sie nicht - i don't understand you - no hint
+wiederholen sie bitte - repeat please - no hint
+wann heute - when today - no hint
+oder morgen - or tomorrow - no hint
+nicht heute abend - not this evening - no hint
+heute - today - no hint
+nicht morgen abend - not tomorrow evening - no hint
+bis später - until later - no hint
+auf wiedersehen - goodbye not on telephone - no hint
+guten tag - hello good day - no hint
+drei - three - no hint
+zehn - ten - no hint
+danke auf wiedersehen - thank you  goodbye - no hint
+hören sie bitte zu - listen please - no hint
+ich höre zu - i'm listening - no hint
+ich wiederhole - i'm repeating - no hint
+ich höre gut zu - i'm listening well - no hint
+auf wiederhören - goodbye on the telephone - no hint
+guten abend - good evening - no hint
+wieviele mark haben sie - how many marks do you have - no hint
+sie haben - you have - no hint
+wieviele mark - how many marks - no hint
+ich habe - i have - no hint
+vierzehn - fourteen - no hint
+ich habe vierzehn mark - i have fourteen marks - no hint
+wieviele dollar haben sie - how many dollars do you have - no hint
+ich habe vierzehn dollar - i have fourteen dollars - no hint
+ich habe fünfzehn dollar - i have fifteen dollars - no hint
+fünfzehn - fifteen - no hint
+und vierzehn dollar - and fourteen dollars - no hint
+haben sie sechzehn mark - do you have sixteen marks - no hint
+nein ich habe dreizehn mark - no i have thirteen marks - no hint
+aber ich habe fünfzehn dollar - but i have fifteen dollars - no hint
+sie haben keine sechzehn dollar - you haven't got sixteen dollars - no hint
+nein ich habe keine sechzehn dollar - no i haven't got sixteen dollars - no hint
+sie schulden mir - you owe me - no hint
+sie schulden mir fünfzehn mark - you owe me fifteen marks - no hint
+und in dollar - and in dollars - no hint
+in deutsche mark - in german marks deutsche mark  deutsche mark - no hint
+die deutsche mark - the deutsche mark - no hint
+vierzehn deutsche mark bitte - fourteen german marks please - no hint
+ich habe zehn dollar - i have ten dollars - no hint
+haben sie fünf dollar - do you have five dollars - no hint
+ich habe keine sechzehn deutsche mark - no i haven't got sixteen german marks - no hint
+ich habe vierzehn deutsche mark - i have fourteen german marks - no hint
+aber keine fünfzehn deutsche mark - but not fifteen german marks - no hint
+also dann vierzehn deutsche mark - well then fourteen german marks - no hint
+die verkaüferin - the saleswoman - no hint
+mit die verkaüferin - with the saleswoman - no hint
+heir sind zehn dollar - here is ten dollars - no hint
+entschuldigen sie haben sie amerikanische zigaretten - excuse me do you have american cigarettes - no hint
+ja hier bitte - yes here please - no hint
+danke wieviel schulde ich ihnen - thank you how much do i owe you - no hint
+acht mark bitte - eight marks please - no hint
+achtzehn mark für zigaretten - eighteen marks for cigarettes - no hint
+nein acht mark sie schulden mir acht mark - no eight marks you owe me eight marks - no hint
+ah jetzt verstehe ich hier bitte hier sind acht mark vielen dank - ah now i understand here please here are eight marks - no hint
+heir sind dreizehn mark - here are thirteen marks - no hint
+ich möchte zwölf mark - i would like twelve marks - no hint
+hier sind vierzehn mark - here are fourteen marks - no hint
+haben sie eine mark - do you have one mark - no hint
+mochten sie eine mark - would you like one mark - no hint
+ich möchte sechzehn mark - i would like sixteen marks - no hint
+fünfzehn oder sechzehn mark - fifteen or sixteen marks - no hint
+ich habe keine dollar - i have no dollars - no hint
+ich habe deutsche mark - i have german marks - no hint
+viele deutsche mark - many german marks - no hint
+aber ich habe keine dollar - but i have no dollars - no hint
+sie haben keine dollar - you haven't any dollars - no hint
+sie sind kein amerikaner - you're not an american - no hint
+sie sind keine amerikanerin - you're not an american - no hint
+doch ich bin amerikanerin - i am an american - no hint
+aber keine deutsche mark - but no german marks - no hint
+gut hier sind drei dollar - ok here are three dollars - no hint
+sieben - seven - no hint
+und ich habe auch deutsche mark - and i also have german marks - no hint
+wieviele deutsche mark haben sie - how many german marks do you have - no hint
+das bier - beer - no hint
+ich habe kein bier - i have no beer - no hint
+der wein - wine - no hint
+hier ist ein bier - here's a beer - no hint
+möchten sie auch etwas trinken - would you also like to drink something - no hint
+sechzehn - sixteen - no hint
+vierzehn - fourteen - no hint
+dreizehn - thirteen - no hint
+viel - much a lot - no hint
+ja bitte - yes please - no hint
+dort drüben - over there - no hint
+oder hier - or here - no hint
+die goethestrasse ist dort dr ü ben - goethe street is over there - no hint
+und ist der beethovenplatz auch dort drüben - and is beethoven square also over there - no hint
+ja auch dort drüben - yes also over there - no hint
+ich habe deutsche mark aber keine dollar - i have german marks but no dollars - no hint
+wieviele deutsche mark möchten sie - how many german marks would you like - no hint
+was machen sie jetzt - what are you going to do now - no hint
+sie haben keine dollar - you haven't any dollars - no hint
+also dann - well then - no hint
+hier sind sechzehn deutsche mark - here are sixteen german marks - no hint
+ich habe ein paar deutsche mark - i have a couple of german marks - no hint
+ich habe ein paar dollar - i have a couple of dollars - no hint
+geben sie mir - give me - no hint
+geben - to give - no hint
+geben sie mir ein paar deutsche mark - give me a couple of marks - no hint
+geben sie mir ein paar dollar bitte - give me a couple of dollars please - no hint
+haben sie ein paar deutsche mark - do you have a couple of german marks - no hint
+ich habe siebzehn deutsche mark - i have seventeen german marks - no hint
+siebzehn - seventeen - no hint
+achtzehn - eighteen - no hint
+neunzehn - nineteen - no hint
+ich habe neunzehn dollar - i have nineteen dollars - no hint
+nein siebzehn - no seventeen - no hint
+geben sie mir eine mark - give me one mark - no hint
+ich habe keinen wein - i have no wine - no hint
+sie haben kein bier und keinen wein - you have no beer and no wine - no hint
+ich habe etwas bier - i have some beer - no hint
+etwas bier - some beer - no hint
+ich habe noch etwas bier - i still have some beer - no hint
+noch - still - no hint
+ein paar mark - a couple of marks - no hint
+geben sie mir jetzt siebzehn mark - give me seventeen marks now - no hint
+ich möchte noch etwas wein kaufen - i would still like to buy some wine - no hint
+sie haben keinen wein - you have no wine - no hint
+haben sie ein paar dollar - do you have a couple of dollars - no hint
+nein ich habe keine dollar - no i haven't any dollars - no hint
+und ein paar deutsche mark - and a couple of german marks - no hint
+wieviele - how many - no hint
+das ist nicht viel - that is not much - no hint
+vielen dank - thanks a lot thank you very much - no hint
+bitte geben sie mir fünfzehn mark - please give me fifteen marks - no hint
+nein geben sie mir siebzehn oder achtzehn mark - no give me seventeen or eighteen marks - no hint
+achtzehn oder neunzehn - eighteen or nineteen - no hint
+ich gebe - i give - no hint
+ich gebe ihnen - i give to you - no hint
+ich gebe ihnen zehn deutsche mark - i'm giving you ten german marks - no hint
+also dann geben sie mir ein paar deutsche mark bitte - well then give me a couple of german marks please - no hint
+auf wiedersehen gunter bis später - goodbye gunter until later - no hint
+auf wiedersehen wohin gehen sie denn jane - goodbye where are you going jane - no hint
+ich ich gehe etwas kaufen - me i'm going to buy something - no hint
+haben sie deutsche mark - do you have german marks - no hint
+nein keine deutsche mark aber ich habe ein paar dollar - no no german marks but i have a couple of dollars - no hint
+vierzehn oder fünfzehn - fourteen or fifteen - no hint
+ich gebe ihnen zehn mark und fünf dollar hier jetzt haben sie zehn - i'll give you ten marks and five dollars now here you have ten - no hint

@@ -1,8 +1,378 @@
-da
-je
-ne
+excuse me
+englisch
+english
+nein
+no
+ich
 i
-u
-to
-sam
-ti
+ich verstehe
+i understand
+deutsch
+german
+ein bisschen
+a little
+nur
+only
+nur ein bisschen
+amerikaner
+american
+sie sind
+you are
+ja
+yes
+englisch
+english
+deutsch
+german
+ich verstehe
+i understand
+nein
+no
+nur ein bisschen
+excuse me
+ein bisschen
+a little
+good day
+wie
+how
+geht es
+how's it going
+ihnen
+to you
+frau
+miss
+danke
+thank you
+gut
+sehr
+very
+herr
+mister
+mir
+to me
+auf wiedersehen
+goodbye
+ich verstehe nicht
+nur ein bisschen
+deutsch
+german
+ein bisschen
+a little
+nur ein bisschen
+ich verstehe nicht
+danke
+thank you
+hello
+auf wiedersehen
+goodbye
+excuse me
+nein
+no
+ich bin
+i am
+bin
+am
+and you
+und
+and
+aber
+but
+bitte
+please
+hello
+and you
+nein
+no
+bitte
+please
+excuse me
+sie sprechen
+ich spreche
+doch
+wo
+where
+ist
+is
+der platz
+the square
+hier
+here
+dort drüben
+over there
+excuse me
+yes
+auf wiedersehen
+hello
+nur ein bisschen
+and you
+die strasse
+street
+der platz
+square
+entschuldigen sie bitte
+hier
+here
+i'm fine
+ich verstehe
+i understand
+ich verstehe nicht
+wo
+where
+auf wiedersehen
+goodbye
+ich weiss es nicht
+ich weiss es
+ich möchte
+i would like
+essen
+to eat
+etwas
+something
+trinken
+to drink
+die strasse
+street
+excuse me
+bitte
+please
+trinken
+to drink
+ich möchte
+i would like
+etwas
+something
+ich weiss es nicht
+üben
+wo
+where
+sehr gut
+gut
+fine
+bei mir
+at my place
+ich auch
+me too
+auch
+too
+wann
+when
+jetzt
+now
+später
+later
+gerne
+gladly
+ja
+yes
+bei mir
+at my place
+essen
+to eat
+ich möchte
+i would like
+jetzt
+now
+ich auch
+me too
+wann
+when
+später
+later
+here
+nicht
+not
+wo
+where
+dort drüben
+over there
+gut
+ich auch
+me too
+etwas
+something
+im
+was
+what
+wein
+wine
+bier
+beer
+das restaurant
+ich auch
+me too
+ich möchte
+i would like
+ich weiss es nicht
+gerne
+gladly
+ich verstehe nicht
+wo
+where
+das bier
+zwei
+two
+oder
+or
+machen
+im hotel
+das hotel
+kaufen
+mit wem
+with whom
+mit
+with
+wem
+whom
+mit mir
+with me
+excuse me
+ja
+yes
+etwas
+something
+wann
+when
+mit wem
+with whom
+mit mir
+with me
+zwei
+two
+danke
+thank you
+tell me
+nichts
+nothing
+das geht
+das
+that
+um wieviel uhr
+uhr
+wieviel
+how much
+neun
+nine
+um neun uhr
+acht
+eight
+two o'clock
+um wieviel uhr
+um neun uhr
+zwei
+two
+nichts
+nichts
+nothing
+ich verstehe nicht
+mit mir
+with me
+um wieviel uhr
+ich weiss es nicht
+wann
+when
+it is  
+drei
+three
+es ist acht uhr
+drei uhr
+three o'clock
+ich esse
+sie essen
+um fünf uhr
+ich weiss es nicht
+um neun uhr
+um wieviel uhr
+wo
+where
+später
+later
+sehr gut
+gut
+fine
+hören sie zu
+listen
+dann
+then
+also dann
+heute abend
+heute
+today
+abend
+evening
+morgen
+tomorrow
+morgen abend
+repeat
+wie bitte
+bis morgen
+heute abend
+morgen abend
+bis
+until
+bis morgen
+heute
+today
+nichts
+nothing
+gut
+okay
+wieviel
+how much
+die strasse
+a street
+sechs
+six
+hören sie zu
+listen
+morgen abend
+um wieviel uhr
+heute
+today
+bis später
+auf wiedersehen
+i'm fine
+drei
+three
+zehn
+ten
+auf wiederhören
+good evening
+sie haben
+you have
+i have
+vierzehn
+fourteen
+fünfzehn
+fifteen
+sieben
+seven
+das bier
+beer
+der wein
+wine
+sechzehn
+sixteen
+vierzehn
+fourteen
+fünfzehn
+fifteen
+dreizehn
+thirteen
+viel
+excuse me
+dort drüben
+over there
+or here
+also dann
+geben
+siebzehn
+seventeen
+achtzehn
+eighteen
+neunzehn
+nineteen
+noch
+still
+wieviele
+vielen dank
+ich gebe

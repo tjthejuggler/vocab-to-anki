@@ -1,51 +1,71 @@
-yüz - face - no hint
-gerçek bir sınıfa geri dönebildiğin zaman çok güzel olacak - it will be so nice when you can be back in a real classroom - no hint
-üç yaşında bir yeğenim var - i have a niece who is three - no hint
-benzer - similar - no hint
-sık sık balık avlamaya çıkarım - i often go fishing - no hint
-dünden önceki gün pek uyumadım - the day before yesterday i didn't sleep much - no hint
+ilk - first - no hint
 kendin hakkında - about yourself - no hint
-hükümet - government - no hint
-bayım - sir - no hint
-yürümek - to walk - no hint
-tehlike - danger - no hint
-onu yere düşürmek - dropping it on the ground - no hint
-akşam yemeğinden sonra - after dinner - no hint
-ünitesi - unit - no hint
-ekleyin - add - no hint
-seni can kulağı ile dinliyorum - i'm listening to you carefully - no hint
-gerçek bir sınıfa geri dönebildiğin zaman çok güzel olacak - it will be so nice when you can be back in a real classroom - no hint
-gaz - gas - no hint
-serin - cool - no hint
-eğlenmek için ne yaparsın - what do you do for fun - no hint
-ünitesi - unit - no hint
-öyle eyledi - brcommanded so - no hint
+onu görmek - see him - no hint
+desen - drawing - no hint
 olduğunu - that it is - no hint
-koro - choir - no hint
-söyle - say it - no hint
-yerleştirmek - place - no hint
-saçları ipek gibi - her hair is like silk - no hint
-seni can kulağı ile dinliyorum - i'm listening to you carefully - no hint
-derin - deep - no hint
-saçları ipek gibi - her hair is like silk - no hint
-peki onun yerine ne yapıyorsun - so what do you do instead - no hint
-bugün de güneşli olacak - today will be sunny as well - no hint
-güzellik - beauty - no hint
-alo - hello - no hint
-onu - her - no hint
-senle konuşacağım - i will speak with you - no hint
-peki onun yerine ne yapıyorsun - so what do you do instead - no hint
-kılıç - sword - no hint
-ama bir sonrakini izleyeceğim için heyecanlıyım - but i am excited to watch the next - no hint
-dünden önceki gün pek uyumadım - the day before yesterday i didn't sleep much - no hint
-onu - her - no hint
-kaç öğrenciniz vardı - how many students did you have - no hint
-yürümek - to walk - no hint
-sorunlar - problems - no hint
-fark eder önemi var - it matters it does matter - no hint
-çikolatayı severim ama pasta sevmem - i like chocolate but i don't like cake - no hint
+itibaren - from - no hint
+olduğunu - that it is - no hint
 anlar - understands - no hint
-gaz - gas - no hint
+peki onun yerine ne yapıyorsun - so what do you do instead - no hint
+giyim - clothing - no hint
+senin adın - your name - no hint
+bayım - sir - no hint
+param yok çünkü - because i don't have money - no hint
 koro - choir - no hint
-söyle - say it - no hint
-söyleyemedim - i couldn't say - no hint
+teklif - bid - no hint
+yerleştirmek - place - no hint
+çikolatayı severim ama pasta sevmem - i like chocolate but i don't like cake - no hint
+akşam yemeğinden sonra - after dinner - no hint
+hayal - dream - no hint
+fena - bad - no hint
+onun neden kaçtığını sordum - i asked why she ran away - no hint
+sorunlar - problems - no hint
+gaz - gas - no hint
+senle konuşacağım - i will speak with you - no hint
+üç yaşında bir yeğenim var - i have a niece who is three - no hint
+hükümet - government - no hint
+bu ev daha güzel - this house is more beautiful - no hint
+derin - deep - no hint
+iyi bisiklet sürdüm - i had a good bike ride - no hint
+çalışıyor musunuz - do you work - no hint
+dünden önceki gün pek uyumadım - the day before yesterday i didn't sleep much - no hint
+köpek evin içinde koşuyor - the dog is running into the house - no hint
+dünden önceki gün pek uyumadım - the day before yesterday i didn't sleep much - no hint
+lakin bundan - but from that but before that - no hint
+gelirim - i come - no hint
+sık sık balık avlamaya çıkarım - i often go fishing - no hint
+bugün de güneşli olacak - today will be sunny as well - no hint
+lakin bundan - but from that but before that - no hint
+bugün de güneşli olacak - today will be sunny as well - no hint
+yüz - face - no hint
+kılıç - sword - no hint
+yapardım - i used to do it - no hint
+onu yere düşürmek - dropping it on the ground - no hint
+eğlenmek için ne yaparsın - what do you do for fun - no hint
+itibaren - from - no hint
+ama bir sonrakini izleyeceğim için heyecanlıyım - but i am excited to watch the next - no hint
+oda - room - no hint
+onun neden kaçtığını sordum - i asked why she ran away - no hint
+serin - cool - no hint
+yürümek - to walk - no hint
+öyle eyledi - brcommanded so - no hint
+buradaki her şey mükemmel - everything here is perfect - no hint
+öyle eyledi - brcommanded so - no hint
+saçları ipek gibi - her hair is like silk - no hint
+tehlike - danger - no hint
+açık - open - no hint
+ve - and - no hint
+senin adın - your name - no hint
+saçları ipek gibi - her hair is like silk - no hint
+ikinci trafik ışıklarından sola dön - turn left at the second traffic light - no hint
+teklif - bid - no hint
+gaz - gas - no hint
+ilk - first - no hint
+oda - room - no hint
+ben pek yapmadım - i have not done much - no hint
+kütüphanenin karşısındaki sokak - across the street from the library - no hint
+onu yere düşürmek - dropping it on the ground - no hint
+buradaki her şey mükemmel - everything here is perfect - no hint
+bu nedir - what is this - no hint
+iyi bisiklet sürdüm - i had a good bike ride - no hint
+yürümek - to walk - no hint

@@ -37,7 +37,7 @@ def get_args():
 	should_translate, should_randomize_order, is_formatted, should_make_audio_lesson = False, False, False, False
 	only_get_anki_cards_being_worked_on, use_anki_file, should_skip_confirmation, use_forvo = False, False, False, True
 	first_lang, second_lang, hint_lang, user_first_string, user_tags  = '', '', '', '', ''
-	require_individual_words_for_audio, should_overwrite, indiv_source = True, False, None
+	require_individual_words_for_audio, should_overwrite, indiv_source, show_anki_text = True, False, None, False
 	first_lang_min_number_of_words = 1 #this can be used to ignore any single word definitions so we dont have to redo them
 	number_of_languages_given, number_of_languages_to_download  = 0, 1
 	max_api_calls = 10000
@@ -76,6 +76,7 @@ def get_args():
 	parser.add_argument("-v", "--noforvo", action="store_true", help="don't use forvo to download pronunciations")
 	parser.add_argument("-o", "--overwritepronunciation", action="store_true", help="overwrite the pronunciation files \
 							if they exist")
+	parser.add_argument("-tx", "--showtext", action="store_true", help="show the text on each side of anki card")
 	args = parser.parse_args()
 	first_lang = args.language1
 	if args.language2:
@@ -133,12 +134,14 @@ def get_args():
 		use_forvo = False
 	if args.overwritepronunciation:
 		should_overwrite = True
+	if args.showtext:
+		show_anki_text = True
 	return (using_two_langs, should_make_anki_deck, should_make_anki_deck_audio_only, should_download,
 			should_translate, should_randomize_order, should_skip_confirmation, is_formatted, should_make_audio_lesson,
 			only_get_anki_cards_being_worked_on, use_anki_file, indiv_source, first_lang, second_lang, hint_lang,
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 			number_of_languages_to_download, max_api_calls,	max_lines, deck_name, alternate_pronunciations, 
-			user_first_string, user_tags, use_forvo, should_overwrite)
+			user_first_string, user_tags, use_forvo, should_overwrite, show_anki_text)
 
 def program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists):
 	number_of_audio_lesson_passed = 0 #this needs dealt with
@@ -169,7 +172,7 @@ def main():
 		only_get_anki_cards_being_worked_on, use_anki_file, indiv_source, first_lang, second_lang, hint_lang,
 		require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 		number_of_languages_to_download, max_api_calls,	max_lines, deck_name, alternate_pronunciations,
-		user_first_string, user_tags, use_forvo, should_overwrite) = get_args()
+		user_first_string, user_tags, use_forvo, should_overwrite, show_anki_text) = get_args()
 	api_calls, user_first_string_reached = 0, False
 	list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s = [], [], []
 	mp3_download_lists = [list_of_downloaded_mp3s, list_of_not_downloaded_mp3s, list_of_already_had_mp3s]
@@ -178,6 +181,7 @@ def main():
 		lines = [indiv_source]
 	deck = genanki.Deck(round(time.time()), new_deck_name)
 	is_formatted = determine_if_formatted(lines)
+	lines = remove_duplicate_lines(lines)
 	stop_everything_except_make_audio = False
 	audio_lesson_order_dict = {}	
 	if should_make_audio_lesson:
@@ -199,6 +203,7 @@ def main():
 			require_individual_words_for_audio, first_lang_min_number_of_words,	number_of_languages_given, 
 			number_of_languages_to_download, max_api_calls,	max_lines, deck_name, new_deck_name)
 	create_output_file(new_deck_name, 'sources', lines)
+	current_tag = 'unit1'
 	for line in lines:
 		line = line.lower()
 
@@ -239,10 +244,15 @@ def main():
 				create_output_file(deck_name+'_output', 'output',output_lines)
 		elif is_formatted == True:
 			if should_make_anki_deck:
+				print('inhere', line)
 				if user_tags:
 					tag = user_tags
 				else:
 					tag = deck_name #this should actually be the first line with text
+				if line.startswith('unit'):
+					print('tagline', line)
+					current_tag = line
+				tag = current_tag
 			if ' - ' in line:
 				split_line = line.split(' - ')
 				first_word = convert_numbers_to_words(split_line[0], first_lang)
@@ -252,7 +262,7 @@ def main():
 				hint = get_hint_from_formatted_line(split_line)
 				if not hint_lang == '':
 					hint = hint.strip('\n')  + ', ' + get_translation(first_word, first_lang, hint_lang).replace('-','/')
-				print('hint', hint)
+				#print('hint', hint)
 				if hint == '':
 					hint = 'no hint'
 				if first_word == user_first_string or user_first_string == '':				
@@ -261,7 +271,7 @@ def main():
 					continue
 				if not stop_everything_except_make_audio:
 					if should_download:
-						print('should_download')
+						#print('should_download')
 						if api_calls >= max_api_calls:  
 							print('\nMax API calls reached!')
 							program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)
@@ -276,7 +286,7 @@ def main():
 						create_output_file(deck_name+'_output','output',output_lines)
 					if should_make_anki_deck:
 						if number_of_languages_to_download != 0:
-							print('number_of_languages_to_download', number_of_languages_to_download)
+							#print('number_of_languages_to_download', number_of_languages_to_download)
 							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(first_word, first_lang, api_calls, mp3_download_lists, max_api_calls, alternate_pronunciations, use_forvo, should_overwrite)
 							api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1, use_forvo, should_overwrite)
 						for i in range(0, alternate_pronunciations):
@@ -287,14 +297,14 @@ def main():
 							if i > 0:
 								should_add = True
 								first_word_with_num = first_word+str(i)
-								print(first_word_with_num, "about to check")
+								#print(first_word_with_num, "about to check")
 								if not mp3_exists(first_word_with_num, first_lang):
 									print(first_word_with_num, "doesnt exist")
 									should_add = False
 							if should_add:
-								print("added to anki deck", first_word_with_num)
-								print('newhint', hint)
-								note, all_audio_files = create_anki_note(first_word_with_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs)
+								#print("added to anki deck", first_word_with_num)
+								#print('newhint', hint)
+								note, all_audio_files = create_anki_note(first_word_with_num, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, show_anki_text)
 								deck.add_note(note)
 								output_lines.append(first_word + ' - ' + second_word + ' - ' + hint)
 								create_output_file(deck_name+'_output','output',output_lines)

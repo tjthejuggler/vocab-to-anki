@@ -48,7 +48,7 @@ def get_hint_from_formatted_line(split_line):
 	return hint
 
 def convert_numbers_to_words(words, lang):
-	print('lang', lang)
+	#print('lang', lang)
 	converted_words = ''
 	for word in words.split():
 		word_to_add = word

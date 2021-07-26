@@ -26,7 +26,6 @@ def add_translation_to_local_dictionary(src_text, dest_text, src_lang, dest_lang
 
 def get_translation_from_local_library(src_text, first_lang, second_lang):
 	local_dict_file = first_lang+'_'+second_lang+'.json'
-	print(local_dict_file)
 	dest_text = ''
 	if path.exists(cwd+'/local_dictionaries/'+local_dict_file):			
 		with open(cwd+'/local_dictionaries/'+local_dict_file) as json_file:

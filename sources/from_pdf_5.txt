@@ -1,0 +1,595 @@
+baktırmak - to cause to look
+itmek - to push
+ittirmek - to cause to push
+koşmak - to run
+koşturmak - to cause to run
+satmak - to sell
+sattırmak - to cause to sell
+sevmek - to love
+sevdirmek - to cause to love
+baktırmak - to cause to look
+itmek - to push
+ittirmek - to cause to push
+koşmak - to run
+koşturmak - to cause to run
+satmak - to sell
+sattırmak - to cause to sell
+sevmek - to love
+sevdirmek - to cause to love
+Araba caddede durdu. - The car stopped in the street.
+Mehmet, arabayı caddede durdurdu. - Mehmet stopped the car in the street.
+akmak - to flow
+akıtmak - to cause to flow
+ürkmek - to have a scare
+ürkütmek - to startle
+çıkmak - to go out/to exit
+çıkarmak - to send out, to extract
+gitmek - to go
+gidermek - to send away/to remove/to expel
+kopmak - to snap itself
+koparmak - to break something off
+onmak - to mend
+onarmak - to have repaired
+görmek - to see
+göstermek - to show
+gülmek - to laugh
+Ona güldüm - I laughed at him.
+Bana güldü. - He laughed at me.
+güldürmek - to make laugh/cause to laugh
+Onu güldürdüm. - I made him laugh
+Beni güldürdü. - He made me laugh.
+bilmek - to know
+Onu biliyorum. - I know that.
+bildirmek - to make known
+Mehmed' e haberi bildirdik. - We made the news known to Mehmet.
+çalışmak - to work
+Bugün çalışıyorum. - I am working today.
+çalıştırmak - to cause to work
+Bugün, Mehmed'e çalıştırıyorum. - I am getting Mehmet to work today.
+unutmak - to forget
+Çantamı unuttum. - I forgot my bag.
+unutturmak - to cause to forget
+Mehmet'e çantasını unutturduk. - We've let Mehmet forget his bag.
+Onu güldürebilirsiniz. - You can make her laugh
+Beni güldüremeyecek. - He will not be able to make me laugh.
+Bizi güldüremediler. - They couldn't make us laugh.
+Mehmet seni güldürmeliydi. - Mehmet must have made you laugh.
+Onu yaptırmalıyım. - I must have it done.
+oturmak - to sit
+oturtmak - to seat somebody
+Sıra sıra öğrencileri oturttum. - I seated the students ın rows.
+anlamak - to understand
+anlatmak - to make understand/to explain
+Onu Mehmet'e anlattım. - I explained it to Mehmet.
+boyamak - to paint
+boyatmak - to get something painted
+Ön kapımızı boyatmalıyız. - We must get our front door painted.
+artmak - to increase
+artırmak - to cause to increase
+batmak - to sink
+batırmak - to cause to sink
+bitmek - to finish
+bitirmek - to finish off
+doğmak - to be born
+doğurmak - to give birth
+doymak - to be filled
+doyurmak - to fill up something
+düşmek - to fall
+düşürmek - to cause to fall to drop something
+geçmek - to pass
+geçirmek - to cause to pass
+göçmek - to move migrate
+göçürmek - to evict
+içmek - to drink smoke
+içirmek - to cause to drink
+kaçmak - to escape
+kaçırmak - to miss let escape
+pişmek - to cook (by itself)
+pişirmek - to cook something
+şaşmak - to be surprised
+şaşırmak - to surprise someone
+şişmek - to swell
+şişirmek - to cause to swell
+taşmak - to overflow
+taşırmak - to cause to overflow
+uçmak - to fly
+uçurmak - to cause to fly
+Pişmek - to cook by itself
+Yumurta tavada pişiyor. - The eggs are cooking in the pan.
+Pişirmek - to cook something
+Ali tavada yumurta pişiriyor. - Ali is cooking the eggs in the pan.
+Cevabı anladım. - I understood the answer.
+anlatmak - to explain
+Cevabı anlattım. - I explained the answer.
+Arabayı ona boyattırdım. - I had him paint the car
+Arabamı garajda tamir ettirdim. - I got my car repaired at the garage.
+Arabamı garaja tamir ettirttim. - I got the garage to repair my car
+anlattırmak - to have something explained
+Şifremi değiştirtim. - I had my code changed.
+Fenerbahçe Yandex'in logosunu değiştirtti. - Fenerbache had the Yandex logo changed.
+tamir ettirtmek - to have something repaired
+yaptırtılmak - to have something done.
+zorunda kalmak - to be left no choice but to do something
+zorunda olmak - to have to, be obliged to do something
+oynamak zorundayım - I have to play
+oynamak zorunda kaldım - I had to play
+oynamak zorunda oldum - I was obliged to play
+oynamak zorundasın - you have to play
+o oynamak zorunda - he has to play
+oynamak zorundayız - we have to play
+oynamak zorundasınız - you all have to play
+oynamak zorundalar - hey have to play
+mecbur - necessary to, need to
+mecbur olmak - to be forced to, be obliged to, have to (do something).
+Bakmaya mecbur oldum. - I had to look.
+mecbur kalmak - to feel obliged to, feel that one has to (do something)
+Bakmaya mecbur kaldım. - I felt (that) I had to look.
+düşünmeye mecburum - I should, must, ought to think
+düşünmeye mecbursun - you should think
+o düşünmeye mecbur - he should think
+düşünmeye mecburuz - we should think
+düşünmeye mecbursunuz - you all should think
+düşünmeye mecburlar - they should think
+kitap okumalıyım - I must, have to, should read a book.
+kitap okumalısın - you must, have to, should read a book.
+Ali kitap okumalı - Ali must, have to, should read a book.
+kitap okumalıyız - he must, have to, should read a book.
+kitap okumalısınız - you all must, have to, should read a book.
+onlar kitap okumalı(lar) - they must, have to, should read a book.
+Kitabı okumalıyım. - I must read the book.
+O kitapı okumalıyım. - I must read that book.
+Benim kitap okumam lâzım. - I should read a book
+Senin kitap okuman lâzım. - you should read a book
+Ali'nin kitap okuması lâzım. - he should read a book
+Bizim kitap okumamız lâzım. - we should read a book
+Sizin kitap okumanız lâzım. - you all should read a book
+Onların kitap okuması lâzım. - they should read a book
+Kitap okumaları lâzım. - they should read a book
+Benim kitap okumam gerek. - I should read a book
+Senin kitap okuman gerek. - you should read a book
+Ali'nin kitap okuması gerek. - he should read a book
+Bizim kitap okumamız gerek. - we should read a book
+Sizin kitap okumanız gerek. - you all should read a book
+Onların kitap okuması gerek. - they should read a book
+kitap okumaları gerek. - they should read a book
+bakmalıyım - I ought to see / I must see
+bakmalısın - You ought to see / You must see
+O bakmalı - He ought to see / He must see
+bakmalıyız - We ought to see / we must see
+bakmalısınız - You all ought to see / you must see
+bakmalılar - They ought to see / They must see
+bakmamalıyım - I ought not to see
+bakmamalısın - You ought not to see
+O bakmamalı - he ought not to see
+bakmamalıyız - We ought not to see
+bakmamalısınız - You all ought not to see
+bakmamalılar - They ought not to see
+Ben gitmeliyim - I must go
+Sen gitmelisin - You ought to go
+O gitmeli - He, She, It should go
+Biz gitmeliyiz - We have to go
+Siz gitmelisiniz - You all have got to go
+Onlar gitmeliler - They have to go
+Ben gitmeli miyim? - Must I go?
+Sen gitmeli misin? - Ought you to go?
+O gitmeli mi? - Should he go?
+Biz gitmeli miyiz? - Have we to go?
+Siz gitmeli misiniz? - Have you all got to go?
+Onlar gitmeliler mi? - Have they got to go?
+Ben gitmemeliyim - I must not go
+Sen gitmemelisin - You ought not to go
+O gitmemeli - He should not go
+Biz gitmemeliyiz - We have not to go
+Siz gitmemelisiniz - Youll a have not got to go
+Onlar gitmemeliler - They have not got to go
+Ben gitmemeli miyim? - Must I not go?
+Sen gitmemeli misin? - Ought you not to go?
+O gitmemeli mi? - Should he not go?
+Biz gitmemeli miyiz? - Haven't we got to go?/
+Siz gitmemeli misiniz? - Haven't you all got to go?
+Onlar gitmemeliler mi? - Haven't they got to go?
+Ben gitmeliydim - I must have gone
+Sen gitmeliydin - You ought to have gone
+O gitmeliydi - He should have gone
+Biz gitmeliydik - We had to go
+Siz gitmeliydiniz - You all had got to go
+Onlar gitmeliydiler - They had to go
+Ben gitmeli miydim? - Must I have gone?
+Sen gitmeli miydin? - Ought you to have gone?
+O gitmeli miydi? - Should he have gone?
+Biz gitmeli miydik? - Had we to go?
+Siz gitmeli miydiniz? - Had you got to go?
+Onlar gitmeliler miydi? - Had they got to go?
+Ben gitmemeliydim - I must not have gone
+Sen gitmemeliydin - You ought not to have gone
+O gitmemeliydi - He should not have gone
+Biz gitmemeliydik - We had not to go
+Siz gitmemeliydiniz - You all had not got to go
+Onlar gitmemeliydiler - They had not got to go
+Ben gitmemeli miydim? - Must I not have gone?
+Sen gitmemeli miydin? - Ought you not to have gone?
+O gitmemeli miydi? - Shouldn't he have gone?
+Biz gitmemeli miydik? - had we not got to go?
+Siz gitmemeli miydiniz? - Had you all not got to go?
+Onlar gitmemeliler miydi? - Had they not got to go?
+Ben gitmeliymişim - (I suppose that) I must have gone
+Sen gitmeliymişsin - (I believe that) you ought to have gone
+O gitmeliymiş - (Presumably) he should have gone
+Biz gitmeliymişiz - (it seems that) we had got to go
+Siz gitmeliymişsiniz - (It seems that) you all had to go
+Onlar gitmeliymişler - (Probably) they had got to go
+Ben gitmeli miymişim? - Ought I to have gone?
+Sen gitmeli miymişsin? - Should you have gone possibly?
+O gitmeli miymiş? - Did he possibly have to go?
+Biz gitmeli miymişiz? - Did we possibly have to go?
+Siz gitmeli miymişsiniz? - Did you all possibly have to go?
+Onlar gitmeli miymişler? - Surely by now they must have gone?
+Ben gitmemeliymişim - (I suppose that) I must not have gone.
+Sen gitmemeliymişsin - (I believe that) you ought not to have gone.
+O gitmemeliymiş - (Presumably) he should not have gone.
+Biz gitmemeliymişiz - (In reality) we had not got to go.
+Siz gitmemeliymişsiniz - (It seems that) you all had not to go.
+Onlar gitmemeliymişler - (Probably) they did not have to go.
+Ben gitmemeli miymişim? - Ought I not to have gone probably?
+Sen gitmemeli miymişsin? - Should you not have gone probably?
+O gitmemeli miymiş? - Did he possibly not have to go?
+Biz gitmemeli miymişiz? - Had we not got to go possibly?
+Siz gitmemeli miymişsiniz? - Did you not have to go possibly?
+Onlar gitmemeli miymişler? - must they not have gone?
+Gerekmek - to need, to want to 
+Saatimin ayarlanması gerekiyor. - My watch needs adjusting.
+Otobüse binmem gerekiyor mu? - Do I have to get on a bus?
+Mehmet'e yardım gerekiyor. - Mehmet needs help.
+Bir vize gerekiyor mu? - Is a visa necessary?
+Kışın kar yağması gerekmiyor mu? - It's supposed to snow in winter, right?
+Hakkımda hiçbir şey öğrenmen gerekmiyor. - You do not need to learn anything about me.
+Ondan korkmamız gerekmiyor. - We have no need to be frightened of that/it.
+İstanbul'a gitmek gerekmez. - It is not necessary to go to Istanbul.
+Bunun üzerinden gümrük ödemeniz gerekir. - Because of this it will be necessary to pay Customs Duty.
+Gülmek gerekir bazen - One should laugh sometimes.
+On dakika beklemeniz gerekebilir. - It may be necessary for you to wait ten minutes.
+Mutlu olmak için mutlu etmek gerekmiş. - In order to be happy it is necessary to make happiness.
+Bir bilene sormak gerekmiş. - It seem it is necessary to ask someone who knows.
+Çok şey gerekmezmiş mutlu olmaya. - Many things are not needed to become happy.
+Sevmek için sebep gerekmezmiş. - No reason is necessary to love.
+Hatta kimseye bir şey anlatması gerekmezmiş. - It seems it is not even necessary to let anybody know.
+Kalemler pahalı olunca, ek iş bulma gerekti. - As the items were expensive, a spare time job was necessary.
+Öyle olması gerekti. - It had to be like that.
+Başarmamız gerekti aslında. - Really, we had to succeed.
+Oraya buraya gitmem gerekti. - I had to go here and there.
+Senin iyi olduğunu görmem gerekti. - I had to see that you were alright.
+Üçüncü kez denemem gerekmedi. - I did not have to try a third time.
+Vitesten yukarı çıkmam gerekmedi. - It wasn't necessary to change up (a gear).
+Bir defa bile kutusunu açmam gerekmedi. - I did not even have to open the box.
+Bunu yapmak zorunda olacağım. - I will have to do this.
+Onu yapman gerekecek. - You will have to do that.
+Bu adamların adını hatırlamam gerekecek. - I will have to remember these gentlemen’s names.
+Eşme'ye yeni bir yαtαk αlmαm gerekecek - I will have to get a new bed for Esme.
+İlk önce siteden şifre almanız gerekecektir. - Firstly you must obtain a password from the site.
+Boyut değiştirmemiz gerekecektir - We will have to change the dimensions.
+Kutuyu bitirdikten sonra yeniden doktorunuza görünmeniz gerekecektir. - After finishing the box it will be necessary to see the doctor again.
+İzlenilmesi gerekilen bir Filim. - A film which must be seen.
+Ankara'ya gidince uğranılması gerekilen bır yer olduğunu düşünüyorum. - I think that it is a place that must be visited when going to Ankara.
+Gerçekten öğrenmesi gerekilen çok şeyler var. - Truly there are many things which are necessary to be learned.
+Gümrük vergisi ödenmesi gerekmeyen ki arabamla geldim. - I came in my car for which customs duty was not necessary.
+Sebzelerin tüketiminde dikkat edilmesi gerekilen konusu. - The steps that are necessary for the conservation of vegetables.
+O an ne yapılması gerekiyorsa onu yaparım. - I'll do whatever is necessary to do at that moment.
+Eğer gitmem gerekiyorsa giderim - I will go if it is necessary
+Her ne gerekiyorsa yaparım - I will do whatever is necessary.
+Öyle olması gerekiyorsa öyle olur. - If it has to be like that then let it be so.
+Her Türk asker doğar, gerekirse vatan için şehit olur. - All Turks are born soldiers and if necessary will die as a martyr for the country.
+Kısaca anlatmak gerekirse böyle onu yazayım. - Let me write it like this if it need to be explained in short.
+Gerekmezse konuşmam - If it is not necessary, I will not speak.
+Gerek göklerdeki kuşlar, gerek denizdeki balıklar, gerek yerdeki hayvanlar - The birds in the sky, the fishes in the sea and also the animals on land, all of them
+gelebiliyorum - I can come, I am able to come, I may come, I might come
+gelebilirim - I can come, I am able to come, I may come, I might come
+gidebileceksiniz - you all will be able to go
+başlayabildik - we could have started
+gelebilmek - to be able to come
+yazabilmek - to be able to write
+yazılmak - to be written
+yazılabilmek - to be able to be written
+gülebilmek - to be able to laugh
+güldürmek - to make someone laugh
+güldürebilmek - to be able to make someone laugh
+yürüyebilmek - to be able to walk
+görebilmek - to be able to see
+görebiliyorum - I can see, I am able to see, I may see, I might see
+görebiliyorsun - you can see
+görebiliyor - he can see
+görebiliyoruz - we can see
+görebiliyorsunuz - you all can see
+görebiliyorlar - they can see
+gelebiliyor muyum? - Can I come?
+gelebiliyor musunuz? - Can you all come?
+kalabilmek - to be able to stay, remain
+kalabileceğim - I will be able to stay
+kalabileceksin - you will be able to stay
+kalabilecek - he will be able to stay
+kalabileceğiz - we will be able to stay
+kalabileceksiniz - you all will be able to stay
+kalabilecekler - they will be able to stay
+gidebilecek misiniz? - will you be able to go?
+bekleyebilmek - to be able to wait, expect
+bekleyebildim - I could wait
+bekleyebildin - you could wait
+bekleyebildi - he could wait
+bekleyebildik - we could wait
+bekleyebildiniz - you all could wait
+bekleyebildiler - they could wait
+bekleyebilirmek - to be able to wait, expect
+bekleyebilirdim - I could have waited
+bekleyebilirdin - you could have waited
+bekleyebilirdi - he could have waited
+bekleyebilirdik - we could have waited
+bekleyebilirdiniz - you all could have waited
+bekleyebilirdiler - they could have waited
+düşünebilmek - to be able to think
+düşünebilmişim - it seems I was able to think
+düşünebilmişsin - it seems you were able to think
+düşünebilmiş - it seems he was able to think
+düşünebilmişiz - it seems we were able to think
+düşünebilmişsiniz - it seems you all were able to think
+düşünebilmişler - it seems they were able to think
+bekleyebildi mi? - could he have waited?
+yapabilmek - to be able to do
+yapabiliyordum - I was able to do
+yapabiliyordun - you were able to do
+yapabiliyordu - he was able to do
+yapabiliyorduk - we were able to do
+yapabiliyordunuz - you were able to do
+yapabiliyorlardı - they were able to do
+durabiliyorlardı mı? - were they able to stop, halt ?
+bakmamak - to not look
+bakamamak - not to be able to look
+bakamıyorum - I can't look
+bakamadın, bakamıyordun - you could not look
+bakamıyordu - he was not able to look
+bakamazsak - if we cannot look
+bakamayacaksınız - you all will not be able to look
+bakamadılar, bakamıyorlardı - they could not look
+çekmemek - to not pull
+çekememek - not to be able to pull
+çekemem - I can't pull
+çekemiyorsun - you cannot pull
+çekilemedi - it could not be pulled
+çekemeyeceğiz - we will not be able to pull
+çekememiştiniz - you had not been able to pull
+anlamamak - to not understand
+anlayamamak - not to be able to understand
+anlayamadım - I could not understand
+anlamasaydın - if you did not understand
+anlayamasaydın - if you could not understand
+anlayamamış - it seems he could not understand
+anlaşılamayacaksak - if we will not be able to understood
+anlayamazsınız - you all cannot understand
+anlaşamadılar - they could not agree
+bekleyememek - to not be able to wait
+bekleyemesem - if I cannot wait
+bekletemeyeceksin - you will not be able to let him wait
+beklenemedi - it could not have been expected
+bekleyemeyeceğiz - we will not be able to wait
+bekleyemezdiniz - you all couldn't have waited
+bekleyememişler - it seems that they could not wait
+Ofiste bekleyeyim. - Let me wait in the office.
+Nerede bekleyeyim sizi? - Where should I wait for you?
+Ne yapayım, dilimi mi keseyim? - What should I do, should I shut up?
+Batinin tekniğini alalım kültürünü almayalım. - Let us take western techniques, let us not take the culture.
+Olsun! - Let it be!
+Olmasın! - Let it not be!
+Neden olmasın? - Why not?
+Çocuk kendini suçlu hissetmesin. - Let the child not feel guilty.
+Gidelim. - Let's go
+Birlikte bir kahve içelim mi? - Should we drink a coffee together?
+Neden egzersiz yapmayalım ki? - Why shouldn't we do that exercise?
+Ukrayna bizi etkileyecek ama panik yapmayalım. - Ukraine will affect us but let us not panic.
+Gelsinler! - Let them come!
+Ondan korksunlar! - Let them fear that! 
+Kaldırımlara arabaları park etmesınler, trafik kurallarına uysunlar. - They should not park on the pavement, let them conform to the traffic regulations.
+gitmemek - not to go
+Oraya gitmeyelim. - Lets not go there.
+bakmamak - not to look
+Ahmet mektuba bakmasın. - Let Ahmet not look at the letter.
+bulmamak - not to find
+Onu bulmasınlar - Hopefully they won't find it.
+beklememek - not to wait
+Beklemeyeyim! - I'd better not wait!
+Geleyim mi? - Should I come (too)?
+Araba kullanalım mi? - Should we use the car?
+Kasabaya yürümeyelim mi? - Shouldn't we walk to town?
+Partiye gelsinler mi? - Should they come to the party?
+Since we came to Istanbul it has not rained. - Biz İstanbul'a geleli hiç yağmur yağmadı.
+Since we came to Istanbul it has not rained. - Biz İstanbul'a geleli beri hiç yağmur yağmadı.
+Since we came to Istanbul it has not rained. - Biz İstanbul'a geleliden beri hiç yağmur yağmadı.
+gelen adam - the man who comes, the man who is coming
+gelen - coming [which comes], Relative Participle
+sarılan - hugging [who hugs], Relative Participle
+anlayan - understanding [who understands] Relative Participle
+bekleyen - waiting [who waits] Relative Participle
+gelmeyen - not coming [who is not coming] Relative Participle
+sarılmayan - not hugging [who is not hugging] Relative Participle
+anlamayan - not understanding [who is not understanding] Relative Participle
+beklemeyen - not waiting [who is not waiting] Relative Participle
+Öğle yemeğe gelen adamı tanırım. - I know the man who is coming to lunch.
+Akşam yemeğe geleni tanır mısınız? - Do you know who is coming to dinner?
+Gelenlerden biri tanıyorum. - I know one of those who are coming.
+Bekleyenlere her şey gelir. - Everything comes to those who wait.
+Zengin olanlar çok şanslıdır. - Those who are rich are very lucky.
+yürüyen - who walks, who is walking, Relative Participle
+yürümemek - not to walk
+yürümeyen - who doesn't walk, Relative Participle
+bekleyen - who waits, Relative Participle
+beklemeyen - who doesn't wait, Relative Participle
+bakan - which looks, Relative Participle
+bakmayan - which doesn't look, Relative Participle
+gören - who sees, Relative Participle
+görmeyen - who doesn't see, Relative Participle
+Sandalyede oturan adamı tanıyorum. - I know the man is sitting in the chair.
+Gökte uçan kuşu görebilirim. - I can see the bird that is flying in the sky.
+Sarkan ipi çektim. - I pulled the rope which was hanging down.
+Beni arayan kimse var mı? - Is there anybody (who is) waiting for me?
+Ayakları kırılmış olan sandalye onarılmalıdır. - The chair whose legs are broken should be mended.
+Dışarıdaki oturan kız seni bekliyormuş. - The girl who is sitting outside is (apparently) waiting for you.
+Taksi isteyen adam bize demin eli salladı. - The man who wanted a taxi waved his hand at us just now.
+Arka bahçeye bakan pencere kırıldı. - The window facing the back garden is broken.
+Mektup yazan adam çok yaşlıdır. - The man writing the letter is very old.
+yürüyebilen - who can walk
+yürüyememek - not to be able to walk
+yürüyemeyen - who can't walk
+oturan - who is sitting / sitting, Relative Participle adjective
+oturanı - who sits / sitter, , Relative Participle Direct Object
+Noun in Movement Toward Condition (Dative) Singular
+uçan - which is flying / flying, Relative Participle adjective
+uçana - to the flier
+yemek to eat
+yiyen, who is eating / eater, Relative Participle adjective
+yiyenlere - to those eating
+sarkmak - to hang down, dangle
+sarkan - which is hanging down / hanging down, Relative Participle adjective
+sarkandan - from that which is hanging
+güldürmek - to cause to laugh
+güldüren - which makes one laugh/comic, funny, Relative Participle adjective
+güldürenin - of that which makes one laugh/comic, funny, Relative Participle adjective
+kesilmek - to be cut
+kesilen - which is being cut, Relative Participle 
+kesilenlerden - from those that are being cut, Relative Participle 
+Masaya oturan adamı tanırım - I know the man who is sitting at the table.
+Masaya oturan adamları tanırım - I know the men who are sitting at the table
+Masaya oturanı tanıyorum. - I know (he) who is sitting at this table.
+veren - who gives, Relative Participle 
+verenler - those who are giving, Relative Participle 
+vermemek - not to give
+vermeyen - who doesn't give, Relative Participle 
+vermeyenler - those who don't give, Relative Participle 
+Oğluma, hediye veren adam onun amcasıydı. - The man who gave the present to my son was his uncle.
+Ankara'ya giden otobüslerin hepsi doludur. - All the buses which are going to Ankara are full up.
+Ankara'ya gidenlerin hepsi erkek. - All the those who are going to Ankara are male.
+beklenmek - to be expected
+beklenen - which is expected
+beklenenler - those who are expected
+beklenmemek - not to be expected
+beklenmeyen - which is not expected
+beklenmeyenler - those which are not expected
+çalışabilen - who is able to work
+çalışabilenler - those who are able to work
+çalışamamak - not to able to work
+çalışamayan - which is not able to work
+çalışamayanlar - those who are not able to work
+Yüzebilenlere bir madalya verelim. - Let us give a medal to those who can swim.
+Sokağımızda çalışamayan bir engelli oturuyor. - A disabled man who is unable to work is living in our street
+Süremeyenlerden arabaları geri alınız. - Take away the cars from those who can't drive.
+yapılabilen - which can be done
+yapılabilenler - those which can be done
+sürülememek - to not be able to be driven
+sürülemeyen - which can not be driven
+sürülemeyenler - those which can not be driven
+Sürülemeyen arabaları çıkarınız. - Take away the cars which can not be driven.
+Yapılabilenleri bitirelim. - Let's finish those that can be done.
+Yüzmekte olanları - those who are presently swimming.
+Denizde yüzmekte olanları tanırım. - I know those who are presently swimming in the sea.
+Kalmakta olanlardan - from those who are presently staying.
+Hırsızlar, otelde kalmakta olanlardan para çaldılar. - The thieves stole money from those who are staying at the hotel.
+Beklemekte olana - to he who is waiting and still is waiting.
+Bu koliyi, beklemekte olana verin. - Give this parcel to the man (he who is) waiting.
+Satılık olan bir ev arıyorum. - I am looking for a house which is for sale.
+Çok pahalı olan bir fotoğraf makinesini aldım. - I have bought a camera which was very expensive.
+Babası kasap olan bir arkadaşım var. - I have got a friend whose father is a butcher.
+olanı - One
+olanları - Ones
+Hangi tişörtü istiyorsunuz? - Which tee‑shirt do you want?
+Mavi olanı(nı) lütfen. - The blue one, please.
+Hangi ayakkabıları istiyorsunuz? - Which shoes do you want?
+Siyah olanları(nı) lütfen. - The black ones, please.
+Otelde bugünkünün gazeteleri bulunur mu? - Are there any of today's newspapers "to be found" in the hotel?
+Bu akşam otele geldiğinde, ben barda bulunurum. - When you get to to the hotel tonight, I'll be found in the bar.
+İçinde beş kitap bulunan kutuyu getirin. - Bring along the box containing the five books.
+Bahçemizde bulunan güzel çiçekleri sana göstereyim. - Let me show you the beautiful flowers (which are) in our garden.
+oynamayan çocuklar children - who do not play
+oynamayanlar - they those who do not play
+vermiş olan - given, which is given
+verilmiş olan - given, which has been given
+vermemiş olan - not given, which has not given
+verilmemiş olan - not been given, which has not been givenboyamış olan
+painted, which is painted
+boyanmış olan - been painted, that has been painted
+seçmiş olan - chosen, which is chosen
+seçilmiş olan - been chosen, that has been chosen
+Seçilmiş olan şapkayı beğenirim. - I like the hat that has been chosen.
+Seçmiş olanı beğenirim. - I like the one who has chosen.
+Henüz gelmiş olan adamı tanırım. - I know the man who has just come.
+kırılmıştır - which has been broken
+Mavı kapı kırılmıştır. - The blue door is broken.
+Türkiye'de yapılmıştır. - Made in Turkey.
+Paslanmaz çelikten yapılmıştır - Made from stainless steel
+İzmir'de üretilmiştir - Produced in Izmir
+Oynadığım park bu köşede. - The park where I play is on this corner.
+En çok sevdiğin kitap nedir? - Which book do you like best?
+Gönderdiği koliyi aldım. - I have received the parcel that he sent.
+Geldiğimiz araba yepyenidir. - The car in which we came is brand new.
+Beğendiğiniz perdeleri bulamadım. - I could not find the curtains that you liked.
+Bu çocukların her gün yaptıkları şey nedir? - What is it that these children do every day.
+Oturduğumuz ev budur. - This is the house in which we live.
+Oturduğunuz ev budur. - This is the house in which you live.
+Oturdukları ev budur. - This is the house in which they live.
+Mehmet, kendiye verdiğim hediyeyi beğendi. - Mehmet liked the present that I gave to him(self).
+Mehmet, verdiğimi beğendi. - Mehmet liked what I gave.
+Seni sevdiğimi biliyorum - I know that I love you.
+Seni sevdiğimi bildim. - I knew that I loved you.
+Beni sevdiğini biliyorum. - I know that you love me.
+Beni sevdiğini bildim. - I knew that you loved me.
+Onun beni sevdiğini biliyorum. - I know that he/she love me.
+Onun seni sevdiği bildim. - I knew that he/she loved you.
+Mehmet'i sevdiğimizi biliyorum. - I know that we love Mehmet.
+Mehmet, seni sevdiğimizi bildi. - Mehmet knew that we loved you.
+Mehmet'i sevdiğinizi biliyorum. - I know that you love Mehmet.
+Mehmet, Ayşe'yi sevdiğinizi bildi. - Mehmet knew that you loved Ayshe.
+Seni sevdiklerini biliyorum. - I know that they love you.
+Mehmet, seni sevdiklerini bildi. - Mehmet knew that they loved you.
+Başkan hiç beklemediği bir sürprizle karşılaşır. - The Prime Minster meets with an unexpected surprise.
+Galatasaray taraftarının beklediği haber çiktı. - The news that the Galatasaray fans were waiting for has arrived.
+Gece karanlığından bıktığımızı bilmezler mi? - Don't they know that we are fed up with the dark nights?
+Gece karanlığından bıktığımızı bilmediler mi? - Didn't they know that we were fed up with the dark nights?
+Otomobilinizle hızla giderken dümdüz bir duvara çarptığınızı hayal edin. - Just imagine that you collide head on with a wall while travelling at speed in you car.
+Otomobilinizle hızla giderken dümdüz bir duvara çarptığınızı hayal edin. - Just imagine that you collided head on with a wall while travelling at speed in you car.
+Ford yeni bir tasarım ekibi kurduklarını söylüyor. - Ford are saying that thay are setting up a new design team.
+Libya, petrol üretimini durdurduklarını bildirdi. - It has been reported that Libya have halted their petrol production.
+Mehmet, seçtiğimi beğenmemiş. - Mehmet did not like what I chose.
+Mehmet, yaptığını beğenmemiş. - Mehmet did not like what you did.
+Mehmet, söylediğini beğenmemiş. - Mehmet did not like what he said.
+Mehmet, bulduğumuzu beğenmemiş. - Mehmet did not like what we found.
+Mehmet, aldığınızı beğenmemiş. - Mehmet did not like what you bought.
+Mehmet, değiştirdiklerini beğenmemiş. - Mehmet did not like what they changed.
+Bulduğum şapka. - The hat which I found.
+Bulduğum mendil beyazdır. - The handkerchief that I found is white.
+seçmek - to choose
+Seçtiğin kitap. - The book that you are choosing/chose.
+Gördüğü araba. - The car that he sees/saw.
+Yazdığımız mektup. - The letter that we are writing/that we wrote.
+Yazdığımız mektuplar burada. - The letters that we wrote are here.
+Dediğiniz gibi. - Like (what) you say/said.
+Sevdikleri dondurma. - The ice cream that they liked.
+Çalıştığım  ofis kapalı. - The office where I worked is closed.
+Söyledikleri mantıklıdır. - What they are saying/said is/was sensible.
+Çalan zil. - The bell which is ringing.
+Çalan zili duyabiliriyorum. - I can hear the bell  which is ringing.
+Çalan zili duyabildim. - I could hear the bell which was ringing.
+Çalınan zili duyabiliyorum. - I can hear the bell that is being rung.
+Çalınan zili duyabildim. - I could hear the bell that was being rung.
+Ayşe'nin okuduğu kitabı sen de okumak istiyor musun? - Do you want to read Ayshe's book too?
+Mehmet'in çaldığı zili duyabiliyorum. - I can hear the bell that Mehmet is/was ringing.
+Mehmet tarafından çalınan zili duyabiliyorum. - I can hear the bell that is/was being rung by Mehmet.
+Ayşe'nin okuduğu kitabı sen de okumak istiyor musun? - Do you want to read Ayshe's book too?
+Annesi, evin küçük odasını ailenin en küçük çocuğuna verdi. - The mother gave the house's small room to the smallest child.
+Ayşe'nin kalın kitabını bulamıyorum. - I cannot find Ayshe's thick book.
+Ali'nin geldiği zaman, çarşıya GİDİYORUZ. - When Ali COMES we ARE GOING to the shops.
+Ali'nin geldiği zaman, çarşıya GİTTİK. - When Ali CAME we WENT to the shops.
+Beni sevdiğini biliyorum. - I know that you love me.
+gelecek - that will come
+gülecek - that will laugh
+bakacak - that will look
+çıkmak - to exit
+çıkacak - that will go out
+Yarınki yapacağım iş önemli. - The work that I will do tomorrow will be important.
+Yapılabilecek bir şey yok. - There is nothing that can be done.
+Oturacak değilim. - I don't intend to sit.
+"Hayır" diyemeyeceğiniz tek lezzet. - The only taste that you will not be able to say "No" (to)
