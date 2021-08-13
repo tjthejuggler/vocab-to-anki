@@ -214,7 +214,8 @@ def main():
 		if total_lines == max_lines:
 			break
 		if is_formatted == False :
-			line = clean_string(line)
+			if not line.startswith('unit'):
+				line = clean_string(line)
 			phrases = re.split('[?.,!:]',line)			
 			for phrase in phrases:
 				phrase = remove_special_characters(phrase)
@@ -228,13 +229,16 @@ def main():
 					continue
 				if phrase != "":
 					if should_translate:
+						if line.startswith('unit'):
+							print('UNIT!!!!!!!!!!!!!!')
 						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
 						if translation:
 							translation_hint = ''
 							if not hint_lang == '':
 								translation_hint = get_translation(phrase, first_lang, hint_lang).replace('-','/') + ', '
 							output_lines.append(phrase + ' - ' + translation + ' - '+translation_hint+'no hint\n')
-					if should_download:						
+					if should_download:			
+						print(phrase)			
 						if api_calls >= max_api_calls:  
 							print('\nMax API calls reached!')
 							program_end(should_translate, should_download, should_make_audio_lesson, api_calls, mp3_download_lists)

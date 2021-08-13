@@ -1,3 +1,5 @@
+
+
 Unit1
 Entschuldigen Sie
 Verstehen Sie Englisch?
@@ -5,10 +7,12 @@ Nein ich verstehe kein Englisch
 Ich verstehe ein bisschen Deutsch
 Sind Sie Amerikaner?
 Ja Amerikaner
+Entschuldigen Sie
 Englisch
 Verstehen Sie?
 Sie verstehen
 Sie verstehen Englisch
+Verstehen Sie Englisch?
 Nein
 Ich
 Ich verstehe
@@ -28,14 +32,33 @@ Nur ein bisschen Deutsch
 Amerikaner
 Sie sind
 Sie sind Amerikaner
+Sind Sie Amerikaner?
 Ja
 Ja ein bisschen
 Sie verstehen ein bisschen Deutsch
 Unit2
 Entschuldigen Sie Verstehen Sie Deutsch?
+Ja ein bisschen
+Sind Sie Amerikaner?
 Ja Amerikaner Verstehen Sie Englisch?
+Nein ich verstehe kein Englisch
+Englisch
+Deutsch
+Ich verstehe
+Ich verstehe Deutsch
+Verstehen Sie?
+Verstehen Sie Deutsch?
+Verstehen Sie Englisch?
+Nein
 Kein Englisch
+Ich verstehe kein Englisch
+Ich verstehe kein Deutsch
 Ich verstehe ein bisschen
+Nur ein bisschen
+Entschuldigen Sie
+Ein bisschen
+Ich verstehe ein bisschen Deutsch
+Sind Sie Amerikaner?
 Ja Sie sind Amerikaner
 Guten Tag
 Wie?
@@ -62,6 +85,7 @@ Ich verstehe nicht
 Nein ich verstehe nicht
 Nein kein Amerikaner
 Auf wiedersehen Frau Meier
+Sie verstehen Deutsch
 Ja ich verstehe Deutsch
 Nicht sehr gut
 Conversation then reading list
@@ -69,12 +93,31 @@ Unit3
 Guten Tag Herr Gordon Wie geht es Ihnen?
 Sehr gut Frau Meier Danke
 Ah Sie verstehen Deutsch
+Nur ein bisschen
 Sie sind Amerikaner?
+Ja Amerikaner
 Aber Sie verstehen sehr gut Deutsch
 Nein nein nicht sehr gut
+Deutsch
+Ich verstehe Deutsch
+Ein bisschen
+Ich verstehe ein bisschen Deutsch
+Nur ein bisschen
+Ich verstehe nicht
 Entschuldigen Sie ich verstehe nicht
+Wie geht es Ihnen?
+Es geht mir gut
+Danke
+Guten Tag
+Auf wiedersehen
+Nicht sehr gut
+Ich verstehe kein Deutsch
+Sind Sie Amerikaner?
 Sind Sie Amerikanerin?
+Verstehen Sie Deutsch?
 Ich verstehe nicht sehr gut
+Entschuldigen Sie
+Nein
 Sie verstehen kein Englisch
 Verstehen Sie nur Deutsch?
 Nein es geht mir nicht gut
@@ -107,19 +150,39 @@ Sie sprechen sehr gut
 Unit4
 Entschuldigen Sie Sind Sie Deutscher?
 Ja ich bin Deutscher und Sie?
+Ich bin Amerikanerin
 Aber Sie verstehen Deutsch
 Ach ich verstehe ein bisschen aber nicht sehr gut
 Doch Sie verstehen sehr gut
 Nein nein Nur ein bisschen
+Guten Tag
+Wie geht es Ihnen?
+Sehr gut danke
+Es geht mir gut
 Und Ihnen?
+Nicht sehr gut
 Sehr gut danke und Ihnen?
+Ich bin Amerikaner
+Ich bin Amerikanerin
 Sie sind Deutsche
 Und Sie? Sind Sie Amerikaner?
+Sind Sie Deutsche?
+Verstehen Sie Englisch?
+Nein
+Ich verstehe kein Englisch
+Sie verstehen
+Nicht sehr gut
+Ich verstehe Englisch
+Ich verstehe ein bisschen
 Ich verstehe ein bisschen Englisch
 Ich bin kein Deutscher
+Ich bin keine Deutsche
 Sie sind kein Amerikaner?
+Bitte
+Entschuldigen Sie
 Sie sprechen
 Sie sprechen gut
+Sie sprechen sehr gut
 Ich spreche
 Ich spreche nicht gut
 Ich spreche nicht sehr gut
@@ -154,26 +217,51 @@ Die Goethestrasse ist nicht hier
 Der Opernplatz ist nicht heir
 Der Opernplatz ist dort drüben
 Unit5
+Entschuldigen Sie
 Ja bitte?
 Wo ist die Goethestrasse bitte?
+Die Goethestrasse ist dort drüben
 Und Opernplatz?
+Der Opernplatz ist heir
 Und wie geht es Ihnen?
 Mir? Sehr gut danke Auf wiedersehen
+Auf wiedersehen
+Guten Tag
+Verstehen Sie Englisch?
+Ich verstehe ein bisschen
+Und ich spreche ein bisschen
+Nur ein bisschen
+Und Sie?
+Verstehen Sie Deutsch?
 Ja ich verstehe gut Deutsch?
+Wie geht es Ihnen?
 Die Goethestrasse
 Die Strasse
 Der Opernplatz
 Der Platz
+Wo ist der Opernplatz?
 Entschuldigen Sie bitte
+Wo ist die Goethestrasse bitte?
+Hier
 Die Goethestrasse ist hier
+Ist die Goethestrasse hier?
 Nein dort drüben
 Die Goethestrasse ist nicht dort drüben
+Die Goethestrasse ist nicht hier
 Aber der Opernplatz ist heir
+Es geht mir gut
+Ich verstehe
+Ich verstehe nicht
 Nein danke
+Sehr gut danke
+Und wie geht es Ihnen?
 Es geht mir sehr gut
+Wo ist der Opernplatz bitte?
 Der Opernplatz ist nicht hier
 Und nicht dort drüben
+Wo?
 Ah sehr gut
+Auf wiedersehen
 Mir? Sehr gut
 Mir? Nicht sehr gut
 Ich weiss es nicht
@@ -211,15 +299,35 @@ Gut danke Ich möchte etwas essen Sie auch?
 Nein ich möchte nur etwas trinken
 Wo? Am Opernplatz?
 Ja gut
+Die Strasse
+Die Goethestrasse
+Entschuldigen Sie
+Bitte
+Wo ist die Goethestrasse?
+Wo ist die Goethestrasse bitte?
 Und der Opernplatz?
 Der Opernplatz ist dort dr ü ben
 Und ist die Goethestrasse hier?
 Nein nicht heir
+Möchten Sie etwas essen?
+Ja ich möchte etwas essen
+Möchten Sie etwas trinken?
 Ja ich möchte etwas trinken
+Trinken
+Ich möchte
+Nein danke
+Etwas
 Nein danke aber ich möchte etwas trinken
+Ich weiss es nicht
+Die Goethestrasse ist nicht hier
 üben
+Wo möchten Sie essen?
 Sie wissen es nicht?
+Nein ich weiss es nicht
+Nein danke aber ich möchte etwas essen
+Wo?
 Sehr gut
+Gut
 Bei mir
 Bei Ihnen
 Ich auch
@@ -249,29 +357,52 @@ Gerne
 Aber ich möchte auch etwas essen
 Ja später
 Ich möchte später essen
+Wo? Am Opernplatz?
 Unit7
 Entschuldigen Sie Brigete
 Ja?
 Wann möchten Sie etwas essen? Jetzt?
 Nein nicht jetzt später bitte Aber ich möchte jetzt etwas trinken
 Wo? Bei mir?
+Ja gerne
+Bei mir
 Ich möchte etwas essen
+Essen
 Etwas essen
+Ich möchte
+Jetzt
+Möchten Sie etwas trinken?
+Nein danke
+Aber ich möchte etwas essen
+Ich auch
+Wann?
+später
+Wo möchten Sie essen?
 Möchten Sie hier etwas essen?
+Nein nicht heir
 Heir
 Nicht
 Nicht hier
+Wo?
 Dort drüben?
 Am Opernplatz?
 Nein nicht am Opernplatz
+Bei Ihnen
+Gut
 Nein nicht bei Ihnen
+Wo möchten Sie essen?
 Ich möchte hier essen
 Ja sehr gut
+Wann möchten Sie essen?
+Ja gerne
 Aber nicht jetzt
+Ich auch
+Ich möchte etwas trinken
 Möchten Sie jetzt etwas essen?
 Gut Wann?
 Jetzt bitte
 Nicht am Opernplatz
+Etwas
 Gut und was möchten Sie trinken?
 Aber ich möchte jetzt etwas trinken
 Nein nein
@@ -304,15 +435,34 @@ Danke Peter Jetzt nicht Aber ich möchte etwas trinken
 Ja gut Was möchten Sie trinken?
 Ich möchte Wein trinken Nein nein ich trinke ein bier
 Ich auch Ich möchte auch ein Bier trinken Entschuldigen Sie zwei Bier bitte Wie bitte? Essen? Nein jetzt nicht später
+Möchten Sie jetzt essen?
+Ja gerne
+Möchten Sie?
 Möchten Sie essen?
+Wo möchten Sie essen?
 Im Restaurant?
 Nein bei Ihnen
+Ich auch
 Aber später
 Möchten Sie jetzt etwas trinken?
+Was möchten Sie trinken?
+Wann möchten Sie etwas trinken?
+Möchten Sie etwas trinken?
+Möchten Sie Bier trinken?
+Ich möchte Wein trinken
+Ich möchte
+Ich möchte nicht
 Kein Bier
 Ich möchte kein Bier
 Nein kein Bier
 Sie auch?
+Nein danke
+Ich weiss es nicht
+Gerne
+Ich verstehe nicht
+Was möchten Sie essen?
+Ich möchte etwas trinken
+Wo?
 Nein ich möchte jetzt etwas essen
 Ein Bier
 Das Bier
@@ -352,14 +502,27 @@ In der Beethovenstrasse
 Ah ja Ich weiss wo das ist
 Und ich möchte auch ein bisschen Wein trinken
 Ja gut Ich auch
+Wie geht es Ihnen?
+Verstehen Sie Deutsch?
+Wo ist die Goethestrasse?
+Entschuldigen Sie
+Ja?
+Ja bitte?
 Wo ist das Restaurant Zum Bären?
 Wo ist das Restaurant?
+In der Beethovenstrasse
 Ich möchte jetzt etwas essen
 Möchten Sie auch etwas essen?
 Nein ich nicht
+Etwas
 Was möchten Sie jetzt machen?
+Ich möchte etwas kaufen
+Wann?
 Und was möchten Sie kaufen?
 Ich möchte Wein kaufen
+Mit Ihnen
+Mit wem?
+Mit mir?
 Ja ich möchten mit Ihnen Wein kaufen
 Oder Bier
 Aber ich möchte mit Ihnen etwas trinken
@@ -368,14 +531,18 @@ Und auch nicht dort drüben im Hotel
 Wo möchten Sie etwas trinken?
 Ich möchte bei Ihnen trinken
 Aber ich ich möchte etwas essen
+Zwei
 Wo ist das Hotel Zum Bären bitte?
 Dort drüben in der Beethovenstrasse
 Möchten Sie mit mir etwas trinken?
+Nein danke
+Danke
 Nein danke nicht jetzt
 Und auch nicht später
 Ah ich verstehe Sie
 Sehr gut Jetzt verstehen Sie
 Sie möchten mit mir etwas essen
+Im Restaurant
 Sie verstehen nicht
 Was verstehe ich nicht?
 Sie verstehen kein Deutsch
@@ -423,18 +590,40 @@ Nein nein später viel später
 Ah ich verstehe Um acht Uhr oder um neun Uhr?
 Ja um neun Uhr
 Also dann bis neun Uhr Auf wiedersehen
+Ich möchte etwas essen
 Ich möchte etwas machen
+Was möchten Sie machen?
+Ich möchte etwas kaufen
+Um wieviel Uhr?
+Um ein Uhr
+Um eins
 Um neun Uhr?
 Nein nein um acht Uhr
 Gut um zwei Uhr
+Zwei
 Nein Sie verstehen nicht
+Was verstehe ich nicht?
+Möchten Sie etwas trinken?
+Nein danke
+Nichts
 Ich möchte nichts trinken
 Nichts?
 Sie möchten nichts trinken?
 Nein aber ich möchte etwas essen
+Ich verstehe nicht
 Oder möchten Sie etwas essen?
+Ich möchte etwas essen
+Mit mir?
+Ja bei Ihnen
+Um wieviel Uhr?
+Ich weiss es nicht
+Aber ich möchte etwas essen
+Aber nicht jetzt
 Ich möchte später etwas essen
 Möchten Sie später etwas essen?
+Ich möchte essen
+Nein später
+Wann?
 Danke ich möchte jetzt etwas essen
 Wieviel Uhr ist es?
 Es ist  
@@ -479,22 +668,36 @@ Geht es um acht Uhr?
 Nein nicht um acht Uhr Um neun geht das?
 Nein neun Uhr ist zu spät
 Ich möchte nicht mit Ihnen essen
+Wieviel Uhr ist es?
+Ich weiss es nicht
+Doch ich weiss es
+Es ist drei Uhr
 Es ist fund Uhr
 Mochten Sie jetzt etwas essen?
+Essen Sie jetzt?
 Nein ich esse später
 Um acht Uhr
 Ich trinke Wein
 später viel später
+Um neun Uhr
+Um wieviel Uhr?
+Wieviel Uhr ist es jetzt?
 Es ist jetzt vier Uhr
 Ich esse später
 Möchten Sie mit mir etwas essen?
 Gerne Wann?
+Wo?
 Wann jetzt?
 Nein nein nicht jetzt
 Sicher nicht jetzt
+später
+Sehr gut
 Ich esse mit Ihnen
+Geht das?
 Nicht um neun Uhr
+Ich esse jetzt
 Nicht jetzt später
+Gut
 Hören Sie zu
 Um sechs Uhr
 Oder um sieben Uhr
@@ -509,6 +712,7 @@ Heute Abend
 Heute
 Abend
 Ich möchte heute Abend mit Ihnen essen
+Also dann um sieben Uhr
 Um zehn Uhr
 Ich esse heute Abend um zehn Uhr
 Um wieviel Uhr heute Abend?
@@ -526,6 +730,7 @@ Möchten Sie heute mit mir essen?
 Nicht heute morgen
 Heute und morgen auch
 Es ist zehn Uhr
+Ich möchte heute Abend mit Ihnen essen
 Nicht heute Abend morgen Abend
 Also dann um acht Uhr bei mir
 Wie bitte?
@@ -541,29 +746,44 @@ Sagen Sie Brigete möchten Sie heute Abend mit mir essen?
 Heute Abend geht das nicht Peter aber morgen Abend gerne
 Gut um wieviel Uhr? Um acht?
 Das ist sehr spät
+Also dann um sieben Uhr
 Ja das geht Morgen Abend um sieben Uhr bei Ihnen
 Auf wiederhören Brigete
 Auf wiederhören Peter Bis morgen
+Heute Abend
+Morgen Abend
 Bis
+Bis morgen
 Bis morgen um sechs Uhr
 Bis morgen um acht
+Wieviel Uhr ist es jetzt?
 Es ist jetzt zehn Uhr
 Nein es ist vier Uhr
 Fünf Uhr
+Ich esse um fünf Uhr
 Sie essen um fünf?
+Mit Ihnen
+Ich esse mit Ihnen
 Ja ich möchte auch essen
 Mochten Sie Wein trinken?
 Nein ich möchte ein Bier
+Ein Bier
+Heute
+Nichts
 Ich trinke nichts
 Sie trinken nichts?
 Nein ich trinke heute nichts
 Ich esse heute um drei Uhr
 Order um zwei Uhr
+Gut
+Wieviel Uhr ist es?
 Wieviel?
+Die Strasse
 Eine Strasse
 Ein bier
 Sechs
 Nicht fünf vier
+Verstehen Sie?
 Ja ich verstehe
 Hören Sie jetzt zu
 Wieviel schulde ich Ihnen?
@@ -588,6 +808,7 @@ Schulde ich Ihnen zwölf Mark?
 Nein elf Mark
 Unit13
 Hallo ich möchte mit Brigete sprechen bitte Ah Sie sind Brigete Guten Tag hier ist Gunter
+Guten Tag Gunter Wie geht es Ihnen?
 Gut danke Sagen Sie Brigete möchten Sie heute Abend mit mir essen?
 Das geht nicht Gunter Ich esse heute Abend mit Erika Aber möchten Sie später bei mir etwas trinken?
 Ja gerne um wieviel Uhr?
@@ -597,16 +818,27 @@ Bis heute Abend Gunter
 Wieviel Uhr ist es bitte?
 Es ist elf Uhr
 Nein es ist acht Uhr
+Wieviel schulde ich Ihnen?
+Dreizehn Mark
 Nein zwölf
 Zwei order zwölf?
 Ich verstehe Sie nicht
+Hören Sie zu
 Wiederholen Sie bitte
 Wann heute?
 Oder morgen?
 Nicht heute Abend
+Morgen Abend
+Um wieviel Uhr?
+Um sechs Uhr oder um sieben Uhr
 Heute?
 Nicht morgen Abend
 Bis später
+Auf wiedersehen
+Guten Tag
+Es geht mir gut
+Dreizehn Mark
+Drei
 Zehn
 Danke auf wiedersehen
 Hören Sie bitte zu
@@ -661,24 +893,40 @@ Haben Sie eine Mark?
 Mochten Sie eine Mark?
 Ich möchte sechzehn Mark
 Fünfzehn oder sechzehn Mark
+Wieviele Dollar haben Sie?
 Ich habe keine Dollar
 Ich habe Deutsche Mark
 Viele Deutsche Mark
 Aber ich habe keine Dollar
 Sie haben keine Dollar?
+Sie sind kein Amerikaner
+Sie sind keine Amerikanerin
+Doch ich bin Amerikaner
 Doch ich bin Amerikanerin
 Aber keine Deutsche Mark
 Gut hier sind drei Dollar
+Ich habe Deutsche Mark
+Viele Deutsche Mark
 Sieben
 Und ich habe auch Deutsche Mark
 Wieviele Deutsche Mark haben Sie?
+Das Bier
 Ich habe kein Bier
 Der Wein
+Ich möchte etwas trinken
 Hier ist ein Bier
+Möchten Sie ein Bier?
 Möchten Sie auch etwas trinken?
+Ja gerne
 Sechzehn
+Vierzehn
+Fünfzehn
 Dreizehn
 Viel
+Entschuldigen Sie
+Ja bitte?
+Wo ist die Goethestrasse?
+Dort drüben?
 Oder hier?
 Die Goethestrasse ist dort dr ü ben
 Und ist der Beethovenplatz auch dort drüben?
@@ -686,7 +934,9 @@ Ja auch dort drüben
 Ich habe Deutsche Mark aber keine Dollar
 Wieviele Deutsche Mark möchten Sie?
 Was machen Sie jetzt?
+Was möchten Sie jetzt machen?
 Sie haben keine Dollar
+Also dann
 Hier sind sechzehn Deutsche Mark
 Ich habe ein paar Deutsche Mark
 Ich habe ein paar Dollar
@@ -720,6 +970,7 @@ Das ist nicht viel
 Vielen Dank
 Bitte Geben Sie mir fünfzehn Mark
 Nein Geben Sie mir siebzehn oder achtzehn Mark
+Haben Sie ein paar Dollar?
 Achtzehn oder neunzehn
 Ich gebe
 Ich gebe Ihnen
@@ -731,5 +982,6 @@ Auf wiedersehen? Wohin gehen Sie denn Jane?
 Ich? Ich gehe etwas kaufen
 Haben Sie Deutsche Mark?
 Nein keine Deutsche Mark aber ich habe ein paar Dollar
+Wieviele Dollar haben Sie?
 Vierzehn oder fünfzehn
 Ich gebe Ihnen zehn Mark und fünf Dollar Hier jetzt haben Sie zehn

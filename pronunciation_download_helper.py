@@ -37,7 +37,8 @@ def has_previously_failed(word, lang):
 				has_failed = True
 	except:
 		print(lang +' failed list does not exist')
-	return has_failed
+	return False
+	#return has_failed
 
 def synthesize_text(text, lang):
 	#print('lang', lang, text)

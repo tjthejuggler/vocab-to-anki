@@ -1,6 +1,7 @@
+unit1
 entschuldigen sie - disculpe - no hint
 verstehen sie englisch - entiendes inglés - no hint
-nein ich verstehe kein englisch - no no entiendo ingles - no hint
+nein ich verstehe kein englisch - no, no entiendo ingles - no hint
 ich verstehe ein bisschen deutsch - entiendo un poco de alemán - no hint
 sind sie amerikaner - eres americano - no hint
 ja amerikaner - si americanos - no hint
@@ -18,7 +19,7 @@ ich verstehe deutsch - entiendo aleman - no hint
 ich verstehe kein deutsch - yo no entiendo alemán - no hint
 sie verstehen deutsch - ellos entienden alemán - no hint
 verstehen sie deutsch - entiendes alemán - no hint
-nein ich verstehe kein deutsch - no no entiendo alemán - no hint
+nein ich verstehe kein deutsch - no, no entiendo alemán - no hint
 ein bisschen - un poco - no hint
 nur - solamente - no hint
 nur ein bisschen - solo un poco - no hint
@@ -30,8 +31,9 @@ sie sind amerikaner - tu eres americano - no hint
 ja - y - no hint
 ja ein bisschen - sí un poco - no hint
 sie verstehen ein bisschen deutsch - entienden un poco de alemán - no hint
-entschuldigen sie verstehen sie deutsch - disculpa entiendes alemán - no hint
-ja amerikaner verstehen sie englisch - sí los estadounidenses entienden inglés - no hint
+unit2
+entschuldigen sie verstehen sie deutsch - disculpa, entiendes alemán - no hint
+ja amerikaner verstehen sie englisch - sí, los estadounidenses entienden inglés - no hint
 kein englisch - no inglés - no hint
 ich verstehe ein bisschen - entiendo un poco - no hint
 ja sie sind amerikaner - si eres americano - no hint
@@ -43,8 +45,8 @@ ihnen - ellos - no hint
 wie geht es ihnen - como estas - no hint
 guten tag frau meier - buenos días señora meier - no hint
 frau - mujer - no hint
-frau meier - sra meier - no hint
-sehr gut danke - muy bien gracias - no hint
+frau meier - sra. meier - no hint
+sehr gut danke - muy bien, gracias - no hint
 danke - gracias - no hint
 gut - bien - no hint
 sehr - muy - no hint
@@ -58,13 +60,14 @@ wie geht es ihnen herr gordon - como esta señor gordon - no hint
 auf wiedersehen - adiós - no hint
 ich verstehe nicht - no entiendo - no hint
 nein ich verstehe nicht - no no entiendo - no hint
-nein kein amerikaner - no no americano - no hint
+nein kein amerikaner - no, no americano - no hint
 auf wiedersehen frau meier - adiós señora meier - no hint
-ja ich verstehe deutsch - sí entiendo alemán - no hint
+ja ich verstehe deutsch - sí, entiendo alemán - no hint
 nicht sehr gut - no muy bueno - no hint
 conversation then reading list - conversación luego lista de lectura - no hint
+unit3
 guten tag herr gordon wie geht es ihnen - hola señor gordon como esta - no hint
-sehr gut frau meier danke - muy bien señora meier gracias - no hint
+sehr gut frau meier danke - muy bien, señora meier, gracias - no hint
 ah sie verstehen deutsch - ah ellos entienden alemán - no hint
 aber sie verstehen sehr gut deutsch - pero entienden muy bien el alemán - no hint
 nein nein nicht sehr gut - no no no muy bien - no hint
@@ -73,7 +76,7 @@ sind sie amerikanerin - eres americano - no hint
 ich verstehe nicht sehr gut - no entiendo muy bien - no hint
 sie verstehen kein englisch - ellos no entienden ingles - no hint
 verstehen sie nur deutsch - ellos solo entienden alemán - no hint
-nein es geht mir nicht gut - no no estoy bien - no hint
+nein es geht mir nicht gut - no, no estoy bien - no hint
 es geht mir nicht sehr gut - no lo estoy haciendo muy bien - no hint
 geht es ihnen gut - están bien - no hint
 ja danke - si gracias - no hint
@@ -85,7 +88,7 @@ ich bin amerikaner - soy americano - no hint
 ich bin amerikanerin - soy estadounidense - no hint
 ich bin deutscher - soy aleman - no hint
 sind sie deutscher - eres alemán - no hint
-nein ich bin amerikaner - no yo soy americano - no hint
+nein ich bin amerikaner - no, yo soy americano - no hint
 sind sie deutsche - eres alemán - no hint
 ich bin keine deutsche - no soy alemán - no hint
 und sie - y usted - no hint
@@ -100,14 +103,15 @@ bitte - de nada - no hint
 ich bin kein amerikaner - yo no soy americano - no hint
 ja ja - y y - no hint
 sie sprechen sehr gut - ellos hablan muy bien - no hint
+unit4
 entschuldigen sie sind sie deutscher - disculpe usted es aleman - no hint
 ja ich bin deutscher und sie - si soy aleman y tu - no hint
 aber sie verstehen deutsch - pero entienden alemán - no hint
 ach ich verstehe ein bisschen aber nicht sehr gut - oh entiendo un poco pero no muy bien - no hint
 doch sie verstehen sehr gut - pero entienden muy bien - no hint
-nein nein nur ein bisschen - no solo un poco - no hint
+nein nein nur ein bisschen - no, solo un poco - no hint
 und ihnen - y usted - no hint
-sehr gut danke und ihnen - muy bien gracias y tú - no hint
+sehr gut danke und ihnen - muy bien, gracias. y tú - no hint
 sie sind deutsche - son alemanes - no hint
 ich verstehe ein bisschen englisch - entiendo un poco de ingles - no hint
 ich bin kein deutscher - no soy aleman - no hint
@@ -124,7 +128,7 @@ ich spreche englisch - yo hablo inglés - no hint
 und ich spreche ein bisschen - y hablo un poco - no hint
 sie sprechen gut englisch - ellos hablan bien ingles - no hint
 doch ich bin amerikaner - pero yo soy americano - no hint
-wo ist die goethestrasse - dónde está la goethestrasse - no hint
+wo ist die goethestrasse - ¿dónde está la goethestrasse? - no hint
 goethe die strasse - ir a la calle - no hint
 die goethestrasse - la goethestrasse - no hint
 die beethovenstrasse - la beethovenstrasse - no hint
@@ -139,26 +143,27 @@ wo ist der opernplatz bitte - donde esta la plaza de la opera por favor - no hin
 hier - aquí - no hint
 der opernplatz ist heir - la plaza de la opera esta aqui - no hint
 ist die goethestrasse hier - es la goethestrasse aquí - no hint
-ja hier - si acá - no hint
-nein die goethestrasse ist nicht heir - no la goethestrasse no está aquí - no hint
+ja hier - si, acá - no hint
+nein die goethestrasse ist nicht heir - no, la goethestrasse no está aquí - no hint
 dort drüben - por ahí - no hint
 die goethestrasse ist dort drüben - goethestrasse está allí - no hint
 die goethestrasse ist nicht hier - goethestrasse no está aquí - no hint
 der opernplatz ist nicht heir - la plaza de la opera no esta aqui - no hint
 der opernplatz ist dort drüben - la plaza de la opera esta alli - no hint
-ja bitte - sí por favor - no hint
+unit5
+ja bitte - sí, por favor - no hint
 wo ist die goethestrasse bitte - donde esta goethestrasse por favor - no hint
 und opernplatz - y plaza de la opera - no hint
 und wie geht es ihnen - y cómo estás - no hint
 sehr gut danke auf wiedersehen - muy bien gracias adios - no hint
-ja ich verstehe gut deutsch - sí entiendo bien el alemán - no hint
+ja ich verstehe gut deutsch - sí, entiendo bien el alemán - no hint
 die strasse - la calle - no hint
-entschuldigen sie bitte - discúlpame por favor - no hint
+entschuldigen sie bitte - discúlpame, por favor - no hint
 die goethestrasse ist hier - goethestrasse está aquí - no hint
 nein dort drüben - no por ahí - no hint
 die goethestrasse ist nicht dort drüben - goethestrasse no está allí - no hint
 aber der opernplatz ist heir - pero la plaza de la opera esta aqui - no hint
-nein danke - no gracias - no hint
+nein danke - no, gracias - no hint
 es geht mir sehr gut - me va muy bien - no hint
 der opernplatz ist nicht hier - la plaza de la opera no esta aqui - no hint
 und nicht dort drüben - y no por ahí - no hint
@@ -171,7 +176,7 @@ aber ich weiss es - pero lo se - no hint
 die mozartstrasse ist dort drüben - la mozartstrasse está ahí - no hint
 sie wissen es - tú lo sabes - no hint
 wissen sie es - lo sabes - no hint
-nein ich weiss es nicht - no no lo se - no hint
+nein ich weiss es nicht - no, no lo se - no hint
 die mozartstrasse ist nicht dort drüben - mozartstrasse no está allí - no hint
 ich möchte - me gustaría - no hint
 sie möchten - quieres - no hint
@@ -192,16 +197,17 @@ nein danke aber ich möchte etwas essen - no gracias pero quiero comer algo - no
 doch ich weiss es - pero yo sé - no hint
 wo möchten sie essen - dónde te gustaría comer - no hint
 aber ich nicht - pero no yo - no hint
+unit6
 guten tag brigete - buen dia brigete - no hint
 guten tag gunter wie geht es ihnen - hola gunter como estas - no hint
 gut danke ich möchte etwas essen sie auch - bueno gracias yo quiero comer algo tu tambien - no hint
-nein ich möchte nur etwas trinken - no solo quiero tomar un trago - no hint
+nein ich möchte nur etwas trinken - no, solo quiero tomar un trago - no hint
 am opernplatz - soy opernplatz - no hint
 ja gut - si bien - no hint
 und der opernplatz - y la plaza de la opera - no hint
 der opernplatz ist dort dr ü ben - la plaza de la opera esta alli - no hint
 und ist die goethestrasse hier - y la goethestrasse está aquí - no hint
-nein nicht heir - no aquí no - no hint
+nein nicht heir - no, aquí no - no hint
 ja ich möchte etwas trinken - si quiero tomar una copa - no hint
 nein danke aber ich möchte etwas trinken - no gracias pero quiero tomar una copa - no hint
 üben - práctica - no hint
@@ -216,7 +222,7 @@ wann - cuándo - no hint
 jetzt - ahora - no hint
 wann möchten sie essen - cuando quieres comer - no hint
 möchten sie jetzt essen - te gustaria comer ahora - no hint
-nein nicht jetzt - no no ahora - no hint
+nein nicht jetzt - no, no ahora - no hint
 später - luego - no hint
 und wann möchten sie etwas trinken - y cuando te gustaria tomar una copa - no hint
 nein später - no más tarde - no hint
@@ -225,29 +231,30 @@ später bitte - más tarde por favor - no hint
 nicht bei mir - no conmigo - no hint
 ja am opernplatz - si en la plaza de la opera - no hint
 ich möchte auch etwas trinken - yo también quiero tomar una copa - no hint
-ja ich auch - sí yo también - no hint
+ja ich auch - sí, yo también - no hint
 wann möchten sie etwas trinken - cuando te gustaria tomar una copa - no hint
 nein jetzt - no ahora - no hint
-möchten sie bei mir etwas trinken - te gustaria tomar una copa conmigo - no hint
-ja gerne - sí por favor - no hint
+möchten sie bei mir etwas trinken - te gustaria tomar una copa conmigo? - no hint
+ja gerne - sí, por favor - no hint
 gerne - con alegría - no hint
 aber ich möchte auch etwas essen - pero también quiero comer algo - no hint
 ja später - si más tarde - no hint
 ich möchte später essen - quiero comer mas tarde - no hint
+unit7
 entschuldigen sie brigete - disculpe brigete - no hint
 nein nicht jetzt später bitte aber ich möchte jetzt etwas trinken - no ahora no más tarde por favor pero quiero tomar una copa ahora - no hint
 ich möchte etwas essen - quiero comer algo - no hint
 etwas essen - come algo - no hint
-möchten sie hier etwas essen - te gustaria comer algo aqui - no hint
+möchten sie hier etwas essen - te gustaria comer algo aqui? - no hint
 heir - heredero - no hint
 nicht - no - no hint
 nicht hier - aqui no - no hint
-nein nicht am opernplatz - no no en la plaza de la ópera - no hint
-nein nicht bei ihnen - no no con ellos - no hint
+nein nicht am opernplatz - no, no en la plaza de la ópera - no hint
+nein nicht bei ihnen - no, no con ellos - no hint
 ich möchte hier essen - quiero comer aqui - no hint
 ja sehr gut - si muy bien - no hint
 aber nicht jetzt - pero no ahora - no hint
-möchten sie jetzt etwas essen - te gustaría comer algo ahora - no hint
+möchten sie jetzt etwas essen - ¿te gustaría comer algo ahora? - no hint
 gut wann - bueno cuando - no hint
 jetzt bitte - ahora por favor - no hint
 nicht am opernplatz - no en la plaza de la opera - no hint
@@ -277,21 +284,22 @@ in der goethestrasse - en goethestrasse - no hint
 das restaurant ist in der goethestrasse - el restaurante está en goethestrasse - no hint
 möchten sie bier trinken - quieres beber cerveza - no hint
 heir in der goethestrasse - heredero en la goethestrasse - no hint
+unit8
 ingrid möchten sie jetzt essen - ingrid quisiera comérselos ahora - no hint
 danke peter jetzt nicht aber ich möchte etwas trinken - gracias peter no ahora pero quiero tomar un trago - no hint
 ja gut was möchten sie trinken - si bueno que te gustaria beber - no hint
-ich möchte wein trinken nein nein ich trinke ein bier - quiero beber vino no no bebo una cerveza - no hint
+ich möchte wein trinken nein nein ich trinke ein bier - quiero beber vino no no, bebo una cerveza - no hint
 ich auch ich möchte auch ein bier trinken entschuldigen sie zwei bier bitte wie bitte - yo también me gustaría beber una cerveza por favor disculpe dos cervezas por favor - no hint
 nein jetzt nicht später - no ahora no mas tarde - no hint
 möchten sie essen - quieres comer - no hint
 nein bei ihnen - no con ellos - no hint
 aber später - pero despues - no hint
-möchten sie jetzt etwas trinken - te gustaría tomar una copa ahora - no hint
+möchten sie jetzt etwas trinken - ¿te gustaría tomar una copa ahora? - no hint
 kein bier - no cerveza - no hint
 ich möchte kein bier - no quiero una cerveza - no hint
-nein kein bier - no no cerveza - no hint
+nein kein bier - no, no cerveza - no hint
 sie auch - ellos también - no hint
-nein ich möchte jetzt etwas essen - no quiero comer algo ahora - no hint
+nein ich möchte jetzt etwas essen - no, quiero comer algo ahora - no hint
 ein bier - una cerveza - no hint
 das bier - la cerveza - no hint
 das bier ist gut - la cerveza es buena - no hint
@@ -318,22 +326,23 @@ etwas kaufen - comprar algo - no hint
 aber mit wem - pero con quien - no hint
 mit mir - conmigo - no hint
 ja mit ihnen - si con ellos - no hint
+unit9
 guten tag ingrid wie geht es ihnen - buenas tardes ingrid como estas - no hint
 es geht mir gut michael danke - estoy bien michael gracias - no hint
 sagen sie ingrid was möchten sie jetzt machen - dile a ingrid que te gustaria hacer ahora - no hint
 ich möchte etwas trinken und sie - quiero tomar un trago y tu - no hint
-ich möchte jetzt etwas essen möchten sie mit mir essen - me gustaría comer algo ahora te gustaría comer conmigo - no hint
-ja aber wo - sí pero dónde - no hint
+ich möchte jetzt etwas essen möchten sie mit mir essen - me gustaría comer algo ahora, ¿te gustaría comer conmigo? - no hint
+ja aber wo - sí ¿pero dónde - no hint
 im restaurant zum bären - en el restaurante zum bären - no hint
-wo ist der restaurant zum bären - dónde está el restaurante zum bären - no hint
+wo ist der restaurant zum bären - ¿dónde está el restaurante zum bären? - no hint
 in der beethovenstrasse - en la beethovenstrasse - no hint
 ah ja ich weiss wo das ist - ah si ya se donde es eso - no hint
 und ich möchte auch ein bisschen wein trinken - y yo también quiero tomar un poco de vino - no hint
 ja gut ich auch - si bueno yo tambien - no hint
-wo ist das restaurant zum bären - dónde está el restaurante zum bären - no hint
+wo ist das restaurant zum bären - ¿dónde está el restaurante zum bären? - no hint
 wo ist das restaurant - donde está el restaurante - no hint
 ich möchte jetzt etwas essen - quiero comer algo ahora - no hint
-möchten sie auch etwas essen - te gustaría comer algo también - no hint
+möchten sie auch etwas essen - ¿te gustaría comer algo también? - no hint
 nein ich nicht - no yo no - no hint
 was möchten sie jetzt machen - qué te gustaría hacer ahora - no hint
 und was möchten sie kaufen - y que quieres comprar - no hint
@@ -343,12 +352,12 @@ oder bier - o cerveza - no hint
 aber ich möchte mit ihnen etwas trinken - pero quiero tomar una copa con ellos - no hint
 aber nicht hier - pero no aquí - no hint
 und auch nicht dort drüben im hotel - y tampoco allá en el hotel - no hint
-wo möchten sie etwas trinken - dónde te gustaría tomar una copa - no hint
+wo möchten sie etwas trinken - ¿dónde te gustaría tomar una copa? - no hint
 ich möchte bei ihnen trinken - quiero beber con ellos - no hint
 aber ich ich möchte etwas essen - pero quiero comer algo - no hint
-wo ist das hotel zum bären bitte - dónde está el hotel zum bären por favor - no hint
+wo ist das hotel zum bären bitte - ¿dónde está el hotel zum bären por favor? - no hint
 dort drüben in der beethovenstrasse - allá en beethovenstrasse - no hint
-möchten sie mit mir etwas trinken - te gustaria tomar una copa conmigo - no hint
+möchten sie mit mir etwas trinken - te gustaria tomar una copa conmigo? - no hint
 nein danke nicht jetzt - no gracias no ahora - no hint
 und auch nicht später - y no mas tarde tampoco - no hint
 ah ich verstehe sie - ah te entiendo - no hint
@@ -385,31 +394,32 @@ ja das geht aber ich möchte bei ihnen etwas essen - si eso funciona pero me gus
 um zwei uhr geht das - a las dos en punto va - no hint
 ja das geht - esta bien - no hint
 aber um ein uhr geht das - pero a la una va - no hint
-nein das geht nicht - no eso no funciona - no hint
+nein das geht nicht - no, eso no funciona - no hint
 später um acht uhr - más tarde a las ocho en punto - no hint
-nein nicht um acht uhr - no no a las ocho en punto - no hint
+nein nicht um acht uhr - no, no a las ocho en punto - no hint
 oder um nein uhr - o a las no en punto - no hint
 sicher nicht - ciertamente no - no hint
 sie möchten nichts trinken - no quieren beber nada - no hint
 um acht uhr oder um neun uhr - a las ocho o nueve en punto - no hint
 nicht um ein uhr und nicht um zwei uhr - ni a la una ni a las dos - no hint
 nicht um acht uhr und nicht um neun uhr - ni a las ocho ni a las nueve - no hint
+unit10
 peter ich möchte mit ihnen zusammen essen - peter quiero comer contigo - no hint
 gerne aber um wieviel uhr - pero a que hora - no hint
 um zwei - a las dos - no hint
 nein nein später viel später - no no mas tarde mucho mas tarde - no hint
-ah ich verstehe um acht uhr oder um neun uhr - ah entiendo a las ocho o nueve en punto - no hint
+ah ich verstehe um acht uhr oder um neun uhr - ah, entiendo a las ocho o nueve en punto - no hint
 ja um neun uhr - si a las nueve en punto - no hint
 also dann bis neun uhr auf wiedersehen - así que adiós hasta las nueve - no hint
 ich möchte etwas machen - quiero hacer algo - no hint
 nein nein um acht uhr - no no a las ocho en punto - no hint
 gut um zwei uhr - bueno a las dos en punto - no hint
-nein sie verstehen nicht - no ellos no entienden - no hint
+nein sie verstehen nicht - no, ellos no entienden - no hint
 ich möchte nichts trinken - no quiero beber nada - no hint
 nein aber ich möchte etwas essen - no pero quiero comer algo - no hint
 oder möchten sie etwas essen - o quieres comer algo - no hint
 ich möchte später etwas essen - quiero comer algo mas tarde - no hint
-möchten sie später etwas essen - quieres comer algo mas tarde - no hint
+möchten sie später etwas essen - quieres comer algo mas tarde? - no hint
 danke ich möchte jetzt etwas essen - gracias quiero comer algo ahora - no hint
 wieviel uhr ist es - que hora es - no hint
 es ist - es - no hint
@@ -420,7 +430,7 @@ es ist drei uhr - son las tres en punto - no hint
 drei - tres - no hint
 es ist vier uhr - son las cuatro en punto - no hint
 ist es vier uhr - son las cuatro en punto - no hint
-nein es ist drei uhr - no son las tres en punto - no hint
+nein es ist drei uhr - no, son las tres en punto - no hint
 es ist acht uhr - son las ocho en punto - no hint
 vier uhr - cuatro en punto - no hint
 fünf uhr - cinco en punto - no hint
@@ -430,7 +440,7 @@ ich esse jetzt - estoy comiendo ahora - no hint
 ich esse - yo como - no hint
 sie essen - ellos comen - no hint
 essen sie jetzt - cómelo ahora - no hint
-ja ich esse jetzt - si como ahora - no hint
+ja ich esse jetzt - si, como ahora - no hint
 ich esse um fünf uhr - como a las cinco en punto - no hint
 essen sie um fünf uhr - comer a las cinco en punto - no hint
 ich esse um acht uhr - como a las ocho en punto - no hint
@@ -440,21 +450,22 @@ ich trinke etwas um neun uhr - tomo un trago a las nueve en punto - no hint
 wieviel uhr ist es jetzt - qué hora es en este momento - no hint
 es ist jetzt ein uhr - ahora es la una - no hint
 es ist eins - es uno - no hint
+unit11
 um wieviel uhr möchten sie mit mir essen - a que hora te gustaria comer conmigo - no hint
 um ein uhr geht das - a la una va - no hint
-nein um ein uhr geht es nicht geht es um zwei uhr - no no es alrededor de la una son las dos en punto - no hint
+nein um ein uhr geht es nicht geht es um zwei uhr - no, no es alrededor de la una, son las dos en punto - no hint
 nein um zwei uhr geht das nicht um drei - no a las dos no es a las tres - no hint
 nein nein nicht um drei uhr geht es um vier uhr - no no no a las tres en punto son las cuatro en punto - no hint
 nein um vier uhr geht das nicht - no a las cuatro eso no funciona - no hint
 um fünf uhr - a las cinco - no hint
 nein viel später bitte - no mucho más tarde por favor - no hint
 geht es um acht uhr - son las ocho en punto - no hint
-nein nicht um acht uhr um neun geht das - no eso no es posible a las ocho en punto a las nueve - no hint
+nein nicht um acht uhr um neun geht das - no, eso no es posible a las ocho en punto a las nueve - no hint
 nein neun uhr ist zu spät - no las nueve es demasiado tarde - no hint
 ich möchte nicht mit ihnen essen - no quiero comer con ellos - no hint
 es ist fund uhr - es reloj de fondo - no hint
-mochten sie jetzt etwas essen - les gustaría algo de comer ahora - no hint
-nein ich esse später - no como después - no hint
+mochten sie jetzt etwas essen - ¿les gustaría algo de comer ahora? - no hint
+nein ich esse später - no, como después - no hint
 ich trinke wein - tomo vino - no hint
 später viel später - mas tarde mucho mas tarde - no hint
 es ist jetzt vier uhr - ahora son las cuatro en punto - no hint
@@ -466,7 +477,7 @@ nein nein nicht jetzt - no no no ahora - no hint
 sicher nicht jetzt - ciertamente no ahora - no hint
 ich esse mit ihnen - yo como con ellos - no hint
 nicht um neun uhr - no a las nueve en punto - no hint
-nicht jetzt später - no ahora después - no hint
+nicht jetzt später - no ahora, después - no hint
 hören sie zu - escucha a - no hint
 um sechs uhr - a las seis - no hint
 oder um sieben uhr - o a las siete en punto - no hint
@@ -504,31 +515,32 @@ wie bitte - le ruego me disculpe - no hint
 bitte wiederholen sie - por favor repitelo - no hint
 gut aber hören sie zu - bueno pero escucha - no hint
 bis morgen - hasta mañana - no hint
+unit12
 hallo brigete - hola brigete - no hint
 ja ich bin - sí lo soy - no hint
 s - s - no hint
 hier ist peter wie geht es ihnen - aqui esta peter como estas - no hint
 gut danke - bien gracias - no hint
-sagen sie brigete möchten sie heute abend mit mir essen - di brigete te gustaría comer conmigo esta noche - no hint
+sagen sie brigete möchten sie heute abend mit mir essen - di brigete, ¿te gustaría comer conmigo esta noche? - no hint
 heute abend geht das nicht peter aber morgen abend gerne - peter no puede hacer eso esta noche pero con gusto mañana por la noche - no hint
 gut um wieviel uhr - bueno a que hora - no hint
 um acht - a las ocho - no hint
 das ist sehr spät - es muy tarde - no hint
-ja das geht morgen abend um sieben uhr bei ihnen - sí puedes hacerlo mañana a las siete en punto - no hint
+ja das geht morgen abend um sieben uhr bei ihnen - sí, puedes hacerlo mañana a las siete en punto - no hint
 auf wiederhören brigete - adiós brigete - no hint
 auf wiederhören peter bis morgen - adiós peter nos vemos mañana - no hint
 bis - hasta - no hint
 bis morgen um sechs uhr - nos vemos mañana a las seis - no hint
 bis morgen um acht - nos vemos mañana a las ocho - no hint
 es ist jetzt zehn uhr - ahora son las diez en punto - no hint
-nein es ist vier uhr - no son las cuatro en punto - no hint
+nein es ist vier uhr - no, son las cuatro en punto - no hint
 sie essen um fünf - comen a las cinco - no hint
 ja ich möchte auch essen - si yo tambien quiero comer - no hint
 mochten sie wein trinken - les gustaría beber vino - no hint
-nein ich möchte ein bier - no quiero una cerveza - no hint
+nein ich möchte ein bier - no, quiero una cerveza - no hint
 ich trinke nichts - no bebo nada - no hint
 sie trinken nichts - ellos no beben nada - no hint
-nein ich trinke heute nichts - no no beberé nada hoy - no hint
+nein ich trinke heute nichts - no, no beberé nada hoy - no hint
 ich esse heute um drei uhr - hoy como a las tres en punto - no hint
 order um zwei uhr - o a las dos en punto - no hint
 eine strasse - una calle - no hint
@@ -556,16 +568,17 @@ nein nicht dreizehn - no no trece - no hint
 nicht dreizehn zwölf - no trece doce - no hint
 schulde ich ihnen zwölf mark - te debo doce marcos - no hint
 nein elf mark - no once marcas - no hint
+unit13
 hallo ich möchte mit brigete sprechen bitte ah sie sind brigete guten tag hier ist gunter - hola quiero hablar con brigete por favor ah eres brigete hola aquí está gunter - no hint
-gut danke sagen sie brigete möchten sie heute abend mit mir essen - bueno gracias brigete te gustaría comer conmigo esta noche - no hint
+gut danke sagen sie brigete möchten sie heute abend mit mir essen - bueno, gracias, brigete, ¿te gustaría comer conmigo esta noche? - no hint
 das geht nicht gunter ich esse heute abend mit erika aber möchten sie später bei mir etwas trinken - eso no funciona bien ceno con erika esta noche pero te gustaría tomar una copa conmigo más tarde - no hint
-ja gerne um wieviel uhr - si a que hora - no hint
+ja gerne um wieviel uhr - si, a que hora - no hint
 um neun uhr oder später um zehn uhr - a las nueve en punto o más tarde a las diez en punto - no hint
 ja das geht um zehn uhr bei ihnen auf wiederhören brigete - si que va a las diez contigo para parar de nuevo brigete - no hint
 bis heute abend gunter - hasta esta noche gunter - no hint
 wieviel uhr ist es bitte - que hora es - no hint
 es ist elf uhr - son las once en punto - no hint
-nein es ist acht uhr - no son las ocho en punto - no hint
+nein es ist acht uhr - no, son las ocho en punto - no hint
 nein zwölf - no doce - no hint
 zwei order zwölf - dos o doce - no hint
 ich verstehe sie nicht - no lo comprendo - no hint
@@ -595,10 +608,10 @@ ich habe fünfzehn dollar - tengo quince dólares - no hint
 fünfzehn - quince - no hint
 und vierzehn dollar - y catorce dólares - no hint
 haben sie sechzehn mark - tienes dieciséis marcas - no hint
-nein ich habe dreizehn mark - no tengo trece marcas - no hint
+nein ich habe dreizehn mark - no, tengo trece marcas - no hint
 aber ich habe fünfzehn dollar - pero tengo quince dolares - no hint
 sie haben keine sechzehn dollar - no tienen dieciséis dólares - no hint
-nein ich habe keine sechzehn dollar - no no tengo dieciséis dólares - no hint
+nein ich habe keine sechzehn dollar - no, no tengo dieciséis dólares - no hint
 sie schulden mir - me debes - no hint
 sie schulden mir fünfzehn mark - me debes quince marcos - no hint
 und in dollar - y en dolares - no hint
@@ -614,6 +627,7 @@ also dann vierzehn deutsche mark - entonces catorce marcos alemanes - no hint
 die verkaüferin - el vendedor - no hint
 mit die verkaüferin - con el vendedor - no hint
 heir sind zehn dollar - aquí hay diez dólares - no hint
+unit14
 entschuldigen sie haben sie amerikanische zigaretten - disculpe usted tiene cigarrillos americanos - no hint
 ja hier bitte - si aqui por favor - no hint
 danke wieviel schulde ich ihnen - gracias cuanto te debo - no hint
@@ -679,7 +693,7 @@ geben sie mir jetzt siebzehn mark - dame diecisiete marcos ahora - no hint
 ich möchte noch etwas wein kaufen - quiero comprar un poco más de vino - no hint
 sie haben keinen wein - no tienen vino - no hint
 haben sie ein paar dollar - tienes unos dólares - no hint
-nein ich habe keine dollar - no no tengo dólares - no hint
+nein ich habe keine dollar - no, no tengo dólares - no hint
 und ein paar deutsche mark - y algunas marcas alemanas - no hint
 wieviele - cuántos - no hint
 das ist nicht viel - eso no es mucho - no hint
@@ -691,10 +705,11 @@ ich gebe - doy - no hint
 ich gebe ihnen - te doy - no hint
 ich gebe ihnen zehn deutsche mark - te daré diez marcos alemanes - no hint
 also dann geben sie mir ein paar deutsche mark bitte - entonces por favor dame algunos marcos alemanes - no hint
+unit15
 auf wiedersehen gunter bis später - adiós gunter hasta luego - no hint
-wohin gehen sie denn jane - a donde vas jane - no hint
+wohin gehen sie denn jane - a donde vas, jane - no hint
 ich gehe etwas kaufen - voy a comprar algo - no hint
 haben sie deutsche mark - tienes marcas alemanas - no hint
-nein keine deutsche mark aber ich habe ein paar dollar - no no hay marco alemán pero tengo unos dólares - no hint
+nein keine deutsche mark aber ich habe ein paar dollar - no, no hay marco alemán, pero tengo unos dólares - no hint
 vierzehn oder fünfzehn - catorce o quince - no hint
 ich gebe ihnen zehn mark und fünf dollar hier jetzt haben sie zehn - te doy diez marcos y cinco dolares aqui ahora tienes diez - no hint

@@ -1,0 +1,754 @@
+deutsch türkçe pimsleur
+
+unit1
+entschuldigen sie - affedersiniz - no hint
+verstehen sie englisch - ingilizce anlıyor musun - no hint
+nein ich verstehe kein englisch - hayır ingilizce anlamıyorum - no hint
+ich verstehe ein bisschen deutsch - biraz almanca anlıyorum - no hint
+sind sie amerikaner - amerikan mısın - no hint
+ja amerikaner - evet amerikalılar - no hint
+englisch - ingilizce - no hint
+verstehen sie - anlıyor musunuz - no hint
+sie verstehen - anladın - no hint
+sie verstehen englisch - ingilizce anlıyorlar - no hint
+nein - hayır - no hint
+ich - ben - no hint
+ich verstehe - anlıyorum - no hint
+ich verstehe englisch - ingilizce anlıyorum - no hint
+ich verstehe kein englisch - ben ingilizce anlamıyorum - no hint
+deutsch - almanca - no hint
+ich verstehe deutsch - almanca anlıyorum - no hint
+ich verstehe kein deutsch - almancayı anlamıyorum - no hint
+sie verstehen deutsch - almanca anlıyorlar - no hint
+verstehen sie deutsch - almanca anlıyor musun - no hint
+nein ich verstehe kein deutsch - hayır almanca anlamıyorum - no hint
+ein bisschen - bir nebze - no hint
+nur - sadece - no hint
+nur ein bisschen - birazcık - no hint
+ich verstehe nur ein bisschen - sadece biraz anlıyorum - no hint
+nur ein bisschen deutsch - sadece biraz almanca - no hint
+amerikaner - amerikan - no hint
+sie sind - ns - no hint
+sie sind amerikaner - sen amerikalısın - no hint
+ja - ve - no hint
+ja ein bisschen - evet biraz - no hint
+sie verstehen ein bisschen deutsch - biraz almanca anlıyorlar - no hint
+unit2
+entschuldigen sie verstehen sie deutsch - pardon almanca anlıyorsun - no hint
+ja amerikaner verstehen sie englisch - evet amerikalılar ingilizce anlar - no hint
+kein englisch - ingilizce yok - no hint
+ich verstehe ein bisschen - biraz anlıyorum - no hint
+ja sie sind amerikaner - evet sen amerikalısın - no hint
+guten tag - i̇yi günler - no hint
+wie - nasıl - no hint
+geht es - iyi - no hint
+wie geht es - nasılsın - no hint
+ihnen - onları - no hint
+wie geht es ihnen - nasılsın - no hint
+guten tag frau meier - iyi günler bayan meier - no hint
+frau - bayan - no hint
+frau meier - bayan meier - no hint
+sehr gut danke - çok iyi teşekkürler - no hint
+danke - teşekkürler - no hint
+gut - i̇yi - no hint
+sehr - çok - no hint
+herr - bay - no hint
+herr gordon - bay gordon - no hint
+guten tag herr gordon - iyi günler bay gordon - no hint
+sehr gut frau meier - çok iyi bayan meier - no hint
+es geht mir gut - iyi yapıyorum - no hint
+mir - ben mi - no hint
+wie geht es ihnen herr gordon - nasılsın bay gordon - no hint
+auf wiedersehen - güle güle - no hint
+ich verstehe nicht - anlamıyorum - no hint
+nein ich verstehe nicht - hayır anlamıyorum - no hint
+nein kein amerikaner - hayır amerikan değil - no hint
+auf wiedersehen frau meier - güle güle bayan meier - no hint
+ja ich verstehe deutsch - evet almanca anlıyorum - no hint
+nicht sehr gut - çok iyi değil - no hint
+conversation then reading list - konuşma sonra okuma listesi - no hint
+unit3
+guten tag herr gordon wie geht es ihnen - merhaba bay gordon nasılsın - no hint
+sehr gut frau meier danke - çok iyi, bayan meier, teşekkür ederim - no hint
+ah sie verstehen deutsch - ah almanca anlıyorlar - no hint
+sie sind amerikaner - sen amerikalısın - no hint
+aber sie verstehen sehr gut deutsch - ama almancayı çok iyi anlıyorlar - no hint
+nein nein nicht sehr gut - hayır hayır çok iyi değil - no hint
+entschuldigen sie ich verstehe nicht - özür dilerim anlamıyorum - no hint
+sind sie amerikanerin - amerikan mısın - no hint
+ich verstehe nicht sehr gut - pek iyi anlamıyorum - no hint
+sie verstehen kein englisch - ingilizce anlamıyorlar - no hint
+verstehen sie nur deutsch - sadece almanca anlıyorlar - no hint
+nein es geht mir nicht gut - hayır iyi değilim - no hint
+es geht mir nicht sehr gut - pek iyi değilim - no hint
+geht es ihnen gut - iyiler mi - no hint
+ja danke - evet teşekkürler - no hint
+nein nicht sehr gut - hayır çok iyi değil - no hint
+ja ich bin amerikaner - evet ben amerikalıyım - no hint
+ich bin - ben - no hint
+bin - am - no hint
+ich bin amerikaner - ben amerikalıyım - no hint
+ich bin amerikanerin - ben amerikalı'yım - no hint
+ich bin deutscher - ben almanım - no hint
+sind sie deutscher - alman mısın - no hint
+nein ich bin amerikaner - hayır ben amerikalıyım - no hint
+sind sie deutsche - alman mısın - no hint
+ich bin keine deutsche - alman değilim - no hint
+und sie - ve sen - no hint
+und - ve - no hint
+ich bin amerikaner und sie - ben amerikalıyım ve sen - no hint
+sie sind keine amerikanerin - sen amerikan değilsin - no hint
+sie sind kein amerikaner - sen amerikan değilsin - no hint
+aber - fakat - no hint
+aber ich verstehe - ama anlıyorum - no hint
+aber ich verstehe deutsch - ama ben almanca anlıyorum - no hint
+bitte - rica ederim - no hint
+ich bin kein amerikaner - amerikan değilim - no hint
+ja ja - ve ve - no hint
+sie sprechen sehr gut - çok iyi konuşuyorlar - no hint
+unit4
+entschuldigen sie sind sie deutscher - pardon sen almansın - no hint
+ja ich bin deutscher und sie - evet ben alman ve sen - no hint
+aber sie verstehen deutsch - ama almanca anlıyorlar - no hint
+ach ich verstehe ein bisschen aber nicht sehr gut - oh biraz anlıyorum ama çok iyi değil - no hint
+doch sie verstehen sehr gut - ama çok iyi anlıyorlar - no hint
+nein nein nur ein bisschen - hayır, sadece biraz - no hint
+und ihnen - ve sen - no hint
+sehr gut danke und ihnen - çok iyi, teşekkürler ve sen - no hint
+sie sind deutsche - onlar alman - no hint
+und sie - ve sen - no hint
+sind sie amerikaner - amerikan mısın - no hint
+ich verstehe ein bisschen englisch - biraz i̇ngilizce anlıyorum - no hint
+ich bin kein deutscher - ben alman değilim - no hint
+sie sind kein amerikaner - sen amerikan değilsin - no hint
+sie sprechen - sen konuş - no hint
+sie sprechen gut - iyi konuşurlar - no hint
+ich spreche - konuşuyorum - no hint
+ich spreche nicht gut - iyi konuşamıyorum - no hint
+ich spreche nicht sehr gut - çok iyi konuşamıyorum - no hint
+doch - fakat - no hint
+sie sprechen gut deutsch - almancayı iyi konuşuyorsun - no hint
+und sie verstehen kein englisch - ve ingilizce anlamıyorlar - no hint
+sie sprechen kein englisch - ingilizce konuşmuyorsun - no hint
+ich spreche englisch - ben i̇ngilizce konuşurum - no hint
+und ich spreche ein bisschen - ve biraz konuşuyorum - no hint
+sie sprechen gut englisch - iyi ingilizce konuşuyorlar - no hint
+doch ich bin amerikaner - ama ben amerikalıyım - no hint
+wo ist die goethestrasse - goethestrasse nerede - no hint
+goethe die strasse - sokağa git - no hint
+die goethestrasse - goethestrasse - no hint
+die beethovenstrasse - beethovenstrasse - no hint
+wo - nerede - no hint
+ist - dır/dir - no hint
+wo ist - nerede - no hint
+wo ist die strasse - cadde nerede - no hint
+der platz - koltuk - no hint
+der opernplatz - opera meydanı - no hint
+wo ist der opernplatz - opera meydanı nerede - no hint
+wo ist der opernplatz bitte - opera meydanı nerede lütfen - no hint
+hier - i̇şte - no hint
+der opernplatz ist heir - opera meydanı burada - no hint
+ist die goethestrasse hier - goethestrasse burada mı - no hint
+ja hier - evet burada - no hint
+nein die goethestrasse ist nicht heir - hayır goethestrasse burada değil - no hint
+dort drüben - o tarafta - no hint
+die goethestrasse ist dort drüben - goethestrasse orada - no hint
+die goethestrasse ist nicht hier - goethestrasse burada değil - no hint
+der opernplatz ist nicht heir - opera meydanı burada değil - no hint
+der opernplatz ist dort drüben - opera meydanı orada - no hint
+unit5
+ja bitte - evet lütfen - no hint
+wo ist die goethestrasse bitte - goethestrasse nerede lütfen - no hint
+und opernplatz - ve opera meydanı - no hint
+und wie geht es ihnen - ve nasılsın - no hint
+mir - ben mi - no hint
+sehr gut danke auf wiedersehen - çok iyi teşekkür ederim hoşçakal - no hint
+ja ich verstehe gut deutsch - evet almancayı iyi anlıyorum - no hint
+die goethestrasse - goethestrasse - no hint
+die strasse - sokak - no hint
+der opernplatz - opera meydanı - no hint
+der platz - koltuk - no hint
+entschuldigen sie bitte - affedersiniz - no hint
+die goethestrasse ist hier - goethestrasse burada - no hint
+nein dort drüben - orada yok - no hint
+die goethestrasse ist nicht dort drüben - goethestrasse orada değil - no hint
+aber der opernplatz ist heir - ama opera meydanı burada - no hint
+nein danke - hayır teşekkürler - no hint
+es geht mir sehr gut - gayet iyiyim - no hint
+der opernplatz ist nicht hier - opera meydanı burada değil - no hint
+und nicht dort drüben - ve orada değil - no hint
+ah sehr gut - ah çok iyi - no hint
+mir - ben mi - no hint
+sehr gut - çok güzel - no hint
+mir - ben mi - no hint
+nicht sehr gut - çok iyi değil - no hint
+ich weiss es nicht - bunu bilmiyorum - no hint
+ich weiss es - bunu biliyorum - no hint
+wo ist die mozartstrasse bitte - mozartstrasse nerede lütfen - no hint
+aber ich weiss es - ama biliyorum - no hint
+die mozartstrasse ist dort drüben - mozartstrasse orada - no hint
+sie wissen es - biliyorsun - no hint
+wissen sie es - bunu biliyor musun - no hint
+nein ich weiss es nicht - hayır bilmiyorum - no hint
+die mozartstrasse ist nicht dort drüben - mozartstrasse orada değil - no hint
+ich möchte - ben istiyorum - no hint
+sie möchten - i̇stediğiniz - no hint
+ich möchte nicht - istemezdim - no hint
+möchten sie - sen istiyor musun - no hint
+sie möchten etwas essen - bir şeyler yemek istiyorlar - no hint
+essen - yemek - no hint
+etwas - bir şey - no hint
+möchten sie etwas essen - bir şey yemek ister misin - no hint
+möchten sie etwas - bir şey istemek - no hint
+ich möchte essen - yemek istiyorum - no hint
+ja ich möchte etwas essen - evet bir şeyler yemek istiyorum - no hint
+ich möchte etwas trinken - bir şeyler içmek isterim - no hint
+trinken - i̇çmek - no hint
+möchten sie etwas trinken - bir şey içmek istermisiniz - no hint
+aber ich möchte etwas essen - ama bir şeyler yemek istiyorum - no hint
+nein danke aber ich möchte etwas essen - hayır teşekkürler ama bir şeyler yemek istiyorum - no hint
+doch ich weiss es - ama biliyorum - no hint
+wo möchten sie essen - nerede yemek istersin - no hint
+aber ich nicht - ama ben değil - no hint
+unit6
+guten tag brigete - iyi günler brigete - no hint
+guten tag gunter wie geht es ihnen - merhaba gunter nasılsın - no hint
+gut danke ich möchte etwas essen sie auch - peki teşekkür ederim ben de senden bir şeyler yemek istiyorum - no hint
+nein ich möchte nur etwas trinken - hayır sadece bir şeyler içmek istiyorum - no hint
+wo - nerede - no hint
+am opernplatz - opernplatz'dayım - no hint
+ja gut - evet iyi - no hint
+und der opernplatz - ve opera meydanı - no hint
+der opernplatz ist dort dr ü ben - opera meydanı orada - no hint
+und ist die goethestrasse hier - ve goethestrasse burada - no hint
+nein nicht heir - hayır o değil - no hint
+ja ich möchte etwas trinken - evet bir şeyler içmek istiyorum - no hint
+nein danke aber ich möchte etwas trinken - hayır teşekkürler ama bir şeyler içmek istiyorum - no hint
+üben - pratik yapmak - no hint
+sie wissen es nicht - bilmiyorlar - no hint
+sehr gut - çok güzel - no hint
+bei mir - benimle - no hint
+bei ihnen - seninle - no hint
+ich auch - ben de - no hint
+auch - ayrıca - no hint
+ja bei ihnen - evet onlarla - no hint
+ich möchte auch essen - bende yemek istiyorum - no hint
+wann - ne zaman - no hint
+jetzt - şimdi - no hint
+wann möchten sie essen - ne zaman yemek istersin - no hint
+möchten sie jetzt essen - şimdi yemek ister misin - no hint
+nein nicht jetzt - hayır şimdi değil - no hint
+später - sonra - no hint
+und wann möchten sie etwas trinken - ve ne zaman bir şeyler içmek istersin - no hint
+nein später - daha sonra değil - no hint
+wann möchten sie etwas essen - ne zaman bir şeyler yemek istersin - no hint
+später bitte - daha sonra lütfen - no hint
+am opernplatz - opernplatz'dayım - no hint
+nicht bei mir - benimle değil - no hint
+ja am opernplatz - evet opera meydanında - no hint
+ich möchte auch etwas trinken - ben de bir şeyler içmek istiyorum - no hint
+ja ich auch - evet ben de - no hint
+wann möchten sie etwas trinken - ne zaman bir şeyler içmek istersin - no hint
+nein jetzt - şimdi değil - no hint
+möchten sie bei mir etwas trinken - benimle bir şeyler içmek ister misin? - no hint
+ja gerne - evet lütfen - no hint
+gerne - memnuniyetle - no hint
+aber ich möchte auch etwas essen - ama ben de bir şeyler yemek istiyorum - no hint
+ja später - evet sonra - no hint
+ich möchte später essen - sonra yemek istiyorum - no hint
+unit7
+entschuldigen sie brigete - pardon brigete - no hint
+ja - ve - no hint
+wann möchten sie etwas essen - ne zaman bir şeyler yemek istersin - no hint
+jetzt - şimdi - no hint
+nein nicht jetzt später bitte aber ich möchte jetzt etwas trinken - hayır şimdi daha sonra lütfen ama şimdi bir şeyler içmek istiyorum - no hint
+wo - nerede - no hint
+bei mir - benimle - no hint
+ich möchte etwas essen - birşeyler yemek istiyorum - no hint
+etwas essen - bir şeyler yemek - no hint
+möchten sie hier etwas essen - burada bir şeyler yemek ister misin? - no hint
+heir - varis - no hint
+nicht - değil - no hint
+nicht hier - burada değil - no hint
+dort drüben - o tarafta - no hint
+am opernplatz - opernplatz'dayım - no hint
+nein nicht am opernplatz - hayır, opera meydanında değil - no hint
+nein nicht bei ihnen - hayır onlarla değil - no hint
+ich möchte hier essen - burada yemek istiyorum - no hint
+ja sehr gut - evet çok iyi - no hint
+aber nicht jetzt - fakat şimdi değil - no hint
+möchten sie jetzt etwas essen - şimdi bir şeyler yemek ister misin? - no hint
+gut wann - iyi ne zaman - no hint
+jetzt bitte - şimdi lütfen - no hint
+nicht am opernplatz - opera meydanında değil - no hint
+gut und was möchten sie trinken - peki ve ne içmek istersin - no hint
+aber ich möchte jetzt etwas trinken - ama şimdi bir şeyler içmek istiyorum - no hint
+nein nein - hayır hayır - no hint
+im restaurant - restoranda - no hint
+im - içinde - no hint
+was möchten sie essen - ne yemek istersin - no hint
+was - oldu - no hint
+was möchten sie trinken - ne içmek istersiniz - no hint
+wein - şarap - no hint
+ich möchte wein trinken - şarap içmek istiyorum - no hint
+möchten sie wein trinken - şarap içmek ister misin - no hint
+bier - bira - no hint
+ich möchte bier trinken - bira içmek istiyorum - no hint
+ich möchte wein - şarap istiyorum - no hint
+ich möchte bier - bira istiyorum - no hint
+ich auch ich möchte auch bier - ben de bira istiyorum - no hint
+wo möchten sie bier trinken - nerede bira içmek istersin - no hint
+im restaurant bitte - restoranda lütfen - no hint
+im restaurant zum lowen - restoranda zum low - no hint
+das restaurant - restorant - no hint
+wo ist das restaurant zum lowen - restoran zum low nerede - no hint
+das restaurant ist dort drüben - restoran orada - no hint
+in der goethestrasse - goethestrasse'de - no hint
+das restaurant ist in der goethestrasse - restoran goethestrasse'de - no hint
+möchten sie bier trinken - bira içmek ister misin - no hint
+heir in der goethestrasse - goethestrasse'deki varis - no hint
+unit8
+ingrid möchten sie jetzt essen - ingrid onları şimdi yemek istiyor - no hint
+danke peter jetzt nicht aber ich möchte etwas trinken - teşekkür ederim peter şimdi değil ama bir şeyler içmek istiyorum - no hint
+ja gut was möchten sie trinken - evet peki ne içmek istersin - no hint
+ich möchte wein trinken nein nein ich trinke ein bier - şarap içmek istiyorum hayır hayır bira içerim - no hint
+ich auch ich möchte auch ein bier trinken entschuldigen sie zwei bier bitte wie bitte - ben de bir bira içmek istiyorum lütfen izin verin iki bira lütfen - no hint
+essen - yemek - no hint
+nein jetzt nicht später - hayır şimdi daha sonra değil - no hint
+möchten sie essen - yemek istermisin - no hint
+im restaurant - restoranda - no hint
+nein bei ihnen - onlarla hayır - no hint
+aber später - fakat sonra - no hint
+möchten sie jetzt etwas trinken - şimdi bir şeyler içmek ister misin? - no hint
+kein bier - bira yok - no hint
+ich möchte kein bier - bir bira istemiyorum - no hint
+nein kein bier - hayır bira yok - no hint
+sie auch - onlar ayrıca - no hint
+nein ich möchte jetzt etwas essen - hayır, şimdi bir şeyler yemek istiyorum - no hint
+ein bier - bir bira - no hint
+das bier - bira - no hint
+das bier ist gut - bira iyidir - no hint
+möchten sie ein bier trinken - bir bira içmek ister misin - no hint
+zwei bier bitte - iki bira lütfen - no hint
+zwei - iki - no hint
+oder - veya - no hint
+möchten sie ein bier - bira ister misin - no hint
+oder wein - veya şarap - no hint
+ich möchte ein bier trinken - bir bira içmek istiyorum - no hint
+wein oder bier - şarap veya bira - no hint
+was möchten sie machen - ne yapmak istersin - no hint
+machen - yapmak - no hint
+im hotel - otelde - no hint
+das hotel - otel - no hint
+ich möchte etwas kaufen - bir şey satın almak istiyorum - no hint
+kaufen - satın almak - no hint
+was möchten sie kaufen - ne satın almak istersiniz - no hint
+mit wem - kiminle - no hint
+mit - i̇le - no hint
+wem - wem - no hint
+mit ihnen - seninle - no hint
+etwas kaufen - bir şey almak için - no hint
+aber mit wem - ama kiminle - no hint
+mit mir - benimle - no hint
+ja mit ihnen - evet onlarla - no hint
+unit9
+guten tag ingrid wie geht es ihnen - iyi günler ingrid nasılsın - no hint
+es geht mir gut michael danke - ben iyiyim michael teşekkürler - no hint
+sagen sie ingrid was möchten sie jetzt machen - ingrid'e söyle şimdi ne yapmak istersin - no hint
+ich - ben - no hint
+ich möchte etwas trinken und sie - bir içki içmek istiyorum ve sen - no hint
+ich möchte jetzt etwas essen möchten sie mit mir essen - şimdi bir şeyler yemek istiyorum benimle yemek ister misin - no hint
+ja aber wo - evet fakat nerede - no hint
+im restaurant zum bären - restoranda zum bären - no hint
+wo ist der restaurant zum bären - restaurant zum bären nerede - no hint
+in der beethovenstrasse - beethovenstrasse'de - no hint
+ah ja ich weiss wo das ist - ah evet nerede olduğunu biliyorum - no hint
+und ich möchte auch ein bisschen wein trinken - ve ben de biraz şarap istiyorum - no hint
+ja gut ich auch - evet iyi bende - no hint
+wo ist das restaurant zum bären - restaurant zum bären nerede - no hint
+wo ist das restaurant - restoran nerede - no hint
+ich möchte jetzt etwas essen - şimdi bir şeyler yemek istiyorum - no hint
+möchten sie auch etwas essen - sen de bir şeyler yemek ister misin - no hint
+nein ich nicht - hayır - no hint
+was möchten sie jetzt machen - şimdi ne yapmak istersin - no hint
+und was möchten sie kaufen - ve ne satın almak istiyorsun - no hint
+ich möchte wein kaufen - şarap almak istiyorum - no hint
+ja ich möchten mit ihnen wein kaufen - evet seninle şarap almak istiyorum - no hint
+oder bier - veya bira - no hint
+aber ich möchte mit ihnen etwas trinken - ama onlarla bir şeyler içmek istiyorum - no hint
+aber nicht hier - ama burada değil - no hint
+und auch nicht dort drüben im hotel - ve orada da otelde değil - no hint
+wo möchten sie etwas trinken - nerede bir şeyler içmek istersin - no hint
+ich möchte bei ihnen trinken - onlarla içmek istiyorum - no hint
+aber ich ich möchte etwas essen - ama bir şeyler yemek istiyorum - no hint
+wo ist das hotel zum bären bitte - hotel zum bären nerede lütfen - no hint
+dort drüben in der beethovenstrasse - orada, beethovenstrasse'de - no hint
+möchten sie mit mir etwas trinken - benimle bir şeyler içmek ister misin? - no hint
+nein danke nicht jetzt - hayır teşekkürler şimdi değil - no hint
+und auch nicht später - ve daha sonra da değil - no hint
+ah ich verstehe sie - ah seni anlıyorum - no hint
+sehr gut jetzt verstehen sie - çok iyi şimdi anladın - no hint
+sie möchten mit mir etwas essen - benimle bir şeyler yemek istiyorlar - no hint
+sie verstehen nicht - anlamıyorsun - no hint
+was verstehe ich nicht - ne? anlamadım - no hint
+sie verstehen kein deutsch - almanca anlamıyorlar - no hint
+sagen sie - onlar söylüyor - no hint
+nichts - hiçbir şey değil - no hint
+ich möchte jetzt nichts essen - şimdi hiçbir şey yemek istemiyorum - no hint
+ich möchte nichts essen - hiçbir şey yemek istemiyorum - no hint
+geht das - mümkün mü - no hint
+das geht - bu işe yarar - no hint
+das - ns - no hint
+sie möchten nichts essen - hiçbir şey yemek istemiyorlar - no hint
+um wieviel uhr - ne zaman - no hint
+uhr - saat - no hint
+wieviel - ne kadar - no hint
+um ein uhr - 01:00 de - no hint
+ein uhr - bir saat - no hint
+neun uhr - saat dokuz - no hint
+neun - dokuz - no hint
+um neun uhr - saat dokuzda - no hint
+acht - sekiz - no hint
+acht uhr - saat sekiz - no hint
+um acht uhr - 08:00 de - no hint
+nein um neun uhr - saat dokuzda hayır - no hint
+zwei uhr - saat iki - no hint
+um eins - aynı sayılır - no hint
+um zwei uhr - saat ikide - no hint
+um ein uhr oder um zwei uhr - saat bir veya ikide - no hint
+ja das geht aber ich möchte bei ihnen etwas essen - evet işe yarıyor ama seninle bir şeyler yemek istiyorum - no hint
+um zwei uhr geht das - saat ikide gidiyor - no hint
+ja das geht - bu iyi - no hint
+aber um ein uhr geht das - ama saat birde gidiyor - no hint
+nein das geht nicht - hayır bu işe yaramaz - no hint
+später um acht uhr - daha sonra saat sekizde - no hint
+nein nicht um acht uhr - hayır saat sekizde değil - no hint
+oder um nein uhr - ya da saat yok - no hint
+sicher nicht - kesinlikle değil - no hint
+sie möchten nichts trinken - hiçbir şey içmek istemiyorlar - no hint
+um acht uhr oder um neun uhr - saat sekizde veya saat dokuzda - no hint
+nicht um ein uhr und nicht um zwei uhr - saat birde değil ve saat ikide değil - no hint
+nicht um acht uhr und nicht um neun uhr - saat sekizde ve saat dokuzda değil - no hint
+unit10
+peter ich möchte mit ihnen zusammen essen - peter seninle yemek yemek istiyorum - no hint
+gerne aber um wieviel uhr - ama ne zaman - no hint
+um zwei - ikide - no hint
+nein nein später viel später - hayır daha sonra çok sonra - no hint
+ah ich verstehe um acht uhr oder um neun uhr - ah saat sekizde veya saat dokuzda anlıyorum - no hint
+ja um neun uhr - evet saat dokuzda - no hint
+also dann bis neun uhr auf wiedersehen - yani saat dokuza kadar hoşçakal - no hint
+ich möchte etwas machen - bir şeyler yapmak istiyorum - no hint
+um neun uhr - saat dokuzda - no hint
+nein nein um acht uhr - hayır hayır saat sekizde - no hint
+gut um zwei uhr - saat ikide iyi - no hint
+nein sie verstehen nicht - hayır anlamıyorlar - no hint
+ich möchte nichts trinken - hiçbir şey içmek istemiyorum - no hint
+nichts - hiçbir şey değil - no hint
+sie möchten nichts trinken - hiçbir şey içmek istemiyorlar - no hint
+nein aber ich möchte etwas essen - hayır ama bir şeyler yemek istiyorum - no hint
+oder möchten sie etwas essen - ya da bir şeyler yemek ister misin? - no hint
+ich möchte später etwas essen - sonra bir şeyler yemek istiyorum - no hint
+möchten sie später etwas essen - daha sonra bir şeyler yemek ister misin? - no hint
+danke ich möchte jetzt etwas essen - teşekkür ederim şimdi bir şeyler yemek istiyorum - no hint
+wieviel uhr ist es - saat kaç - no hint
+es ist - bu - no hint
+es ist neun uhr - saat dokuz - no hint
+es ist zwei uhr - saat iki - no hint
+es ist fünf uhr - saat beş - no hint
+es ist drei uhr - saat üç - no hint
+drei - üç - no hint
+es ist vier uhr - saat dört - no hint
+ist es vier uhr - saat dört - no hint
+nein es ist drei uhr - hayır saat üç - no hint
+es ist acht uhr - saat sekiz - no hint
+vier uhr - saat dört - no hint
+fünf uhr - saat beş - no hint
+neun uhr - saat dokuz - no hint
+drei uhr - saat üç - no hint
+viel später - çok sonra - no hint
+ich esse jetzt - şu an yemek yiyorum - no hint
+ich esse - yerim - no hint
+sie essen - yerler - no hint
+essen sie jetzt - şimdi ye - no hint
+ja ich esse jetzt - evet şimdi yiyorum - no hint
+ich esse um fünf uhr - saat beşte yemek yerim - no hint
+essen sie um fünf uhr - saat beşte yemek - no hint
+ich esse um acht uhr - saat sekizde yerim - no hint
+aber ich trinke etwas - ama bir şeyler içeceğim - no hint
+um drei uhr oder um vier uhr - saat üçte veya dörtte - no hint
+ich trinke etwas um neun uhr - saat dokuzda bir içki içerim - no hint
+wieviel uhr ist es jetzt - şu an saat kaç - no hint
+es ist jetzt ein uhr - şimdi saat bir - no hint
+es ist eins - o tek - no hint
+unit11
+um wieviel uhr möchten sie mit mir essen - benimle ne zaman yemek istersin - no hint
+um ein uhr geht das - saat birde gidiyor - no hint
+nein um ein uhr geht es nicht geht es um zwei uhr - hayır, saat bir değil, saat iki - no hint
+nein um zwei uhr geht das nicht um drei - hayır saat ikide üç değil - no hint
+nein nein nicht um drei uhr geht es um vier uhr - hayır hayır saat üçte değil saat dörtte - no hint
+nein um vier uhr geht das nicht - hayır saat dörtte çalışmıyor - no hint
+um fünf uhr - saat beşte - no hint
+nein viel später bitte - çok sonra lütfen - no hint
+geht es um acht uhr - saat sekiz civarı - no hint
+nein nicht um acht uhr um neun geht das - hayır, saat sekizde dokuzda çalışmıyor - no hint
+nein neun uhr ist zu spät - saat dokuz çok geç değil - no hint
+ich möchte nicht mit ihnen essen - onlarla yemek yemek istemiyorum - no hint
+es ist fund uhr - bu fon saati - no hint
+mochten sie jetzt etwas essen - şimdi bir şeyler yemek isterler mi? - no hint
+nein ich esse später - hayır sonra yerim - no hint
+um acht uhr - 08:00 de - no hint
+ich trinke wein - şarap içerim - no hint
+später viel später - sonra çok sonra - no hint
+es ist jetzt vier uhr - şimdi saat dört - no hint
+ich esse später - sonra yiyeceğim - no hint
+möchten sie mit mir etwas essen - benimle bir şeyler yemek ister misin - no hint
+gerne wann - tabi, ne zaman - no hint
+wann jetzt - şimdi ne zaman - no hint
+nein nein nicht jetzt - hayır hayır şimdi değil - no hint
+sicher nicht jetzt - kesinlikle şimdi değil - no hint
+ich esse mit ihnen - onlarla yemek yerim - no hint
+nicht um neun uhr - saat dokuzda değil - no hint
+nicht jetzt später - şimdi değil sonra - no hint
+hören sie zu - dinlemek - no hint
+um sechs uhr - saat altıda - no hint
+oder um sieben uhr - veya saat yedide - no hint
+um sieben uhr - 07:00 de - no hint
+um sechs uhr oder um sieben uhr - saat altıda veya saat yedide - no hint
+nicht um sechs uhr - saat altıda değil - no hint
+also dann um sieben uhr - o zaman saat yedide - no hint
+dann - sonra - no hint
+also dann - e sonra - no hint
+also dann um acht uhr - o zaman saat sekizde - no hint
+heute abend - bu akşam - no hint
+heute - bugün - no hint
+abend - havva - no hint
+ich möchte heute abend mit ihnen essen - bu gece seninle yemek yemek istiyorum - no hint
+um zehn uhr - saat onda - no hint
+ich esse heute abend um zehn uhr - bu akşam saat onda yemek yiyorum - no hint
+um wieviel uhr heute abend - bu gece saat kaçta - no hint
+morgen - yarın - no hint
+und morgen - ve yarın - no hint
+ich esse morgen mit ihnen - yarın seninle yemek yiyorum - no hint
+morgen um vier uhr - yarın saat dörtte - no hint
+nein um sechs uhr oder um sieben uhr - saat altıda veya yedide hayır - no hint
+also dann um zehn uhr - o zaman saat on - no hint
+morgen abend - yarın akşam - no hint
+morgen abend um sieben uhr - yarın akşam saat yedide - no hint
+nein um zehn uhr - hayır saat on - no hint
+wiederholen sie - tekrar et - no hint
+möchten sie heute mit mir essen - bugün benimle yemek ister misin - no hint
+nicht heute morgen - bu sabah değil - no hint
+heute und morgen auch - bugün ve yarın da - no hint
+es ist zehn uhr - saat on - no hint
+nicht heute abend morgen abend - bu gece değil yarın akşam - no hint
+also dann um acht uhr bei mir - o zaman benimle saat sekizde - no hint
+wie bitte - affınıza sığınırım - no hint
+bitte wiederholen sie - tekrar et lütfen - no hint
+gut aber hören sie zu - iyi ama dinle - no hint
+bis morgen - yarına kadar - no hint
+unit12
+hallo brigete - merhaba brigete - no hint
+ja ich bin - evet benim - no hint
+s - s - no hint
+hier ist peter wie geht es ihnen - işte peter nasılsın - no hint
+gut danke - i̇yi teşekkürler - no hint
+sagen sie brigete möchten sie heute abend mit mir essen - söyle brigete bu gece benimle yemek ister misin - no hint
+heute abend geht das nicht peter aber morgen abend gerne - peter bunu bu gece yapamaz ama seve seve yarın akşam - no hint
+gut um wieviel uhr - ne zaman iyi - no hint
+um acht - sekizde - no hint
+das ist sehr spät - çok geç - no hint
+ja das geht morgen abend um sieben uhr bei ihnen - evet, bunu yarın akşam saat yedide yapabilirsin - no hint
+auf wiederhören brigete - hoşçakal brigete - no hint
+auf wiederhören peter bis morgen - hoşçakal peter yarın görüşürüz - no hint
+bis - /e - no hint
+bis morgen um sechs uhr - yarın saat altıda görüşürüz - no hint
+bis morgen um acht - yarın sekizde görüşürüz - no hint
+es ist jetzt zehn uhr - şimdi saat on - no hint
+nein es ist vier uhr - hayır saat dört - no hint
+fünf uhr - saat beş - no hint
+sie essen um fünf - beşte yerler - no hint
+ja ich möchte auch essen - evet ben de yemek istiyorum - no hint
+mochten sie wein trinken - şarap içmek isterler mi - no hint
+nein ich möchte ein bier - hayır bira istiyorum - no hint
+ich trinke nichts - hiçbir şey içmem - no hint
+sie trinken nichts - hiçbir şey içmezler - no hint
+nein ich trinke heute nichts - hayır bugün hiçbir şey içmeyeceğim - no hint
+ich esse heute um drei uhr - bugün saat üçte yemek yiyorum - no hint
+order um zwei uhr - veya saat ikide - no hint
+wieviel - ne kadar - no hint
+eine strasse - bir cadde - no hint
+ein bier - bir bira - no hint
+sechs - altı - no hint
+nicht fünf vier - beş dört değil - no hint
+ja ich verstehe - evet anladım - no hint
+hören sie jetzt zu - şimdi dinle - no hint
+wieviel schulde ich ihnen - onlara ne kadar borçluyum - no hint
+ich schulde - borçluyum - no hint
+ich schulde ihnen - sana borçluyum - no hint
+bitte wieviel schulde ich ihnen - lütfen sana ne kadar borcum var - no hint
+eine mark - bir işaret - no hint
+wieviel schulde ich ihnen heute - bugün sana ne kadar borcum var - no hint
+acht mark - sekiz işaret - no hint
+elf mark - on bir işaret - no hint
+zwölf mark - on iki işaret - no hint
+zwei mark - iki işaret - no hint
+dreizehn mark - on üç işaret - no hint
+sechs mark - altı işaret - no hint
+schulde ich ihnen fünf mark - sana beş puan borçluyum - no hint
+nein vier mark - dört işaret yok - no hint
+und sieben mark - ve yedi işaret - no hint
+ich schulde ihnen dreizehn mark - sana on üç mark borçluyum - no hint
+nein nicht dreizehn - hayır on üç değil - no hint
+nicht dreizehn zwölf - on üç on iki değil - no hint
+schulde ich ihnen zwölf mark - sana on iki mark borçluyum - no hint
+nein elf mark - on bir puan yok - no hint
+unit13
+hallo ich möchte mit brigete sprechen bitte ah sie sind brigete guten tag hier ist gunter - merhaba brigete ile konuşmak istiyorum lütfen ah sen brigetesin merhaba işte gunter - no hint
+gut danke sagen sie brigete möchten sie heute abend mit mir essen - peki teşekkür ederim brigete bu gece benimle yemek ister misin - no hint
+das geht nicht gunter ich esse heute abend mit erika aber möchten sie später bei mir etwas trinken - bu iyi gitmiyor bu gece erika ile yemek yiyeceğim ama daha sonra benimle bir şeyler içmek ister misin - no hint
+ja gerne um wieviel uhr - evet, ne zaman - no hint
+um neun uhr oder später um zehn uhr - saat dokuzda veya daha sonra saat onda - no hint
+geht das - mümkün mü - no hint
+ja das geht um zehn uhr bei ihnen auf wiederhören brigete - evet bu saat onda seninle tekrar durmak için gidiyor brigete - no hint
+bis heute abend gunter - bu akşama kadar gunter - no hint
+wieviel uhr ist es bitte - saat kaç - no hint
+es ist elf uhr - saat on bir - no hint
+nein es ist acht uhr - hayır saat sekiz - no hint
+nein zwölf - on iki yok - no hint
+zwei order zwölf - iki ya da on iki - no hint
+ich verstehe sie nicht - anlamıyorum - no hint
+wiederholen sie bitte - tekrar et lütfen - no hint
+wann heute - bugün ne zaman - no hint
+oder morgen - veya yarın - no hint
+nicht heute abend - bu akşam değil - no hint
+heute - bugün - no hint
+nicht morgen abend - yarın akşam değil - no hint
+bis später - sonra görüşürüz - no hint
+zehn - on - no hint
+danke auf wiedersehen - teşekkürler hoşça kalın - no hint
+hören sie bitte zu - lütfen dinle - no hint
+ich höre zu - dinliyorum - no hint
+ich wiederhole - tekrarlıyorum - no hint
+ich höre gut zu - iyi dinlerim - no hint
+auf wiederhören - tekrar görüşmek üzere - no hint
+guten abend - i̇yi akşamlar - no hint
+wieviele mark haben sie - kaç puanın var - no hint
+sie haben - onlar sahip - no hint
+wieviele mark - kaç puan - no hint
+ich habe - sahibim - no hint
+vierzehn - on dört - no hint
+ich habe vierzehn mark - on dört puanım var - no hint
+wieviele dollar haben sie - kaç doların var - no hint
+ich habe vierzehn dollar - on dört dolarım var - no hint
+ich habe fünfzehn dollar - on beş dolarım var - no hint
+fünfzehn - on beş - no hint
+und vierzehn dollar - ve on dört dolar - no hint
+haben sie sechzehn mark - on altı puanın var - no hint
+nein ich habe dreizehn mark - hayır, on üç puanım var - no hint
+aber ich habe fünfzehn dollar - ama on beş dolarım var - no hint
+sie haben keine sechzehn dollar - on altı dolarları yok - no hint
+nein ich habe keine sechzehn dollar - hayır on altı dolarım yok - no hint
+sie schulden mir - bana borçlusun - no hint
+sie schulden mir fünfzehn mark - bana on beş mark borçlusun - no hint
+und in dollar - ve dolar cinsinden - no hint
+in deutsche mark - alman markında - no hint
+die deutsche mark - alman işareti - no hint
+vierzehn deutsche mark bitte - on dört deutschmark lütfen - no hint
+ich habe zehn dollar - on dolarım var - no hint
+haben sie fünf dollar - beş doların var mı - no hint
+ich habe keine sechzehn deutsche mark - on altı deutschmark'ım yok - no hint
+ich habe vierzehn deutsche mark - on dört deutschmark'ım var - no hint
+aber keine fünfzehn deutsche mark - ama on beş alman markı değil - no hint
+also dann vierzehn deutsche mark - o zaman on dört alman markı - no hint
+die verkaüferin - satıcı - no hint
+mit die verkaüferin - satıcıyla - no hint
+heir sind zehn dollar - işte on dolar - no hint
+unit14
+entschuldigen sie haben sie amerikanische zigaretten - pardon amerikan sigaranız var - no hint
+ja hier bitte - evet burada lütfen - no hint
+danke wieviel schulde ich ihnen - teşekkür ederim sana ne kadar borcum var - no hint
+acht mark bitte - sekiz puan lütfen - no hint
+achtzehn mark für zigaretten - sigara için on sekiz puan - no hint
+nein acht mark sie schulden mir acht mark - sekiz mark yok, bana sekiz mark borçlusun - no hint
+ah jetzt verstehe ich hier bitte hier sind acht mark vielen dank - ah şimdi anladım burada lütfen sekiz işaret çok teşekkür ederim - no hint
+heir sind dreizehn mark - işte on üç işaret - no hint
+ich möchte zwölf mark - on iki mark istiyorum - no hint
+hier sind vierzehn mark - işte on dört puan - no hint
+haben sie eine mark - bir işaretin var mı - no hint
+mochten sie eine mark - bir işareti beğendin mi - no hint
+ich möchte sechzehn mark - on altı mark istiyorum - no hint
+fünfzehn oder sechzehn mark - on beş veya on altı işaret - no hint
+ich habe keine dollar - hiç dolarım yok - no hint
+ich habe deutsche mark - alman markam var - no hint
+viele deutsche mark - birçok alman markı - no hint
+aber ich habe keine dollar - ama dolarım yok - no hint
+sie haben keine dollar - onların dolarları yok - no hint
+doch ich bin amerikanerin - ama ben amerikalıyım - no hint
+aber keine deutsche mark - ama alman işareti yok - no hint
+gut hier sind drei dollar - işte burada üç dolar - no hint
+sieben - yedi - no hint
+und ich habe auch deutsche mark - ve benim de alman işaretlerim var - no hint
+wieviele deutsche mark haben sie - kaç deutschmark'ın var - no hint
+ich habe kein bier - biram yok - no hint
+der wein - şarap - no hint
+hier ist ein bier - işte bir bira - no hint
+möchten sie auch etwas trinken - birşeyler içmek istermisin - no hint
+sechzehn - on altı - no hint
+dreizehn - on üç - no hint
+viel - çok - no hint
+oder hier - veya burada - no hint
+die goethestrasse ist dort dr ü ben - goethestrasse orada - no hint
+und ist der beethovenplatz auch dort drüben - ve beethovenplatz da orada mı - no hint
+ja auch dort drüben - evet orada da - no hint
+ich habe deutsche mark aber keine dollar - alman markım var ama dolarım yok - no hint
+wieviele deutsche mark möchten sie - kaç alman markı istiyorsun - no hint
+was machen sie jetzt - şu anda ne yapıyorsun - no hint
+sie haben keine dollar - onların dolarları yok - no hint
+hier sind sechzehn deutsche mark - işte on altı alman markı - no hint
+ich habe ein paar deutsche mark - bir kaç alman markım var - no hint
+ich habe ein paar dollar - birkaç dolarım var - no hint
+geben sie mir - onu bana ver - no hint
+geben - vermek - no hint
+geben sie mir ein paar deutsche mark - bana birkaç alman markası ver - no hint
+geben sie mir ein paar dollar bitte - lütfen bana birkaç dolar ver - no hint
+haben sie ein paar deutsche mark - birkaç deutschmark'ın var mı? - no hint
+ich habe siebzehn deutsche mark - on yedi deutschmark'ım var - no hint
+siebzehn - on yedi - no hint
+achtzehn - on sekiz - no hint
+neunzehn - on dokuz - no hint
+ich habe neunzehn dollar - on dokuz dolarım var - no hint
+nein siebzehn - on yedi yok - no hint
+geben sie mir eine mark - bana bir işaret ver - no hint
+ich habe keinen wein - şarabım yok - no hint
+sie haben kein bier und keinen wein - onların biraları ve şarapları yok - no hint
+ich habe etwas bier - biraz biram var - no hint
+etwas bier - biraz bira - no hint
+ich habe noch etwas bier - hala biraz biram var - no hint
+noch - hala - no hint
+ein paar mark - birkaç işaret - no hint
+geben sie mir jetzt siebzehn mark - bana şimdi on yedi puan ver - no hint
+ich möchte noch etwas wein kaufen - biraz daha şarap almak istiyorum - no hint
+sie haben keinen wein - onların şarabı yok - no hint
+haben sie ein paar dollar - birkaç doların var mı - no hint
+nein ich habe keine dollar - hayır hiç dolarım yok - no hint
+und ein paar deutsche mark - ve birkaç alman markı - no hint
+wieviele - kaç - no hint
+das ist nicht viel - bu çok değil - no hint
+vielen dank - çok teşekkürler - no hint
+bitte geben sie mir fünfzehn mark - lütfen bana on beş puan ver - no hint
+nein geben sie mir siebzehn oder achtzehn mark - hayır bana on yedi ya da on sekiz puan ver - no hint
+achtzehn oder neunzehn - on sekiz veya on dokuz - no hint
+ich gebe - veririm - no hint
+ich gebe ihnen - sana veririm - no hint
+ich gebe ihnen zehn deutsche mark - sana on alman markı vereceğim - no hint
+also dann geben sie mir ein paar deutsche mark bitte - o zaman lütfen bana birkaç alman markası ver - no hint
+unit15
+auf wiedersehen gunter bis später - hoşçakal gunter sonra görüşürüz - no hint
+auf wiedersehen - güle güle - no hint
+wohin gehen sie denn jane - nereye gidiyorsun jane - no hint
+ich - ben - no hint
+ich gehe etwas kaufen - bir şey alacağım - no hint
+haben sie deutsche mark - alman markan var mı - no hint
+nein keine deutsche mark aber ich habe ein paar dollar - alman markı yok ama birkaç dolarım var - no hint
+vierzehn oder fünfzehn - on dört veya on beş - no hint
+ich gebe ihnen zehn mark und fünf dollar hier jetzt haben sie zehn - sana on mark ve beş dolar vereceğim, şimdi on - no hint
