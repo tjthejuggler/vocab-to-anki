@@ -1,0 +1,37 @@
+Hvala vam - danke - thank you, no hint
+Molim - bitte - please, no hint
+zdravo - hallo - hello, no hint
+Doviđenja - auf wiedersehen - goodbye, no hint
+jedan - einer - one, no hint
+dva - zwei - two, no hint
+tri - drei - three, no hint
+četiri - vier - four, no hint
+pet - fünf - five, no hint
+šest - sechs - six, no hint
+sedam - sieben - seven, no hint
+osam - acht - eight, no hint
+devet - neun - nine, no hint
+deset - zehn - ten, no hint
+patuljak - elf - eleven, no hint
+dvanaest - zwölf - twelve, no hint
+deset - zehnzig - tenty, no hint
+dvadeset tri - dreiundzwanzig - twentythree, no hint
+trideset - dreißig - thirty, no hint
+Četrdeset - vierzig - fourty, no hint
+pedeset - fünfzig - fifty, no hint
+šezdeset - sechzig - sixty, no hint
+sedamdeset - siebzig - seventy, no hint
+osamdeset - achtzig - eighty, no hint
+devedeset - neunzig - ninty, no hint
+stotina - hundert - hundred, no hint
+GovoriŠ li engleski - sprichst du englisch - do you speak english, no hint
+govorite li grčki - sprichst du griechisch - do you speak greek, no hint
+ovaj - diesem - this, no hint
+da - daß - that, no hint
+želim to - ich will das - i want this, no hint
+Da - jawohl - yes, no hint
+Ne - kein - no, no hint
+i - und - and, no hint
+ali - aber - but, no hint
+moje zadovoljstvo - gerne geschehen - you're welcome, no hint
+Oprosti - entschuldigung - excuse me, no hint

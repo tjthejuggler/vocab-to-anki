@@ -39,7 +39,7 @@ def add_translation_to_local_dictionary(src_text, dest_text):
 		print('!!!',src_text,dest_text)
 		local_dict[src_text] = dest_text
 		my_json = json.dumps(local_dict)
-		f = open(cwd+'/local_dictionaries/'+local_dict_file,"w")
+		f = open('/home/tim/projects/vocab-to-anki/local_dictionaries/'+local_dict_file,"w")
 		f.write(my_json)
 		f.close()
 
@@ -150,7 +150,7 @@ def translate_text(target, text):
 
     return(format(result["translatedText"]))
 
-file = open( "source.txt", "r")
+file = open( "script_source.txt", "r")
 lines = file.readlines()
 file.close()
 
@@ -167,7 +167,7 @@ for linenumber in range (2,len(lines)):
 		es_translation = get_translation(en_word)
 		if len(split_line) < 3:
 			split_line.append('no hint')
-		outputlines[linenumber] = es_translation + ' - ' + tr_word.rstrip() + ' - ' + en_word.rstrip() + ', ' + split_line[2].rstrip() +'\n'
+		outputlines[linenumber] = es_translation + ' - ' + en_word.rstrip() + ' - ' + tr_word.rstrip() + ', ' + split_line[2].rstrip() +'\n'
 		print('outputlines[linenumber]', outputlines[linenumber])
 	else:
 		if lines[linenumber]:

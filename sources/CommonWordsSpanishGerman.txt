@@ -1,0 +1,37 @@
+Gracias - danke - thank you, no hint
+De nada - bitte - please, no hint
+Hola - hallo - hello, no hint
+Adiós - auf wiedersehen - goodbye, no hint
+uno - einer - one, no hint
+dos - zwei - two, no hint
+Tres - drei - three, no hint
+cuatro - vier - four, no hint
+cinco - fünf - five, no hint
+seis - sechs - six, no hint
+Siete - sieben - seven, no hint
+ocho - acht - eight, no hint
+nueve - neun - nine, no hint
+diez - zehn - ten, no hint
+duende - elf - eleven, no hint
+doce - zwölf - twelve, no hint
+diez - zehnzig - tenty, no hint
+veintitrés - dreiundzwanzig - twentythree, no hint
+treinta - dreißig - thirty, no hint
+Cuarenta - vierzig - fourty, no hint
+cincuenta - fünfzig - fifty, no hint
+sesenta - sechzig - sixty, no hint
+setenta - siebzig - seventy, no hint
+ochenta - achtzig - eighty, no hint
+noventa - neunzig - ninty, no hint
+centenar - hundert - hundred, no hint
+Habla usted Inglés - sprichst du englisch - do you speak english, no hint
+hablas griego - sprichst du griechisch - do you speak greek, no hint
+esta - diesem - this, no hint
+ese - daß - that, no hint
+Quiero eso - ich will das - i want this, no hint
+sí - jawohl - yes, no hint
+No - kein - no, no hint
+y - und - and, no hint
+pero - aber - but, no hint
+mi placer - gerne geschehen - you're welcome, no hint
+Lo siento - entschuldigung - excuse me, no hint

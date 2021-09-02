@@ -1,0 +1,39 @@
+CommonWordsEnglishTurkish
+
+thank you - teşekkür ederim
+please - Lütfen
+hello - merhaba
+goodbye - güle güle
+one - bir
+two - 2
+three - üç
+four - dört
+five - beş
+six - altı
+seven - Yedi
+eight - sekiz
+nine - dokuz
+ten - bu
+eleven - on bir
+twelve - on iki
+tenty - yirmi
+twentythree - yirmiüç
+thirty - otuz
+fourty - kırk
+fifty - elli
+sixty - altmış
+seventy - yetmiş
+eighty - seksen
+ninty - doksan
+hundred - yüz
+do you speak english - ingilizce konuşuyor musunuz
+do you speak greek - yunanca konuşuyor musun
+this - bu
+that - şu
+i want this - bunu istiyorum
+yes - Evet
+no - hiçbir
+and - ve
+but - ama
+you're welcome - rica ederim
+excuse me - affedersiniz

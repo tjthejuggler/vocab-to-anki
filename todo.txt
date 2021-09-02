@@ -1,3 +1,18 @@
+super system
+give it what i have and then what i want
+-ss wen>wen-wtr_den
+this takes a list of english words and outputs
+english - turkish english definition
+
+wen - word in english
+den - definition in english
+str - spelling in turkish
+
+super system could be expanded to indicate which items should have audio and which should have text
+
+
+
+
 make something that double checks a local dictionary
 
 i made a todo in source helper i think

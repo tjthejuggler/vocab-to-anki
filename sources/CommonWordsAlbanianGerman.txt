@@ -1,0 +1,37 @@
+Faleminderit - danke - thank you, no hint
+Ju mirëpresim - bitte - please, no hint
+Përshëndetje - hallo - hello, no hint
+Mirupafshim - auf wiedersehen - goodbye, no hint
+nje - einer - one, no hint
+dy - zwei - two, no hint
+tre - drei - three, no hint
+katër - vier - four, no hint
+pesë - fünf - five, no hint
+gjashtë - sechs - six, no hint
+shtatë - sieben - seven, no hint
+tetë - acht - eight, no hint
+nëntë - neun - nine, no hint
+dhjetë - zehn - ten, no hint
+kukudh - elf - eleven, no hint
+dymbëdhjetë - zwölf - twelve, no hint
+dhjetë - zehnzig - tenty, no hint
+njëzet e tre - dreiundzwanzig - twentythree, no hint
+tridhjetë - dreißig - thirty, no hint
+Katërdhjetë - vierzig - fourty, no hint
+pesëdhjetë - fünfzig - fifty, no hint
+gjashtëdhjetë - sechzig - sixty, no hint
+shtatëdhjetë - siebzig - seventy, no hint
+tetëdhjetë - achtzig - eighty, no hint
+nëntëdhjetë - neunzig - ninty, no hint
+njëqind - hundert - hundred, no hint
+A flisni anglisht - sprichst du englisch - do you speak english, no hint
+a flet greqisht - sprichst du griechisch - do you speak greek, no hint
+kjo - diesem - this, no hint
+se - daß - that, no hint
+i duan që - ich will das - i want this, no hint
+po - jawohl - yes, no hint
+jo - kein - no, no hint
+dhe - und - and, no hint
+por - aber - but, no hint
+kënaqësia ime - gerne geschehen - you're welcome, no hint
+Me falni - entschuldigung - excuse me, no hint

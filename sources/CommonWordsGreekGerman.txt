@@ -1,0 +1,37 @@
+Ευχαριστώ - danke - thank you, no hint
+Παρακαλώ - bitte - please, no hint
+γεια - hallo - hello, no hint
+Αντιο σας - auf wiedersehen - goodbye, no hint
+ένας - einer - one, no hint
+δύο - zwei - two, no hint
+τρία - drei - three, no hint
+τέσσερα - vier - four, no hint
+πέντε - fünf - five, no hint
+έξι - sechs - six, no hint
+εφτά - sieben - seven, no hint
+οκτώ - acht - eight, no hint
+εννέα - neun - nine, no hint
+δέκα - zehn - ten, no hint
+ξωτικό - elf - eleven, no hint
+δώδεκα - zwölf - twelve, no hint
+δέκα - zehnzig - tenty, no hint
+είκοσι τρία - dreiundzwanzig - twentythree, no hint
+τριάντα - dreißig - thirty, no hint
+Fourty - vierzig - fourty, no hint
+πενήντα - fünfzig - fifty, no hint
+εξήντα - sechzig - sixty, no hint
+εβδομήντα - siebzig - seventy, no hint
+ογδόντα - achtzig - eighty, no hint
+ενενήντα - neunzig - ninty, no hint
+εκατό - hundert - hundred, no hint
+Μιλάς αγγλικά - sprichst du englisch - do you speak english, no hint
+ξερεις να μιλας ελληνικα - sprichst du griechisch - do you speak greek, no hint
+Αυτό - diesem - this, no hint
+ότι - daß - that, no hint
+το θέλω αυτό - ich will das - i want this, no hint
+Ναί - jawohl - yes, no hint
+όχι - kein - no, no hint
+και - und - and, no hint
+αλλά - aber - but, no hint
+ευχαρίστησή μου - gerne geschehen - you're welcome, no hint
+Συγνώμη - entschuldigung - excuse me, no hint

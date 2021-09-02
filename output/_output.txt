@@ -1,50 +1,1520 @@
-valuable - değerli - no hint
-professions - meslekler - no hint
-entry - giriş - no hint
-advantages - avantajlar - no hint
-causes - nedenleri - no hint
-obesity - obezite - no hint
-banned - yasak - no hint
-threee - üçlü - no hint
-guides - rehberler - no hint
-trend - akım - no hint
-processes - süreçler - no hint
-features - özellikleri - no hint
-unit - ünite - no hint
-encouraged - cesaretlendirdi - no hint
-comments - yorumlar - no hint
-specially - özellikle - no hint
-exercises - egzersizler - no hint
-relevant - ilgili - no hint
-significantly - önemli ölçüde - no hint
-continuing - devam ediyor - no hint
-model - model - no hint
-guidance - rehberlik - no hint
-techniques - teknikler - no hint
-sample - örnek - no hint
-required - gereklidir - no hint
-examiner - sınav görevlisi - no hint
-chance - şans - no hint
-situation - durum - no hint
-tongue - dil - no hint
-opposite - karşısında - no hint
-definitions - tanımlar - no hint
-accuracy - kesinlik - no hint
-concrete - somut - no hint
-arrangements - düzenlemeler - no hint
-graduated - mezun - no hint
-prospects - umutlar - no hint
-favourably - olumlu - no hint
-detail - detay - no hint
-typo - yazım hatası - no hint
-history - Tarih - no hint
-unforgettable - unutulmaz - no hint
-avenue - bulvar - no hint
-instant - anında - no hint
-immerse - daldırmak - no hint
-although - olmasına rağmen - no hint
-gained - kazanılmış - no hint
-horizons - ufuklar - no hint
-broading - genişleyen - no hint
-vibrant - canlı - no hint
-cosmopolitan - kozmopolitan - no hint
+çam ağaçları - pine trees - pine trees 
+sizi anlamadım tekrar edebilir misiniz lütfen - i don't understand you can you repeat please - i don't understand you can you repeat please 
+çocukların bazıları oturuyor - some of the children are sitting - some of the children are sitting 
+onun - her - her 
+çocukların hiçbiri oturmuyor - none of the children are sitting - none of the children are sitting 
+bu plastik - it's plastic - it's plastic 
+aralık - december - december 
+giysi satın alıyor - buying clothes - buying clothes 
+cuma günü yelkenli tekne kiralayabilir miyiz - can we rent a sailboat on friday - can we rent a sailboat on friday 
+bu heykel bir adada - this statue is on an island - this statue is on an island 
+kadınlar tabloyu öğreniyorlar - women learn painting - women learn painting 
+hiç kimse - no one - no one 
+hint kıyafetleri - indian clothes - indian clothes 
+yerleri - locations - locations 
+artık bir lokantada çalışıyor - now works in a restaurant - now works in a restaurant 
+bunlar gözlerim - these are my eyes - these are my eyes 
+herkese yetecek kadar bardak var mı - are there enough glasses for everyone - are there enough glasses for everyone? 
+ingilizce konuşuyor musunuz - do you speak english - do you speak english 
+kız kardeşimle oyun oynuyorum - i'm playing games with my sister - i'm playing games with my sister 
+elmalar kasede - apples in bowl - apples in bowl 
+yeşiller - greens - greens 
+çalışanlar gülüyor - employees laughing - employees laughing 
+bu yeşil limonlar taze - these limes are fresh - these limes are fresh 
+ne zamandan beri burada bekliyorsun - how long have you been waiting here - how long have you been waiting here 
+ahşap sandalye pahalı - wooden chair expensive - wooden chair expensive 
+uzun boylu adam siyah takım elbise giyiyor - tall man wearing black suit - tall man wearing black suit 
+bisiklete biniyor - riding a bike - riding a bike 
+hiçkimse atlamıyor - no one is jumping - no one is jumping 
+lütfen bu kitapları sıraların üstüne koyun - please put these books on the desks - please put these books on the desks 
+kadın öğle yemeğinde tavuk yiyor - woman eats chicken for lunch - woman eats chicken for lunch 
+anahtarlarını hatırladı - remembered his keys - remembered his keys 
+bizim iki tane ta bağımız var - we have two ties - we have two ties 
+evet çalışıyor - yes it works - yes it works 
+bir otobüs terminali - a bus terminal - a bus terminal 
+bu kadın dışarıda çalışıyor - this woman works outside - this woman works outside 
+plastik - plastic - plastic 
+bir kol - one arm - one arm 
+yelkenli tekne ile nereye gidebiliriz - where can we go by sailboat - where can we go by sailboat 
+on tane fincan - ten cups - ten cups 
+küçük bir adaya gidebiliriz - we can go to a small island - we can go to a small island 
+bardaklar bulaşık makinesinde - glasses in the dishwasher - glasses in the dishwasher 
+bugün trenle paris'e gidiyor - going to paris by train today - going to paris by train today 
+kırmızı evde oturuyorum - i live in the red house - i live in the red house 
+bir pepee - a pepee - a pepee 
+altı tane yumurta var - there are six eggs - there are six eggs 
+sizin kaç tane sandviç işiniz var - how many sandwich businesses do you have - how many sandwich businesses do you have 
+kadın ingilizce kitap okuyor - woman reading english book - woman reading english book 
+bir göz - an eye - an eye 
+küçük - small - small 
+nerede çalışıyorsun - where do you work - where do you work 
+halının altına süpürüyorum - i sweep it under the rug - i sweep it under the rug 
+bazen okulda antrenman yapıyoruz - sometimes we train at school - sometimes we train at school 
+insanlar - people - people 
+tamam işten sonra oy veririm - ok i will vote after work - ok i will vote after work 
+kız çocuğun annesi gülümsemiyor - the girl's mother is not smiling - the girl's mother is not smiling 
+bir tane cep telefonu var - there is a cell phone - there is a cell phone 
+bir köpek - a dog - a dog 
+kadın tepeden - woman from above - woman from above 
+okul kapalı bugün tatil - school is closed today is holiday - school is closed today is holiday 
+adam arabanın üstünde - man on the car - man on the car 
+adım hakan ünal - my name is hakan unal - my name is hakan unal 
+tavuklar kuş - chickens bird - chickens bird 
+araba yeşil - car green - car green 
+inekler ne kadar - how much are the cows - how much are the cows 
+kirli - dirty - dirty 
+evet seninle oyun oynarım - yes i play games with you - yes i play games with you 
+matematiğin ilginç olduğunu düşünüyorlar - they think math is interesting - they think math is interesting 
+can - can - can
+ 
+ağustos - august - august 
+neden çiçek satın alıyorsun - why are you buying flowers - why are you buying flowers 
+bir kostüm partisine gidiyorlar - they are going to a costume party - they are going to a costume party 
+muz olgun değil - banana is not ripe - banana is not ripe 
+bir tornavida - a screwdriver - a screwdriver 
+bunlar çocuklarımız - these are our children - these are our children 
+uçak bir saat sonra geliyor - the plane arrives in an hour - the plane arrives in an hour. 
+bunu içmek tehlikeli değil - it's not dangerous to drink this - it's not dangerous to drink this 
+mutfakta - in the kitchen - in the kitchen 
+dedemi seviyorum - i love my grandfather - i love my grandfather 
+bir şemsiye - an umbrella - an umbrella 
+kız - girl - girl 
+bir kafe - a cafe - a cafe 
+bu çok küçük bir top - this is a very small ball - this is a very small ball 
+bu çok güzel bir tablo - this is a very beautiful painting - this is a very beautiful painting 
+tuzlu biftek - salted steak - salted steak 
+ben içtim - i drank - i drank 
+maç boyunca yemek yedik - we ate during the game - we ate during the game 
+kitabını mı okuyorsun - are you reading your book - are you reading your book 
+alo melike ile konuşabilir miyim - hello can i talk to melike - hello can i talk to melike 
+karnım ağrıyor çünkü çok tatlı yedim - my stomach hurts because i ate too many sweets - my stomach hurts because i ate too many sweets 
+ne zaman sona eriyor - when does it end - when does it end 
+hırdavatçı kitapçıya yakın - hardware store near the bookstore - hardware store near the bookstore 
+arapça yazı yazıyor - writes in arabic - writes in arabic 
+erkek çocuk bir dilim peynir yiyor - boy eats a slice of cheese - boy eats a slice of cheese 
+bugün neden parka gidiyorsunuz - why are you going to the park today - why are you going to the park today 
+saat sekizde burada olabilir misin - can you be here at eight o'clock - can you be here at eight o'clock 
+bir yüzme havuzu - a swimming pool - a swimming pool 
+bir inek - a cow - a cow 
+bulaşık makinesi bosch - dishwasher bosch - dishwasher bosch 
+geçen çarşamba tren bileti satın aldı - bought train tickets last wednesday - bought train tickets last wednesday 
+kitabı nereye koydun - where did you put the book - where did you put the book 
+yataktan atladım - i jumped out of bed - i jumped out of bed 
+bir televizyon - a television - a television 
+televizyonun kırık - your tv is broken - your tv is broken 
+plastik sandalye ne kadar - how much is a plastic chair - how much is a plastic chair 
+modern - modern - modern
+ 
+burada yüzmeyin - don't swim here - don't swim here 
+müzik grubu iki saat çalacak - the band will play for two hours - the band will play for two hours 
+tabaklar mutfak eşyası iğdır - plates kitchen utensils - plates kitchen utensils 
+artık burada yaşıyorum - i live here now - i live here now 
+parka gitmek istiyor musun - do you want to go to the park - do you want to go to the park 
+bluetooth atabilir misin lütfen - can you send bluetooth please - can you send bluetooth please 
+plaja gitmişler - they went to the beach - they went to the beach 
+türkçe kitap okuyorum - i'm reading a turkish book - i'm reading a turkish book 
+bu babam - this is my father - this is my father 
+tatlı olarak neyiniz var - what do you have for dessert - what do you have for dessert 
+turtanın üçte biri - a third of the pie - a third of the pie 
+evet taşıyabilirim - yes i can carry - yes i can carry 
+kuşun güzel nereden - where is your beautiful bird from - where is your beautiful bird from? 
+bir ayak - one foot - one foot 
+geçen hafta zarf satın aldım - i bought envelopes last week - i bought envelopes last week 
+bu bir gazete - this is a newspaper - this is a newspaper 
+akşam - evening - evening 
+bu bir kostüm partisi - it's a costume party - it's a costume party 
+yeterli yer var mı - is there enough room - is there enough room 
+bu kitabı okudun mu - have you read this book - have you read this book 
+aç mısınız - are you hungry - are you hungry 
+bir hayvanat bahçesi - a zoo - a zoo 
+şu - this - this 
+yağmur ormanları plajı'nın yanında - next to rainforest beach - next to rainforest beach 
+artık bir çocuksun - you are a child now - you are a child now 
+bu kütüphane demek - it means library - it means library 
+pizzaya taze domates koyuyor - putting fresh tomatoes on pizza - putting fresh tomatoes on pizza 
+daha büyük bir sırt çantam olsaydı onu taşıya bilirdim - if i had a bigger backpack i could carry it - if i had a bigger backpack i could carry it 
+bir erkek çocuk - a boy - a boy 
+yemek yediler - they ate food - they ate food 
+kız çocuk plajda uyuyor - girl sleeping on the beach - girl sleeping on the beach 
+adam mı evde balık yiyor - is the man eating fish at home - is the man eating fish at home 
+evet kahve istiyorum - yes i want coffee - yes i want coffee 
+nerede çalışıyorsunuz - where do you work - where do you work 
+eteğini - your skirt - your skirt 
+new york'ta yaşıyor - lives in new york - lives in new york 
+antartika afrika'nın güneyinde - antarctica south africa - antarctica south africa 
+market - market - market
+ 
+onlar sandviç lerini yiyor - they are eating their sandwiches - they are eating their sandwiches 
+kadınlar ağlıyor - women crying - women crying 
+fincanlar mutfak eşyası iğdır - cups kitchen utensils spindle - cups kitchen utensils spindle 
+bu televizyon çalışıyor - this tv is working - this tv is working 
+zarf satın aldın mı - did you buy an envelope - did you buy an envelope 
+portakal ağaçları - orange trees - orange trees 
+atlar yürü - horses walk - horses walk 
+bir oyun - a game - a game 
+doktoru var ha - do you have a doctor - do you have a doctor 
+memnun oldum can - i'm glad dear - i'm glad dear 
+bugün yağmur yağacak - it will rain today - it will rain today 
+burada oyna - play here - play here 
+bugün koşuyor - running today - running today 
+sizin sarı bir kitabınız var - you have a yellow book - you have a yellow book 
+bir amerikan lokantası - an american restaurant - an american restaurant 
+kafeye gidiyorlar - they are going to the cafe - they are going to the cafe 
+bugün işe geliyor musun - are you coming to work today - are you coming to work today 
+hayır herkese yetecek kadar çatal yok - no there are not enough forks for everyone - no there are not enough forks for everyone 
+bu televizyon çalışmıyor - this tv is not working - this tv is not working 
+erkek çocuk patates yiyor - boy eats potatoes - boy eats potatoes 
+bu ne - what's this - what's this 
+pi - pi - pi 
+bu askerler koşuyor - these soldiers are running - these soldiers are running 
+burada ne yetişiyor - what grows here - what grows here 
+mutlular çünkü birbirleriyle oyun oynuyorlar - they are happy because they are playing games with each other - they are happy because they are playing games with each other 
+yarın yelkenle açılmayan - not sailing tomorrow - not sailing tomorrow 
+heykel tepede - statue on the hill - statue on the hill 
+bir yılan - a snake - a snake 
+araba beyaz - car white - car white 
+bu gölde yüzemez - can't swim in this lake - can't swim in this lake 
+perşembe günü doğum günü partime gelmek istiyor musun - do you want to come to my birthday party on thursday - do you want to come to my birthday party on thursday 
+bu şehir fransa'da - this city is in france - this city is in france 
+bir bebek - a baby - a baby 
+on tane tabak - ten plates - ten plates 
+burada - here - here 
+çok güzeller - they are so beautiful - they are so beautiful 
+köpeğin var mı - do you have a dog - do you have a dog 
+erkek çocuk koşuyor - boy running - boy running 
+üç saat yüzebilirsiniz - you can swim for three hours - you can swim for three hours 
+bir havaalanı - an airport - an airport 
+ingiliz anahtarı namıçekicimi ihtiyacın var - wrench aka you need my hammer - wrench aka you need my hammer 
+türkçede buna çorap denir - in turkish it is called socks - in turkish it is called socks 
+günaydın doktor bey - good morning doctor - good morning doctor 
+ne yapmayı seviyorsun - what do you like to do - what do you like to do 
+müzik kötü - music is bad - music is bad 
+meksikalı bir adam - a mexican man - a mexican man 
+on bir tane çiçek - eleven flowers - eleven flowers 
+asker kraliçe ile tanışıyor - soldier meets queen - soldier meets queen 
+kız kardeşimi seviyorum - i love my sister - i love my sister 
+sinemaya - to the cinema - to the cinema 
+kış mevsiminde - in the winter season - in the winter season 
+güle güle - bye - bye 
+un - a - a 
+etek bir tür giysi - skirt is a kind of clothing - skirt is a kind of clothing 
+yumurtanın yarısı - half of the egg - half of the egg 
+yağmur yağarken dışarıya çıktım - i went outside when it was raining - i went outside when it was raining 
+kız çocuk yarışı kazandı - girl wins the race - girl wins the race 
+eteğini yıkıyor - washing her skirt - washing her skirt 
+saçları siyah - her hair is black - her hair is black 
+nereye gidiyor - where is it going - where is it going 
+bankaya gidiyor - going to the bank - going to the bank 
+bir daire - a circle - a circle 
+çünkü bu kitabı okumak çok zor - because this book is so hard to read - because this book is so hard to read 
+bir kedi - a cat - a cat 
+kemanı var - he has a violin - he has a violin 
+ayakkabılarımı bulamıyorum - i can't find my shoes - i can't find my shoes 
+evet okuyacağım - yes i will read - yes i will read 
+adam arabada - man in the car - man in the car 
+açım - i'm hungry - i'm hungry 
+şimdi yeri - now place - now place 
+okula - to school - to school 
+lütfen giysileri yıka - please wash clothes - please wash clothes 
+ne yapıyorsun - what are you doing - what are you doing 
+burada yaşadığımızı hatırlıyor musun - do you remember we used to live here - do you remember we used to live here 
+pilav yiyor - eating rice - eating rice 
+oyuncak satın alıyor - buys toys - buys toys 
+evde - at home - at home 
+o yazı yazıyor - he is writing - he is writing 
+affedersiniz bir sorun var - sorry there is a problem - sorry there is a problem 
+bu meyve yeşil - this fruit is green - this fruit is green 
+kırk beş yaşındayım - i am fortyfive years old - i am forty/five years old 
+arapça - arabic - arabic 
+adam yemek yiyor - man is eating - man is eating 
+bir at - a horse - a horse 
+bir salata - a salad - a salad 
+kırık bir televizyon - a broken tv - a broken tv 
+merhaba adım lin - hello my name is lin - hello my name is lin 
+otuzdört kase - thirty four bowls - thirty four bowls 
+hangi bardak benim - which glass is mine - which glass is mine? 
+bir yılda on iki ay var - there are twelve months in a year - there are twelve months in a year 
+elma bilgisayarın üstünde - apple on computer - apple on computer 
+doktor kız çocuğa gülümsüyor - doctor girl smiling at boy - doctor girl smiling at boy 
+hoşçakal - goodbye - goodbye 
+saat dört - it is four o'clock - it is four o'clock 
+bu bina avustralya'da - this building is in australia - this building is in australia 
+roma'da yaşıyoruz - we live in rome - we live in rome 
+kız çocuklar oyun oynuyor - girls playing games - girls playing games 
+ofiste hiçbir şey yok - nothing in the office - nothing in the office 
+anne babanı bulacağız - we will find your parents - we will find your parents 
+onun kitabı sıkıcı - his book is boring - his book is boring 
+o ne zamandan beri kraliçe - since when is she queen - since when is she queen 
+güney amerika afrika'nın batısında - south america west africa - south america west africa 
+bu kolay - it's easy - it's easy 
+burada yaşa - live here - live here 
+evet okudum - yes i have read - yes i have read 
+adam bisikletten düşüyor - man falls off bike - man falls off bike 
+bugün oğlum dört yaşında bir pasta istiyorum - today my son is four years old i want a cake - today my son is four years old i want a cake 
+on beş kravat - fifteen ties - fifteen ties 
+domatesler - tomatoes - tomatoes 
+iki kayak - two skis - two skis 
+çok kısayım - i'm too short - i'm too short 
+ama eskiden öğretmendim - but i used to be a teacher - but i used to be a teacher 
+kadın uyuyor - woman is sleeping - woman is sleeping 
+yedi - seven - seven 
+dün futbol - football yesterday - football yesterday 
+yaz mevsimi - summer - summer 
+erkek çocuklar - boys - boys 
+amerikalılar - americans - americans 
+elmanı yiyor musun - do you eat your apple - do you eat your apple 
+erkek çocuk evde - boy at home - boy at home 
+yemek yiyor - eating - eating 
+evet boşuz - yes we are free - yes we are free 
+asker ailesine mektup yazıyor - soldier writes a letter to his family - soldier writes a letter to his family 
+bilmiyorum yöneticime soracağım - i don't know i will ask my manager - i don't know i will ask my manager 
+bir kase - a bowl - a bowl 
+jale moskova'da ne kadar kalacak - how long will jale stay in moscow - how long will jale stay in moscow 
+kim meyve suyu içiyor - who is drinking juice - who is drinking juice 
+neden banyoda sın - why are you in the bathroom - why are you in the bathroom 
+sinemaya geç kaldı - late for the cinema - late for the cinema 
+bu kravatlar farklı - these ties are different - these ties are different. 
+beyaz - white - white 
+dolar - dollar - dollar 
+dairede oturuyoruz - we live in the flat - we live in the flat 
+yedi tane kalem - seven pencils - seven pencils 
+öğleden sonra - afternoon - afternoon 
+mısır - sweetcorn - sweetcorn 
+bilgisayarın çalışıyor mu - is your computer working - is your computer working? 
+o pilav yiyor - he is eating rice - he is eating rice 
+susuz musunuz - are you thirsty - are you thirsty 
+üzgünüm o benim - sorry it's me - sorry it's me 
+bugün limonlu tatlımız var - today we have lemon dessert - today we have lemon dessert 
+badem sütü - almond milk - almond milk 
+onlar gazetelerini okuyor - they are reading their newspaper - they are reading their newspaper 
+bu senin topun mu - is this your ball - is this your ball 
+lütfen yüzünü yıka - please wash your face - please wash your face 
+çöp - rubbish - rubbish 
+kırk yedi saniye - forty seven seconds - forty seven seconds 
+pilavı tadıyorlar - they are tasting the rice - they are tasting the rice 
+bir adam ve arabası - a man and his car - a man and his car 
+fransa'da - fransa'da - fransa'da 
+bu şapka çok büyük - this hat is too big - this hat is too big 
+sorularınız var mı - do you have questions - do you have questions 
+bir davul - a drum - a drum 
+üzgünüm - i am sad - i am sad 
+neyi süpürüyorsun - what are you sweeping - what are you sweeping 
+kaç yaşındasınız - how old are you - how old are you 
+postaneye gitmek istiyoruz - we want to go to the post office - we want to go to the post office 
+aslı haftaya cuma partime gelebilir mi - can asli come to my party on friday next week - can asli come to my party on friday next week? 
+bir balina - a whale - a whale 
+bugün yemek yapıyorum - i'm cooking today - i'm cooking today 
+köpekler islak - dogs wet - dogs wet 
+hayır nakit parayla ödemek istiyorum - no i want to pay with cash - no i want to pay with cash 
+bir adam - a man - a man 
+güneş gözlüğü var - there are sunglasses - there are sunglasses 
+gel - the people - the people 
+saçı - hair - hair 
+geceleyin bir otobüs terminali - a bus terminal at night - a bus terminal at night 
+bu güney amerika kıtası - this is the continent of south america - this is the continent of south america 
+onlar yüzmüyor - they are not swimming - they are not swimming 
+bugün kar yağacak - it will snow today - it will snow today 
+öğle yemeğinde salata yiyor - eats salad for lunch - eats salad for lunch 
+ev kahverengi - house brown - house brown 
+bu çiçekler yağmur ormanlarında - these flowers are in the rainforest - these flowers are in the rainforest 
+bugün tatlı istiyor musunuz - do you want dessert today - do you want dessert today 
+elli yıl önce evlendik - we got married fifty years ago - we got married fifty years ago 
+yirmi üç tabak - twenty three plates - twenty three plates 
+bir metro - a subway - a subway 
+futbol maçını kimin kazandığını söylediler mi - did they say who won the football match - did they say who won the football match? 
+bu pasifik okyanusu - this is the pacific ocean - this is the pacific ocean 
+bir sinagog - a synagogue - a synagogue 
+erkek çocuk kitap okuyor - boy reading a book - boy reading a book 
+kaç tane yatak var - how many beds - how many beds 
+şu onun karısı mı - is that his wife - is that his wife 
+bu kuş ağacın üzerinde duruyor - this bird is standing on the tree - this bird is standing on the tree 
+akşam yemeği yiyecekler - dinner foods - dinner foods 
+evet buraya koyabilirsin - yes you can put it here - yes you can put it here 
+bir kağıt - a paper - a paper 
+ellerini - your hands - your hands 
+kapı - gate - gate 
+ekim - october - october 
+bu bina barselona'da - bu bina barselona'da - bu bina barselona'da 
+bunlar kalemlerin mi - are these your pens - are these your pens 
+nerede antrenman yapıyorsunuz - where do you train - where do you train 
+akşam sekizde başlıyor - starts at eight o'clock - starts at eight o'clock 
+kitap okuyacak - will read a book - will read a book 
+bugün ne çalışıyorsunuz - what are you studying today - what are you studying today 
+domates olgun değil - tomatoes are not ripe - tomatoes are not ripe 
+bir bacak - one leg - one leg 
+okumayı seviyor - likes to read - likes to read 
+üçyüz dolar - three hundred dollars - three hundred dollars 
+tiyatro - theatre - theatre 
+bazen burada - sometimes here - sometimes here 
+bu takımda on bir kız çocuk var - there are eleven girls in this team - there are eleven girls in this team 
+bisiklet lerimize bin'e bileceğiz - we'll be able to get on our bikes - we'll be able to get on our bikes 
+bir gazete - a newspaper - a newspaper 
+karısını arıyor - looking for his wife - looking for his wife 
+yani on yaşındayken ninem bana bunu verdi - so my grandma gave me this when i was ten - so my grandma gave me this when i was ten 
+gem - gem - gem
+ 
+kütüphaneye gidiyoruz - we are going to the library - we are going to the library 
+ağaca çıkarken düştüm - i fell while climbing a tree - i fell while climbing a tree 
+bir bisiklet - a bicycle - a bicycle 
+benimle oyun oynar mısın - would you play games with me - would you play games with me 
+başım ağrıyor - i have a headache - i have a headache 
+bu tapınak meksika'da keşfedildi - this temple was discovered in mexico - this temple was discovered in mexico 
+soru - question - question 
+ingilizce - english - english 
+bu kimin kedisi - whose cat is this - whose cat is this 
+hayır onların - no their - no their 
+eski bir telefon - an old phone - an old phone 
+parti sona eriyor - the party is ending - the party is ending 
+neden topu'ya kalamadın - why couldn't you stay in ball - why couldn't you stay in ball 
+parkta çalışıyorum - i work in the park - i work in the park 
+bu kot pantolon uyuyor - these jeans fit - these jeans fit 
+eve gidiyor - going home - going home 
+bir taksi - a taxi - a taxi 
+bir eposta adresi - an email address - an email address 
+avro para birimidir - euro is currency - euro is currency 
+ona göre kitaplar ilginç ama televizyon sıkıcı - according to him books are interesting but television is boring - according to him, books are interesting but television is boring 
+havluya ihtiyacı var - he needs a towel - he needs a towel 
+brezilya'da iken ingilizce öğretim - teaching english while in brazil - teaching english while in brazil 
+oy verme - voting - voting 
+seviyor - love - love 
+ingilizce konuşuyorum - i am speaking english - i am speaking english 
+ofise gelebilir misin - can you come to the office - can you come to the office 
+kırmızı bir gömlek - a red shirt - a red shirt 
+sizin kaç tane kaseniz var - how many bowls do you have - how many bowls do you have 
+tatlılar orada - sweets are there - sweets are there 
+bu bir dilim turta - it's a slice of pie - it's a slice of pie 
+maç hakkında bir haber var mı - is there any news about the match - is there any news about the match? 
+sekiz tane yumurta - eight eggs - eight eggs 
+çince yazı yazıyor - writes in chinese - writes in chinese 
+bir market - a market - a market 
+sebzeler - vegetables - vegetables 
+kız çocuk dans ediyor - girl dancing - girl dancing 
+nerede yaşıyorsunuz - where do you live - where do you live 
+otuzyedi tabak - thirty seven plates - thirty seven plates 
+harika su - great water - great water 
+gitar - guitar - guitar 
+yeni bir televizyon - a new television - a new television 
+burada sonbaharda antrenman yapıyoruz - here we train in the fall - here we train in the fall 
+kahverengi - brown - brown 
+mart - march - march 
+bu kız çocuk japon - this girl is japanese - this girl is japanese 
+bu pizzanın dörtte biri - a quarter of that pizza - a quarter of that pizza 
+modern bir tablo - a modern painting - a modern painting 
+yarın plaja gidebilir miyiz - can we go to the beach tomorrow - can we go to the beach tomorrow 
+muz olgun - banana ripe - banana ripe 
+okula gidiyor - going to school - going to school 
+bir tabak - a plate - a plate 
+çin kıyafetleri - chinese clothes - chinese clothes 
+uzun boylu kadın kot pantolon giyiyor - tall woman wearing jeans - tall woman wearing jeans 
+saat bir on beş - one fifteen o'clock - one fifteen o'clock 
+bisikletten düşüyor - falls off the bike - falls off the bike 
+tebrik ederim - congratulations - congratulations 
+adam oğlunu taşıyor - man carrying his son - man carrying his son 
+arkadaşım niyazi şehirde file bindi - my friend niyazi rode an elephant in the city - my friend niyazi rode an elephant in the city 
+kadın kitap okuyor - woman reading a book - woman reading a book 
+tamam alıyorum - ok i'm getting - ok i'm getting 
+nakit para ile ödemek istiyor musunuz - do you want to pay with cash - do you want to pay with cash 
+bir amerikan şapkası - an american hat - an american hat 
+tatildeyken bir şey satın almak istiyorum - i want to buy something while on vacation - i want to buy something while on vacation 
+bir bardak süt istiyor musun - do you want a glass of milk - do you want a glass of milk 
+şimdi yürü - now walk - now walk 
+adam ve kadın konser dinliyor - man and woman listening concert - man and woman listening concert 
+antartika bin sekiz yüz yirmi de keşfedildi - antarctica was discovered in one thousand eight hundred and twenty - antarctica was discovered in one thousand eight hundred and twenty 
+saçları ne renk - what color is her hair - what color is her hair 
+fen bilgisi - science - science 
+bir kız çocuk ve bir ad - a girl and a name - a girl and a name 
+müzik - music - music 
+tiyatroda oturuyor - sitting in the theater - sitting in the theater 
+adam fransız - man french - man french 
+bir fabrika - a factory - a factory 
+mayıs - may - may 
+yüzleri mor ve sarı - their faces are purple and yellow - their faces are purple and yellow 
+üçüncü sayı yedi - third number seven - third number seven 
+sizin yeşil bir kitabınız var - you have a green book - you have a green book 
+bu battaniye yediyüz yen - this blanket is seven hundred yen - this blanket is seven hundred yen 
+makarnayı pişirmem - i don't cook pasta - i don't cook pasta 
+eskiden çocuktum - i used to be a kid - i used to be a kid 
+bu kuş çiçeğin üzerinde duruyor - this bird is standing on the flower - this bird is standing on the flower 
+ay - ay - ay 
+bu resmi - this picture - this picture 
+ağırlığın ne - what is your weight - what is your weight 
+adım can - my name is can - my name is can 
+çöp kutusu kötü kokuyor - litter box smells bad - litter box smells bad 
+bu sizin kitabınız mı - is this your book - is this your book 
+pula ihtiyacın var mı - do you need money - do you need money 
+mut - mut - mut 
+bir dizüstü bilgisayar - a laptop - a laptop 
+age - age - age
+ 
+saat bir'de - at one o'clock - at one o'clock 
+sayı iki bin beş - number two thousand five - number two thousand five 
+tren - train - train 
+parası var - he has money - he has money 
+kaç tane masa beyaz - how many tables are white - how many tables are white 
+bir zarf - an envelope - an envelope 
+merdivenim değil - not my ladder - not my ladder 
+şapkasını unuttu - forgot his hat - forgot his hat 
+kitap - book - book 
+adam saat takıyor - man wears a watch - man wears a watch 
+öğleden sonraları ne yapıyorsunuz - what are you doing in the afternoon - what are you doing in the afternoon 
+bu fincanlar farklı boyda - these cups are different size - these cups are different size 
+herkes patlıyor - everyone is exploding - everyone is exploding 
+buna ihtiyacı var - it needs it - it needs it 
+neden yeni bir merdivene ihtiyacınız var - why do you need a new ladder - why do you need a new ladder 
+kız kardeşimle öğle yemeği yiyorum - i'm having lunch with my sister - i'm having lunch with my sister 
+kızın pastası var - girl has cake - girl has cake 
+iş için bu şehirde - for work in this city - for work in this city 
+içeride keman çalışıyorum - i'm playing the violin inside - i'm playing the violin inside 
+adam su içiyor - man is drinking water - man is drinking water 
+kırık bir radyo - a broken radio - a broken radio 
+kemanımı yere koyabilir miyim - can i put my violin down - can i put my violin down 
+lütfen duvarı ölç - please measure the wall - please measure the wall 
+on beş sterlin - fifteen pounds - fifteen pounds 
+hayır çalışmıyor - no it doesn't work - no it doesn't work 
+yiyecekleri beğendin mi - did you like the food - did you like the food 
+artık takım elbiseleri var - now they have suits - now they have suits 
+izmir'de ne yapıyorsun - what are you doing in izmir - what are you doing in izmir 
+evet uyuyor - yes he is sleeping - yes he is sleeping 
+ekşi mi - is it sour - is it sour 
+içindeyken türkçe mi öğrettin - did you teach turkish while you we're in - did you teach turkish while you were in 
+paltomu arıyorum - looking for my coat - looking for my coat 
+yardımcı ol - help me - help me 
+adam çölde yürüyor - man walking in the desert - man walking in the desert 
+maymun ağaçta - monkey in tree - monkey in tree 
+insanlar otobüsten iniyor - people getting off the bus - people getting off the bus 
+elma bir tür meyve - apple is a kind of fruit - apple is a kind of fruit 
+radyo dinlemeyi seviyorum - i like to listen to the radio - i like to listen to the radio 
+bir otel - a hotel - a hotel 
+futbol takımında oynuyorum - i play on the football team - i play on the football team 
+bir kuyumcu - a jeweler - a jeweler 
+neden kazak giyiyorsun - why are you wearing a sweater - why are you wearing a sweater 
+onlar elma yiyor - they are eating apples - they are eating apples 
+koltuğunuz sağda - your seat is on the right - your seat is on the right 
+akşam yemeği hazırlıyoruz - we are preparing dinner - we are preparing dinner 
+erkek çocuk arapça yazı yazıyor - boy writes in arabic - boy writes in arabic 
+okuldayım - i am at school - i am at school 
+topu - ball - ball 
+bir postane - a post office - a post office 
+hangi koltuk benim - which seat is mine - which seat is mine 
+kafe şehir merkezinde değil - the cafe is not in the city center - the cafe is not in the city center 
+bu merdiven metal - this ladder is metal - this ladder is metal 
+wc nerede - where is the wc - where is the wc 
+paraya ihtiyacı var - he needs money - he needs money 
+bavulumda yeterli yer olduğunu düşünüyorum - i think there is enough room in my suitcase - i think there is enough room in my suitcase 
+çok yuvarlak - very round - very round 
+bu afrika'da bir cenaze - this is a funeral in africa - this is a funeral in africa 
+çiçek satın alıyorum çünkü bu öğleden sonra yine mi ziyaret ediyorum - i'm buying flowers because i'm visiting again this afternoon - i'm buying flowers because i'm visiting again this afternoon 
+meyve satıyor musunuz - do you sell fruit - do you sell fruit 
+gözlüğünü buldum - i found your glasses - i found your glasses 
+kadınlar lokantada çalışıyor - women work in restaurant - women work in restaurant 
+öğle yemeği hazırlıyorlar - they are preparing lunch - they are preparing lunch 
+sarı - yellow - yellow 
+türkçede buna kitap denir - in turkish it is called a book - in turkish it is called a book. 
+pullar - money - money 
+evet edebilirim - yes i can - yes i can 
+yeterli bardak yok - not enough glasses - not enough glasses 
+iyi günler - have a nice day - have a nice day 
+bir elma - an apple - an apple 
+orada futbol oynayacağım - i will play football there - i will play football there 
+çocukken annen bunu mu sana okudu - did your mother read this to you when you we're a kid - did your mother read this to you when you were a kid? 
+önce bunu cetvelle ölç - measure it first with a ruler - measure it first with a ruler 
+kum - godfather - godfather 
+rusya - russia - russia 
+meksikalılar bu bayramı kasım'da kutluyor - mexicans celebrate this holiday in november - mexicans celebrate this holiday in november 
+merdivenden düştüm - i fell down the stairs - i fell down the stairs 
+çinli iş adamları ve iş kadınları telefonda konuşuyor - chinese businessmen and businesswomen talking on the phone - chinese businessmen and businesswomen talking on the phone 
+alo bir rezervasyon yaptırmak istiyorum - hello i want to make a reservation - hello i want to make a reservation 
+bisikletin mi - is your bike - is your bike 
+hangi takım - which team - which team 
+ya - yes - yes 
+adım sezen - step sensing - step sensing 
+avustralya kıtası - australian continent - australian continent 
+dört gün - four days - four days 
+adam dağda yürüyor - man walking on mountain - man walking on mountain 
+hayır bugün tatil - no today is holiday - no today is holiday 
+penguenler yüzecek - penguins will swim - penguins will swim 
+öyle tamir et - so fix it - so fix it 
+bu kadın daha güçlü - this woman is stronger - this woman is stronger 
+bir eczane - a pharmacy - a pharmacy 
+benim bir sandviç işim var - i have a sandwich business - i have a sandwich business 
+bugün ne yapmamız gerek - what should we do today - what should we do today 
+bir şey pişiriyor - is cooking something - is cooking something 
+hava güneşli mi - is it sunny - is it sunny 
+partiye zamanında geldiler - they came to the party on time - they came to the party on time 
+bunu satın almak istiyorum - i want to buy this - i want to buy this 
+erkek çocuk yarışı kazandı - boy wins the race - boy wins the race 
+bir tane top kırmızı - one ball red - one ball red 
+bir deve - a camel - a camel 
+gecikmeli çünkü kar yağıyor - delayed because it's snowing - delayed because it's snowing 
+gözlüğümü arıyorum - i'm looking for my glasses - i'm looking for my glasses 
+ne getirdin - what did you bring - what did you bring 
+hiçbiri - none - none 
+kadın tepeden aşağıya koşuyor - woman running down hill - woman running down hill 
+bunlar senin kitapların mı - are these your books - are these your books 
+gitar çalan birine ihtiyacım var - i need someone who plays guitar - i need someone who plays guitar 
+hayır tatile gittim - no i went on vacation - no i went on vacation 
+şu emine'nin evinin bir tablosu - a painting of that house of emine - a painting of that house of emine 
+bu köpek benim - this dog is mine - this dog is mine 
+paris - paris - paris 
+ayakkabısını arıyor - looking for his shoes - looking for his shoes 
+sabahları - in the morning - in the morning 
+hangi hayvan büyük - which animal is big - which animal is big 
+modern bir stadyum - a modern stadium - a modern stadium 
+atların güzel - your horses are beautiful - your horses are beautiful 
+markete gitmiş - went to the market - went to the market 
+bir tane telefon siyah - one phone black - one phone black 
+bir araba - a car - a car 
+nereye gitmek istiyorsunuz - where would you like to go - where would you like to go 
+nereye gidiyorsunuz - where are you going - where are you going 
+beş türk lirası - five turkish lira - five turkish lira 
+bu kilise bir adada - this church is on an island - this church is on an island 
+bir hastane - a hospital - a hospital 
+daha büyük bir sırt çantası almalıyım - i need to buy a bigger backpack - i need to buy a bigger backpack 
+bir fıskiye - a fountain - a fountain 
+temiz çarşaflar güzel kokuyor - clean sheets smell good - clean sheets smell good 
+bir kız çocuk - a girl child - a girl child 
+şapkası var - he has a hat - he has a hat 
+futbol oynuyor - he's playing football - he's playing football 
+memnun oldum - pleased to meet you - pleased to meet you 
+hayır unuttum - no i forgot - no i forgot 
+hatırlıyor musun - do you remember - do you remember 
+bu ne partisi - what party is this - what party is this 
+hangi takım kazanacak - which team will win - which team will win 
+hayır meşgulüm - no i am busy - no i am busy 
+bir tatlı - a dessert - a dessert 
+memnun oldum tanju - i'm glad tanju - i'm glad tanju 
+kiminle akşam yemeği yiyorsun - who are you having dinner with - who are you having dinner with? 
+kitabını oku - read your book - read your book 
+ekmeği tadıyorlar - they taste the bread - they taste the bread 
+yarın yağmur yağacak - it is going to rain tomorrow - it is going to rain tomorrow 
+şimdi yürüyemezler - they can't walk now - they can't walk now 
+rusya çin'in kuzeyinde - russia north of china - russia north of china 
+ayakkabısını buldu - he found his shoe - he found his shoe 
+bir diş fırçası - a toothbrush - a toothbrush 
+hangi boy pasta istiyorsun - what size cake do you want - what size cake do you want 
+bu oyuncaklar aynı - these toys are the same - these toys are the same 
+market köprüye yakın - market near the bridge - market near the bridge 
+antik merdivenler - ancient stairs - ancient stairs 
+asker çocukla konuşuyor - soldier talking to boy - soldier talking to boy 
+türkçe - turkish - turkish 
+uçabiliyor mu - can he fly - can he fly 
+bu burnum - this is my nose - this is my nose 
+merdivenler - stairs - stairs 
+çok pahalı - very expensive - very expensive 
+modern bir heykel - a modern sculpture - a modern sculpture 
+bu avrupa'da bir düğün - this is a wedding in europe - this is a wedding in europe 
+fransız - french - french 
+bir kütüphane - a library - a library 
+hayır sıcakla mı yoruz - no are you tired of the heat - no, are you tired of the heat? 
+ikinci sayı dokuz - second number nine - second number nine 
+italyan makarnası - italian pasta - italian pasta 
+bir şey içiyor - drinking something - drinking something 
+oğlunuz - your son - your son 
+bu hayvan yüzemez - this animal cannot swim - this animal cannot swim 
+kadın uyanıyor - woman waking up - woman waking up 
+çünkü niye oku ziyaret ediyordu - because why was he visiting the arrow - because why was he visiting the arrow 
+saçı sarı - her hair is blonde - her hair is blonde 
+bu çok büyük - it's so big - it's so big 
+dokuz tane şapka - nine hats - nine hats 
+partiye geç kaldı - late to the party - late to the party 
+saat beşmp3 - five o'clockmp3 - five o'clock.mp3 
+yirmi beş dolar - twenty five dollars - twenty five dollars 
+millete ihtiyacınız var mı - do you need nation - do you need nation 
+bir evrak çantası - a briefcase - a briefcase 
+zühre - venus - venus 
+karımı arıyorum - i am looking for my wife - i am looking for my wife 
+bu kitap ne zaman yazıldı - when was this book written - when was this book written 
+erkek çocuklar kutlama yapmıyor - boys don't celebrate - boys don't celebrate 
+bu adam yürüyemez - this man can't walk - this man can't walk 
+köpeğimi arıyorum - i am looking for my dog - i am looking for my dog 
+orada oynama - don't play there - don't play there 
+lütfen mutfaktan sekiz tabak getirin - please bring eight plates from the kitchen - please bring eight plates from the kitchen 
+evet kazanacağımızı düşünüyorum - yes i think we will win - yes i think we will win 
+işe gidiyor - she is going to work - she is going to work 
+çünkü kayboldum - because i'm lost - because i'm lost 
+bütün turta - whole pie - whole pie 
+dokuz tane çiçek satın alıyorum - i buy nine flowers - i buy nine flowers 
+top ayağında - ball at your feet - ball at your feet 
+ve şimdi hava durumu hakkında konuşuyorlar - and now they're talking about the weather - and now they're talking about the weather 
+üç - three - three 
+yirmi - twenty - twenty 
+iki yıldır bu evi inşa ediyoruz - we have been building this house for two years - we have been building this house for two years 
+cami park'a yakın - close to mosque park - close to mosque park 
+kırk yıl önce askerdi - forty years ago he was a soldier - forty years ago he was a soldier 
+türkçede buna kurbağa denir - in turkish it is called a frog - in turkish it is called a frog 
+bir uçak - an airplane - an airplane 
+evet bunlar benim kitaplarım - yes these are my books - yes these are my books 
+bu kuş yemek yiyecek - this bird will eat - this bird will eat 
+üzgünüm sadece donmuş balığımız var - sorry we only have frozen fish - sorry we only have frozen fish 
+öğretmen ne dedi - what did the teacher say - what did the teacher say 
+hayır gidemeyiz - no we can't go - no we can't go 
+ekmeğin tadı güzel - bread tastes good - bread tastes good 
+bir müze - a museum - a museum 
+benimle dans eder misin - will you dance with me - will you dance with me 
+bu saat çalışmıyor - this clock is not working - this clock is not working 
+araba kırmızı - car red - car red 
+bir kaplan - a tiger - a tiger 
+amerikalıyım - i am american - i am american 
+evet kitabımı okuyorum - yes i am reading my book - yes i am reading my book 
+yemek - food - food 
+alo çırağan oteli - hello ciragan hotel - hello ciragan hotel 
+oraya oturma - don't sit there - don't sit there 
+hayır - no - no 
+koşuyorlar - they are running - they are running 
+koşmayı seviyor - likes to run - likes to run 
+lütfen yedi ölç - please measure seven - please measure seven 
+bizim üç tane kase miz var - we have three bowls - we have three bowls 
+pilav kadında - woman in rice - woman in rice 
+davul - drum - drum 
+kadın kahveyi kokmuyor - woman does not smell coffee - woman does not smell coffee 
+bu oyuncak - this toy - this toy 
+bu heykel çok pahalı - this statue is very expensive - this statue is very expensive 
+bir ördek - a duck - a duck 
+bu anahtarlar sizin mi - are these keys yours - are these keys yours? 
+bizim dört tane fincan ımız var - we have four cups - we have four cups 
+giysiler - clothes - clothes 
+ara - now - now 
+el - the - the 
+grup hristiyan kilisesi - group christian church - group christian church 
+okumayı seviyorum - i love to read - i love to read 
+bu şirketin telefon numarası beş yüz elli beş on iki otuz dört - the phone number of this company is five hundred fifty five twelve thirty four - the phone number of this company is five hundred fifty five twelve thirty four 
+biletler ne kadar - how much are the tickets - how much are the tickets 
+haberleri seyrediyorum - i'm watching the news - i'm watching the news 
+bu bir elma - it's an apple - it's an apple 
+merdivenlerde bir adam görüyorum - i see a man on the stairs - i see a man on the stairs 
+plaja gitmek - go to the beach - go to the beach 
+kadın kocasına gülümsüyor - woman smiling at her husband - woman smiling at her husband 
+ne yapacağız - what are we gonna do - what are we gonna do 
+hırdavatçı nerede - where is the hardware store - where is the hardware store 
+bu hayvan büyük - this animal is big - this animal is big 
+şu sizin - that's yours - that's yours 
+babam nerede - where is my father - where is my father 
+ne kadardır bu evi inşa ediyorsunuz - how long have you been building this house - how long have you been building this house 
+gömlek uyuyor mu - does the shirt fit - does the shirt fit 
+kız çocuklar köprüde duruyor - girls are standing on the bridge - girls are standing on the bridge 
+adam çalışıyor - man working - man working 
+ninesi bilgisayar kullanmayı öğreniyor - grandma is learning to use computer - grandma is learning to use computer 
+bir stadyum - a stadium - a stadium 
+bu ne kadar - how much is this - how much is this 
+bugün dört yaşındayım - i am four years old today - i am four years old today 
+fransız yemeği getirdim - i brought french food - i brought french food 
+ingilizce öğreniyorsun - you are learning english - you are learning english 
+metroya biniyorlar - they take the subway - they take the subway 
+geçiş törenine gidelim - let's go to the parade - let's go to the parade 
+ahşap sandalye altmış sterlin - wooden chair sixty pounds - wooden chair sixty pounds 
+saçım kızıl - my hair is red - my hair is red 
+kız çocuk cidden düştü - the girl fell seriously - the girl fell seriously 
+erkek çocuklar gölde yüzüyor - boys swimming in the lake - boys swimming in the lake 
+golf takımının fotoğrafını çekiyor - taking a picture of the golf team - taking a picture of the golf team 
+o kitabını okuyor - he is reading his book - he is reading his book 
+kadın sandaleti - women sandals - women sandals 
+harika bir top götürüyor - throws a great ball - throws a great ball 
+nereye gittin - where did you go - where did you go 
+şimdi yürüyebilirler - they can walk now - they can walk now 
+biraz peynir istiyorum - i want some cheese - i want some cheese 
+çin tabloları - chinese paintings - chinese paintings 
+lokantaya gitmek ister misin - do you want to go to the restaurant - do you want to go to the restaurant 
+su - it's - its 
+biftek - steak - steak 
+kız çocuk oyun oynuyor - girl child playing - girl child playing 
+salı günü hava soğuk olacak - tuesday will be cold - tuesday will be cold 
+bir el feneri - a flashlight - a flashlight 
+tereyağlı ekmek - buttered bread - buttered bread 
+en büyük pastayı istiyorum - i want the biggest cake - i want the biggest cake 
+dün ne çalıştınız - what did you study yesterday - what did you study yesterday 
+hayır tanışmadık - no we haven't met - no we haven't met 
+kasımda kayak - skiing in november - skiing in november 
+bir sırt çantası - a backpack - a backpack 
+içindeyken bunu seyrettim - i watched this while in - i watched this while in 
+on beş - fifteen - fifteen 
+bu bir dilim pizza - it's a slice of pizza - it's a slice of pizza 
+neden gecikmeli - why delay - why delay 
+evet bu benim kitabım - yes this is my book - yes this is my book 
+pantolon bir tür giysi - trousers - trousers 
+odada çok fazla insan var - there are too many people in the room - there are too many people in the room 
+hangi meyve yeşil - which fruit is green - which fruit is green 
+portakalı yakalayacak - will catch the orange - will catch the orange 
+sizin neyiniz var - what do you have - what do you have 
+fransızlar - french - french 
+kim daha güçlü - who is stronger - who is stronger 
+miyim - am i - am i 
+köpek bir şey içmek istiyor - the dog wants to drink something - the dog wants to drink something 
+diğerini kesmek istiyorum - i want to cut the other - i want to cut the other 
+iki saat - two hours - two hours 
+bunu satın almalısın çok pahalı - you have to buy it it's too expensive - you have to buy it it's too expensive 
+bir defter - a notebook - a notebook 
+bu güney amerika'da bir düğün - this is a wedding in south america - this is a wedding in south america 
+sabahları çalışıyorum - i work in the morning - i work in the morning 
+oyuncaklar - toys - toys 
+bu bir yumurta - it's an egg - it's an egg 
+kahve istiyor musunuz - do you want coffee - do you want coffee 
+konser boyunca fotoğraf çektiler - they took pictures during the concert - they took pictures during the concert 
+bir makas - a scissor - a scissor 
+lütfen kirli mutfak eşyalarını yıka - please wash the dirty utensils - please wash the dirty utensils 
+bir böcek - an insect - an insect 
+çocuklar geç kaldı - kids are late - kids are late 
+kitapçı - bookstore - bookstore 
+başın sağ olsun - good luck - good luck 
+domatesler olgun değil - tomatoes are not ripe - tomatoes are not ripe 
+yelkenli tekne ile denize açılıyorum - i'm sailing with a sailboat - i'm sailing with a sailboat 
+tablonun fotoğrafını çekiyor - taking a picture of the table - taking a picture of the table 
+o kitap okuyor - he is reading a book - he is reading a book 
+kadın yürüyor - woman walking - woman walking 
+paltosu mavi - paltosu mavi - paltosu mavi 
+bir sözlük - a dictionary - a dictionary 
+çoraplar beyazdı - the socks we're white - the socks were white 
+bina moskova'da - building in moscow - building in moscow 
+bardaklar mutfak eşyası iğdır - glasses kitchen utensil - glasses kitchen utensil 
+bir şey mi arıyorsunuz - are you looking for something - are you looking for something 
+bir rus kilisesi - a russian church - a russian church 
+bir kadın mayosu - a women's swimsuit - a women's swimsuit 
+bu ev çok küçük - this house is too small - this house is too small 
+kime oy vereceksin - who will you vote for - who will you vote for 
+adam türkçe konuşuyor - man speaks turkish - man speaks turkish 
+onlar sandviç yiyor - they are eating sandwiches - they are eating sandwiches 
+çocuklar doğum günü partisinde gülüyor - kids laughing at birthday party - kids laughing at birthday party 
+alo - hello - hello 
+paris'te yaşıyoruz - we live in paris - we live in paris 
+kız çocuk kitap okuyor - girl reading a book - girl reading a book 
+italya - italy - italy 
+partine gelmek istiyorum ama cuma günü meşgulüm - i want to come to your party but i'm busy on friday - i want to come to your party but i'm busy on friday 
+kuzey buz denizi - arctic ocean - arctic ocean 
+bir kitap - a book - a book 
+bir lise - a high school - a high school 
+kitapçı harita satıyor - bookstore sells maps - bookstore sells maps 
+ne renk pasta istiyorsunuz - what color cake do you want - what color cake do you want? 
+bir adam ve karısı - a man and his wife - a man and his wife 
+attan düştüm - i fell off my horse - i fell off my horse 
+ne zaman yazdın - when did you write - when did you write 
+oturmuyor - not sitting - not sitting 
+on üç havaalanı - thirteen airports - thirteen airports 
+onu sana vereceğim - i will give it to you - i will give it to you 
+bu adam çok yaşlı - this man is too old - this man is too old 
+nakit parayla ödemeniz gerek - you have to pay with cash - you have to pay with cash 
+benimle kafede buluş - meet me at the cafe - meet me at the cafe 
+gördüm - i saw - i saw 
+bu aile çölde tatilde - this family is on vacation in the desert - this family is on vacation in the desert 
+bir gömlek - a shirt - a shirt 
+bir kadın var - there is a woman - there is a woman 
+babam neden mutfakta - why is my father in the kitchen - why is my father in the kitchen? 
+bir pasta - a cake - a cake 
+çekle ödemek istiyorum - i want to pay by check - i want to pay by check 
+kediler siyah - cats black - cats black 
+çorabını arıyor - looking for his sock - looking for his sock 
+yeni evimize hoş geldin - welcome to our new home - welcome to our new home 
+oğul - son - son 
+iki limon - two lemons - two lemons 
+akşam yemeği çorba ile başlıyor - dinner starts with soup - dinner starts with soup 
+herkes oturuyor - everyone is sitting - everyone is sitting 
+şimdi gece - now night - now night 
+yerleri süpürdüm - i swept the floors - i swept the floors 
+bir kadın - a woman - a woman 
+dışarıda akşam yemeği yiyoruz - we are having dinner out - we are having dinner out 
+kitap okuyorum - i am reading a book - i am reading a book 
+oyun kötü - the game is bad - the game is bad 
+batum nerede - where is batumi - where is batumi 
+kadın çiçekleri atıyor - woman throws flowers - woman throws flowers 
+bu bir kız çocuğun kolu - this is a girl's arm - this is a girl's arm 
+lütfen bir salata getir - please bring a salad - please bring a salad 
+kredi kartı ile ödemek istiyorum - i want to pay by credit card - i want to pay by credit card 
+gidelim - let's go - lets go 
+saat on iki'den beri burada bekliyorum - i've been waiting here since twelve o'clock - i've been waiting here since twelve o'clock 
+hava güneşli - it's sunny - it's sunny 
+beş tane balık var - there are five fish - there are five fish 
+bir tablo - a table - a table 
+seçim hakkında konuştular - they talked about the election - they talked about the election 
+güçlü değil - not strong - not strong 
+saat kaç - what time is it - what time is it 
+ben bir erkek çocuğum - i am a boy - i am a boy 
+bu film iyi - this movie is good - this movie is good 
+kız çocuk koşuyor - girl running - girl running 
+lütfen bir şey okuyorsun - please you are reading something - please you are reading something 
+bir çalışan - an employee - an employee 
+havaalanında erken gazete okudum - i read the newspaper early at the airport - i read the newspaper early at the airport 
+ellerini yıka - wash your hands - wash your hands 
+kafes şehir merkezinde - cage in the city center - cage in the city center 
+arapça gazete okuyor - reading arabic newspaper - reading arabic newspaper 
+üşüyor musunuz - are you cold - are you cold 
+kız çocuk meyve suyu sevmiyor - girl doesn't like juice - girl doesn't like juice 
+balık kırmızı - fish red - fish red 
+yirmi dört tane de bağımız var - we also have twentyfour vineyards - we also have twenty/four vineyards 
+gidiyorum - i'm going - i'm going 
+bir çivi - a nail - a nail 
+iki yıl - two years - two years 
+bir hırdavatçı - a hardware store - a hardware store 
+evet - yeah - yeah 
+yemek yedi - ate - ate 
+nerelisiniz - where are you from - where are you from 
+saat bir de geliyor - one o'clock is coming - one o'clock is coming 
+bir ilkokul - a primary school - a primary school 
+şemsiyesi var - he has an umbrella - he has an umbrella 
+yarın hava nasıl olacak - what will the weather be like tomorrow - what will the weather be like tomorrow 
+doğan bey siz misiniz - are you born sir - are you born sir 
+bu adam çok hızlı - this guy is so fast - this guy is so fast 
+kar yağıyor - it's snowing - it's snowing 
+hayır teşekkür ederim - no thanks - no thanks 
+bugün gazeteyi okuyorum - i'm reading the newspaper today - i'm reading the newspaper today 
+kafeye gelmek istiyor musun - do you want to come to the cafe - do you want to come to the cafe 
+golf oynamak istiyorum - i want to play golf - i want to play golf 
+adın mı murat kaçar - is your name murat run away - is your name murat run away 
+adam çiçeği kokmuyor - the man does not smell the flower - the man does not smell the flower 
+banyo dayım çünkü ellerimi yıkıyorum - i'm in the bathroom because i'm washing my hands - i'm in the bathroom because i'm washing my hands 
+elli altı saniye - fifty six seconds - fifty six seconds 
+çünkü bisikletimi tamir ediyordum - because i was fixing my bike - because i was fixing my bike 
+bir güneş gözlüğü - a sunglasses - a sunglasses 
+kızım dün gece saat on bir'de doğdu - my daughter was born at eleven o'clock last night - my daughter was born at eleven o'clock last night 
+sizin kaç tane ta bağınız var - how many ties do you have - how many ties do you have 
+metal masam var - metal masam var - metal masam var 
+on yedi - seventeen - seventeen 
+resim - picture - picture 
+otele gitmek istiyorum - i want to go to the hotel - i want to go to the hotel 
+ahşap sandalye ne kadar - how much is a wooden chair - how much is a wooden chair 
+iki tane cep telefonu var - have two cell phones - have two cell phones 
+metro ile gidiyor - going by subway - going by subway 
+yüzüyor - swimming - swimming 
+sola dönün - turn left - turn left 
+bu kalemler aynı - these pens are the same - these pens are the same 
+kadın parkta oturuyor - woman sitting in the park - woman sitting in the park 
+italya fransa'ya yakın - close to italy france - close to italy france 
+fransız iş kadınının dizüstü bilgisayarı var - french business woman has laptop - french business woman has laptop 
+ocak - fireplace - fireplace 
+çocuklar okula gidiyor - children go to school - children go to school 
+domatesler olgun - tomatoes are ripe - tomatoes are ripe 
+bu kitap iyi - this book is good - this book is good 
+üç gece kal - stay three nights - stay three nights 
+daha sonra bir tornavida ve vidaları kullandı - then used a screwdriver and screws - then used a screwdriver and screws 
+bankaya - to the bank - to the bank 
+bebek yüzemez - baby can't swim - baby can't swim 
+hayır ben doktor değilim - no i am not a doctor - no i am not a doctor 
+ev pembe - house pink - house pink 
+özür dilerim - i'm sorry - i'm sorry 
+otuzbeş kase - thirtyfive bowls - thirty/five bowls 
+çantanı öyle taşıma - don't carry your bag like that - don't carry your bag like that 
+hint okyanusu - indian ocean - indian ocean 
+onun kedisi var - he has a cat - he has a cat 
+bulaşık makinesi - dishwasher - dishwasher 
+topu attı - threw the ball - threw the ball 
+iş adamı olmak istiyorlar - they want to be businessmen - they want to be businessmen 
+adam koşuyor - man running - man running 
+çocuklarıyla oyun oynuyorlar - they are playing with their children - they are playing with their children 
+kaseyi masaya koy - kaseyi masaya koy - kaseyi masaya koy 
+bir kadın ve kedisi - a woman and her cat - a woman and her cat 
+gri - gray - gray 
+herkes konuşuyor - everyone is talking - everyone is talking 
+kahvesini unuttu - forgot his coffee - forgot his coffee 
+çek ile ödemek istiyorum - i want to pay by check - i want to pay by check 
+zen - was - was 
+hayır sadece sebze satıyorum - no i only sell vegetables - no i only sell vegetables 
+bir çit - a fence - a fence 
+bu mavi - it's blue - it's blue 
+evet boşum - yes i am free - yes i am free 
+adım - my name - my name 
+portakal - orange - orange 
+o uyuyor - she is sleeping - she is sleeping 
+düştüm - i fell - i fell 
+bir müzisyen - a musician - a musician 
+üç tane top var - there are three balls - there are three balls 
+fen bilgisi ve çalıştık - science and we studied - science and we studied 
+bu adamlar dışarıda çalışıyor - these guys work outside - these guys work outside 
+tamam - ok - ok 
+saç fırçası satın alıyor - buys hairbrush - buys hairbrush 
+sabahları kahve içiyorum - i drink coffee in the morning - i drink coffee in the morning 
+kasem masada - my bowl is on the table - my bowl is on the table 
+hangi gün geleceksiniz - what day will you come - what day will you come 
+akşamları oturma odamda kitap yazıyorum - i write a book in my living room in the evening - i write a book in my living room in the evening 
+yüzeceğim - i will swim - i will swim 
+hayır fransızım - no i am french - no i am french 
+muz çürük - banana rotten - banana rotten 
+paris'ten gelen uçak - flight from paris - flight from paris 
+bir havlu - a towel - a towel 
+bir ev - a house - a house 
+bir haritaya ihtiyacımız var - we need a map - we need a map 
+şimdi yeri temizlemem gerek - now i need to clean the floor - now i need to clean the floor 
+yardımcı olabilir miyim - may i help you - may i help you 
+gazete - newspaper - newspaper 
+en az on dolar olduğunu düşünüyorum - i think it's at least ten dollars - i think it's at least ten dollars 
+sıradaki dördüncü kişi susuz - fourth person in line is thirsty - fourth person in line is thirsty 
+dört tane anahtar var - there are four keys - there are four keys 
+bu yatak odam - this is my bedroom - this is my bedroom 
+o araba kullanıyor - he is driving - he is driving 
+böyle tamir etmeli - should fix it like this - should fix it like this 
+bir kulak - an ear - an ear 
+bir masa - a table - a table 
+bir hint tapınağı - an indian temple - an indian temple 
+yağmur yağacak - it will rain - it will rain 
+bu çok büyük bir saat - this is a very big watch - this is a very big watch 
+köpek yemek yiyor - dog eating - dog eating 
+yeşil diller - green tongues - green tongues 
+ne dediğini anlamadım hangi dili konuşuyor - i don't understand what you are saying what language does he speak - i don't understand what you are saying what language does he speak 
+erkek çocuk eve yakın - boy close to home - boy close to home 
+pilavı - pilaf - pilaf 
+keman çalışmalı mıyım - should i study the violin - should i study the violin 
+salata yapıyor - making a salad - making a salad 
+bir battaniye - a blanket - a blanket 
+bu kadın güçlü - this woman is strong - this woman is strong 
+oturuyor - sitting - sitting 
+evet gelebilir - yes it can - yes it can 
+kız çocuk fırında pasta pişirmeyi öğreniyor - girl learns to bake a cake in the oven - girl learns to bake a cake in the oven 
+yüzünde - on your face - on your face 
+bir maymun - a monkey - a monkey 
+onun birkaç elması var - he has a few apples - he has a few apples 
+yediler - they ate - they ate 
+çok iyiydi - was very good - was very good 
+ingiltere'nin avrupa'da olduğunu söyledi - he said england is in europe - he said england is in europe 
+bu köprü new york'ta - this bridge is in new york - this bridge is in new york 
+bir tane fincan var - there is one cup - there is one cup 
+bu huriye öncü - this is the pioneer - this is the pioneer 
+otuz top - thirty balls - thirty balls 
+babam tarihi seviyordu - my father loved history - my father loved history 
+adamı kadından daha güçlü - man stronger than woman - man stronger than woman 
+eskiden bir pastanede çalışıyordu - used to work in a bakery - used to work in a bakery 
+bir çekiç - a hammer - a hammer 
+televizyonu buraya koy - put the tv here - put the tv here 
+çiçek satın alıyorum - i'm buying flowers - i'm buying flowers 
+bu köpek bizim - this dog is ours - this dog is ours 
+bir polis memuru ve atı - a police officer and his horse - a police officer and his horse 
+kasımda kayak yapabileceksin - you can ski in november - you can ski in november 
+golf oynamak - to play golf - to play golf 
+onun daha çok elması var - he has more apples - he has more apples 
+ama dikkatli ol - but be careful - but be careful 
+merhaba - hello there - hello there 
+merhaba adım izabella - hello my name is izabella - hello my name is izabella 
+bir banka - a bank - a bank 
+bu kuş sarı - this bird is yellow - this bird is yellow 
+bir ingiliz anahtarı - a wrench - a wrench 
+banyoyu temizlememiz gerek - we need to clean the bathroom - we need to clean the bathroom 
+adamların merdiveni var - men have stairs - men have stairs 
+elli beş kilosunuz - you weigh fiftyfive kilos - you weigh fifty/five kilos 
+sen bilgisinin çok ilginç olduğunu düşünüyor - you think your knowledge is very interesting - you think your knowledge is very interesting 
+kırk dört - fortyfour - forty/four 
+afedersiniz pastane nerede - excuse me where is the patisserie - excuse me where is the patisserie 
+internette - on the internet - on the internet 
+altı tane sandalye var - there are six chairs - there are six chairs 
+dört çadır - four tents - four tents 
+bir penguen - a penguin - a penguin 
+bir dansçı - a dancer - a dancer 
+ne kadar kalacaksınız - how long will you stay - how long will you stay 
+eski bir televizyon - an old television - an old television 
+bir domates - a tomato - a tomato 
+müzede çalışıyor - works at the museum - works at the museum 
+bu koltuğu istiyor musunuz - do you want this seat - do you want this seat 
+beş kitap - five books - five books 
+çorabını - your sock - your sock 
+bir eposta - an email - an email 
+evet yağmur yağıyor - yes it is raining - yes it is raining 
+devlet başkanı için oy vereceğim - i will vote for president - i will vote for president 
+bir kurşun kalem - a pencil - a pencil 
+güneş gözlüğüyle - with sunglasses - with sunglasses 
+kız çocuk evden uzak - girl away from home - girl away from home 
+şimdi sabah - it's morning now - it's morning now 
+topu kim - who has the ball - who has the ball 
+çin - chinese - chinese 
+ne kadar - how much - how much 
+adam amerikalı - man american - man american 
+türkçe konuşuyor musunuz - do you speak turkish - do you speak turkish 
+kadınlar sırada - women in line - women in line 
+bir gün onlar gibi kayak yapacağız - one day we'll ski like them - one day we'll ski like them 
+arapça konuşuyorum - i speak arabic - i speak arabic 
+hangi şirkette çalışıyorsunuz - which company do you work at - which company do you work at 
+ağaca çıkmayın - don't climb a tree - don't climb a tree 
+kaç tane çiçek satın alıyorsun - how many flowers do you buy - how many flowers do you buy 
+penguenler kuş - penguins bird - penguins bird 
+bu hayvan küçük - this animal is small - this animal is small 
+saat on dört kırk iki - fourteen forty two o'clock - fourteen forty two o'clock 
+ama ailem eskiden italya'da yaşıyordu - but my family used to live in italy - but my family used to live in italy 
+içinde yeterli yer var - there is enough room inside - there is enough room inside 
+bizim beş tane sandviç işimiz var - we have five sandwich jobs - we have five sandwich jobs 
+artık bir yetişkinim - i'm an adult now - i'm an adult now 
+bu çok fazla para - that's too much money - that's too much money 
+bu oğlumuz - this is our son - this is our son 
+bir kurbağa - a frog - a frog 
+iki dilim pizza istiyorum - i want two slices of pizza - i want two slices of pizza 
+bir takım elbise - a suit - a suit 
+kimi arıyorsun - who are you looking for - who are you looking for 
+bu film ilginç - this movie is interesting - this movie is interesting 
+yeterli pasta aldın mı - did you get enough cake - did you get enough cake 
+sen yeri süpürdükten sonra temizleyeceğim - i'll clean it after you sweep the floor - i'll clean it after you sweep the floor 
+kız çocuk ingilizce konuşuyor - girl speaks english - girl speaks english 
+türkçe yazı yazıyorum - i am writing in turkish - i am writing in turkish 
+ama yakında söyleyecekler - but soon they will say - but soon they will say 
+otuzsekiz tabak - thirtyeight plates - thirty/eight plates 
+karabiber - black pepper - black pepper 
+umarım bu oyuncaktır - i hope this is a toy - i hope this is a toy 
+paltomu buldum - i found my coat - i found my coat 
+sebzelerini yemen gerek - you need to eat your vegetables - you need to eat your vegetables 
+kredi kartı ile ödemek istiyor musunuz - do you want to pay by credit card - do you want to pay by credit card 
+onu sandalyenin üstüne koydum - i put it on the chair - i put it on the chair 
+adam çay içiyor - man drinking tea - man drinking tea 
+afrika'daki yağmur ormanlarından - from the rainforests of africa - from the rainforests of africa 
+bir kadın ve çocukları - a woman and her children - a woman and her children 
+elbisesi turuncu - dress orange - dress orange 
+ne okuyorsun - what are you reading - what are you reading 
+bu ne ağacı - what tree is this - what tree is this 
+buzdolabı tezgahın yanında - refrigerator next to the counter - refrigerator next to the counter 
+erkek çocuk yürüyor - boy walking - boy walking 
+gü - ns - ns 
+annem nereye gitti - where did my mom go - where did my mom go 
+şekerli çay - sweet tea - sweet tea 
+yemek ye - eat - eat 
+bu saat havaalanında - this time at the airport - this time at the airport 
+bu bilgisayar çalışıyor mu - is this computer working - is this computer working? 
+kış mevsimi - winter - winter 
+daha ucuza satar mısınız - can you sell it cheaper - can you sell it cheaper 
+kim uyuyor - who is sleeping - who is sleeping 
+sabahları parkta kitap yazıyorum - i'm writing a book in the park in the morning - i'm writing a book in the park in the morning 
+hastaneye gidiyorum - i am going to hospital - i am going to hospital 
+bu binanın yüksekliği ne kadar - how tall is this building - how tall is this building 
+ne satın alıyorsun - what are you buying - what are you buying 
+bir şarkıcı - a singer - a singer 
+bu pizza donmuş - this pizza is frozen - this pizza is frozen 
+bu antartika kıtası - this antarctic continent - this antarctic continent 
+okula gitmem gerekiyor mu - do i have to go to school - do i have to go to school 
+pazartesi - monday - monday 
+on dört - fourteen - fourteen 
+adem kahvaltı için kız arkadaşı ile buluşuyor - adam meets his girlfriend for breakfast - adam meets his girlfriend for breakfast 
+merhaba yardımcı olabilir miyim - hello can i help you - hello can i help you 
+on ayak parmağı - ten toes - ten toes 
+evet bu benim kız kardeşim - yes this is my sister - yes this is my sister 
+erkek çocuk öğretmenine gülümsüyor - boy smiles at his teacher - boy smiles at his teacher 
+ağaca çık - climb the tree - climb the tree 
+kısa boylu adam kazak giyiyor - short man wearing sweater - short man wearing sweater 
+kadın su içiyor - woman drinking water - woman drinking water 
+hint bayramlarında çok kişi dans etmeyi ve şarkı söylemeyi seviyor - many people like to dance and sing on indian holidays - many people like to dance and sing on indian holidays 
+kadın evde - woman at home - woman at home 
+bugün matematik çalışıyoruz - we are studying math today - we are studying math today 
+bir bahçe - a garden - a garden 
+lütfen - please - please 
+çin mi yemeyi getirdin mi - did you bring china or food - did you bring china or food 
+çarşamba - wednesday - wednesday 
+merhaba melike hanım nasılsınız - hello melike how are you - hello melike how are you 
+bir japon lokantası - a japanese restaurant - a japanese restaurant 
+iyiyim - i'm fine - i'm fine 
+birçok kişi oy vermek için sırada bekliyor - many people are waiting in line to vote - many people are waiting in line to vote 
+iki tane masa beyaz - two white tables - two white tables 
+plastik sandalye dört sterlin - plastic chair four quid - plastic chair four quid 
+adam çiçekleri yakalıyor - man catching flowers - man catching flowers 
+gözünü incitti - hurt your eye - hurt your eye 
+eşim huriye ile tanıştınız mı - have you met my wife huriye - have you met my wife huriye 
+hangi uçak - which plane - which plane 
+biri sana bir şey verdiğinde ona teşekkür ederim demek kibarlık tır - it's polite to say thank you when someone gives you something - it's polite to say thank you when someone gives you something 
+hayır susuz değiliz - no we are not thirsty - no we are not thirsty 
+yağmurda futbol oynuyorlar - playing football in the rain - playing football in the rain 
+kitap satın aldı - bought a book - bought a book 
+kral bunu giyer - the king wears this - the king wears this 
+hangi boy pastayı istiyorsunuz - what size cake do you want - what size cake do you want 
+biletiniz var - you have a ticket - you have a ticket 
+mısır heykeli - egyptian statue - egyptian statue 
+cumartesi günü boş musun - are you free on saturday - are you free on saturday 
+taze sebze niz var mı - do you have any fresh vegetables - do you have any fresh vegetables 
+metroya biliyorlar - they know to the subway - they know to the subway 
+bir amerikan arabası - an american car - an american car 
+yeni bir merdivene ihtiyacım var - i need a new ladder - i need a new ladder 
+en az pasta adamda - at least cake man - at least cake man 
+teşekkür ederim - thank you - thank you 
+neyin var - what you got - what you got 
+bir japon dağı - a japanese mountain - a japanese mountain 
+bu top çok büyük - this ball is too big - this ball is too big 
+kadın türkçe konuşuyor - woman speaks turkish - woman speaks turkish 
+stadyuma gitmek istiyorum - i want to go to the stadium - i want to go to the stadium 
+yirmi fincan - twenty cups - twenty cups 
+yüz - face - face 
+karısı iş kadını - wife business woman - wife business woman 
+nasıl yardımcı olabilirim - how may i help you - how may i help you 
+elli kravat - fifty ties - fifty ties 
+bir tane yumurta var - there is one egg - there is one egg 
+bulaşık makinesi tezgahın altında - dishwasher under the counter - dishwasher under the counter 
+dağlar - mountains - mountains 
+cumartesi günü boşum - i'm free on saturday - i'm free on saturday 
+saat bir - it is one o'clock - it is one o'clock 
+adamlar parkta çalışıyor - men work in the park - men work in the park 
+a - a - a
+ 
+bu fotoğraf geçen kış çekildi - this photo was taken last winter - this photo was taken last winter 
+radyo dinliyorlar - they are listening to the radio - they are listening to the radio 
+gitmiş - gone - gone 
+yataktan - from bed - from bed 
+bunlar hindu heykelleri - these are hindu statues - these are hindu statues 
+evet hazırım gidelim - yes i'm ready let's go - yes i'm ready let's go 
+hayır bu benim şapkam değil - no this is not my hat - no this is not my hat 
+lütfen bunu için - please for this - please for this 
+ekmek ve su - bread and water - bread and water 
+ellerimi yıkıyorum çünkü kirli - i wash my hands because they are dirty - i wash my hands because they are dirty 
+bunu satın - buy this - buy this 
+dün on kilometre koştum - i ran ten kilometers yesterday - i ran ten kilometers yesterday 
+evet istiyorum - yes i want - yes i want 
+dokuz tane elma - nine apples - nine apples 
+bu şehir güney amerika'da keşfedildi - this city was discovered in south america - this city was discovered in south america 
+müzik iyi - good music - good music 
+bisiklet yeşil - bike green - bike green 
+bu resmi beğeniyorum - i like this picture - i like this picture 
+bu kızım - this is my girl - this is my girl 
+kaç tane ta bağımız var - how many ties do we have - how many ties do we have? 
+lütfen bana - please me - please me 
+kız çocuk yüzünü yıkıyor - girl washing her face - girl washing her face 
+nerede oturuyorsunuz - where do you live - where do you live 
+bu annem - this is my mother - this is my mother 
+mutfak evde - kitchen at home - kitchen at home 
+japonya'da ne gördün - what did you see in japan - what did you see in japan 
+muz - muz - muz 
+meyve suyu - juice - juice 
+bu konseri seviyor - loves this concert - loves this concert 
+adam ve kadın çay içiyor - man and woman drinking tea - man and woman drinking tea 
+evet stadyumu arıyoruz - yes we are looking for the stadium - yes we are looking for the stadium 
+bir tiyatro - a theater - a theater 
+bardak yok - no glasses - no glasses 
+bir bilet - a ticket - a ticket 
+pilav - rice - rice 
+siz ne yiyorsunuz - what are you eating - what are you eating 
+bu fotoğrafı kim çekti - who took this photo - who took this photo 
+salata burada - salad is here - salad is here 
+bir köprü - a bridge - a bridge 
+dışarıda kahvaltı yapıyoruz - we have breakfast outside - we have breakfast outside 
+ispanyolca konuşuyor - speaks spanish - speaks spanish 
+birada arıyor - looking for beer - looking for beer 
+neden kitabı okumuyorsun - why don't you read the book - why don't you read the book 
+bir kargaburun - a hookup - a hook/up 
+ne görüyorsun - what do you see - what do you see 
+bir mektup yazıyorum - i am writing a letter - i am writing a letter 
+elbise uyuyor mu - does the dress fit - does the dress fit 
+bugün neden antreman yapıyorsun - why are you training today - why are you training today 
+çocuğumuz dün doğdu - our child was born yesterday - our child was born yesterday 
+portakallar - oranges - oranges 
+fotoğrafını çekebilir miyim - can i take your picture - can i take your picture 
+okuma - read - read 
+bir burun - a nose - a nose 
+annesini arıyor - looking for his mother - looking for his mother 
+benim yeşil bir kitabım var - i have a green book - i have a green book 
+bu bir plaj partisi idi - it was a beach party - it was a beach party 
+çocukların hepsi oturuyor - all the children are sitting - all the children are sitting 
+bugün hava sıcak olacak - it will be hot today - it will be hot today 
+bu gece haberlerde ne var - what's on the news tonight - what's on the news tonight 
+kafede çalışıyorlar - they work at the cafe - they work at the cafe 
+okula gidiyorlar - they go to school - they go to school 
+bu kuzey amerika'da bir cenaze - this is a funeral in north america - this is a funeral in north america 
+markete gidiyor - going to the market - going to the market 
+artık bunu kızıma okuyorum - i'm reading this to my daughter now - i'm reading this to my daughter now 
+ona yardım edebilir misin - can you help him - can you help him 
+plastik sandalye ucuz - plastic chair cheap - plastic chair cheap 
+creed bir televizyon - creed a tv - creed a tv 
+bu kolum - this is my arm - this is my arm 
+beş gazete - five newspapers - five newspapers 
+çocukların - children's - children's 
+bunlar misafirlerimiz - these are our guests - these are our guests 
+bu ev kare - this house is square - this house is square 
+topunu arıyor - looking for his ball - looking for his ball 
+oyuncaklarını bu kutuya koymak istiyor musun - do you want to put your toys in this box - do you want to put your toys in this box? 
+bir kalem istiyor musunuz - do you want a pen - do you want a pen 
+havluyu yakaladı - grabbed the towel - grabbed the towel 
+evet bugün tatil değil - yes today is not a holiday - yes today is not a holiday 
+cuma günü doğum günü partime gelmek istiyor musun - do you want to come to my birthday party on friday - do you want to come to my birthday party on friday 
+var mı - is there - is there 
+sana ne oldu - what happened to you - what happened to you 
+topu kim yakaladı - who caught the ball - who caught the ball 
+bir sıra - a row - a row 
+harika bir top - a great ball - a great ball 
+üç bisiklet - three bikes - three bikes 
+bir hafta - one week - one week 
+balık - fish - fish 
+partime geliyor musun - are you coming to my party - are you coming to my party 
+makarnayı pişirmem aynı zamanda salata yapmam gerek - i need to cook the pasta but also make a salad - i need to cook the pasta but also make a salad 
+portakalı - orange - orange 
+şu balıktan biraz istiyorum - i want some of that fish - i want some of that fish 
+iyi dans ediyor mu - does he dance well - does he dance well 
+işlerimiz var - we have work - we have work 
+hayır dün pul satın aldım - no i bought stamps yesterday - no i bought stamps yesterday 
+üniversite öğrencisiyim tarih okuyorum - i am a university student studying history - i am a university student studying history 
+siyah ayakkabıları beğeniyorum - i like black shoes - i like black shoes 
+sıradaki üçüncü kişinin saçı siyah - the third person in line has black hair - the third person in line has black hair 
+çay - tea - tea 
+bir kilo lütfen - a kilo please - a kilo please 
+kendini sakatladı - injured himself - injured himself 
+bir fransız tatlısı - a french dessert - a french dessert 
+bir yastık - a pillow - a pillow 
+dağda kayak yapıyorum - i'm skiing on the mountain - i'm skiing on the mountain 
+yatağın altında hiçbir şey yok - nothing under the bed - nothing under the bed 
+bu adam çölde yaşıyor - this man lives in the desert - this man lives in the desert 
+bir park - a park - a park 
+bu kız kardeşim - this is my sister - this is my sister 
+attan düşüyor - falling off a horse - falling off a horse 
+meksika kuzey amerika'da - mexico in north america - mexico in north america 
+televizyon seyrediyorum - i am watching television - i am watching television 
+memnun oldum huriye - i'm glad huriye - i'm glad huriye 
+ne seyrediyorsun - what are you watching - what are you watching 
+bebek doğmadan önce inşa etmeyi bitirmeyi umuyoruz - hope to finish building before baby is born - hope to finish building before baby is born 
+erkek çocuk havuç sevmiyor - boy doesn't like carrots - boy doesn't like carrots 
+bir kitapçı - a bookstore - a bookstore 
+temmuz - july - july 
+kız çocuk cidden düşüyor - the girl is seriously falling - the girl is seriously falling 
+hayır biz tanışmadık - no we haven't met - no we haven't met 
+merhaba elif nasılsın - hello elif how are you - hello elif how are you 
+merhaba melike ben ayşe - hello melike i am ayse - hello melike i am ayse 
+boyumu ölç lütfen - measure my height please - measure my height please 
+sinagog şehirde - synagogue in the city - synagogue in the city 
+erkek çocuk gülmüyor - boy not laughing - boy not laughing 
+tenis takımı antrenman yapıyor - tennis team training - tennis team training 
+saat sekiz'de orada olabilirim teşekkür ederim - i can be there at eight o'clock thank you - i can be there at eight o'clock thank you 
+evet iyi dans ediyor - yes she dances well - yes she dances well 
+bunu inşa etmeme yardım edebilir misin - can you help me build this - can you help me build this 
+italya fransa'nın doğusunda - italy east of france - italy east of france 
+sola - alone - alone 
+bankada çalışıyorlar - they work at the bank - they work at the bank 
+bu film kötü - this movie is bad - this movie is bad 
+yumurtaları öğle taşıma - carry eggs for lunch - carry eggs for lunch 
+şekerli kahve - coffee with sugar - coffee with sugar 
+balina yüzüyor - whale swimming - whale swimming 
+bir pastane - a patisserie - a patisserie 
+merhaba huriye hanım - hello lady huriye - hello lady huriye 
+penceresi olan bir odada çalışmak istiyoruz - we want to work in a room with a window - we want to work in a room with a window 
+ne kadar süre koştum - how long did i run - how long did i run 
+bugün pazar - today is sunday - today is sunday 
+yıl iki bin beş - year two thousand five - year two thousand five 
+maçı seyretmek istiyor musun - do you want to watch the match - do you want to watch the match 
+kal - kal - kal 
+bu bütün bir turta - it's a whole pie - it's a whole pie 
+on sekiz dakika - eighteen minutes - eighteen minutes 
+erkek çocuk futbolu seviyor - boy loves football - boy loves football 
+geçen hafta babam öldü - my father died last week - my father died last week 
+bir lavabo - a sink - a sink 
+çocukken futbol oynadım - i played football as a kid - i played football as a kid 
+antik bir heykel - an ancient statue - an ancient statue 
+bunu günde iki kere iç - drink this twice a day - drink this twice a day 
+büyük - big - big 
+askerler - soldiers - soldiers 
+adam golf'ü seviyor - man loves golf - man loves golf 
+bir tarih - a date - a date 
+ne kadar süt istiyorsun - how much milk do you want - how much milk do you want 
+süt kötü kokuyor - milk smells bad - milk smells bad 
+türkçe konuşan birine ihtiyacım var - i need someone who speaks turkish - i need someone who speaks turkish 
+nereye gidiyorsun - where are you going - where are you going 
+bu bozuk paralar aynı - these coins are the same - these coins are the same 
+köpeğin - your dog - your dog 
+sandviç yapıyor - making a sandwich - making a sandwich 
+çocukken tenis oynadım - i played tennis as a kid - i played tennis as a kid 
+beş tane telefon var - there are five phones - there are five phones 
+bilet satın alıyorum - i'm buying tickets - i'm buying tickets 
+evde oturuyoruz - we are sitting at home - we are sitting at home 
+denizde yüzüyor - swimming in the sea - swimming in the sea 
+kiminle konuşuyorsun - who are you talking with - who are you talking with 
+bir yönetici - a manager - a manager 
+japonya'dan ayrıldıktan sonra hindistan'a gittim - i went to india after leaving japan - i went to india after leaving japan 
+kız çocuk topu atıyor - girl throws ball - girl throws ball 
+lisedeyken fen bilgisi dersi aldı - took a science class in high school - took a science class in high school 
+benim sarı bir kitabım var - i have a yellow book - i have a yellow book 
+hayır bunlar benim kalemlerim değil - no these are not my pens - no these are not my pens 
+bir şey değil - you are welcome - you are welcome 
+bir merdiven - a ladder - a ladder 
+ayak yapabileceğiz - we can foot - we can foot 
+plaja gitmek istiyorum - i want to go to the beach - i want to go to the beach 
+kasım - november - november 
+boo köpek - boo dog - boo dog 
+bin dokuz yüz doksan sekiz'de yazıldı - written in nineteen ninety eight - written in nineteen ninety eight 
+evet buraya - yes here - yes here 
+bir film - a movie - a movie 
+bu kuşlar yüzüyor - these birds are swimming - these birds are swimming 
+kaç tane sandalye var - how many chairs are there - how many chairs are there 
+iki yüz seksen dolara satabilirim - i can sell it for two hundred and eighty dollars - i can sell it for two hundred and eighty dollars 
+otele - to the hotel - to the hotel 
+bir sandviç - a sandwich - a sandwich 
+bisikleti küçük - bike small - bike small 
+bu ağaçlar çok uzun - these trees are so tall - these trees are so tall 
+şemsiyeye ihtiyacı var - he needs an umbrella - he needs an umbrella 
+buk mutfağım - my buk kitchen - my buk kitchen 
+sebze - vegetable - vegetable 
+kız çocuklar koşuyor - girls running - girls running 
+gece - night - night 
+herkes koşuyor - everyone is running - everyone is running 
+sizin kaç tane fincanı nız var - how many cups do you have - how many cups do you have 
+afedersiniz - sorry - sorry 
+bir fıskiye tablosu - a fountain table - a fountain table 
+bisikletler sarı - bikes yellow - bikes yellow 
+çocuklar okulda - kids at school - kids at school 
+bir şey değil görüşürüz - nothing but see you - nothing but see you 
+parka koştuk - we ran to the park - we ran to the park 
+çünkü elma yemek istiyorum - because i want to eat apple - because i want to eat apple 
+herkese yetecek kadar çatal var mı - are there enough forks for everyone - are there enough forks for everyone? 
+sütün üçte birini çoktan içti - already drank a third of the milk - already drank a third of the milk 
+kırk beş tane kase miz var - we have fortyfive bowls - we have forty/five bowls 
+bu oğlum - this is my son - this is my son 
+dört kadın var - there are four women - there are four women 
+kedi kuru - cat dry - cat dry 
+onun kitabı çok ilginç - his book is very interesting - his book is very interesting 
+lokantada - in the restaurant - in the restaurant 
+saat üç - it's three o'clock - it's three o'clock 
+evet sinemaya arıyorum - yes i am looking for the cinema - yes i am looking for the cinema 
+futbol oynamayı seviyorum - i like playing football - i like playing football 
+mısır'da iken tarih öğretim - teaching history while in egypt - teaching history while in egypt 
+evet bir sorun var - yes there is a problem - yes there is a problem 
+bir tren istasyonu - a train station - a train station 
+okulda çalışıyorum - i work at school - i work at school 
+yirmi beş tabak - twenty five plates - twenty five plates 
+evet paraya ihtiyacım var - yes i need money - yes i need money 
+yirmi bir fincan - twenty one cup - twenty one cup 
+dediklerini sadece biraz anlayabiliyorum - i can only understand a little of what you're saying - i can only understand a little of what you're saying 
+şehir merkezinde yaşamıyorlar - they don't live in the city center - they don't live in the city center 
+hayır bunlar kalemlerim değil - no these are not my pens - no these are not my pens 
+afedersiniz saat kaç - excuse me what time is it - excuse me what time is it 
+kedi evin içinde - cat inside the house - cat inside the house 
+eskiden geçtiniz - you used to pass - you used to pass 
+dansçılar sokakta dans ediyor - dancers dance in the street - dancers dance in the street 
+en sonunda bahçeye koy - finally put it in the garden - finally put it in the garden 
+bitkiler - plants - plants 
+kadın oturma odasında gitar çalışıyor - woman playing guitar in living room - woman playing guitar in living room 
+yirmi iki ekim'de geliyorum - i'm coming on october twenty two - i'm coming on october twenty two 
+bu fincanlar aynı boyda - these cups are the same size - these cups are the same size 
+havaalanında iken sandviç yedim - i ate a sandwich while at the airport - i ate a sandwich while at the airport 
+internette haberleri okuyorum - i read news on the internet - i read news on the internet 
+kuşu konuş - talk bird - talk bird 
+evlendik - we got married - we got married 
+sıradaki birinci kişinin boyu uzun - tall first person in line - tall first person in line 
+kız çocuk kırmızı ayakkabıları sevmiyor - girl doesn't like red shoes - girl doesn't like red shoes 
+bu sabah oy vermeyi hatırladın mı - did you remember to vote this morning - did you remember to vote this morning? 
+bu çocuklar hayvanı öğreniyorlar - these kids are learning animal - these kids are learning animal 
+bir bant - a tape - a tape 
+oğlum ve ben oyun oynuyoruz - my son and i are playing games - my son and i are playing games 
+siyah - black - black 
+bir vida - a screw - a screw 
+kaç misafirimiz var - how many guests do we have - how many guests do we have 
+rus oyuncakları - russian toys - russian toys 
+mısır kıyafetleri - egyptian clothes - egyptian clothes 
+bu ailem - this is my family - this is my family 
+sekiz tane sandalye - eight chairs - eight chairs 
+kadın saat takıyor - woman wears a watch - woman wears a watch 
+sandviç tabakta - sandwich on plate - sandwich on plate 
+bu kot pantolon çok büyük - these jeans are too big - these jeans are too big 
+dün bir gazete satın aldım - i bought a newspaper yesterday - i bought a newspaper yesterday 
+ben küveti temizleyeceğim - i will clean the tub - i will clean the tub 
+kediler koşabilir - cats can run - cats can run 
+golf oynadık - we played golf - we played golf 
+erkek çocuk uyanıyor - boy waking up - boy waking up 
+altı elma - six apples - six apples 
+ninemi hastanede ziyaret ediyorum - i'm visiting my grandmother in the hospital - i'm visiting my grandmother in the hospital 
+saat lavabonun yanında - the clock is next to the sink - the clock is next to the sink 
+yakın - near - near 
+ne zaman çalışıyorsun - when are you working - when are you working 
+onlar elmalarını yiyor - they are eating their apples - they are eating their apples 
+mavi bir pasta istiyorum - i want a blue cake - i want a blue cake 
+çekle ödemek istiyor musunuz - do you want to pay by check - do you want to pay by check 
+penceresi olan bir odada çalışıyoruz - we work in a room with a window - we work in a room with a window 
+baba - midwife - midwife 
+kedi televizyonun üstünde - cat on tv - cat on tv 
+bu sandalyeler farklı - these chairs are different - these chairs are different. 
+iyi şarkı söyleyen birçok arkadaşım var - i have many friends who sing well - i have many friends who sing well 
+bu hayvan yüzebilir - this animal can swim - this animal can swim 
+gözlük kırık değil - glasses are not broken - glasses are not broken 
+meksika takıları - mexican jewelry - mexican jewelry 
+yar - love - love 
+kitapçı park'a yakın - close to bookstore park - close to bookstore park 
+ahşap masam var - i have a wooden table - i have a wooden table 
+şubat - february - february 
+anahtarları nereye koydun - where did you put the keys - where did you put the keys 
+bu film sıkıcı - this movie is boring - this movie is boring 
+erkek çocuk ona bir pasta verdi - boy gave him a cake - boy gave him a cake 
+çoraplar - socks - socks 
+otobüste aile için yeterli yer var - there is enough room for family on the bus - there is enough room for family on the bus 
+dün plajda hava iyiydi - the weather was fine at the beach yesterday - the weather was fine at the beach yesterday 
+lavabo kirli mutfak eşyaları ile dolu - sink full of dirty utensils - sink full of dirty utensils 
+bu takımda altı erkek çocuk var - there are six boys in this team - there are six boys in this team 
+otele gidiyorum - i'm going to the hotel - i'm going to the hotel 
+denizde yaşıyorlar - they live in the sea - they live in the sea 
+evet çin yemeği getirdim - yes i brought chinese food - yes i brought chinese food 
+haziran - june - june 
+afedersiniz koltuğum nerede - excuse me where is my seat - excuse me where is my seat 
+yarın fen bilgisi çalışacağız - we will study science tomorrow - we will study science tomorrow 
+avustralya'ya iş için mi gittin - did you go to australia for business - did you go to australia for business 
+pazartesi salı ve perşembeleri çalışıyorum - i work monday tuesday and thursday - i work monday tuesday and thursday 
+bunlar kız kardeşlerim - these are my sisters - these are my sisters 
+okulda ne zaman antrenman yapıyorsunuz - what time do you train at school - what time do you train at school 
+bir şey - something - something 
+bir gitar - a guitar - a guitar 
+elli yıl - fifty years - fifty years 
+lütfen oturun - please sit down - please sit down 
+rap - rap - rap
+ 
+bir alman arabası - a german car - a german car 
+bisikletin şimdi çalışıyor mu - does your bike work now - does your bike work now 
+çiçek - flower - flower 
+modern bir bina - a modern building - a modern building 
+ilkokuldayken resim dersi aldı - he took painting lessons when he was in elementary school - he took painting lessons when he was in elementary school. 
+üç yeşil limon - three green lemons - three green lemons 
+evet bizim - yes our - yes our 
+elması var - he has apples - he has apples 
+sebze satıyor musunuz - do you sell vegetables - do you sell vegetables 
+geceleri çalışıyor - works at night - works at night 
+kocası ile alışveriş yapıyor - shopping with her husband - shopping with her husband 
+merhaba adım pier - hello my name is pier - hello my name is pier 
+yeterli - sufficient - sufficient 
+neden dün tamir etmedin - why didn't you fix it yesterday - why didn't you fix it yesterday 
+sola dön - turn left - turn left 
+bir masaüstü bilgisayar - a desktop computer - a desktop computer 
+öğrenciler sırt çantalarını taşıyor - students carry their backpacks - students carry their backpacks 
+bir piyano - a piano - a piano 
+süt kötü - milk is bad - milk is bad 
+üzgün - sad - sad 
+evet su istiyorum - yes i want water - yes i want water 
+bir kemer - a belt - a belt 
+bolu bosch - bosch - bosch 
+fıskiyenin fotoğrafını çekiyor - taking a picture of the fountain - taking a picture of the fountain 
+ne kadar süre yüzebiliriz - how long can we swim - how long can we swim 
+kediler kitap okuyamaz - cats can't read - cats can't read 
+bir kral - a king - a king 
+yiyorlar - they are eating - they are eating 
+kızım - my daughter - my daughter 
+çam ağacı - pine tree - pine tree 
+yeni bir telefon - a new phone - a new phone 
+geçiş törenine gitme zamanı geldi mi - is it time to go to the parade - is it time to go to the parade? 
+kadınlar - women - women 
+aile evde - family at home - family at home 
+postane kitapçının yanında - next to the post office bookstore - next to the post office bookstore 
+antik - antique - antique 
+sokak islak - street wet - street wet 
+beş dolar - five dollars - five dollars 
+öğretmen erkek çocuğa birsözlük verdi - the teacher gave the boy a dictionary - the teacher gave the boy a dictionary 
+uçak saat kaçta geliyor - what time does the plane arrive - what time does the plane arrive 
+sen tuvaleti temizleyecek misin - will you clean the toilet - will you clean the toilet 
+köpeği yıkamalıyız - we should wash the dog - we should wash the dog 
+oğlunuz oldu - you had a son - you had a son 
+yarım kilo lütfen - half a kilo please - half a kilo please 
+atlar yürüyebilir - horses can walk - horses can walk 
+ben bir kadınım - i'm a woman - i'm a woman 
+karısı geç kaldı - wife is late - wife is late 
+çince gazete okuyor - reading chinese newspaper - reading chinese newspaper 
+harika su götürüyorlar - they take great water - they take great water 
+kısa boylu adam siyah takım elbise giyiyor - short man wearing black suit - short man wearing black suit 
+ninen nerede yaşıyor - where does your grandma live - where does your grandma live 
+bir radyo - a radio - a radio 
+lütfen merdivenleri süpür - please sweep the stairs - please sweep the stairs 
+bir tavuk - a chicken - a chicken 
+akşam yemeği - dinner - dinner 
+müzisyen piyano çalıyor - musician playing the piano - musician playing the piano 
+kısa boylu kadın gri takım elbise giyiyor - short woman wearing gray suit - short woman wearing gray suit 
+orada futbol - there football - there football 
+lütfen çöpleri dışarı çıkar - please take out the trash - please take out the trash 
+erkek çocuk türkçe konuşuyor - boy speaks turkish - boy speaks turkish 
+kız çocuk dedesi ile kitap okuyor - girl reading a book with her grandfather - girl reading a book with her grandfather 
+adam araba kullanıyor - man is driving - man is driving 
+saç fırçası - hair brush - hair brush 
+fransa'da iken bunu yedim - i ate this while in france - i ate this while in france 
+lütfen bana yardım et - please help me - please help me 
+adam havuç yiyor - man eats carrot - man eats carrot 
+portakalı yakaladı - caught the orange - caught the orange 
+tavuk - chicken - chicken 
+lütfen dans edin - please dance - please dance 
+biletler ne kadardı - how much we're the tickets - how much were the tickets 
+muzları terazide tartıyor - weighs the ice on the scales - weighs the ice on the scales 
+pantolonu mavi - trousers blue - trousers blue 
+koşuyor - running - running 
+hastanede çalışıyorum - i'm working in a hospital - i'm working in a hospital 
+yen para birimidir - yen is currency - yen is currency 
+televizyonda maç var - there's a match on tv - there's a match on tv 
+altı - six - six 
+başınız sağ olsun - my condolences - my condolences 
+kuşu konuşabilir - bird can talk - bird can talk 
+bu avrupa'da bir cenaze - this is a funeral in europe - this is a funeral in europe 
+nasılsın - how are you - how are you 
+bunlar kitapların mı - are these your books - are these your books 
+üç saat - three hours - three hours 
+kadın araba kullanıyor - woman driving - woman driving 
+ellerinizi yıkayın - wash your hands - wash your hands 
+süt - milk - milk 
+herkes - everybody - everybody 
+dört kitap okudum - i read four books - i read four books 

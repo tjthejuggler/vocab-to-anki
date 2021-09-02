@@ -1,0 +1,37 @@
+Teşekkürler - danke - thank you, no hint
+Rica ederim - bitte - please, no hint
+Merhaba - hallo - hello, no hint
+Güle güle - auf wiedersehen - goodbye, no hint
+bir - einer - one, no hint
+2 - zwei - two, no hint
+üç - drei - three, no hint
+dört - vier - four, no hint
+beş - fünf - five, no hint
+altı - sechs - six, no hint
+Yedi - sieben - seven, no hint
+sekiz - acht - eight, no hint
+dokuz - neun - nine, no hint
+on - zehn - ten, no hint
+elf - elf - eleven, no hint
+on iki - zwölf - twelve, no hint
+on - zehnzig - tenty, no hint
+yirmiüç - dreiundzwanzig - twentythree, no hint
+otuz - dreißig - thirty, no hint
+kırk - vierzig - fourty, no hint
+elli - fünfzig - fifty, no hint
+altmış - sechzig - sixty, no hint
+yetmiş - siebzig - seventy, no hint
+seksen - achtzig - eighty, no hint
+doksan - neunzig - ninty, no hint
+yüz - hundert - hundred, no hint
+İngilizce biliyor musunuz - sprichst du englisch - do you speak english, no hint
+Yunanca konuşuyor musun - sprichst du griechisch - do you speak greek, no hint
+Bugün nasılsın - diesem - this, no hint
+o - daß - that, no hint
+bunu istiyorum - ich will das - i want this, no hint
+Evet - jawohl - yes, no hint
+numara - kein - no, no hint
+ve - und - and, no hint
+ancak - aber - but, no hint
+memnuniyetle - gerne geschehen - you're welcome, no hint
+Afedersiniz - entschuldigung - excuse me, no hint

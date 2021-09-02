@@ -1,0 +1,39 @@
+CommonWordsEnglishGerman
+
+thank you - danke - no hint
+please - bitte - no hint
+hello - hallo - no hint
+goodbye - auf wiedersehen - no hint
+one - einer - no hint
+two - zwei - no hint
+three - drei - no hint
+four - vier - no hint
+five - fünf - no hint
+six - sechs - no hint
+seven - sieben - no hint
+eight - acht - no hint
+nine - neun - no hint
+ten - zehn - no hint
+eleven - elf - no hint
+twelve - zwölf - no hint
+tenty - zehnzig - no hint
+twentythree - dreiundzwanzig - no hint
+thirty - dreißig - no hint
+fourty - vierzig - no hint
+fifty - fünfzig - no hint
+sixty - sechzig - no hint
+seventy - siebzig - no hint
+eighty - achtzig - no hint
+ninty - neunzig - no hint
+hundred - hundert - no hint
+do you speak english - sprichst du englisch - no hint
+do you speak greek - sprichst du griechisch - no hint
+this - diesem - no hint
+that - daß - no hint
+i want this - ich will das - no hint
+yes - jawohl - no hint
+no - kein - no hint
+and - und - no hint
+but - aber - no hint
+you're welcome - gerne geschehen - no hint
+excuse me - entschuldigung - no hint

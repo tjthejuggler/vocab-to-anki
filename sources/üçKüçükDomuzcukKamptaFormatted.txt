@@ -1,0 +1,431 @@
+üç Küçük Domuzcuk Kampta
+
+bu - this - no hint
+ahmet - ahmet - no hint
+abime - abyss - no hint
+baba - midwife - no hint
+üç - three - no hint
+küçük - small - no hint
+domuzcuk - piggy - no hint
+kampta - at the camp - no hint
+bir - a - no hint
+varmış - there is - no hint
+yokmuş - gone - no hint
+ormanın - of the forest - no hint
+en - on - no hint
+tatlı - sweet - no hint
+yerinde - in place - no hint
+anne - anne - no hint
+domuzcuk - piggy - no hint
+ve - and - no hint
+yavruları - puppies - no hint
+mutlu - happy - no hint
+mesut - happy - no hint
+yaşarlarmış - they lived - no hint
+günün - your day - no hint
+birinde - in one - no hint
+küçük - small - no hint
+dolu - full - no hint
+çukur - hole - no hint
+ki - ki - no hint
+ortanca - hydrangea - no hint
+thorki - thorki - no hint
+büyük - big - no hint
+porky - porky - no hint
+annelerini - their mothers - no hint
+kamp - match - no hint
+yapmak - to do - no hint
+istediklerini - what they want - no hint
+söylemişler - they said - no hint
+o - o - no hint
+ne - born - no hint
+ciğim - my lung - no hint
+bütün - all - no hint
+arkadaşlarımız - our friends - no hint
+yaz - summer - no hint
+tatiline - on your vacation - no hint
+gitti - gone - no hint
+kimseyle - with anyone - no hint
+oynayamıyoruz - we can&#39;t play - no hint
+eğer - if - no hint
+izin - permission - no hint
+verirsen - if you give - no hint
+görün - see - no hint
+kenarında - on the edge - no hint
+istiyoruz - we want - no hint
+domuz - pig - no hint
+yavrularının - your offspring - no hint
+bu - this - no hint
+isteğini - your request - no hint
+krema - cream - no hint
+mış - musk - no hint
+güzel - beautiful - no hint
+bir - a - no hint
+fikir - idea - no hint
+yavrularım - my babies - no hint
+tabii - of course - no hint
+komple - complete - no hint
+yapabilirsiniz - you can do - no hint
+fakat - but - no hint
+komp - comp - no hint
+yapacağınız - you will do - no hint
+yeri - location - no hint
+mutlaka - definitely - no hint
+doğru - accurate - no hint
+seçin - select - no hint
+çadırlarını - their tents - no hint
+da - gives - no hint
+sağlam - durable - no hint
+olsun - never mind - no hint
+tamam - ok - no hint
+mı - is it - no hint
+o - o - no hint
+çıtır - crispy - no hint
+ertesi - next - no hint
+gün - day - no hint
+domuzcuklar - piglets - no hint
+için - for - no hint
+evden - from home - no hint
+ayrılmışlar - separated - no hint
+orman - forest - no hint
+yolunda - on the way - no hint
+süre - duration - no hint
+ilerledikten - after advancing - no hint
+sonra - later - no hint
+keskin - sharp - no hint
+dişleri - teeth - no hint
+kızgın - mad - no hint
+gözleri - eyes - no hint
+olan - the one which - no hint
+kurt - kurt - no hint
+takılmış - stuck - no hint
+peşlerini - after them - no hint
+işte - request - no hint
+yarın - tomorrow - no hint
+sabaha - to morning - no hint
+karnımı - my stomach - no hint
+doyuracak - will feed - no hint
+muhteşem - wonderful - no hint
+yemek - food - no hint
+kardeşler - siblings - no hint
+onları - them - no hint
+takip - follow/up - no hint
+eden - the one who - no hint
+kurdu - founded - no hint
+fark - difference - no hint
+etmemişler - they didn&#39;t - no hint
+bile - even - no hint
+burkitt - burkitt - no hint
+orkide - orchid - no hint
+nihayet - finally - no hint
+gölün - your lake - no hint
+kenarına - to the edge - no hint
+varmışlar - they arrived - no hint
+orada - there - no hint
+kuracak - will establish - no hint
+yer - location - no hint
+bulmuş - found - no hint
+önce - before - no hint
+doğu - east - no hint
+cukur - shaving - no hint
+çadırını - your tent - no hint
+ağacın - the tree - no hint
+yanındaki - next to - no hint
+yapraklardan - from leaves - no hint
+yapmaya - to do - no hint
+karar - decision - no hint
+vermiş - has given - no hint
+bunun - this - no hint
+topladığı - he collected - no hint
+yaprakları - leaves - no hint
+birleştirerek - by combining - no hint
+hemencecik - straight off - no hint
+yapmış - made - no hint
+kardeşinin - your brother&#39;s - no hint
+yanına - next - no hint
+gel - the people - no hint
+kadarına - up to - no hint
+şöyle - like this - no hint
+bakmış - looked - no hint
+cadının - of the witch - no hint
+çok - lots - no hint
+olmuş - dead - no hint
+korku - horror - no hint
+aferin - well done - no hint
+ama - but - no hint
+çadır - tent - no hint
+sence - sence - no hint
+mu - mu - no hint
+oo - oo - no hint
+de - from - no hint
+abiciğim - my brother - no hint
+toki - sure - no hint
+ise - if - no hint
+kıyısındaki - on the coast - no hint
+sazlıklardan - from the reeds - no hint
+yerdeki - on the ground - no hint
+sağlıkları - their health - no hint
+toplamış - collected - no hint
+araya - together - no hint
+getirerek - by bringing - no hint
+çadırının - your tent - no hint
+hızlıca - quickly - no hint
+bitir - ends - no hint
+pişti - cooked - no hint
+gelip - come and - no hint
+yapılmaktadır - being done - no hint
+görünce - when you see - no hint
+kardeşini - your brother - no hint
+uyarmış - warned - no hint
+kardeşim - my brother - no hint
+çadırın - your tent - no hint
+fakat - but - no hint
+sazlıklar - reeds - no hint
+seni - you - no hint
+tehlikeden - from danger - no hint
+korur - protects - no hint
+koru - koru - no hint
+kurutmak - dry up - no hint
+uzun - long - no hint
+sazlıkları - reeds - no hint
+seçtim - i chose - no hint
+asla - never - no hint
+zarar - harm - no hint
+gelmez - does not come - no hint
+iki - to - no hint
+çadırların - your tents - no hint
+önünde - in front of - no hint
+eğlenirken - having fun - no hint
+korkunç - terrible - no hint
+bakış - view - no hint
+gizlice - secretly - no hint
+izlemeye - to watch - no hint
+devam - continue - no hint
+ediyormuş - he was doing - no hint
+daha - more - no hint
+abi - help - no hint
+kendini - self - no hint
+kalın - thick - no hint
+ağaç - tree - no hint
+dallarından - from the branches - no hint
+başlamış - started - no hint
+neredeyse - almost - no hint
+akşam - evening - no hint
+olana - to the thing - no hint
+kadar - until - no hint
+ince - thin - no hint
+iyice - thoroughly - no hint
+çalışmış - worked - no hint
+sonunda - finally - no hint
+tüm - all - no hint
+tehlikelere - to the dangers - no hint
+karşı - against - no hint
+dayanıklı - resistant - no hint
+çadırı - tent - no hint
+olmuştu - had happened - no hint
+gurkey - gurkey - no hint
+abilerinin - your brothers - no hint
+etkilenmişler - they are affected - no hint
+ağabeyciğim - my brother - no hint
+ama - but - no hint
+çalışmaktan - from working - no hint
+bizimle - with us - no hint
+oynayamadım - i couldn&#39;t play - no hint
+akşam - evening - no hint
+olup - whether - no hint
+güneş - sun - no hint
+battığında - when it sinks - no hint
+ormandaki - in the forest - no hint
+havuç - carrot - no hint
+partisine - to your party - no hint
+gitmeye - to go - no hint
+kurtta - deaf - no hint
+çaktırmadan - on the sly - no hint
+peşlerinden - after them - no hint
+gitmiş - gone - no hint
+tabi - subject to - no hint
+partide - parties - no hint
+sürü - herd - no hint
+tavşanla - with the rabbit - no hint
+karşılaşmış - encountered - no hint
+eğlenceli - entertaining - no hint
+portre - portrait - no hint
+dolmuşlarda - in minibuses - no hint
+takmak - affix - no hint
+istiyorum - i want - no hint
+tavşanların - of rabbits - no hint
+arasına - between - no hint
+karışıp - mingle - no hint
+saatlerce - for hours - no hint
+eğlenmişler - they had fun - no hint
+önün - her - no hint
+bakalım - let&#39;s see - no hint
+sizi - you - no hint
+mideme - mideme - no hint
+indirdim - i downloaded - no hint
+ben - ben - no hint
+eğleneceğim - i will have fun - no hint
+parti - set off - no hint
+bittiğinde - when finished - no hint
+yorulan - tired - no hint
+ya - yes - no hint
+yerlerine - instead of - no hint
+dönmüşler - they returned - no hint
+kötü - bad - no hint
+onların - their - no hint
+uyanmasını - to wake up - no hint
+beklemiş - waited - no hint
+abone - subscriber - no hint
+ol - die - no hint
+kamptaki - in the camp - no hint
+güne - to day - no hint
+uyanan - waking up - no hint
+çık - exit - no hint
+yoksa - or - no hint
+üflerim - i blow - no hint
+püflerim - my tricks - no hint
+başına - per - no hint
+yıkarım - i wash - no hint
+çorum - i chom - no hint
+değil - not - no hint
+hiçbir - no - no hint
+şey - thing - no hint
+yapamazsın - you can not - no hint
+peki - alright - no hint
+zaman - time - no hint
+müzik - music - no hint
+oh - oh - no hint
+üşenmemiş - not lazy - no hint
+tüfler - deeper - no hint
+iş - work - no hint
+domuzu - boar - no hint
+yapraktan - from the leaf - no hint
+yaptığı - made - no hint
+yıkmış - destroyed - no hint
+canını - your life - no hint
+zor - difficult - no hint
+kurtarıp - save and - no hint
+hemen - now - no hint
+abisi - older brother - no hint
+toki'nin - toki&#39;nin - no hint
+çadırına - to your tent - no hint
+koşmuş - ran - no hint
+kısa - short - no hint
+domuzcuğun - your piggy - no hint
+dışarı - out - no hint
+benim - mine - no hint
+çadırım - my tent - no hint
+yıkılmaz - indestructible - no hint
+üç - three - no hint
+üflemiş - blown - no hint
+küflenmiş - moldy - no hint
+domuzcu - domuzcu - no hint
+yerli - local - no hint
+etmiş - have done - no hint
+gurur - pride - no hint
+kurtarmış - saved - no hint
+koşup - running around - no hint
+abileri - his brothers - no hint
+ben - ben - no hint
+ona - she - no hint
+gitmişler - they are gone - no hint
+ha - he has - no hint
+hadi - come on - no hint
+abicim - my brother - no hint
+gördüm - i saw - no hint
+et - and - no hint
+çadırlarımızı - our tents - no hint
+yoktu - did not have - no hint
+şimdi - now - no hint
+buraya - here - no hint
+geliyor - is coming - no hint
+halde - in the state - no hint
+önlem - precaution - no hint
+almalıyız - we should take - no hint
+gelin - bride - no hint
+benimle - with me - no hint
+spor - sport - no hint
+derin - deep - no hint
+kalmışlar - they stayed - no hint
+kuyudan - from the well - no hint
+merdivenle - by ladder - no hint
+çıkıp - come out - no hint
+küpü - cube - no hint
+üzerini - over it - no hint
+toprak - soil - no hint
+rengi - color - no hint
+bezle - with cloth - no hint
+örtmüşler - they covered - no hint
+porsche'nin - porsche&#39;nin - no hint
+dallardan - from the branches - no hint
+içine - into - no hint
+girmişler - they entered - no hint
+aç - hungry - no hint
+sefer - expedition - no hint
+polipinin - polypin - no hint
+hiç - none - no hint
+boşuna - in vain - no hint
+uğraşma - hassle - no hint
+çadıra - to the tent - no hint
+veremezsiniz - you cannot give - no hint
+evet - yeah - no hint
+ee - ee - no hint
+hiçbir - no - no hint
+olmamış - didn&#39;t happen - no hint
+adım - my name - no hint
+yaklaşıp - approaching and - no hint
+tekrar - again - no hint
+ancak - however - no hint
+biraz - a little - no hint
+sallanmış - shaken - no hint
+yaklaşmış - approached - no hint
+ların - yours - no hint
+kazdı - dug - no hint
+çukurun - the pit - no hint
+düşüvermiş - has fallen - no hint
+kurdun - you wolf - no hint
+düşme - fall - no hint
+sesini - your voice - no hint
+duyan - hearer - no hint
+çadırdan - from the tent - no hint
+önlerindeki - in front of them - no hint
+koyunun - of the sheep - no hint
+kenarından - from the edge - no hint
+karşıya - across - no hint
+geçmişler - past - no hint
+ardından - next - no hint
+sevimli - pleasant - no hint
+olan - the one which - no hint
+biteni - what&#39;s going on - no hint
+anlatmak - to explain - no hint
+çabucak - quickly - no hint
+annelerinin - their mothers - no hint
+onegym - yesterday - no hint
+toplu - collective - no hint
+uyumuşsun - you slept - no hint
+kutu - box - no hint
+dikkatli - carefully - no hint
+olmamız - to be - no hint
+gerekiyor - need - no hint
+kop - cup - no hint
+çevreyi - the environment - no hint
+kontrol - control - no hint
+etmemiz - we should - no hint
+lazımmış - necessary - no hint
+olursa - if - no hint
+çadırları - tents - no hint
+kurmak - to create - no hint
+nerede - where - no hint
+çocukları - their children - no hint
+eve - eve - no hint
+döndükleri - they returned - no hint
+onlara - to them - no hint
+sıkı - tight - no hint
+sarılmış - wrapped up - no hint
+düğüm - loop - no hint
+yaz - summer - no hint
+tatilini - your vacation - no hint
+birbirleriyle - with each other - no hint
+oynayıp - playing and - no hint
+evlenerek - by marrying - no hint
+geçirmiş - have had - no hint
