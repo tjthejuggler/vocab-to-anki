@@ -35,13 +35,15 @@ def get_translation_from_local_library(src_text, first_lang, second_lang):
 
 	return dest_text
 
-def get_translation(src_text, first_lang, second_lang):
+def get_translation(src_text, first_lang, second_lang, should_print):
 	dest_text = get_translation_from_local_library(src_text, first_lang, second_lang).replace('&#39;', "'")
 	if dest_text == '':
 		dest_text = translate_text(second_lang, src_text).lower().replace('&#39;', "'")
-		print('got from google', src_text, dest_text)
+		if should_print:
+			print('got from google', src_text,'=', dest_text)
 	else:
-		print(' '*20+'got from local dict', src_text, dest_text)
+		if should_print:
+			print(' '*20+'got from local dict', src_text.strip(),'=', dest_text.strip())
 	#UNCOMMENTTHIS IF NOT USING GOOGLE CLOUD TRANSLATE
 	# if dest_text == '':	
 	# 	translation_attempt = 1

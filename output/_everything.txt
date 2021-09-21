@@ -1,1513 +1,200 @@
-çam ağaçları - pine trees - no hint
-sizi anlamadım tekrar edebilir misiniz lütfen - i don't understand you can you repeat please - no hint
-çocukların bazıları oturuyor - some of the children are sitting - no hint
-onun - her - no hint
-çocukların hiçbiri oturmuyor - none of the children are sitting - no hint
-bu plastik - it's plastic - no hint
-aralık - december - no hint
-giysi satın alıyor - buying clothes - no hint
-cuma günü yelkenli tekne kiralayabilir miyiz - can we rent a sailboat on friday - no hint
-bu heykel bir adada - this statue is on an island - no hint
-kadınlar tabloyu öğreniyorlar - women learn painting - no hint
-hiç kimse - no one - no hint
-hint kıyafetleri - indian clothes - no hint
-yerleri - locations - no hint
-artık bir lokantada çalışıyor - now works in a restaurant - no hint
-bunlar gözlerim - these are my eyes - no hint
-herkese yetecek kadar bardak var mı - are there enough glasses for everyone - no hint
-ingilizce konuşuyor musunuz - do you speak english - no hint
-kız kardeşimle oyun oynuyorum - i'm playing games with my sister - no hint
-elmalar kasede - apples in bowl - no hint
-yeşiller - greens - no hint
-çalışanlar gülüyor - employees laughing - no hint
-bu yeşil limonlar taze - these limes are fresh - no hint
-ne zamandan beri burada bekliyorsun - how long have you been waiting here - no hint
-ahşap sandalye pahalı - wooden chair expensive - no hint
-uzun boylu adam siyah takım elbise giyiyor - tall man wearing black suit - no hint
-bisiklete biniyor - riding a bike - no hint
-hiçkimse atlamıyor - no one is jumping - no hint
-lütfen bu kitapları sıraların üstüne koyun - please put these books on the desks - no hint
-kadın öğle yemeğinde tavuk yiyor - woman eats chicken for lunch - no hint
-anahtarlarını hatırladı - remembered his keys - no hint
-bizim iki tane ta bağımız var - we have two ties - no hint
-evet çalışıyor - yes it works - no hint
-bir otobüs terminali - a bus terminal - no hint
-bu kadın dışarıda çalışıyor - this woman works outside - no hint
-plastik - plastic - no hint
-bir kol - one arm - no hint
-yelkenli tekne ile nereye gidebiliriz - where can we go by sailboat - no hint
-on tane fincan - ten cups - no hint
-küçük bir adaya gidebiliriz - we can go to a small island - no hint
-bardaklar bulaşık makinesinde - glasses in the dishwasher - no hint
-bugün trenle paris'e gidiyor - going to paris by train today - no hint
-kırmızı evde oturuyorum - i live in the red house - no hint
-bir pepee - a pepee - no hint
-altı tane yumurta var - there are six eggs - no hint
-sizin kaç tane sandviç işiniz var - how many sandwich businesses do you have - no hint
-kadın ingilizce kitap okuyor - woman reading english book - no hint
-bir göz - an eye - no hint
-küçük - small - no hint
-nerede çalışıyorsun - where do you work - no hint
-halının altına süpürüyorum - i sweep it under the rug - no hint
-bazen okulda antrenman yapıyoruz - sometimes we train at school - no hint
-insanlar - people - no hint
-tamam işten sonra oy veririm - ok i will vote after work - no hint
-kız çocuğun annesi gülümsemiyor - the girl's mother is not smiling - no hint
-bir tane cep telefonu var - there is a cell phone - no hint
-bir köpek - a dog - no hint
-kadın tepeden - woman from above - no hint
-okul kapalı bugün tatil - school is closed today is holiday - no hint
-adam arabanın üstünde - man on the car - no hint
-adım hakan ünal - my name is hakan unal - no hint
-tavuklar kuş - chickens bird - no hint
-araba yeşil - car green - no hint
-inekler ne kadar - how much are the cows - no hint
-kirli - dirty - no hint
-evet seninle oyun oynarım - yes i play games with you - no hint
-matematiğin ilginç olduğunu düşünüyorlar - they think math is interesting - no hint
-can - can - no hint
-ağustos - august - no hint
-neden çiçek satın alıyorsun - why are you buying flowers - no hint
-bir kostüm partisine gidiyorlar - they are going to a costume party - no hint
-muz olgun değil - banana is not ripe - no hint
-bir tornavida - a screwdriver - no hint
-bunlar çocuklarımız - these are our children - no hint
-uçak bir saat sonra geliyor - the plane arrives in an hour - no hint
-bunu içmek tehlikeli değil - it's not dangerous to drink this - no hint
-mutfakta - in the kitchen - no hint
-dedemi seviyorum - i love my grandfather - no hint
-bir şemsiye - an umbrella - no hint
-kız - girl - no hint
-bir kafe - a cafe - no hint
-bu çok küçük bir top - this is a very small ball - no hint
-bu çok güzel bir tablo - this is a very beautiful painting - no hint
-tuzlu biftek - salted steak - no hint
-ben içtim - i drank - no hint
-maç boyunca yemek yedik - we ate during the game - no hint
-kitabını mı okuyorsun - are you reading your book - no hint
-alo melike ile konuşabilir miyim - hello can i talk to melike - no hint
-karnım ağrıyor çünkü çok tatlı yedim - my stomach hurts because i ate too many sweets - no hint
-ne zaman sona eriyor - when does it end - no hint
-hırdavatçı kitapçıya yakın - hardware store near the bookstore - no hint
-arapça yazı yazıyor - writes in arabic - no hint
-erkek çocuk bir dilim peynir yiyor - boy eats a slice of cheese - no hint
-bugün neden parka gidiyorsunuz - why are you going to the park today - no hint
-saat sekizde burada olabilir misin - can you be here at eight o'clock - no hint
-bir yüzme havuzu - a swimming pool - no hint
-bir inek - a cow - no hint
-bulaşık makinesi bosch - dishwasher bosch - no hint
-geçen çarşamba tren bileti satın aldı - bought train tickets last wednesday - no hint
-kitabı nereye koydun - where did you put the book - no hint
-yataktan atladım - i jumped out of bed - no hint
-bir televizyon - a television - no hint
-televizyonun kırık - your tv is broken - no hint
-plastik sandalye ne kadar - how much is a plastic chair - no hint
-modern - modern - no hint
-burada yüzmeyin - don't swim here - no hint
-müzik grubu iki saat çalacak - the band will play for two hours - no hint
-tabaklar mutfak eşyası iğdır - plates kitchen utensils - no hint
-artık burada yaşıyorum - i live here now - no hint
-parka gitmek istiyor musun - do you want to go to the park - no hint
-bluetooth atabilir misin lütfen - can you send bluetooth please - no hint
-plaja gitmişler - they went to the beach - no hint
-türkçe kitap okuyorum - i'm reading a turkish book - no hint
-bu babam - this is my father - no hint
-tatlı olarak neyiniz var - what do you have for dessert - no hint
-turtanın üçte biri - a third of the pie - no hint
-evet taşıyabilirim - yes i can carry - no hint
-kuşun güzel nereden - where is your beautiful bird from - no hint
-bir ayak - one foot - no hint
-geçen hafta zarf satın aldım - i bought envelopes last week - no hint
-bu bir gazete - this is a newspaper - no hint
-akşam - evening - no hint
-bu bir kostüm partisi - it's a costume party - no hint
-yeterli yer var mı - is there enough room - no hint
-bu kitabı okudun mu - have you read this book - no hint
-aç mısınız - are you hungry - no hint
-bir hayvanat bahçesi - a zoo - no hint
-şu - this - no hint
-yağmur ormanları plajı'nın yanında - next to rainforest beach - no hint
-artık bir çocuksun - you are a child now - no hint
-bu kütüphane demek - it means library - no hint
-pizzaya taze domates koyuyor - putting fresh tomatoes on pizza - no hint
-daha büyük bir sırt çantam olsaydı onu taşıya bilirdim - if i had a bigger backpack i could carry it - no hint
-bir erkek çocuk - a boy - no hint
-yemek yediler - they ate food - no hint
-kız çocuk plajda uyuyor - girl sleeping on the beach - no hint
-adam mı evde balık yiyor - is the man eating fish at home - no hint
-evet kahve istiyorum - yes i want coffee - no hint
-nerede çalışıyorsunuz - where do you work - no hint
-eteğini - your skirt - no hint
-new york'ta yaşıyor - lives in new york - no hint
-antartika afrika'nın güneyinde - antarctica south africa - no hint
-market - market - no hint
-onlar sandviç lerini yiyor - they are eating their sandwiches - no hint
-kadınlar ağlıyor - women crying - no hint
-fincanlar mutfak eşyası iğdır - cups kitchen utensils spindle - no hint
-bu televizyon çalışıyor - this tv is working - no hint
-zarf satın aldın mı - did you buy an envelope - no hint
-portakal ağaçları - orange trees - no hint
-atlar yürü - horses walk - no hint
-bir oyun - a game - no hint
-doktoru var ha - do you have a doctor - no hint
-memnun oldum can - i'm glad dear - no hint
-bugün yağmur yağacak - it will rain today - no hint
-burada oyna - play here - no hint
-bugün koşuyor - running today - no hint
-sizin sarı bir kitabınız var - you have a yellow book - no hint
-bir amerikan lokantası - an american restaurant - no hint
-kafeye gidiyorlar - they are going to the cafe - no hint
-bugün işe geliyor musun - are you coming to work today - no hint
-hayır herkese yetecek kadar çatal yok - no there are not enough forks for everyone - no hint
-bu televizyon çalışmıyor - this tv is not working - no hint
-erkek çocuk patates yiyor - boy eats potatoes - no hint
-bu ne - what's this - no hint
-pi - pi - no hint
-bu askerler koşuyor - these soldiers are running - no hint
-burada ne yetişiyor - what grows here - no hint
-mutlular çünkü birbirleriyle oyun oynuyorlar - they are happy because they are playing games with each other - no hint
-yarın yelkenle açılmayan - not sailing tomorrow - no hint
-heykel tepede - statue on the hill - no hint
-bir yılan - a snake - no hint
-araba beyaz - car white - no hint
-bu gölde yüzemez - can't swim in this lake - no hint
-perşembe günü doğum günü partime gelmek istiyor musun - do you want to come to my birthday party on thursday - no hint
-bu şehir fransa'da - this city is in france - no hint
-bir bebek - a baby - no hint
-on tane tabak - ten plates - no hint
-burada - here - no hint
-çok güzeller - they are so beautiful - no hint
-köpeğin var mı - do you have a dog - no hint
-erkek çocuk koşuyor - boy running - no hint
-üç saat yüzebilirsiniz - you can swim for three hours - no hint
-bir havaalanı - an airport - no hint
-ingiliz anahtarı namıçekicimi ihtiyacın var - wrench aka you need my hammer - no hint
-türkçede buna çorap denir - in turkish it is called socks - no hint
-günaydın doktor bey - good morning doctor - no hint
-ne yapmayı seviyorsun - what do you like to do - no hint
-müzik kötü - music is bad - no hint
-meksikalı bir adam - a mexican man - no hint
-on bir tane çiçek - eleven flowers - no hint
-asker kraliçe ile tanışıyor - soldier meets queen - no hint
-kız kardeşimi seviyorum - i love my sister - no hint
-sinemaya - to the cinema - no hint
-kış mevsiminde - in the winter season - no hint
-güle güle - bye - no hint
-un - a - no hint
-etek bir tür giysi - skirt is a kind of clothing - no hint
-yumurtanın yarısı - half of the egg - no hint
-yağmur yağarken dışarıya çıktım - i went outside when it was raining - no hint
-kız çocuk yarışı kazandı - girl wins the race - no hint
-eteğini yıkıyor - washing her skirt - no hint
-saçları siyah - her hair is black - no hint
-nereye gidiyor - where is it going - no hint
-bankaya gidiyor - going to the bank - no hint
-bir daire - a circle - no hint
-çünkü bu kitabı okumak çok zor - because this book is so hard to read - no hint
-bir kedi - a cat - no hint
-kemanı var - he has a violin - no hint
-ayakkabılarımı bulamıyorum - i can't find my shoes - no hint
-evet okuyacağım - yes i will read - no hint
-adam arabada - man in the car - no hint
-açım - i'm hungry - no hint
-şimdi yeri - now place - no hint
-okula - to school - no hint
-lütfen giysileri yıka - please wash clothes - no hint
-ne yapıyorsun - what are you doing - no hint
-burada yaşadığımızı hatırlıyor musun - do you remember we used to live here - no hint
-pilav yiyor - eating rice - no hint
-oyuncak satın alıyor - buys toys - no hint
-evde - at home - no hint
-o yazı yazıyor - he is writing - no hint
-affedersiniz bir sorun var - sorry there is a problem - no hint
-bu meyve yeşil - this fruit is green - no hint
-kırk beş yaşındayım - i am fortyfive years old - no hint
-arapça - arabic - no hint
-adam yemek yiyor - man is eating - no hint
-bir at - a horse - no hint
-bir salata - a salad - no hint
-kırık bir televizyon - a broken tv - no hint
-merhaba adım lin - hello my name is lin - no hint
-otuzdört kase - thirty four bowls - no hint
-hangi bardak benim - which glass is mine - no hint
-bir yılda on iki ay var - there are twelve months in a year - no hint
-elma bilgisayarın üstünde - apple on computer - no hint
-doktor kız çocuğa gülümsüyor - doctor girl smiling at boy - no hint
-hoşçakal - goodbye - no hint
-saat dört - it is four o'clock - no hint
-bu bina avustralya'da - this building is in australia - no hint
-roma'da yaşıyoruz - we live in rome - no hint
-kız çocuklar oyun oynuyor - girls playing games - no hint
-ofiste hiçbir şey yok - nothing in the office - no hint
-anne babanı bulacağız - we will find your parents - no hint
-onun kitabı sıkıcı - his book is boring - no hint
-o ne zamandan beri kraliçe - since when is she queen - no hint
-güney amerika afrika'nın batısında - south america west africa - no hint
-bu kolay - it's easy - no hint
-burada yaşa - live here - no hint
-evet okudum - yes i have read - no hint
-adam bisikletten düşüyor - man falls off bike - no hint
-bugün oğlum dört yaşında bir pasta istiyorum - today my son is four years old i want a cake - no hint
-on beş kravat - fifteen ties - no hint
-domatesler - tomatoes - no hint
-iki kayak - two skis - no hint
-çok kısayım - i'm too short - no hint
-ama eskiden öğretmendim - but i used to be a teacher - no hint
-kadın uyuyor - woman is sleeping - no hint
-yedi - seven - no hint
-dün futbol - football yesterday - no hint
-yaz mevsimi - summer - no hint
-erkek çocuklar - boys - no hint
-amerikalılar - americans - no hint
-elmanı yiyor musun - do you eat your apple - no hint
-erkek çocuk evde - boy at home - no hint
-yemek yiyor - eating - no hint
-evet boşuz - yes we are free - no hint
-asker ailesine mektup yazıyor - soldier writes a letter to his family - no hint
-bilmiyorum yöneticime soracağım - i don't know i will ask my manager - no hint
-bir kase - a bowl - no hint
-jale moskova'da ne kadar kalacak - how long will jale stay in moscow - no hint
-kim meyve suyu içiyor - who is drinking juice - no hint
-neden banyoda sın - why are you in the bathroom - no hint
-sinemaya geç kaldı - late for the cinema - no hint
-bu kravatlar farklı - these ties are different - no hint
-beyaz - white - no hint
-dolar - dollar - no hint
-dairede oturuyoruz - we live in the flat - no hint
-yedi tane kalem - seven pencils - no hint
-öğleden sonra - afternoon - no hint
-mısır - sweetcorn - no hint
-bilgisayarın çalışıyor mu - is your computer working - no hint
-o pilav yiyor - he is eating rice - no hint
-susuz musunuz - are you thirsty - no hint
-üzgünüm o benim - sorry it's me - no hint
-bugün limonlu tatlımız var - today we have lemon dessert - no hint
-badem sütü - almond milk - no hint
-onlar gazetelerini okuyor - they are reading their newspaper - no hint
-bu senin topun mu - is this your ball - no hint
-lütfen yüzünü yıka - please wash your face - no hint
-çöp - rubbish - no hint
-kırk yedi saniye - forty seven seconds - no hint
-pilavı tadıyorlar - they are tasting the rice - no hint
-bir adam ve arabası - a man and his car - no hint
-fransa'da - fransa'da - no hint
-bu şapka çok büyük - this hat is too big - no hint
-sorularınız var mı - do you have questions - no hint
-bir davul - a drum - no hint
-üzgünüm - i am sad - no hint
-neyi süpürüyorsun - what are you sweeping - no hint
-kaç yaşındasınız - how old are you - no hint
-postaneye gitmek istiyoruz - we want to go to the post office - no hint
-aslı haftaya cuma partime gelebilir mi - can asli come to my party on friday next week - no hint
-bir balina - a whale - no hint
-bugün yemek yapıyorum - i'm cooking today - no hint
-köpekler islak - dogs wet - no hint
-hayır nakit parayla ödemek istiyorum - no i want to pay with cash - no hint
-bir adam - a man - no hint
-güneş gözlüğü var - there are sunglasses - no hint
-gel - the people - no hint
-saçı - hair - no hint
-geceleyin bir otobüs terminali - a bus terminal at night - no hint
-bu güney amerika kıtası - this is the continent of south america - no hint
-onlar yüzmüyor - they are not swimming - no hint
-bugün kar yağacak - it will snow today - no hint
-öğle yemeğinde salata yiyor - eats salad for lunch - no hint
-ev kahverengi - house brown - no hint
-bu çiçekler yağmur ormanlarında - these flowers are in the rainforest - no hint
-bugün tatlı istiyor musunuz - do you want dessert today - no hint
-elli yıl önce evlendik - we got married fifty years ago - no hint
-yirmi üç tabak - twenty three plates - no hint
-bir metro - a subway - no hint
-futbol maçını kimin kazandığını söylediler mi - did they say who won the football match - no hint
-bu pasifik okyanusu - this is the pacific ocean - no hint
-bir sinagog - a synagogue - no hint
-erkek çocuk kitap okuyor - boy reading a book - no hint
-kaç tane yatak var - how many beds - no hint
-şu onun karısı mı - is that his wife - no hint
-bu kuş ağacın üzerinde duruyor - this bird is standing on the tree - no hint
-akşam yemeği yiyecekler - dinner foods - no hint
-evet buraya koyabilirsin - yes you can put it here - no hint
-bir kağıt - a paper - no hint
-ellerini - your hands - no hint
-kapı - gate - no hint
-ekim - october - no hint
-bu bina barselona'da - bu bina barselona'da - no hint
-bunlar kalemlerin mi - are these your pens - no hint
-nerede antrenman yapıyorsunuz - where do you train - no hint
-akşam sekizde başlıyor - starts at eight o'clock - no hint
-kitap okuyacak - will read a book - no hint
-bugün ne çalışıyorsunuz - what are you studying today - no hint
-domates olgun değil - tomatoes are not ripe - no hint
-bir bacak - one leg - no hint
-okumayı seviyor - likes to read - no hint
-üçyüz dolar - three hundred dollars - no hint
-tiyatro - theatre - no hint
-bazen burada - sometimes here - no hint
-bu takımda on bir kız çocuk var - there are eleven girls in this team - no hint
-bisiklet lerimize bin'e bileceğiz - we'll be able to get on our bikes - no hint
-bir gazete - a newspaper - no hint
-karısını arıyor - looking for his wife - no hint
-yani on yaşındayken ninem bana bunu verdi - so my grandma gave me this when i was ten - no hint
-gem - gem - no hint
-kütüphaneye gidiyoruz - we are going to the library - no hint
-ağaca çıkarken düştüm - i fell while climbing a tree - no hint
-bir bisiklet - a bicycle - no hint
-benimle oyun oynar mısın - would you play games with me - no hint
-başım ağrıyor - i have a headache - no hint
-bu tapınak meksika'da keşfedildi - this temple was discovered in mexico - no hint
-soru - question - no hint
-ingilizce - english - no hint
-bu kimin kedisi - whose cat is this - no hint
-hayır onların - no their - no hint
-eski bir telefon - an old phone - no hint
-parti sona eriyor - the party is ending - no hint
-neden topu'ya kalamadın - why couldn't you stay in ball - no hint
-parkta çalışıyorum - i work in the park - no hint
-bu kot pantolon uyuyor - these jeans fit - no hint
-eve gidiyor - going home - no hint
-bir taksi - a taxi - no hint
-bir eposta adresi - an email address - no hint
-avro para birimidir - euro is currency - no hint
-ona göre kitaplar ilginç ama televizyon sıkıcı - according to him books are interesting but television is boring - no hint
-havluya ihtiyacı var - he needs a towel - no hint
-brezilya'da iken ingilizce öğretim - teaching english while in brazil - no hint
-oy verme - voting - no hint
-seviyor - love - no hint
-ingilizce konuşuyorum - i am speaking english - no hint
-ofise gelebilir misin - can you come to the office - no hint
-kırmızı bir gömlek - a red shirt - no hint
-sizin kaç tane kaseniz var - how many bowls do you have - no hint
-tatlılar orada - sweets are there - no hint
-bu bir dilim turta - it's a slice of pie - no hint
-maç hakkında bir haber var mı - is there any news about the match - no hint
-sekiz tane yumurta - eight eggs - no hint
-çince yazı yazıyor - writes in chinese - no hint
-bir market - a market - no hint
-sebzeler - vegetables - no hint
-kız çocuk dans ediyor - girl dancing - no hint
-nerede yaşıyorsunuz - where do you live - no hint
-otuzyedi tabak - thirty seven plates - no hint
-harika su - great water - no hint
-gitar - guitar - no hint
-yeni bir televizyon - a new television - no hint
-burada sonbaharda antrenman yapıyoruz - here we train in the fall - no hint
-kahverengi - brown - no hint
-mart - march - no hint
-bu kız çocuk japon - this girl is japanese - no hint
-bu pizzanın dörtte biri - a quarter of that pizza - no hint
-modern bir tablo - a modern painting - no hint
-yarın plaja gidebilir miyiz - can we go to the beach tomorrow - no hint
-muz olgun - banana ripe - no hint
-okula gidiyor - going to school - no hint
-bir tabak - a plate - no hint
-çin kıyafetleri - chinese clothes - no hint
-uzun boylu kadın kot pantolon giyiyor - tall woman wearing jeans - no hint
-saat bir on beş - one fifteen o'clock - no hint
-bisikletten düşüyor - falls off the bike - no hint
-tebrik ederim - congratulations - no hint
-adam oğlunu taşıyor - man carrying his son - no hint
-arkadaşım niyazi şehirde file bindi - my friend niyazi rode an elephant in the city - no hint
-kadın kitap okuyor - woman reading a book - no hint
-tamam alıyorum - ok i'm getting - no hint
-nakit para ile ödemek istiyor musunuz - do you want to pay with cash - no hint
-bir amerikan şapkası - an american hat - no hint
-tatildeyken bir şey satın almak istiyorum - i want to buy something while on vacation - no hint
-bir bardak süt istiyor musun - do you want a glass of milk - no hint
-şimdi yürü - now walk - no hint
-adam ve kadın konser dinliyor - man and woman listening concert - no hint
-antartika bin sekiz yüz yirmi de keşfedildi - antarctica was discovered in one thousand eight hundred and twenty - no hint
-saçları ne renk - what color is her hair - no hint
-fen bilgisi - science - no hint
-bir kız çocuk ve bir ad - a girl and a name - no hint
-müzik - music - no hint
-tiyatroda oturuyor - sitting in the theater - no hint
-adam fransız - man french - no hint
-bir fabrika - a factory - no hint
-mayıs - may - no hint
-yüzleri mor ve sarı - their faces are purple and yellow - no hint
-üçüncü sayı yedi - third number seven - no hint
-sizin yeşil bir kitabınız var - you have a green book - no hint
-bu battaniye yediyüz yen - this blanket is seven hundred yen - no hint
-makarnayı pişirmem - i don't cook pasta - no hint
-eskiden çocuktum - i used to be a kid - no hint
-bu kuş çiçeğin üzerinde duruyor - this bird is standing on the flower - no hint
-ay - ay - no hint
-bu resmi - this picture - no hint
-ağırlığın ne - what is your weight - no hint
-adım can - my name is can - no hint
-çöp kutusu kötü kokuyor - litter box smells bad - no hint
-bu sizin kitabınız mı - is this your book - no hint
-pula ihtiyacın var mı - do you need money - no hint
-mut - mut - no hint
-bir dizüstü bilgisayar - a laptop - no hint
-age - age - no hint
-saat bir'de - at one o'clock - no hint
-sayı iki bin beş - number two thousand five - no hint
-tren - train - no hint
-parası var - he has money - no hint
-kaç tane masa beyaz - how many tables are white - no hint
-bir zarf - an envelope - no hint
-merdivenim değil - not my ladder - no hint
-şapkasını unuttu - forgot his hat - no hint
-kitap - book - no hint
-adam saat takıyor - man wears a watch - no hint
-öğleden sonraları ne yapıyorsunuz - what are you doing in the afternoon - no hint
-bu fincanlar farklı boyda - these cups are different size - no hint
-herkes patlıyor - everyone is exploding - no hint
-buna ihtiyacı var - it needs it - no hint
-neden yeni bir merdivene ihtiyacınız var - why do you need a new ladder - no hint
-kız kardeşimle öğle yemeği yiyorum - i'm having lunch with my sister - no hint
-kızın pastası var - girl has cake - no hint
-iş için bu şehirde - for work in this city - no hint
-içeride keman çalışıyorum - i'm playing the violin inside - no hint
-adam su içiyor - man is drinking water - no hint
-kırık bir radyo - a broken radio - no hint
-kemanımı yere koyabilir miyim - can i put my violin down - no hint
-lütfen duvarı ölç - please measure the wall - no hint
-on beş sterlin - fifteen pounds - no hint
-hayır çalışmıyor - no it doesn't work - no hint
-yiyecekleri beğendin mi - did you like the food - no hint
-artık takım elbiseleri var - now they have suits - no hint
-izmir'de ne yapıyorsun - what are you doing in izmir - no hint
-evet uyuyor - yes he is sleeping - no hint
-ekşi mi - is it sour - no hint
-içindeyken türkçe mi öğrettin - did you teach turkish while you we're in - no hint
-paltomu arıyorum - looking for my coat - no hint
-yardımcı ol - help me - no hint
-adam çölde yürüyor - man walking in the desert - no hint
-maymun ağaçta - monkey in tree - no hint
-insanlar otobüsten iniyor - people getting off the bus - no hint
-elma bir tür meyve - apple is a kind of fruit - no hint
-radyo dinlemeyi seviyorum - i like to listen to the radio - no hint
-bir otel - a hotel - no hint
-futbol takımında oynuyorum - i play on the football team - no hint
-bir kuyumcu - a jeweler - no hint
-neden kazak giyiyorsun - why are you wearing a sweater - no hint
-onlar elma yiyor - they are eating apples - no hint
-koltuğunuz sağda - your seat is on the right - no hint
-akşam yemeği hazırlıyoruz - we are preparing dinner - no hint
-erkek çocuk arapça yazı yazıyor - boy writes in arabic - no hint
-okuldayım - i am at school - no hint
-topu - ball - no hint
-bir postane - a post office - no hint
-hangi koltuk benim - which seat is mine - no hint
-kafe şehir merkezinde değil - the cafe is not in the city center - no hint
-bu merdiven metal - this ladder is metal - no hint
-wc nerede - where is the wc - no hint
-paraya ihtiyacı var - he needs money - no hint
-bavulumda yeterli yer olduğunu düşünüyorum - i think there is enough room in my suitcase - no hint
-çok yuvarlak - very round - no hint
-bu afrika'da bir cenaze - this is a funeral in africa - no hint
-çiçek satın alıyorum çünkü bu öğleden sonra yine mi ziyaret ediyorum - i'm buying flowers because i'm visiting again this afternoon - no hint
-meyve satıyor musunuz - do you sell fruit - no hint
-gözlüğünü buldum - i found your glasses - no hint
-kadınlar lokantada çalışıyor - women work in restaurant - no hint
-öğle yemeği hazırlıyorlar - they are preparing lunch - no hint
-sarı - yellow - no hint
-türkçede buna kitap denir - in turkish it is called a book - no hint
-pullar - money - no hint
-evet edebilirim - yes i can - no hint
-yeterli bardak yok - not enough glasses - no hint
-iyi günler - have a nice day - no hint
-bir elma - an apple - no hint
-orada futbol oynayacağım - i will play football there - no hint
-çocukken annen bunu mu sana okudu - did your mother read this to you when you we're a kid - no hint
-önce bunu cetvelle ölç - measure it first with a ruler - no hint
-kum - godfather - no hint
-rusya - russia - no hint
-meksikalılar bu bayramı kasım'da kutluyor - mexicans celebrate this holiday in november - no hint
-merdivenden düştüm - i fell down the stairs - no hint
-çinli iş adamları ve iş kadınları telefonda konuşuyor - chinese businessmen and businesswomen talking on the phone - no hint
-alo bir rezervasyon yaptırmak istiyorum - hello i want to make a reservation - no hint
-bisikletin mi - is your bike - no hint
-hangi takım - which team - no hint
-ya - yes - no hint
-adım sezen - step sensing - no hint
-avustralya kıtası - australian continent - no hint
-dört gün - four days - no hint
-adam dağda yürüyor - man walking on mountain - no hint
-hayır bugün tatil - no today is holiday - no hint
-penguenler yüzecek - penguins will swim - no hint
-öyle tamir et - so fix it - no hint
-bu kadın daha güçlü - this woman is stronger - no hint
-bir eczane - a pharmacy - no hint
-benim bir sandviç işim var - i have a sandwich business - no hint
-bugün ne yapmamız gerek - what should we do today - no hint
-bir şey pişiriyor - is cooking something - no hint
-hava güneşli mi - is it sunny - no hint
-partiye zamanında geldiler - they came to the party on time - no hint
-bunu satın almak istiyorum - i want to buy this - no hint
-erkek çocuk yarışı kazandı - boy wins the race - no hint
-bir tane top kırmızı - one ball red - no hint
-bir deve - a camel - no hint
-gecikmeli çünkü kar yağıyor - delayed because it's snowing - no hint
-gözlüğümü arıyorum - i'm looking for my glasses - no hint
-ne getirdin - what did you bring - no hint
-hiçbiri - none - no hint
-kadın tepeden aşağıya koşuyor - woman running down hill - no hint
-bunlar senin kitapların mı - are these your books - no hint
-gitar çalan birine ihtiyacım var - i need someone who plays guitar - no hint
-hayır tatile gittim - no i went on vacation - no hint
-şu emine'nin evinin bir tablosu - a painting of that house of emine - no hint
-bu köpek benim - this dog is mine - no hint
-paris - paris - no hint
-ayakkabısını arıyor - looking for his shoes - no hint
-sabahları - in the morning - no hint
-hangi hayvan büyük - which animal is big - no hint
-modern bir stadyum - a modern stadium - no hint
-atların güzel - your horses are beautiful - no hint
-markete gitmiş - went to the market - no hint
-bir tane telefon siyah - one phone black - no hint
-bir araba - a car - no hint
-nereye gitmek istiyorsunuz - where would you like to go - no hint
-nereye gidiyorsunuz - where are you going - no hint
-beş türk lirası - five turkish lira - no hint
-bu kilise bir adada - this church is on an island - no hint
-bir hastane - a hospital - no hint
-daha büyük bir sırt çantası almalıyım - i need to buy a bigger backpack - no hint
-bir fıskiye - a fountain - no hint
-temiz çarşaflar güzel kokuyor - clean sheets smell good - no hint
-bir kız çocuk - a girl child - no hint
-şapkası var - he has a hat - no hint
-futbol oynuyor - he's playing football - no hint
-memnun oldum - pleased to meet you - no hint
-hayır unuttum - no i forgot - no hint
-hatırlıyor musun - do you remember - no hint
-bu ne partisi - what party is this - no hint
-hangi takım kazanacak - which team will win - no hint
-hayır meşgulüm - no i am busy - no hint
-bir tatlı - a dessert - no hint
-memnun oldum tanju - i'm glad tanju - no hint
-kiminle akşam yemeği yiyorsun - who are you having dinner with - no hint
-kitabını oku - read your book - no hint
-ekmeği tadıyorlar - they taste the bread - no hint
-yarın yağmur yağacak - it is going to rain tomorrow - no hint
-şimdi yürüyemezler - they can't walk now - no hint
-rusya çin'in kuzeyinde - russia north of china - no hint
-ayakkabısını buldu - he found his shoe - no hint
-bir diş fırçası - a toothbrush - no hint
-hangi boy pasta istiyorsun - what size cake do you want - no hint
-bu oyuncaklar aynı - these toys are the same - no hint
-market köprüye yakın - market near the bridge - no hint
-antik merdivenler - ancient stairs - no hint
-asker çocukla konuşuyor - soldier talking to boy - no hint
-türkçe - turkish - no hint
-uçabiliyor mu - can he fly - no hint
-bu burnum - this is my nose - no hint
-merdivenler - stairs - no hint
-çok pahalı - very expensive - no hint
-modern bir heykel - a modern sculpture - no hint
-bu avrupa'da bir düğün - this is a wedding in europe - no hint
-fransız - french - no hint
-bir kütüphane - a library - no hint
-hayır sıcakla mı yoruz - no are you tired of the heat - no hint
-ikinci sayı dokuz - second number nine - no hint
-italyan makarnası - italian pasta - no hint
-bir şey içiyor - drinking something - no hint
-oğlunuz - your son - no hint
-bu hayvan yüzemez - this animal cannot swim - no hint
-kadın uyanıyor - woman waking up - no hint
-çünkü niye oku ziyaret ediyordu - because why was he visiting the arrow - no hint
-saçı sarı - her hair is blonde - no hint
-bu çok büyük - it's so big - no hint
-dokuz tane şapka - nine hats - no hint
-partiye geç kaldı - late to the party - no hint
-saat beşmp3 - five o'clockmp3 - no hint
-yirmi beş dolar - twenty five dollars - no hint
-millete ihtiyacınız var mı - do you need nation - no hint
-bir evrak çantası - a briefcase - no hint
-zühre - venus - no hint
-karımı arıyorum - i am looking for my wife - no hint
-bu kitap ne zaman yazıldı - when was this book written - no hint
-erkek çocuklar kutlama yapmıyor - boys don't celebrate - no hint
-bu adam yürüyemez - this man can't walk - no hint
-köpeğimi arıyorum - i am looking for my dog - no hint
-orada oynama - don't play there - no hint
-lütfen mutfaktan sekiz tabak getirin - please bring eight plates from the kitchen - no hint
-evet kazanacağımızı düşünüyorum - yes i think we will win - no hint
-işe gidiyor - she is going to work - no hint
-çünkü kayboldum - because i'm lost - no hint
-bütün turta - whole pie - no hint
-dokuz tane çiçek satın alıyorum - i buy nine flowers - no hint
-top ayağında - ball at your feet - no hint
-ve şimdi hava durumu hakkında konuşuyorlar - and now they're talking about the weather - no hint
-üç - three - no hint
-yirmi - twenty - no hint
-iki yıldır bu evi inşa ediyoruz - we have been building this house for two years - no hint
-cami park'a yakın - close to mosque park - no hint
-kırk yıl önce askerdi - forty years ago he was a soldier - no hint
-türkçede buna kurbağa denir - in turkish it is called a frog - no hint
-bir uçak - an airplane - no hint
-evet bunlar benim kitaplarım - yes these are my books - no hint
-bu kuş yemek yiyecek - this bird will eat - no hint
-üzgünüm sadece donmuş balığımız var - sorry we only have frozen fish - no hint
-öğretmen ne dedi - what did the teacher say - no hint
-hayır gidemeyiz - no we can't go - no hint
-ekmeğin tadı güzel - bread tastes good - no hint
-bir müze - a museum - no hint
-benimle dans eder misin - will you dance with me - no hint
-bu saat çalışmıyor - this clock is not working - no hint
-araba kırmızı - car red - no hint
-bir kaplan - a tiger - no hint
-amerikalıyım - i am american - no hint
-evet kitabımı okuyorum - yes i am reading my book - no hint
-yemek - food - no hint
-alo çırağan oteli - hello ciragan hotel - no hint
-oraya oturma - don't sit there - no hint
-hayır - no - no hint
-koşuyorlar - they are running - no hint
-koşmayı seviyor - likes to run - no hint
-lütfen yedi ölç - please measure seven - no hint
-bizim üç tane kase miz var - we have three bowls - no hint
-pilav kadında - woman in rice - no hint
-davul - drum - no hint
-kadın kahveyi kokmuyor - woman does not smell coffee - no hint
-bu oyuncak - this toy - no hint
-bu heykel çok pahalı - this statue is very expensive - no hint
-bir ördek - a duck - no hint
-bu anahtarlar sizin mi - are these keys yours - no hint
-bizim dört tane fincan ımız var - we have four cups - no hint
-giysiler - clothes - no hint
-ara - now - no hint
-el - the - no hint
-grup hristiyan kilisesi - group christian church - no hint
-okumayı seviyorum - i love to read - no hint
-bu şirketin telefon numarası beş yüz elli beş on iki otuz dört - the phone number of this company is five hundred fifty five twelve thirty four - no hint
-biletler ne kadar - how much are the tickets - no hint
-haberleri seyrediyorum - i'm watching the news - no hint
-bu bir elma - it's an apple - no hint
-merdivenlerde bir adam görüyorum - i see a man on the stairs - no hint
-plaja gitmek - go to the beach - no hint
-kadın kocasına gülümsüyor - woman smiling at her husband - no hint
-ne yapacağız - what are we gonna do - no hint
-hırdavatçı nerede - where is the hardware store - no hint
-bu hayvan büyük - this animal is big - no hint
-şu sizin - that's yours - no hint
-babam nerede - where is my father - no hint
-ne kadardır bu evi inşa ediyorsunuz - how long have you been building this house - no hint
-gömlek uyuyor mu - does the shirt fit - no hint
-kız çocuklar köprüde duruyor - girls are standing on the bridge - no hint
-adam çalışıyor - man working - no hint
-ninesi bilgisayar kullanmayı öğreniyor - grandma is learning to use computer - no hint
-bir stadyum - a stadium - no hint
-bu ne kadar - how much is this - no hint
-bugün dört yaşındayım - i am four years old today - no hint
-fransız yemeği getirdim - i brought french food - no hint
-ingilizce öğreniyorsun - you are learning english - no hint
-metroya biniyorlar - they take the subway - no hint
-geçiş törenine gidelim - let's go to the parade - no hint
-ahşap sandalye altmış sterlin - wooden chair sixty pounds - no hint
-saçım kızıl - my hair is red - no hint
-kız çocuk cidden düştü - the girl fell seriously - no hint
-erkek çocuklar gölde yüzüyor - boys swimming in the lake - no hint
-golf takımının fotoğrafını çekiyor - taking a picture of the golf team - no hint
-o kitabını okuyor - he is reading his book - no hint
-kadın sandaleti - women sandals - no hint
-harika bir top götürüyor - throws a great ball - no hint
-nereye gittin - where did you go - no hint
-şimdi yürüyebilirler - they can walk now - no hint
-biraz peynir istiyorum - i want some cheese - no hint
-çin tabloları - chinese paintings - no hint
-lokantaya gitmek ister misin - do you want to go to the restaurant - no hint
-su - it's - no hint
-biftek - steak - no hint
-kız çocuk oyun oynuyor - girl child playing - no hint
-salı günü hava soğuk olacak - tuesday will be cold - no hint
-bir el feneri - a flashlight - no hint
-tereyağlı ekmek - buttered bread - no hint
-en büyük pastayı istiyorum - i want the biggest cake - no hint
-dün ne çalıştınız - what did you study yesterday - no hint
-hayır tanışmadık - no we haven't met - no hint
-kasımda kayak - skiing in november - no hint
-bir sırt çantası - a backpack - no hint
-içindeyken bunu seyrettim - i watched this while in - no hint
-on beş - fifteen - no hint
-bu bir dilim pizza - it's a slice of pizza - no hint
-neden gecikmeli - why delay - no hint
-evet bu benim kitabım - yes this is my book - no hint
-pantolon bir tür giysi - trousers - no hint
-odada çok fazla insan var - there are too many people in the room - no hint
-hangi meyve yeşil - which fruit is green - no hint
-portakalı yakalayacak - will catch the orange - no hint
-sizin neyiniz var - what do you have - no hint
-fransızlar - french - no hint
-kim daha güçlü - who is stronger - no hint
-miyim - am i - no hint
-köpek bir şey içmek istiyor - the dog wants to drink something - no hint
-diğerini kesmek istiyorum - i want to cut the other - no hint
-iki saat - two hours - no hint
-bunu satın almalısın çok pahalı - you have to buy it it's too expensive - no hint
-bir defter - a notebook - no hint
-bu güney amerika'da bir düğün - this is a wedding in south america - no hint
-sabahları çalışıyorum - i work in the morning - no hint
-oyuncaklar - toys - no hint
-bu bir yumurta - it's an egg - no hint
-kahve istiyor musunuz - do you want coffee - no hint
-konser boyunca fotoğraf çektiler - they took pictures during the concert - no hint
-bir makas - a scissor - no hint
-lütfen kirli mutfak eşyalarını yıka - please wash the dirty utensils - no hint
-bir böcek - an insect - no hint
-çocuklar geç kaldı - kids are late - no hint
-kitapçı - bookstore - no hint
-başın sağ olsun - good luck - no hint
-domatesler olgun değil - tomatoes are not ripe - no hint
-yelkenli tekne ile denize açılıyorum - i'm sailing with a sailboat - no hint
-tablonun fotoğrafını çekiyor - taking a picture of the table - no hint
-o kitap okuyor - he is reading a book - no hint
-kadın yürüyor - woman walking - no hint
-paltosu mavi - paltosu mavi - no hint
-bir sözlük - a dictionary - no hint
-çoraplar beyazdı - the socks we're white - no hint
-bina moskova'da - building in moscow - no hint
-bardaklar mutfak eşyası iğdır - glasses kitchen utensil - no hint
-bir şey mi arıyorsunuz - are you looking for something - no hint
-bir rus kilisesi - a russian church - no hint
-bir kadın mayosu - a women's swimsuit - no hint
-bu ev çok küçük - this house is too small - no hint
-kime oy vereceksin - who will you vote for - no hint
-adam türkçe konuşuyor - man speaks turkish - no hint
-onlar sandviç yiyor - they are eating sandwiches - no hint
-çocuklar doğum günü partisinde gülüyor - kids laughing at birthday party - no hint
-alo - hello - no hint
-paris'te yaşıyoruz - we live in paris - no hint
-kız çocuk kitap okuyor - girl reading a book - no hint
-italya - italy - no hint
-partine gelmek istiyorum ama cuma günü meşgulüm - i want to come to your party but i'm busy on friday - no hint
-kuzey buz denizi - arctic ocean - no hint
-bir kitap - a book - no hint
-bir lise - a high school - no hint
-kitapçı harita satıyor - bookstore sells maps - no hint
-ne renk pasta istiyorsunuz - what color cake do you want - no hint
-bir adam ve karısı - a man and his wife - no hint
-attan düştüm - i fell off my horse - no hint
-ne zaman yazdın - when did you write - no hint
-oturmuyor - not sitting - no hint
-on üç havaalanı - thirteen airports - no hint
-onu sana vereceğim - i will give it to you - no hint
-bu adam çok yaşlı - this man is too old - no hint
-nakit parayla ödemeniz gerek - you have to pay with cash - no hint
-benimle kafede buluş - meet me at the cafe - no hint
-gördüm - i saw - no hint
-bu aile çölde tatilde - this family is on vacation in the desert - no hint
-bir gömlek - a shirt - no hint
-bir kadın var - there is a woman - no hint
-babam neden mutfakta - why is my father in the kitchen - no hint
-bir pasta - a cake - no hint
-çekle ödemek istiyorum - i want to pay by check - no hint
-kediler siyah - cats black - no hint
-çorabını arıyor - looking for his sock - no hint
-yeni evimize hoş geldin - welcome to our new home - no hint
-oğul - son - no hint
-iki limon - two lemons - no hint
-akşam yemeği çorba ile başlıyor - dinner starts with soup - no hint
-herkes oturuyor - everyone is sitting - no hint
-şimdi gece - now night - no hint
-yerleri süpürdüm - i swept the floors - no hint
-bir kadın - a woman - no hint
-dışarıda akşam yemeği yiyoruz - we are having dinner out - no hint
-kitap okuyorum - i am reading a book - no hint
-oyun kötü - the game is bad - no hint
-batum nerede - where is batumi - no hint
-kadın çiçekleri atıyor - woman throws flowers - no hint
-bu bir kız çocuğun kolu - this is a girl's arm - no hint
-lütfen bir salata getir - please bring a salad - no hint
-kredi kartı ile ödemek istiyorum - i want to pay by credit card - no hint
+müfettiş - inspector - no hint
 gidelim - let's go - no hint
-saat on iki'den beri burada bekliyorum - i've been waiting here since twelve o'clock - no hint
-hava güneşli - it's sunny - no hint
-beş tane balık var - there are five fish - no hint
-bir tablo - a table - no hint
-seçim hakkında konuştular - they talked about the election - no hint
-güçlü değil - not strong - no hint
-saat kaç - what time is it - no hint
-ben bir erkek çocuğum - i am a boy - no hint
-bu film iyi - this movie is good - no hint
-kız çocuk koşuyor - girl running - no hint
-lütfen bir şey okuyorsun - please you are reading something - no hint
-bir çalışan - an employee - no hint
-havaalanında erken gazete okudum - i read the newspaper early at the airport - no hint
-ellerini yıka - wash your hands - no hint
-kafes şehir merkezinde - cage in the city center - no hint
-arapça gazete okuyor - reading arabic newspaper - no hint
-üşüyor musunuz - are you cold - no hint
-kız çocuk meyve suyu sevmiyor - girl doesn't like juice - no hint
-balık kırmızı - fish red - no hint
-yirmi dört tane de bağımız var - we also have twentyfour vineyards - no hint
-gidiyorum - i'm going - no hint
-bir çivi - a nail - no hint
-iki yıl - two years - no hint
-bir hırdavatçı - a hardware store - no hint
-evet - yeah - no hint
-yemek yedi - ate - no hint
-nerelisiniz - where are you from - no hint
-saat bir de geliyor - one o'clock is coming - no hint
-bir ilkokul - a primary school - no hint
-şemsiyesi var - he has an umbrella - no hint
-yarın hava nasıl olacak - what will the weather be like tomorrow - no hint
-doğan bey siz misiniz - are you born sir - no hint
-bu adam çok hızlı - this guy is so fast - no hint
-kar yağıyor - it's snowing - no hint
-hayır teşekkür ederim - no thanks - no hint
-bugün gazeteyi okuyorum - i'm reading the newspaper today - no hint
-kafeye gelmek istiyor musun - do you want to come to the cafe - no hint
-golf oynamak istiyorum - i want to play golf - no hint
-adın mı murat kaçar - is your name murat run away - no hint
-adam çiçeği kokmuyor - the man does not smell the flower - no hint
-banyo dayım çünkü ellerimi yıkıyorum - i'm in the bathroom because i'm washing my hands - no hint
-elli altı saniye - fifty six seconds - no hint
-çünkü bisikletimi tamir ediyordum - because i was fixing my bike - no hint
-bir güneş gözlüğü - a sunglasses - no hint
-kızım dün gece saat on bir'de doğdu - my daughter was born at eleven o'clock last night - no hint
-sizin kaç tane ta bağınız var - how many ties do you have - no hint
-metal masam var - metal masam var - no hint
-on yedi - seventeen - no hint
-resim - picture - no hint
-otele gitmek istiyorum - i want to go to the hotel - no hint
-ahşap sandalye ne kadar - how much is a wooden chair - no hint
-iki tane cep telefonu var - have two cell phones - no hint
-metro ile gidiyor - going by subway - no hint
-yüzüyor - swimming - no hint
-sola dönün - turn left - no hint
-bu kalemler aynı - these pens are the same - no hint
-kadın parkta oturuyor - woman sitting in the park - no hint
-italya fransa'ya yakın - close to italy france - no hint
-fransız iş kadınının dizüstü bilgisayarı var - french business woman has laptop - no hint
-ocak - fireplace - no hint
-çocuklar okula gidiyor - children go to school - no hint
-domatesler olgun - tomatoes are ripe - no hint
-bu kitap iyi - this book is good - no hint
-üç gece kal - stay three nights - no hint
-daha sonra bir tornavida ve vidaları kullandı - then used a screwdriver and screws - no hint
-bankaya - to the bank - no hint
-bebek yüzemez - baby can't swim - no hint
-hayır ben doktor değilim - no i am not a doctor - no hint
-ev pembe - house pink - no hint
-özür dilerim - i'm sorry - no hint
-otuzbeş kase - thirtyfive bowls - no hint
-çantanı öyle taşıma - don't carry your bag like that - no hint
-hint okyanusu - indian ocean - no hint
-onun kedisi var - he has a cat - no hint
-bulaşık makinesi - dishwasher - no hint
-topu attı - threw the ball - no hint
-iş adamı olmak istiyorlar - they want to be businessmen - no hint
-adam koşuyor - man running - no hint
-çocuklarıyla oyun oynuyorlar - they are playing with their children - no hint
-kaseyi masaya koy - kaseyi masaya koy - no hint
-bir kadın ve kedisi - a woman and her cat - no hint
-gri - gray - no hint
-herkes konuşuyor - everyone is talking - no hint
-kahvesini unuttu - forgot his coffee - no hint
-çek ile ödemek istiyorum - i want to pay by check - no hint
-zen - was - no hint
-hayır sadece sebze satıyorum - no i only sell vegetables - no hint
-bir çit - a fence - no hint
-bu mavi - it's blue - no hint
-evet boşum - yes i am free - no hint
+dinle - listen - no hint
+yardım - help - no hint
+canım - my dear - no hint
+soygun - robbery - no hint
+parmak - finger - no hint
+peki - alright - no hint
+hâlâ - still - no hint
+ateş - fire - no hint
+şeyi - everything - no hint
+bakın - look - no hint
+bakalım - let's see - no hint
+kahretsin - damn - no hint
+dur - hard - no hint
+kurşun - bullet - no hint
+ver - watch - no hint
+işi - heat - no hint
+onlara - to them - no hint
+içeri - inside - no hint
+buradan - from here - no hint
+şeyin - of the thing - no hint
+orada - there - no hint
+vermek - to give - no hint
+pekala - ok - no hint
+birini - someone - no hint
+eminim - i am sure - no hint
+yardımcı - helper - no hint
+etmeye - to try - no hint
+ara - now - no hint
+sanırım - i think - no hint
+yaşam - life - no hint
+çabuk - quick - no hint
+yüzden - why - no hint
+fark - difference - no hint
+ölüm - death - no hint
+tanrım - my god - no hint
+söyle - say - no hint
+zorunda - must - no hint
+bazen - sometimes - no hint
+durum - situation - no hint
+içine - into - no hint
+güvenlik - security - no hint
+olursa - if - no hint
+suç - crime - no hint
+pazar - market - no hint
+silvia - silvia - no hint
+pekâlâ - ok - no hint
+dans - in - no hint
+neler - what - no hint
+silah - weapon - no hint
+kurtarmaya - to the rescue - no hint
+istediğini - what you want - no hint
+alacağım - i will take - no hint
+varsa - if any - no hint
+neredeyse - almost - no hint
+moskova - moscow - no hint
+elbette - of course - no hint
+bilmem - i do not know - no hint
+rehine - hostage - no hint
+anlıyorum - i understand - no hint
+istedim - i wanted - no hint
+göstermek - to show - no hint
+bulduk - we found - no hint
+aracı - middleman - no hint
+mükemmel - perfect - no hint
+serbest - free - no hint
+emin - sure - no hint
+rehineler - hostages - no hint
+tamamdır - ok - no hint
+selam - high school - no hint
+hayatta - in life - no hint
+defa - times - no hint
+gelmiş - came - no hint
+ceza - punishment - no hint
+belli - clear - no hint
+yıldır - years - no hint
+edecek - will - no hint
+yeter - enough - no hint
+hayatını - your life - no hint
+silahlı - armed - no hint
+kimin - who's - no hint
+biriyle - with someone - no hint
+almak - receive - no hint
+nefret - hate - no hint
+yüzünden - because - no hint
+girmek - to enter - no hint
 adım - my name - no hint
-portakal - orange - no hint
-o uyuyor - she is sleeping - no hint
-düştüm - i fell - no hint
-bir müzisyen - a musician - no hint
-üç tane top var - there are three balls - no hint
-fen bilgisi ve çalıştık - science and we studied - no hint
-bu adamlar dışarıda çalışıyor - these guys work outside - no hint
-tamam - ok - no hint
-saç fırçası satın alıyor - buys hairbrush - no hint
-sabahları kahve içiyorum - i drink coffee in the morning - no hint
-kasem masada - my bowl is on the table - no hint
-hangi gün geleceksiniz - what day will you come - no hint
-akşamları oturma odamda kitap yazıyorum - i write a book in my living room in the evening - no hint
-yüzeceğim - i will swim - no hint
-hayır fransızım - no i am french - no hint
-muz çürük - banana rotten - no hint
-paris'ten gelen uçak - flight from paris - no hint
-bir havlu - a towel - no hint
-bir ev - a house - no hint
-bir haritaya ihtiyacımız var - we need a map - no hint
-şimdi yeri temizlemem gerek - now i need to clean the floor - no hint
-yardımcı olabilir miyim - may i help you - no hint
-gazete - newspaper - no hint
-en az on dolar olduğunu düşünüyorum - i think it's at least ten dollars - no hint
-sıradaki dördüncü kişi susuz - fourth person in line is thirsty - no hint
-dört tane anahtar var - there are four keys - no hint
-bu yatak odam - this is my bedroom - no hint
-o araba kullanıyor - he is driving - no hint
-böyle tamir etmeli - should fix it like this - no hint
-bir kulak - an ear - no hint
-bir masa - a table - no hint
-bir hint tapınağı - an indian temple - no hint
-yağmur yağacak - it will rain - no hint
-bu çok büyük bir saat - this is a very big watch - no hint
-köpek yemek yiyor - dog eating - no hint
-yeşil diller - green tongues - no hint
-ne dediğini anlamadım hangi dili konuşuyor - i don't understand what you are saying what language does he speak - no hint
-erkek çocuk eve yakın - boy close to home - no hint
-pilavı - pilaf - no hint
-keman çalışmalı mıyım - should i study the violin - no hint
-salata yapıyor - making a salad - no hint
-bir battaniye - a blanket - no hint
-bu kadın güçlü - this woman is strong - no hint
-oturuyor - sitting - no hint
-evet gelebilir - yes it can - no hint
-kız çocuk fırında pasta pişirmeyi öğreniyor - girl learns to bake a cake in the oven - no hint
-yüzünde - on your face - no hint
-bir maymun - a monkey - no hint
-onun birkaç elması var - he has a few apples - no hint
-yediler - they ate - no hint
-çok iyiydi - was very good - no hint
-ingiltere'nin avrupa'da olduğunu söyledi - he said england is in europe - no hint
-bu köprü new york'ta - this bridge is in new york - no hint
-bir tane fincan var - there is one cup - no hint
-bu huriye öncü - this is the pioneer - no hint
-otuz top - thirty balls - no hint
-babam tarihi seviyordu - my father loved history - no hint
-adamı kadından daha güçlü - man stronger than woman - no hint
-eskiden bir pastanede çalışıyordu - used to work in a bakery - no hint
-bir çekiç - a hammer - no hint
-televizyonu buraya koy - put the tv here - no hint
-çiçek satın alıyorum - i'm buying flowers - no hint
-bu köpek bizim - this dog is ours - no hint
-bir polis memuru ve atı - a police officer and his horse - no hint
-kasımda kayak yapabileceksin - you can ski in november - no hint
-golf oynamak - to play golf - no hint
-onun daha çok elması var - he has more apples - no hint
-ama dikkatli ol - but be careful - no hint
-merhaba - hello there - no hint
-merhaba adım izabella - hello my name is izabella - no hint
-bir banka - a bank - no hint
-bu kuş sarı - this bird is yellow - no hint
-bir ingiliz anahtarı - a wrench - no hint
-banyoyu temizlememiz gerek - we need to clean the bathroom - no hint
-adamların merdiveni var - men have stairs - no hint
-elli beş kilosunuz - you weigh fiftyfive kilos - no hint
-sen bilgisinin çok ilginç olduğunu düşünüyor - you think your knowledge is very interesting - no hint
-kırk dört - fortyfour - no hint
-afedersiniz pastane nerede - excuse me where is the patisserie - no hint
-internette - on the internet - no hint
-altı tane sandalye var - there are six chairs - no hint
-dört çadır - four tents - no hint
-bir penguen - a penguin - no hint
-bir dansçı - a dancer - no hint
-ne kadar kalacaksınız - how long will you stay - no hint
-eski bir televizyon - an old television - no hint
-bir domates - a tomato - no hint
-müzede çalışıyor - works at the museum - no hint
-bu koltuğu istiyor musunuz - do you want this seat - no hint
-beş kitap - five books - no hint
-çorabını - your sock - no hint
-bir eposta - an email - no hint
-evet yağmur yağıyor - yes it is raining - no hint
-devlet başkanı için oy vereceğim - i will vote for president - no hint
-bir kurşun kalem - a pencil - no hint
-güneş gözlüğüyle - with sunglasses - no hint
-kız çocuk evden uzak - girl away from home - no hint
-şimdi sabah - it's morning now - no hint
-topu kim - who has the ball - no hint
-çin - chinese - no hint
-ne kadar - how much - no hint
-adam amerikalı - man american - no hint
-türkçe konuşuyor musunuz - do you speak turkish - no hint
-kadınlar sırada - women in line - no hint
-bir gün onlar gibi kayak yapacağız - one day we'll ski like them - no hint
-arapça konuşuyorum - i speak arabic - no hint
-hangi şirkette çalışıyorsunuz - which company do you work at - no hint
-ağaca çıkmayın - don't climb a tree - no hint
-kaç tane çiçek satın alıyorsun - how many flowers do you buy - no hint
-penguenler kuş - penguins bird - no hint
-bu hayvan küçük - this animal is small - no hint
-saat on dört kırk iki - fourteen forty two o'clock - no hint
-ama ailem eskiden italya'da yaşıyordu - but my family used to live in italy - no hint
-içinde yeterli yer var - there is enough room inside - no hint
-bizim beş tane sandviç işimiz var - we have five sandwich jobs - no hint
-artık bir yetişkinim - i'm an adult now - no hint
-bu çok fazla para - that's too much money - no hint
-bu oğlumuz - this is our son - no hint
-bir kurbağa - a frog - no hint
-iki dilim pizza istiyorum - i want two slices of pizza - no hint
-bir takım elbise - a suit - no hint
-kimi arıyorsun - who are you looking for - no hint
-bu film ilginç - this movie is interesting - no hint
-yeterli pasta aldın mı - did you get enough cake - no hint
-sen yeri süpürdükten sonra temizleyeceğim - i'll clean it after you sweep the floor - no hint
-kız çocuk ingilizce konuşuyor - girl speaks english - no hint
-türkçe yazı yazıyorum - i am writing in turkish - no hint
-ama yakında söyleyecekler - but soon they will say - no hint
-otuzsekiz tabak - thirtyeight plates - no hint
-karabiber - black pepper - no hint
-umarım bu oyuncaktır - i hope this is a toy - no hint
-paltomu buldum - i found my coat - no hint
-sebzelerini yemen gerek - you need to eat your vegetables - no hint
-kredi kartı ile ödemek istiyor musunuz - do you want to pay by credit card - no hint
-onu sandalyenin üstüne koydum - i put it on the chair - no hint
-adam çay içiyor - man drinking tea - no hint
-afrika'daki yağmur ormanlarından - from the rainforests of africa - no hint
-bir kadın ve çocukları - a woman and her children - no hint
-elbisesi turuncu - dress orange - no hint
-ne okuyorsun - what are you reading - no hint
-bu ne ağacı - what tree is this - no hint
-buzdolabı tezgahın yanında - refrigerator next to the counter - no hint
-erkek çocuk yürüyor - boy walking - no hint
-gü - ns - no hint
-annem nereye gitti - where did my mom go - no hint
-şekerli çay - sweet tea - no hint
-yemek ye - eat - no hint
-bu saat havaalanında - this time at the airport - no hint
-bu bilgisayar çalışıyor mu - is this computer working - no hint
-kış mevsimi - winter - no hint
-daha ucuza satar mısınız - can you sell it cheaper - no hint
-kim uyuyor - who is sleeping - no hint
-sabahları parkta kitap yazıyorum - i'm writing a book in the park in the morning - no hint
-hastaneye gidiyorum - i am going to hospital - no hint
-bu binanın yüksekliği ne kadar - how tall is this building - no hint
-ne satın alıyorsun - what are you buying - no hint
-bir şarkıcı - a singer - no hint
-bu pizza donmuş - this pizza is frozen - no hint
-bu antartika kıtası - this antarctic continent - no hint
-okula gitmem gerekiyor mu - do i have to go to school - no hint
-pazartesi - monday - no hint
-on dört - fourteen - no hint
-adem kahvaltı için kız arkadaşı ile buluşuyor - adam meets his girlfriend for breakfast - no hint
-merhaba yardımcı olabilir miyim - hello can i help you - no hint
-on ayak parmağı - ten toes - no hint
-evet bu benim kız kardeşim - yes this is my sister - no hint
-erkek çocuk öğretmenine gülümsüyor - boy smiles at his teacher - no hint
-ağaca çık - climb the tree - no hint
-kısa boylu adam kazak giyiyor - short man wearing sweater - no hint
-kadın su içiyor - woman drinking water - no hint
-hint bayramlarında çok kişi dans etmeyi ve şarkı söylemeyi seviyor - many people like to dance and sing on indian holidays - no hint
-kadın evde - woman at home - no hint
-bugün matematik çalışıyoruz - we are studying math today - no hint
-bir bahçe - a garden - no hint
-lütfen - please - no hint
-çin mi yemeyi getirdin mi - did you bring china or food - no hint
-çarşamba - wednesday - no hint
-merhaba melike hanım nasılsınız - hello melike how are you - no hint
-bir japon lokantası - a japanese restaurant - no hint
-iyiyim - i'm fine - no hint
-birçok kişi oy vermek için sırada bekliyor - many people are waiting in line to vote - no hint
-iki tane masa beyaz - two white tables - no hint
-plastik sandalye dört sterlin - plastic chair four quid - no hint
-adam çiçekleri yakalıyor - man catching flowers - no hint
-gözünü incitti - hurt your eye - no hint
-eşim huriye ile tanıştınız mı - have you met my wife huriye - no hint
-hangi uçak - which plane - no hint
-biri sana bir şey verdiğinde ona teşekkür ederim demek kibarlık tır - it's polite to say thank you when someone gives you something - no hint
-hayır susuz değiliz - no we are not thirsty - no hint
-yağmurda futbol oynuyorlar - playing football in the rain - no hint
-kitap satın aldı - bought a book - no hint
-kral bunu giyer - the king wears this - no hint
-hangi boy pastayı istiyorsunuz - what size cake do you want - no hint
-biletiniz var - you have a ticket - no hint
-mısır heykeli - egyptian statue - no hint
-cumartesi günü boş musun - are you free on saturday - no hint
-taze sebze niz var mı - do you have any fresh vegetables - no hint
-metroya biliyorlar - they know to the subway - no hint
-bir amerikan arabası - an american car - no hint
-yeni bir merdivene ihtiyacım var - i need a new ladder - no hint
-en az pasta adamda - at least cake man - no hint
-teşekkür ederim - thank you - no hint
-neyin var - what you got - no hint
-bir japon dağı - a japanese mountain - no hint
-bu top çok büyük - this ball is too big - no hint
-kadın türkçe konuşuyor - woman speaks turkish - no hint
-stadyuma gitmek istiyorum - i want to go to the stadium - no hint
-yirmi fincan - twenty cups - no hint
-yüz - face - no hint
-karısı iş kadını - wife business woman - no hint
-nasıl yardımcı olabilirim - how may i help you - no hint
-elli kravat - fifty ties - no hint
-bir tane yumurta var - there is one egg - no hint
-bulaşık makinesi tezgahın altında - dishwasher under the counter - no hint
-dağlar - mountains - no hint
-cumartesi günü boşum - i'm free on saturday - no hint
-saat bir - it is one o'clock - no hint
-adamlar parkta çalışıyor - men work in the park - no hint
-a - a - no hint
-bu fotoğraf geçen kış çekildi - this photo was taken last winter - no hint
-radyo dinliyorlar - they are listening to the radio - no hint
-gitmiş - gone - no hint
-yataktan - from bed - no hint
-bunlar hindu heykelleri - these are hindu statues - no hint
-evet hazırım gidelim - yes i'm ready let's go - no hint
-hayır bu benim şapkam değil - no this is not my hat - no hint
-lütfen bunu için - please for this - no hint
-ekmek ve su - bread and water - no hint
-ellerimi yıkıyorum çünkü kirli - i wash my hands because they are dirty - no hint
-bunu satın - buy this - no hint
-dün on kilometre koştum - i ran ten kilometers yesterday - no hint
-evet istiyorum - yes i want - no hint
-dokuz tane elma - nine apples - no hint
-bu şehir güney amerika'da keşfedildi - this city was discovered in south america - no hint
-müzik iyi - good music - no hint
-bisiklet yeşil - bike green - no hint
-bu resmi beğeniyorum - i like this picture - no hint
-bu kızım - this is my girl - no hint
-kaç tane ta bağımız var - how many ties do we have - no hint
-lütfen bana - please me - no hint
-kız çocuk yüzünü yıkıyor - girl washing her face - no hint
-nerede oturuyorsunuz - where do you live - no hint
-bu annem - this is my mother - no hint
-mutfak evde - kitchen at home - no hint
-japonya'da ne gördün - what did you see in japan - no hint
-muz - muz - no hint
-meyve suyu - juice - no hint
-bu konseri seviyor - loves this concert - no hint
-adam ve kadın çay içiyor - man and woman drinking tea - no hint
-evet stadyumu arıyoruz - yes we are looking for the stadium - no hint
-bir tiyatro - a theater - no hint
-bardak yok - no glasses - no hint
-bir bilet - a ticket - no hint
-pilav - rice - no hint
-siz ne yiyorsunuz - what are you eating - no hint
-bu fotoğrafı kim çekti - who took this photo - no hint
-salata burada - salad is here - no hint
-bir köprü - a bridge - no hint
-dışarıda kahvaltı yapıyoruz - we have breakfast outside - no hint
-ispanyolca konuşuyor - speaks spanish - no hint
-birada arıyor - looking for beer - no hint
-neden kitabı okumuyorsun - why don't you read the book - no hint
-bir kargaburun - a hookup - no hint
-ne görüyorsun - what do you see - no hint
-bir mektup yazıyorum - i am writing a letter - no hint
-elbise uyuyor mu - does the dress fit - no hint
-bugün neden antreman yapıyorsun - why are you training today - no hint
-çocuğumuz dün doğdu - our child was born yesterday - no hint
-portakallar - oranges - no hint
-fotoğrafını çekebilir miyim - can i take your picture - no hint
-okuma - read - no hint
-bir burun - a nose - no hint
-annesini arıyor - looking for his mother - no hint
-benim yeşil bir kitabım var - i have a green book - no hint
-bu bir plaj partisi idi - it was a beach party - no hint
-çocukların hepsi oturuyor - all the children are sitting - no hint
-bugün hava sıcak olacak - it will be hot today - no hint
-bu gece haberlerde ne var - what's on the news tonight - no hint
-kafede çalışıyorlar - they work at the cafe - no hint
-okula gidiyorlar - they go to school - no hint
-bu kuzey amerika'da bir cenaze - this is a funeral in north america - no hint
-markete gidiyor - going to the market - no hint
-artık bunu kızıma okuyorum - i'm reading this to my daughter now - no hint
-ona yardım edebilir misin - can you help him - no hint
-plastik sandalye ucuz - plastic chair cheap - no hint
-creed bir televizyon - creed a tv - no hint
-bu kolum - this is my arm - no hint
-beş gazete - five newspapers - no hint
-çocukların - children's - no hint
-bunlar misafirlerimiz - these are our guests - no hint
-bu ev kare - this house is square - no hint
-topunu arıyor - looking for his ball - no hint
-oyuncaklarını bu kutuya koymak istiyor musun - do you want to put your toys in this box - no hint
-bir kalem istiyor musunuz - do you want a pen - no hint
-havluyu yakaladı - grabbed the towel - no hint
-evet bugün tatil değil - yes today is not a holiday - no hint
-cuma günü doğum günü partime gelmek istiyor musun - do you want to come to my birthday party on friday - no hint
-var mı - is there - no hint
-sana ne oldu - what happened to you - no hint
-topu kim yakaladı - who caught the ball - no hint
-bir sıra - a row - no hint
-harika bir top - a great ball - no hint
-üç bisiklet - three bikes - no hint
-bir hafta - one week - no hint
-balık - fish - no hint
-partime geliyor musun - are you coming to my party - no hint
-makarnayı pişirmem aynı zamanda salata yapmam gerek - i need to cook the pasta but also make a salad - no hint
-portakalı - orange - no hint
-şu balıktan biraz istiyorum - i want some of that fish - no hint
-iyi dans ediyor mu - does he dance well - no hint
-işlerimiz var - we have work - no hint
-hayır dün pul satın aldım - no i bought stamps yesterday - no hint
-üniversite öğrencisiyim tarih okuyorum - i am a university student studying history - no hint
-siyah ayakkabıları beğeniyorum - i like black shoes - no hint
-sıradaki üçüncü kişinin saçı siyah - the third person in line has black hair - no hint
-çay - tea - no hint
-bir kilo lütfen - a kilo please - no hint
-kendini sakatladı - injured himself - no hint
-bir fransız tatlısı - a french dessert - no hint
-bir yastık - a pillow - no hint
-dağda kayak yapıyorum - i'm skiing on the mountain - no hint
-yatağın altında hiçbir şey yok - nothing under the bed - no hint
-bu adam çölde yaşıyor - this man lives in the desert - no hint
-bir park - a park - no hint
-bu kız kardeşim - this is my sister - no hint
-attan düşüyor - falling off a horse - no hint
-meksika kuzey amerika'da - mexico in north america - no hint
-televizyon seyrediyorum - i am watching television - no hint
-memnun oldum huriye - i'm glad huriye - no hint
-ne seyrediyorsun - what are you watching - no hint
-bebek doğmadan önce inşa etmeyi bitirmeyi umuyoruz - hope to finish building before baby is born - no hint
-erkek çocuk havuç sevmiyor - boy doesn't like carrots - no hint
-bir kitapçı - a bookstore - no hint
-temmuz - july - no hint
-kız çocuk cidden düşüyor - the girl is seriously falling - no hint
-hayır biz tanışmadık - no we haven't met - no hint
-merhaba elif nasılsın - hello elif how are you - no hint
-merhaba melike ben ayşe - hello melike i am ayse - no hint
-boyumu ölç lütfen - measure my height please - no hint
-sinagog şehirde - synagogue in the city - no hint
-erkek çocuk gülmüyor - boy not laughing - no hint
-tenis takımı antrenman yapıyor - tennis team training - no hint
-saat sekiz'de orada olabilirim teşekkür ederim - i can be there at eight o'clock thank you - no hint
-evet iyi dans ediyor - yes she dances well - no hint
-bunu inşa etmeme yardım edebilir misin - can you help me build this - no hint
-italya fransa'nın doğusunda - italy east of france - no hint
-sola - alone - no hint
-bankada çalışıyorlar - they work at the bank - no hint
-bu film kötü - this movie is bad - no hint
-yumurtaları öğle taşıma - carry eggs for lunch - no hint
-şekerli kahve - coffee with sugar - no hint
-balina yüzüyor - whale swimming - no hint
-bir pastane - a patisserie - no hint
-merhaba huriye hanım - hello lady huriye - no hint
-penceresi olan bir odada çalışmak istiyoruz - we want to work in a room with a window - no hint
-ne kadar süre koştum - how long did i run - no hint
-bugün pazar - today is sunday - no hint
-yıl iki bin beş - year two thousand five - no hint
-maçı seyretmek istiyor musun - do you want to watch the match - no hint
-kal - kal - no hint
-bu bütün bir turta - it's a whole pie - no hint
-on sekiz dakika - eighteen minutes - no hint
-erkek çocuk futbolu seviyor - boy loves football - no hint
-geçen hafta babam öldü - my father died last week - no hint
-bir lavabo - a sink - no hint
-çocukken futbol oynadım - i played football as a kid - no hint
-antik bir heykel - an ancient statue - no hint
-bunu günde iki kere iç - drink this twice a day - no hint
-büyük - big - no hint
-askerler - soldiers - no hint
-adam golf'ü seviyor - man loves golf - no hint
-bir tarih - a date - no hint
-ne kadar süt istiyorsun - how much milk do you want - no hint
-süt kötü kokuyor - milk smells bad - no hint
-türkçe konuşan birine ihtiyacım var - i need someone who speaks turkish - no hint
-nereye gidiyorsun - where are you going - no hint
-bu bozuk paralar aynı - these coins are the same - no hint
-köpeğin - your dog - no hint
-sandviç yapıyor - making a sandwich - no hint
-çocukken tenis oynadım - i played tennis as a kid - no hint
-beş tane telefon var - there are five phones - no hint
-bilet satın alıyorum - i'm buying tickets - no hint
-evde oturuyoruz - we are sitting at home - no hint
-denizde yüzüyor - swimming in the sea - no hint
-kiminle konuşuyorsun - who are you talking with - no hint
-bir yönetici - a manager - no hint
-japonya'dan ayrıldıktan sonra hindistan'a gittim - i went to india after leaving japan - no hint
-kız çocuk topu atıyor - girl throws ball - no hint
-lisedeyken fen bilgisi dersi aldı - took a science class in high school - no hint
-benim sarı bir kitabım var - i have a yellow book - no hint
-hayır bunlar benim kalemlerim değil - no these are not my pens - no hint
-bir şey değil - you are welcome - no hint
-bir merdiven - a ladder - no hint
-ayak yapabileceğiz - we can foot - no hint
-plaja gitmek istiyorum - i want to go to the beach - no hint
-kasım - november - no hint
-boo köpek - boo dog - no hint
-bin dokuz yüz doksan sekiz'de yazıldı - written in nineteen ninety eight - no hint
-evet buraya - yes here - no hint
-bir film - a movie - no hint
-bu kuşlar yüzüyor - these birds are swimming - no hint
-kaç tane sandalye var - how many chairs are there - no hint
-iki yüz seksen dolara satabilirim - i can sell it for two hundred and eighty dollars - no hint
-otele - to the hotel - no hint
-bir sandviç - a sandwich - no hint
-bisikleti küçük - bike small - no hint
-bu ağaçlar çok uzun - these trees are so tall - no hint
-şemsiyeye ihtiyacı var - he needs an umbrella - no hint
-buk mutfağım - my buk kitchen - no hint
-sebze - vegetable - no hint
-kız çocuklar koşuyor - girls running - no hint
-gece - night - no hint
-herkes koşuyor - everyone is running - no hint
-sizin kaç tane fincanı nız var - how many cups do you have - no hint
-afedersiniz - sorry - no hint
-bir fıskiye tablosu - a fountain table - no hint
-bisikletler sarı - bikes yellow - no hint
-çocuklar okulda - kids at school - no hint
-bir şey değil görüşürüz - nothing but see you - no hint
-parka koştuk - we ran to the park - no hint
-çünkü elma yemek istiyorum - because i want to eat apple - no hint
-herkese yetecek kadar çatal var mı - are there enough forks for everyone - no hint
-sütün üçte birini çoktan içti - already drank a third of the milk - no hint
-kırk beş tane kase miz var - we have fortyfive bowls - no hint
-bu oğlum - this is my son - no hint
-dört kadın var - there are four women - no hint
-kedi kuru - cat dry - no hint
-onun kitabı çok ilginç - his book is very interesting - no hint
-lokantada - in the restaurant - no hint
-saat üç - it's three o'clock - no hint
-evet sinemaya arıyorum - yes i am looking for the cinema - no hint
-futbol oynamayı seviyorum - i like playing football - no hint
-mısır'da iken tarih öğretim - teaching history while in egypt - no hint
-evet bir sorun var - yes there is a problem - no hint
-bir tren istasyonu - a train station - no hint
-okulda çalışıyorum - i work at school - no hint
-yirmi beş tabak - twenty five plates - no hint
-evet paraya ihtiyacım var - yes i need money - no hint
-yirmi bir fincan - twenty one cup - no hint
-dediklerini sadece biraz anlayabiliyorum - i can only understand a little of what you're saying - no hint
-şehir merkezinde yaşamıyorlar - they don't live in the city center - no hint
-hayır bunlar kalemlerim değil - no these are not my pens - no hint
-afedersiniz saat kaç - excuse me what time is it - no hint
-kedi evin içinde - cat inside the house - no hint
-eskiden geçtiniz - you used to pass - no hint
-dansçılar sokakta dans ediyor - dancers dance in the street - no hint
-en sonunda bahçeye koy - finally put it in the garden - no hint
-bitkiler - plants - no hint
-kadın oturma odasında gitar çalışıyor - woman playing guitar in living room - no hint
-yirmi iki ekim'de geliyorum - i'm coming on october twenty two - no hint
-bu fincanlar aynı boyda - these cups are the same size - no hint
-havaalanında iken sandviç yedim - i ate a sandwich while at the airport - no hint
-internette haberleri okuyorum - i read news on the internet - no hint
-kuşu konuş - talk bird - no hint
-evlendik - we got married - no hint
-sıradaki birinci kişinin boyu uzun - tall first person in line - no hint
-kız çocuk kırmızı ayakkabıları sevmiyor - girl doesn't like red shoes - no hint
-bu sabah oy vermeyi hatırladın mı - did you remember to vote this morning - no hint
-bu çocuklar hayvanı öğreniyorlar - these kids are learning animal - no hint
-bir bant - a tape - no hint
-oğlum ve ben oyun oynuyoruz - my son and i are playing games - no hint
-siyah - black - no hint
-bir vida - a screw - no hint
-kaç misafirimiz var - how many guests do we have - no hint
-rus oyuncakları - russian toys - no hint
-mısır kıyafetleri - egyptian clothes - no hint
-bu ailem - this is my family - no hint
-sekiz tane sandalye - eight chairs - no hint
-kadın saat takıyor - woman wears a watch - no hint
-sandviç tabakta - sandwich on plate - no hint
-bu kot pantolon çok büyük - these jeans are too big - no hint
-dün bir gazete satın aldım - i bought a newspaper yesterday - no hint
-ben küveti temizleyeceğim - i will clean the tub - no hint
-kediler koşabilir - cats can run - no hint
-golf oynadık - we played golf - no hint
-erkek çocuk uyanıyor - boy waking up - no hint
-altı elma - six apples - no hint
-ninemi hastanede ziyaret ediyorum - i'm visiting my grandmother in the hospital - no hint
-saat lavabonun yanında - the clock is next to the sink - no hint
-yakın - near - no hint
-ne zaman çalışıyorsun - when are you working - no hint
-onlar elmalarını yiyor - they are eating their apples - no hint
-mavi bir pasta istiyorum - i want a blue cake - no hint
-çekle ödemek istiyor musunuz - do you want to pay by check - no hint
-penceresi olan bir odada çalışıyoruz - we work in a room with a window - no hint
-baba - midwife - no hint
-kedi televizyonun üstünde - cat on tv - no hint
-bu sandalyeler farklı - these chairs are different - no hint
-iyi şarkı söyleyen birçok arkadaşım var - i have many friends who sing well - no hint
-bu hayvan yüzebilir - this animal can swim - no hint
-gözlük kırık değil - glasses are not broken - no hint
-meksika takıları - mexican jewelry - no hint
-yar - love - no hint
-kitapçı park'a yakın - close to bookstore park - no hint
-ahşap masam var - i have a wooden table - no hint
-şubat - february - no hint
-anahtarları nereye koydun - where did you put the keys - no hint
-bu film sıkıcı - this movie is boring - no hint
-erkek çocuk ona bir pasta verdi - boy gave him a cake - no hint
-çoraplar - socks - no hint
-otobüste aile için yeterli yer var - there is enough room for family on the bus - no hint
-dün plajda hava iyiydi - the weather was fine at the beach yesterday - no hint
-lavabo kirli mutfak eşyaları ile dolu - sink full of dirty utensils - no hint
-bu takımda altı erkek çocuk var - there are six boys in this team - no hint
-otele gidiyorum - i'm going to the hotel - no hint
-denizde yaşıyorlar - they live in the sea - no hint
-evet çin yemeği getirdim - yes i brought chinese food - no hint
-haziran - june - no hint
-afedersiniz koltuğum nerede - excuse me where is my seat - no hint
-yarın fen bilgisi çalışacağız - we will study science tomorrow - no hint
-avustralya'ya iş için mi gittin - did you go to australia for business - no hint
-pazartesi salı ve perşembeleri çalışıyorum - i work monday tuesday and thursday - no hint
-bunlar kız kardeşlerim - these are my sisters - no hint
-okulda ne zaman antrenman yapıyorsunuz - what time do you train at school - no hint
-bir şey - something - no hint
-bir gitar - a guitar - no hint
-elli yıl - fifty years - no hint
-lütfen oturun - please sit down - no hint
-rap - rap - no hint
-bir alman arabası - a german car - no hint
-bisikletin şimdi çalışıyor mu - does your bike work now - no hint
-çiçek - flower - no hint
-modern bir bina - a modern building - no hint
-ilkokuldayken resim dersi aldı - he took painting lessons when he was in elementary school - no hint
-üç yeşil limon - three green lemons - no hint
-evet bizim - yes our - no hint
-elması var - he has apples - no hint
-sebze satıyor musunuz - do you sell vegetables - no hint
-geceleri çalışıyor - works at night - no hint
-kocası ile alışveriş yapıyor - shopping with her husband - no hint
-merhaba adım pier - hello my name is pier - no hint
-yeterli - sufficient - no hint
-neden dün tamir etmedin - why didn't you fix it yesterday - no hint
-sola dön - turn left - no hint
-bir masaüstü bilgisayar - a desktop computer - no hint
-öğrenciler sırt çantalarını taşıyor - students carry their backpacks - no hint
-bir piyano - a piano - no hint
-süt kötü - milk is bad - no hint
-üzgün - sad - no hint
-evet su istiyorum - yes i want water - no hint
-bir kemer - a belt - no hint
-bolu bosch - bosch - no hint
-fıskiyenin fotoğrafını çekiyor - taking a picture of the fountain - no hint
-ne kadar süre yüzebiliriz - how long can we swim - no hint
-kediler kitap okuyamaz - cats can't read - no hint
-bir kral - a king - no hint
-yiyorlar - they are eating - no hint
-kızım - my daughter - no hint
-çam ağacı - pine tree - no hint
-yeni bir telefon - a new phone - no hint
-geçiş törenine gitme zamanı geldi mi - is it time to go to the parade - no hint
-kadınlar - women - no hint
-aile evde - family at home - no hint
-postane kitapçının yanında - next to the post office bookstore - no hint
-antik - antique - no hint
-sokak islak - street wet - no hint
-beş dolar - five dollars - no hint
-öğretmen erkek çocuğa birsözlük verdi - the teacher gave the boy a dictionary - no hint
-uçak saat kaçta geliyor - what time does the plane arrive - no hint
-sen tuvaleti temizleyecek misin - will you clean the toilet - no hint
-köpeği yıkamalıyız - we should wash the dog - no hint
-oğlunuz oldu - you had a son - no hint
-yarım kilo lütfen - half a kilo please - no hint
-atlar yürüyebilir - horses can walk - no hint
-ben bir kadınım - i'm a woman - no hint
-karısı geç kaldı - wife is late - no hint
-çince gazete okuyor - reading chinese newspaper - no hint
-harika su götürüyorlar - they take great water - no hint
-kısa boylu adam siyah takım elbise giyiyor - short man wearing black suit - no hint
-ninen nerede yaşıyor - where does your grandma live - no hint
-bir radyo - a radio - no hint
-lütfen merdivenleri süpür - please sweep the stairs - no hint
-bir tavuk - a chicken - no hint
-akşam yemeği - dinner - no hint
-müzisyen piyano çalıyor - musician playing the piano - no hint
-kısa boylu kadın gri takım elbise giyiyor - short woman wearing gray suit - no hint
-orada futbol - there football - no hint
-lütfen çöpleri dışarı çıkar - please take out the trash - no hint
-erkek çocuk türkçe konuşuyor - boy speaks turkish - no hint
-kız çocuk dedesi ile kitap okuyor - girl reading a book with her grandfather - no hint
-adam araba kullanıyor - man is driving - no hint
-saç fırçası - hair brush - no hint
-fransa'da iken bunu yedim - i ate this while in france - no hint
-lütfen bana yardım et - please help me - no hint
-adam havuç yiyor - man eats carrot - no hint
-portakalı yakaladı - caught the orange - no hint
-tavuk - chicken - no hint
-lütfen dans edin - please dance - no hint
-biletler ne kadardı - how much we're the tickets - no hint
-muzları terazide tartıyor - weighs the ice on the scales - no hint
-pantolonu mavi - trousers blue - no hint
-koşuyor - running - no hint
-hastanede çalışıyorum - i'm working in a hospital - no hint
-yen para birimidir - yen is currency - no hint
-televizyonda maç var - there's a match on tv - no hint
-altı - six - no hint
-başınız sağ olsun - my condolences - no hint
-kuşu konuşabilir - bird can talk - no hint
-bu avrupa'da bir cenaze - this is a funeral in europe - no hint
-nasılsın - how are you - no hint
-bunlar kitapların mı - are these your books - no hint
-üç saat - three hours - no hint
-kadın araba kullanıyor - woman driving - no hint
-ellerinizi yıkayın - wash your hands - no hint
-süt - milk - no hint
-herkes - everybody - no hint
-dört kitap okudum - i read four books - no hint
+sürüyor - progress - no hint
+ameliyat - operation - no hint
+izin - permission - no hint
+kaza - accident - no hint
+bundan - from this - no hint
+yapacağız - we will do - no hint
+acil - urgent - no hint
+onunla - with him - no hint
+önünde - in front of - no hint
+teslim - delivery - no hint
+aynen - exactly - no hint
+sorun - problem - no hint
+sakin ol - calm down - no hint
+tamam mı - okay - no hint
+sorun yok - no problem - no hint
+lanet olsun - damn it - no hint
+anladın mı - did you understand - no hint
+duyuyor musun - do you hear - no hint
+özür dilerim - i'm sorry - no hint
+beni dinle - listen to me - no hint
+sağ ol - thanks - no hint
+ne yapıyorsun - what are you doing - no hint
+emin misin - are you sure - no hint
+gerçekten mi - really - no hint
+silahı indir - lower the gun - no hint
+dışarı çık - get out - no hint
+aynen öyle - exactly - no hint
+orospu çocuğu - son of a bitch - no hint
+alison parker - alison parker - no hint
+dikkatli ol - be careful - no hint
+kahrolası patron - fucking boss - no hint
+ben raquel - ben raquel - no hint
+çok yazık - what a pity - no hint
+acele et - those et - no hint
+onu bulduk - we found it - no hint
+emirleri bekliyoruz - we are waiting for orders - no hint
+ne diyorsun - what are you saying - no hint
+yemin ederim - i swear - no hint
+hoşça kalın - goodbye - no hint
+beni duyuyor musun - do you hear me - no hint
+tekrar ediyorum - i repeat - no hint
+sen ne yaptın - what did you do - no hint
+anlıyor musun - do you understand - no hint
+umurumda değil - i do not care - no hint
+ne olmuş - so what - no hint
+herkes dinlesin - everybody listen - no hint
+bay torres - bay torres - no hint
+üçyüzonbir milyon avro - three hundred and eleven million euros - no hint
+çok üzgünüm - i am really sad - no hint
+hadi söyle - come on say it - no hint
+merak etme - do not worry - no hint
+sanırım öyle - i think so - no hint
+onu yakaladık - we caught it - no hint
+seni kullanıyor - he is using you - no hint
+beni koru - protect me - no hint
+ara beni - ring me up - no hint
+acele edin - hurry up - no hint
+sağ ve sol - right and left - no hint
+kimse dışarı çıkmayacak - no one will go out - no hint
+sıra sende - it is your turn - no hint
+neye bakıyorsun - what are you looking for - no hint
+ne istiyorsun - what do you want - no hint
+plastik patlayıcılar - plastic explosives - no hint
+ciddi misin - are you serious - no hint
+burada ne işin var - what are you doing here - no hint
+sakin olun - calm down - no hint
+oturun lütfen - please sit - no hint
+seni seviyorum - i love you - no hint
+hazır mısınız - are you ready - no hint
+evet efendim - yes sir - no hint
+kapa çeneni - shut up - no hint
+çabuk ol - hurry up - no hint
+diz çök - kneel down - no hint
+adın nedir - what is your name - no hint
+ebeveyn olmak - to be a parent - no hint
+zavallı şey - poor thing - no hint
+maskeleri değiştirdiler - they changed the masks - no hint
+ne yapıyorsunuz - what are you doing - no hint
+benim fikrim değildi - it was not my idea - no hint
+neden olmasın - why not - no hint
+sen iyi misin - are you okay - no hint
+buna izin vermem - i don't allow it - no hint
+dinle raquel - listen raquel - no hint
+parmak izi nedir - what is fingerprint - no hint
+parmak izleri - finger prints - no hint
+cidden mi - seriously - no hint
+hoşça kal - goodbye - no hint
+arkadaşımın şokunu - my friend's shock - no hint
+benimle gel - come with me - no hint
+ne kapısı - what gate - no hint
+beni takip et - follow me - no hint
+geri gelecek - will come back - no hint
+ama canım - but dear - no hint
+ne dersin - what about - no hint
+en önemlisi - most important - no hint
+tam delilik - complete insanity - no hint
+sorun değil - no problem - no hint
+lütfen düşün - please think - no hint
+duydun mu - have you heard - no hint
+cehenneme kadar yolun var - you have a way to hell - no hint
+git uyu - go to sleep - no hint
+görmüyor musun - can not you see - no hint
+nereye gitmemi istiyorsun bilmiyorum - i don't know where you want me to go - no hint
+kendine gel - behave yourself - no hint
+burada kal - stay here - no hint
+sana ne dedi - what did he said to you - no hint
+orada mısın - are you there - no hint
+yüzümüze bak - look at us - no hint
+o kadar zor değil - it's not that hard - no hint
+ben alison parker - ben alison parker - no hint
+kahrolası patron benim - i'm the fucking boss - no hint
+nesin sen - what are you - no hint

@@ -197,9 +197,11 @@ def result_of_super_system(line, user_super_system):
 	what_we_want = user_super_system.split("=")[1]
 	#print('what_we_want', what_we_want)
 	string_to_return = ''
+	translations_done = []
 	for section in what_we_want.split("-"):
 		#print('string_to_return1', string_to_return)
 		for part in section.split("_"):
+
 			#print('part', part)
 			wanted_lang = part[1:]
 			#print('wanted_lang', wanted_lang)
@@ -207,9 +209,10 @@ def result_of_super_system(line, user_super_system):
 				if part == given_string:
 					string_to_return += original_word.strip() + ' '
 					#print('is same', original_word)
-				else:				
-					print('super')	
-					translation = get_translation(original_word, given_lang, wanted_lang).replace('-','/') + ' '
+				elif part not in translations_done:				
+					#print('super')	
+					translation = get_translation(original_word, given_lang, wanted_lang, True).replace('-','/') + ' '
+					translations_done.append(part)
 					#print('is different', translation)
 					string_to_return += translation
 			if part.startswith('d'):
@@ -302,11 +305,11 @@ def main():
 						print('should trans')
 						if line.startswith('unit'):
 							print('UNIT!!!!!!!!!!!!!!')
-						translation = get_translation(phrase, first_lang, second_lang).replace('-','/')
+						translation = get_translation(phrase, first_lang, second_lang, True).replace('-','/')
 						if translation:
 							translation_hint = ''
 							if not hint_lang == '':
-								translation_hint = get_translation(phrase, first_lang, hint_lang).replace('-','/') + ', '
+								translation_hint = get_translation(phrase, first_lang, hint_lang, True).replace('-','/') + ', '
 							output_lines.append(phrase + ' - ' + translation + ' - '+translation_hint+'no hint\n')
 					if should_download:			
 						#print(phrase)			
@@ -343,7 +346,7 @@ def main():
 				hint = get_hint_from_formatted_line(split_line)
 				if not hint_lang == '':
 					hint = second_word
-					#hint = hint.strip('\n')  + ', ' + get_translation(first_word, first_lang, hint_lang).replace('-','/')
+					#hint = hint.strip('\n')  + ', ' + get_translation(first_word, first_lang, hint_lang, True).replace('-','/')
 				#print('hint', hint)
 				if hint == '':
 					hint = 'no hint'
@@ -362,7 +365,7 @@ def main():
 							if number_of_languages_to_download > 1:
 								api_limit_reached, api_calls, mp3_download_lists = download_if_needed(second_word, second_lang, api_calls, mp3_download_lists, max_api_calls, 1, use_forvo, should_overwrite)
 					if should_translate:
-						translation = get_translation(first_word, first_lang, second_lang).replace('-','/')
+						translation = get_translation(first_word, first_lang, second_lang, True).replace('-','/')
 						if translation:
 							output_lines.append(first_word + ' - ' + translation + ' - ' + hint)
 						create_output_file(deck_name+'_output','output',output_lines)

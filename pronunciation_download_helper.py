@@ -191,6 +191,7 @@ def DownloadMp3ForAnki(word, lang, alternate_pronunciations):
 	  APIKEY=a.read()
 	lang_dir = os.path.join(pron_fold,lang)
 	r = ForvoRequest(word,lang,APIKEY)
+	#if False:
 	if r:
 		#TODO get the limit and put it here as a loop, if the limit is 0 then it means we are only getting one
 		if r == "apiMax":
