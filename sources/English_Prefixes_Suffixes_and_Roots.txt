@@ -1,0 +1,130 @@
+~er - one who, that which: noun: teacher, clippers, toaster 
+~er - more: adjective: faster, stronger, kinder 
+~ly - to act in a way that is...: adverb: kindly, decently, firmly 
+~able - capable of, or worthy of: adjective: honorable,  predictable 
+~ible - capable of, or worthy of: adjective: terrible, responsible, visible 
+~hood - condition of being: noun: childhood, statehood, falsehood 
+~ful - full of, having: adjective: wonderful, spiteful, dreadful 
+~less - without: adjective: hopeless, thoughtless, fearless 
+~ish - somewhat like: adjective: childish, foolish, snobbish 
+~ness - condition or state of: noun: happiness,  peacefulness, fairness 
+~ic - relating to: adjective: energetic, historic, volcanic 
+~ist - one who: noun: pianist, balloonist, specialist 
+~ian - one who: noun: librarian, historian, magician 
+~or - one who: noun: governor, editor, operator 
+~eer - one who: noun: mountaineer, pioneer, commandeer, profiteer, engineer, musketeer 
+o~logy - study of: noun: biology, ecology, mineralogy 
+~ship - art or skill of, condition, rank, group of: noun: leadership, citizenship, companionship, kingship 
+~ous - full of, having: adjective: joyous, jealous, nervous, glorious, victorious, spacious, gracious 
+~ive - tending to...: adjective: active, sensitive, creative 
+~age - result of an action: noun: marriage, acreage, pilgrimage 
+~ant - a condition or state: adjective: elegant, brilliant, pregnant 
+~ant - a thing or a being: noun: mutant, coolant, inhalant 
+~ent - someone who, something that: noun: student, president, nutrient 
+~ent - inclined to: adjective: different, fluent, persistent 
+~ment - state or act of: noun: payment, basement, improvement 
+~ary - place for, collection of: noun: glossary, granary, library 
+~ary - relating to, condition: adjective: secondary, military, necessary 
+~ary - one who: noun: secretary, dignitary, emissary 
+~ize - to make: verb: hypnotize, fertilize, centralize 
+~ise - to make: verb: advise, advertise, improvise 
+~ure - action or condition of: noun: moisture, mixture, pleasure 
+~ion - act or condition: noun: action, friction, fusion, mission 
+~ation - act or condition: noun: starvation, condensation 
+~ance - act or condition of: noun: assistance, endurance, importance 
+~ence - act or condition of: noun: persistence, excellence, confidence 
+~ity - state or quality of: noun: prosperity, equality, security 
+~al - relating to: adjective: magical, comical, logical 
+(ti)~al - relating to: adjective: spatial, initial, essential 
+(si)~al - relating to: adjective: official, social, artificial 
+~ate - to make: verb: calculate, activate, participate 
+~ate - state or quality of: adjective: desolate, ultimate, literate 
+~tude - condition of: noun: solitude, exactitude, fortitude 
+~ism - practice, belief: noun: feudalism, racism, monotheism 
+de~ - from, reduce, or opposite: defrost, dethrone, dehydration 
+dis~ - opposite: disagree, disadvantage, dishonest 
+trans~ - across, over, through: transfer, translate, transcontinental 
+dia~ - across, through: diagonal, diagnostic, diameter 
+ex~ - out, from: expel, excavate, expatriate, exhale 
+e~ - out, from: erase, evict, emit, evaporate, evacuate 
+mono~ - one, single: monoplane, monopoly, monorail 
+uni~ - one, single: unicycle, unicorn, universal 
+bi~ - two: bicycle, biped, bilateral 
+di~ - two, or in parts: digraph, divert, diameter 
+tri~ - three: tricycle, triangle, triune 
+multi~ - many, much: multicolored, multimillionaire 
+poly~ - many, much: polygon, polyhedron, polyester 
+pre~ - before: predict, prepare, preheat 
+post~ - after: postwar, postscript, postdate 
+mal~ - bad, evil: malcontent, maladjusted, malnutrition 
+mis~ - wrong, bad: mistake, misspell, misunderstand 
+bene~ - good, well: benefit, beneficial, benediction 
+pro~ - forward, forth, before: protector, procreate, profession 
+sub~ - under, beneath: substitute, subtraction, subway 
+re~ - back, again: rewind, remember, retaliate 
+inter~ - among: between interstate, internet, interpersonal 
+intra~ - within: intranet, intravenous, intranasal 
+co~ - together, with: cooperate, coworker, copilot 
+com~ - together, with: company, commit, committee 
+con~ - together, with: concur, concert, contingent 
+col~ - together, with: colleague, collide, collaborate 
+be~ - to, completely befriend, belie, belittle, bejeweled 
+non~ - not: nonsense, nonrefundable, nonprofit 
+un~ - not: uncomfortable, uncertain, untrue 
+in~ - not: incapable, inedible, intolerant 
+im~ - not: imperfect, immoral, imbalanced 
+il~ - not: illiterate, illogical, illegal 
+ir~ - not: irregular, irresponsible 
+in~ im~ - in, into, on, upon this: inside, insert, implant, impostor, 
+il~, ir~ - prefix has two meanings (‘not’ and ‘in’): infuriate, inflammable, incandescent 
+a~ - not, negative: amoral, atonal, atheist 
+an~ - not, negative: anarchist, anomaly, anathema 
+anti~ - against, opposite: antiseptic, anticrime, antitrust, antisocial 
+contra~ - against, opposite: contradict, contrary, contraceptive 
+counter~ - against, opposite: counterclockwise, counterfeit, counterbalance 
+en~ - to cause to be, to put or go into or onto: enable, enrich, engulf, enflame 
+em~ - to cause to be, to put or go into or onto: employ, embark, embellish 
+astr~o - stars, heavens: astronaut, astrology, astronomer 
+bi~o - life: biography, biosphere, biology 
+ge~o - earth, rocks: geology, geographer, geothermal 
+therm - heat, warm: thermostat, thermal, exothermic 
+aut~o - self: autism, automatic, autoimmune, autograph 
+hom~o - same, alike: homonym, homogenize, homophone 
+hydr~o - water: hydrogen, hydrology, hydroelectric 
+micro - small: microscope, microclimate, microcosm 
+macro - large: macroclimate, macroevolution 
+phon~o - sound, speech: telephone, phonics, symphony 
+scope - to observe, to see, instrument used to see: telescope, microscope, kaleidoscope 
+graph - written: autograph, telegraph, geographer 
+phot~o - light: photograph, photon, photobiotic 
+tele - distant, far: telescope, television, telecommunications 
+meter, metr - to measure, instrument used: metric, thermometer, barometer, chronometer 
+path, pass - suffering, disease: psychopath, pathogen, sympathy, compassion 
+psych~o - mind, mental: psychology, psychic, psychotropic 
+pan - all, whole: panorama, panacea, pantomime, pandemonium 
+zoo - animal: zoology, zootoxin, zoogeography 
+chron - time: chronic, chronological, synchronized 
+phobia - fear, intense dislike: claustrophobia, xenophobic, arachnophobia 
+port - to carry: transport, export, porter, portal, reporter 
+form - to shape: formation, reform, conform, formulation 
+tract - to pull: tractor, subtract, detract, traction, retractable 
+rupt - to break: disrupt, interrupt, rupture, corrupt 
+spect, spec - to see, to watch: inspect, suspect, spectator, respect, specimen 
+struct, stru - to build: construct, structure, instruct, construe 
+dict, di - to tell, to say: dictionary, dictate, predict, indicate 
+flec, flex - to bend: flexible, reflector, genuflect, inflection, 
+cred - to believe: credit, credentials, credulous, incredible 
+aqua - water: aquatic, aquarium, aquamarine 
+pel, puls - to drive, push: propel, compel, impel, repel, impulse, pulsate 
+fact, fac - to make, to do: factory, facilitate, factor, faction, factotum 
+ject - to throw, to inject, to throw down: projectile, reject, subject, conjecture 
+vert, vers - to turn: reverse, versatile, convert, revert, divert 
+mit, mis - to send: missile,  missionary, admission, emit, transmit 
+mort - to die: mortal, mortician, mortuary 
+script, scrib - to write: scribble, script, scripture, prescription 
+junct - to join: conjunction, junction, adjunct, juncture 
+cide - to kill, a killer: suicide, genocide, homicide 
+press - to force, squeeze: press, impress, express, compress, repress  
+spire - to breathe: respire, respiration, respiratory, conspire, inspire, perspire, expire, spirit, spirited, spiritual 
+grad, gress - to step: graduate, gradual, gradations, regress, congress, digress, transgress, egress, progression 
+cept, capt - to take, seize: capture, captivity, intercept, exception 

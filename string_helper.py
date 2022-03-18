@@ -55,9 +55,13 @@ def convert_numbers_to_words(words, lang):
 		if word.isdecimal():
 			word = int(word)
 			try:
-				word_to_add = num2words(word, lang=lang)
+				if lang == 'tr': #this is here because num2words doesn't split up turkish words
+					word_to_add = get_translation(num2words(word, lang='en'), 'en', lang, False)
+				else: 
+					word_to_add = num2words(word, lang=lang)
+				print(word_to_add)
 			except NotImplementedError:
-				word_to_add = get_translation(num2words(word, lang='en'), 'en', lang)
+				word_to_add = get_translation(num2words(word, lang='en'), 'en', lang, False)
 		if converted_words == '':
 			converted_words = word_to_add
 		else:

@@ -1,0 +1,53 @@
+thank you - спасибо - no hint
+please - просимо - no hint
+hello - привет - no hint
+goodbye - прощай - no hint
+one - один - no hint
+two - два - no hint
+three - три - no hint
+four - чотири - no hint
+five - пять - no hint
+six - шість - no hint
+seven - сім - no hint
+eight - вісім - no hint
+nine - девять - no hint
+ten - десять - no hint
+eleven - ятнадцять - no hint
+twelve - дванадцять - no hint
+tenty - десяток - no hint
+twentythree - двадцять три - no hint
+thirty - тридцять - no hint
+fourty - сорок - no hint
+fifty - ятдесят - no hint
+sixty - шістдесят - no hint
+seventy - сімдесят - no hint
+eighty - вісімдесят - no hint
+ninty - дев'яносто - no hint
+hundred - сотня - no hint
+do you speak english - ти розмовляєш англійською - no hint
+do you speak ukrainian - ти розмовляєш українською? - no hint
+this - этом - no hint
+that - ту - no hint
+i want this - я хочу це - no hint
+yes - да - no hint
+no - ні - no hint
+and - и - no hint
+but - а - no hint
+you're welcome - ласкаво просимо - no hint
+excuse me - пробачте - no hint
+mom - мамо - no hint
+dad - папа - no hint
+brother - брат - no hint
+sister - сестра - no hint
+family - семью - no hint
+what do you like to eat - що ви хотіли б з'їсти - no hint
+war - війни - no hint
+russia - росії - no hint
+ukraine - україні - no hint
+are you safe - ти в безпеці? - no hint
+do you have enough food - чи вистачає вам їжі? - no hint
+is everyone against russia - всі проти росіян - no hint
+i like to program - я люблю програмувати - no hint
+i like to juggle - я люблю жонглювати - no hint
+do you have hobbies - у вас є хобі? - no hint
+what do you do for fun - як ти розважаєшся - no hint

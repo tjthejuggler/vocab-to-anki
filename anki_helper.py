@@ -108,6 +108,24 @@ deck_model_first_word_audio = genanki.Model(
 		}
 	])
 
+deck_single_card_audio = genanki.Model(
+	133694419,
+	'Audio Only With Hint Single',
+	fields=[
+		{'name': 'Question'},
+		{'name': 'Answer'},
+		{'name': 'Hint'},
+		{'name': 'URL'},		
+		{'name': 'Words'},
+	],
+	templates=[
+		{
+			'name': 'Card 1',
+			'qfmt': '{{Question}}{{#Hint}}<br>{{hint:Hint}}{{/Hint}}',
+			'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}{{Words}}',
+		},
+	])
+
 def create_anki_deck(deck, new_deck_name, all_audio_files):
 	my_package = genanki.Package(deck)
 	my_package.media_files = all_audio_files
@@ -129,10 +147,18 @@ def create_anki_note(word, translation, hint, tag, url, all_audio_files, first_l
 		if show_anki_text:
 			word_text = word
 			translation_text = translation
-		my_note = genanki.Note(
-						model=deck_model_audio_only,
-						tags=[tag],
-						fields=['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')' + ' '+word_text, '[sound:'+translation_audio_file+']' + ' ' + translation_text, word+'\n'+hint, url, word +' - '+translation])
+		this_fields = ['[sound:'+word_audio_file+']' + ' ('+str(round(time.time()))+')' + ' '+word_text, '[sound:'+translation_audio_file+']' + ' ' + translation_text, word+'\n'+hint, url, word +' - '+translation]
+		single_card = False
+		if single_card:
+			my_note = genanki.Note(
+							model=deck_single_card_audio,
+							tags=[tag],
+							fields=this_fields)
+		else:
+			my_note = genanki.Note(
+							model=deck_model_audio_only,
+							tags=[tag],
+							fields=this_fields)			
 	else:
 		
 		if partial_back_pronunciation:

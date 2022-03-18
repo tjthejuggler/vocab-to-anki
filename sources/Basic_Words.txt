@@ -1,0 +1,9 @@
+Thank you
+Hello
+Goodbye
+Good morning
+Good afternoon
+Good evening
+Have a nice day
+yes
+no

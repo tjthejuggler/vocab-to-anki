@@ -14,8 +14,11 @@ file = open( "script_source.txt", "r")
 lines = file.readlines()
 file.close()
 
+excluded_number = 100
+limit_number = 200
+
 words_to_ignore = ['arturo','raquel','tabii','tamam','laura','biliyorum','polis','profesör',\
-					'bilmiyorum', 'üzgünüm', 'alison', 'beş', 'berlin', 'helsinki', 'buraya',\
+					'bilmiyorum', 'üzgünüm', 'alison', 'beş', 'buraya',\
 					'denver','misin', 'musun','biliyor', 'yedi', 'değilim','tabii ki','sekiz',\
 					'rio', 'hey', 'dokuz', 'altı', 'değildi', 'anne', 'dün', 'seninle','pardon',\
 					'mesaj','miyim','baba','on','annem','git','görmek', 'misiniz','onları',\
@@ -88,11 +91,11 @@ for line in remove_ignore_words:
 
 
 Counter_phrases = Counter(remove_freq_phrases)
-most_occur_phrases = Counter_phrases.most_common(100)
+most_occur_phrases = Counter_phrases.most_common(limit_number)
 
 Counter_words = Counter(remove_freq_words)
 
-most_occur_words = Counter_words.most_common(100)
+most_occur_words = Counter_words.most_common(limit_number)
 
 print(most_occur_words)
 print(most_occur_phrases)
@@ -101,6 +104,10 @@ print(most_occur_phrases)
 most_occur_words_only = [i[0] for i in most_occur_words]
 
 most_occur_phrases_only = [i[0] for i in most_occur_phrases]
+
+
+del most_occur_words_only[:excluded_number]
+del most_occur_phrases_only[:excluded_number]
 
 	# for n in re.findall(r'[\u4e00-\u9fff]+', line):
 	# 	outputlines.append(n)

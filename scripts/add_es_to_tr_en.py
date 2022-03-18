@@ -167,7 +167,7 @@ for linenumber in range (2,len(lines)):
 		es_translation = get_translation(en_word)
 		if len(split_line) < 3:
 			split_line.append('no hint')
-		outputlines[linenumber] = es_translation + ' - ' + en_word.rstrip() + ' - ' + tr_word.rstrip() + ', ' + split_line[2].rstrip() +'\n'
+		outputlines[linenumber] = tr_word.rstrip() + ' - ' + es_translation + ' - ' + en_word.rstrip() + ', ' + split_line[2].rstrip() +'\n'
 		print('outputlines[linenumber]', outputlines[linenumber])
 	else:
 		if lines[linenumber]:

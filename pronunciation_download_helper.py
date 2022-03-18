@@ -64,6 +64,7 @@ def synthesize_text(text, lang):
 		lang_dir = os.path.join(pron_fold,lang)
 		file_name = text.replace('\n','')+'_'+lang+'.mp3'
 		file_path = os.path.join(lang_dir, file_name)
+		print('i',file_name)
 		with open(file_path, "wb") as out:
 			out.write(response.audio_content)
 			print(' '*9,':| MP3 Synthesized.', text+'_'+lang)

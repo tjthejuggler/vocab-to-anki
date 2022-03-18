@@ -1,200 +1,77 @@
-müfettiş - inspector - no hint
-gidelim - let's go - no hint
-dinle - listen - no hint
-yardım - help - no hint
-canım - my dear - no hint
-soygun - robbery - no hint
-parmak - finger - no hint
-peki - alright - no hint
-hâlâ - still - no hint
-ateş - fire - no hint
-şeyi - everything - no hint
-bakın - look - no hint
-bakalım - let's see - no hint
-kahretsin - damn - no hint
-dur - hard - no hint
-kurşun - bullet - no hint
-ver - watch - no hint
-işi - heat - no hint
-onlara - to them - no hint
-içeri - inside - no hint
-buradan - from here - no hint
-şeyin - of the thing - no hint
-orada - there - no hint
-vermek - to give - no hint
-pekala - ok - no hint
-birini - someone - no hint
-eminim - i am sure - no hint
-yardımcı - helper - no hint
-etmeye - to try - no hint
-ara - now - no hint
-sanırım - i think - no hint
-yaşam - life - no hint
-çabuk - quick - no hint
-yüzden - why - no hint
-fark - difference - no hint
-ölüm - death - no hint
-tanrım - my god - no hint
-söyle - say - no hint
-zorunda - must - no hint
-bazen - sometimes - no hint
-durum - situation - no hint
-içine - into - no hint
-güvenlik - security - no hint
-olursa - if - no hint
-suç - crime - no hint
-pazar - market - no hint
-silvia - silvia - no hint
-pekâlâ - ok - no hint
-dans - in - no hint
-neler - what - no hint
-silah - weapon - no hint
-kurtarmaya - to the rescue - no hint
-istediğini - what you want - no hint
-alacağım - i will take - no hint
-varsa - if any - no hint
-neredeyse - almost - no hint
-moskova - moscow - no hint
-elbette - of course - no hint
-bilmem - i do not know - no hint
-rehine - hostage - no hint
-anlıyorum - i understand - no hint
-istedim - i wanted - no hint
-göstermek - to show - no hint
-bulduk - we found - no hint
-aracı - middleman - no hint
-mükemmel - perfect - no hint
-serbest - free - no hint
-emin - sure - no hint
-rehineler - hostages - no hint
-tamamdır - ok - no hint
-selam - high school - no hint
-hayatta - in life - no hint
-defa - times - no hint
-gelmiş - came - no hint
-ceza - punishment - no hint
-belli - clear - no hint
-yıldır - years - no hint
-edecek - will - no hint
-yeter - enough - no hint
-hayatını - your life - no hint
-silahlı - armed - no hint
-kimin - who's - no hint
-biriyle - with someone - no hint
-almak - receive - no hint
-nefret - hate - no hint
-yüzünden - because - no hint
-girmek - to enter - no hint
-adım - my name - no hint
-sürüyor - progress - no hint
-ameliyat - operation - no hint
-izin - permission - no hint
-kaza - accident - no hint
-bundan - from this - no hint
-yapacağız - we will do - no hint
-acil - urgent - no hint
-onunla - with him - no hint
-önünde - in front of - no hint
-teslim - delivery - no hint
-aynen - exactly - no hint
-sorun - problem - no hint
-sakin ol - calm down - no hint
-tamam mı - okay - no hint
-sorun yok - no problem - no hint
-lanet olsun - damn it - no hint
-anladın mı - did you understand - no hint
-duyuyor musun - do you hear - no hint
-özür dilerim - i'm sorry - no hint
-beni dinle - listen to me - no hint
-sağ ol - thanks - no hint
-ne yapıyorsun - what are you doing - no hint
-emin misin - are you sure - no hint
-gerçekten mi - really - no hint
-silahı indir - lower the gun - no hint
-dışarı çık - get out - no hint
-aynen öyle - exactly - no hint
-orospu çocuğu - son of a bitch - no hint
-alison parker - alison parker - no hint
-dikkatli ol - be careful - no hint
-kahrolası patron - fucking boss - no hint
-ben raquel - ben raquel - no hint
-çok yazık - what a pity - no hint
-acele et - those et - no hint
-onu bulduk - we found it - no hint
-emirleri bekliyoruz - we are waiting for orders - no hint
-ne diyorsun - what are you saying - no hint
-yemin ederim - i swear - no hint
-hoşça kalın - goodbye - no hint
-beni duyuyor musun - do you hear me - no hint
-tekrar ediyorum - i repeat - no hint
-sen ne yaptın - what did you do - no hint
-anlıyor musun - do you understand - no hint
-umurumda değil - i do not care - no hint
-ne olmuş - so what - no hint
-herkes dinlesin - everybody listen - no hint
-bay torres - bay torres - no hint
-üçyüzonbir milyon avro - three hundred and eleven million euros - no hint
-çok üzgünüm - i am really sad - no hint
-hadi söyle - come on say it - no hint
-merak etme - do not worry - no hint
-sanırım öyle - i think so - no hint
-onu yakaladık - we caught it - no hint
-seni kullanıyor - he is using you - no hint
-beni koru - protect me - no hint
-ara beni - ring me up - no hint
-acele edin - hurry up - no hint
-sağ ve sol - right and left - no hint
-kimse dışarı çıkmayacak - no one will go out - no hint
-sıra sende - it is your turn - no hint
-neye bakıyorsun - what are you looking for - no hint
-ne istiyorsun - what do you want - no hint
-plastik patlayıcılar - plastic explosives - no hint
-ciddi misin - are you serious - no hint
-burada ne işin var - what are you doing here - no hint
-sakin olun - calm down - no hint
-oturun lütfen - please sit - no hint
-seni seviyorum - i love you - no hint
-hazır mısınız - are you ready - no hint
-evet efendim - yes sir - no hint
-kapa çeneni - shut up - no hint
-çabuk ol - hurry up - no hint
-diz çök - kneel down - no hint
-adın nedir - what is your name - no hint
-ebeveyn olmak - to be a parent - no hint
-zavallı şey - poor thing - no hint
-maskeleri değiştirdiler - they changed the masks - no hint
-ne yapıyorsunuz - what are you doing - no hint
-benim fikrim değildi - it was not my idea - no hint
-neden olmasın - why not - no hint
-sen iyi misin - are you okay - no hint
-buna izin vermem - i don't allow it - no hint
-dinle raquel - listen raquel - no hint
-parmak izi nedir - what is fingerprint - no hint
-parmak izleri - finger prints - no hint
-cidden mi - seriously - no hint
-hoşça kal - goodbye - no hint
-arkadaşımın şokunu - my friend's shock - no hint
-benimle gel - come with me - no hint
-ne kapısı - what gate - no hint
-beni takip et - follow me - no hint
-geri gelecek - will come back - no hint
-ama canım - but dear - no hint
-ne dersin - what about - no hint
-en önemlisi - most important - no hint
-tam delilik - complete insanity - no hint
-sorun değil - no problem - no hint
-lütfen düşün - please think - no hint
-duydun mu - have you heard - no hint
-cehenneme kadar yolun var - you have a way to hell - no hint
-git uyu - go to sleep - no hint
-görmüyor musun - can not you see - no hint
-nereye gitmemi istiyorsun bilmiyorum - i don't know where you want me to go - no hint
-kendine gel - behave yourself - no hint
-burada kal - stay here - no hint
-sana ne dedi - what did he said to you - no hint
-orada mısın - are you there - no hint
-yüzümüze bak - look at us - no hint
-o kadar zor değil - it's not that hard - no hint
-ben alison parker - ben alison parker - no hint
-kahrolası patron benim - i'm the fucking boss - no hint
-nesin sen - what are you - no hint
+дякую - gracias - thank you 
+будь ласка - por favor - please 
+здравствуйте - hola - hello 
+до побачення - adiós - goodbye 
+один - una - one 
+два - dos - two 
+три - tres - three 
+чотири - cuatro - four 
+п'ять - cinco - five 
+шість - seis - six 
+сім - siete - seven 
+вісім - ocho - eight 
+дев'ять - nueve - nine 
+це - esta - ten 
+одинадцять - once - eleven 
+дванадцять - doce - twelve 
+десяток - diez - tenty 
+двадцять три - veintitrés - twentythree 
+тридцять - treinta - thirty 
+сорок - cuarenta - fourty 
+п'ятдесят - cincuenta - fifty 
+шістдесят - sesenta - sixty 
+сімдесят - setenta - seventy 
+вісімдесят - ochenta - eighty 
+дев'яносто - noventa - ninty 
+сотня - centenar - hundred 
+ти розмовляєш англійською - habla usted inglés - do you speak english 
+ти розмовляєш українською - hablas ucraniano - do you speak ukrainian 
+це - esta - this 
+що - que - that 
+я хочу це - quiero esto - i want this 
+так - sí - yes 
+ні - no - no 
+і - y - and 
+але - pero - but 
+ласкаво просимо - de nada - you're welcome 
+вибачте - discúlpame - excuse me 
+мама - mamá - mom 
+папа - papá - dad 
+брат - hermano - brother 
+сестра - hermana - sister 
+сім'ї - familia - family 
+що ви хотіли б з'їсти - qué te gusta comer - what do you like to eat 
+війни - guerra - war 
+росія - rusia - russia 
+україни - ucrania - ukraine 
+ти в безпеці - estás a salvo - are you safe 
+чи вистачає вам їжі - tienes suficiente comida - do you have enough food 
+всі проти росіян - están todos contra rusia - is everyone against russia 
+я люблю програмувати - me gusta programar - i like to program 
+я люблю жонглювати - me gusta hacer malabares - i like to juggle 
+у вас є хобі - tienes pasatiempos - do you have hobbies 
+як ти розважаєшся - qué haces para divertirte - what do you do for fun 
+що - qué - what 
+як - cómo - how 
+коли - cuándo - when 
+вооз - quién - who 
+де - donde - where 
+тут - aquí - here 
+там - allí - there 
+це - esta - this 
+що - que - that 
+привіт - hola - hi 
+до побачення - adiós - goodbye 
+доброго ранку - buenos días - good morning 
+доброго дня - buenas tardes - good afternoon 
+добрий вечір - buenas noches - good evening 
+надобраніч - buenas noches - good night 
+будь ласка - por favor - please 
+ласкаво просимо - de nada - you're welcome 
+вибачте - discúlpame - excuse me 
+дякую - gracias - thank you 
+вибачте - lo siento - sorry 
+мене звати - me llamo - my name is 
+як вас звати - cuál es tu nombre - what is your name 
+скільки це коштує - cuanto cuesta - how much does it cost 
+я куплю це - compraré esto - i'll buy this 

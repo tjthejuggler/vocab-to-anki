@@ -1,0 +1,197 @@
+thank you
+спасибо
+thank you
+спасибо
+please
+просимо
+please
+просимо
+hello
+привет
+hello
+привет
+goodbye
+прощай
+goodbye
+прощай
+one
+один
+one
+один
+two
+два
+two
+два
+three
+три
+three
+три
+four
+чотири
+four
+чотири
+five
+пять
+five
+пять
+six
+шість
+six
+шість
+seven
+сім
+seven
+сім
+eight
+вісім
+eight
+вісім
+nine
+девять
+nine
+девять
+ten
+десять
+ten
+десять
+eleven
+ятнадцять
+eleven
+ятнадцять
+twelve
+дванадцять
+twelve
+дванадцять
+tenty
+десяток
+tenty
+десяток
+twentythree
+twentythree
+двадцять три
+thirty
+тридцять
+thirty
+тридцять
+fourty
+сорок
+fourty
+сорок
+fifty
+ятдесят
+fifty
+ятдесят
+sixty
+шістдесят
+sixty
+шістдесят
+seventy
+seventy
+сімдесят
+eighty
+вісімдесят
+eighty
+вісімдесят
+ninty
+ninty
+дев'яносто
+hundred
+сотня
+hundred
+сотня
+do you speak english
+do you speak english
+ти розмовляєш англійською
+do you speak ukrainian
+do you speak ukrainian
+ти розмовляєш українською
+this
+этом
+this
+этом
+that
+ту
+that
+ту
+i want this
+i want this
+я хочу це
+yes
+да
+yes
+да
+no
+ні
+no
+ні
+and
+и
+and
+и
+but
+а
+but
+а
+you're welcome
+you're welcome
+ласкаво просимо
+excuse me
+пробачте
+excuse me
+пробачте
+mom
+мамо
+mom
+мамо
+dad
+папа
+dad
+папа
+brother
+брат
+brother
+брат
+sister
+сестра
+sister
+сестра
+family
+семью
+family
+семью
+what do you like to eat
+what do you like to eat
+що ви хотіли б з'їсти
+war
+війни
+war
+війни
+russia
+росії
+russia
+росії
+ukraine
+україні
+ukraine
+україні
+are you safe
+are you safe
+ти в безпеці
+do you have enough food
+do you have enough food
+чи вистачає вам їжі
+is everyone against russia
+is everyone against russia
+всі проти росіян
+i like to program
+i like to program
+я люблю програмувати
+i like to juggle
+i like to juggle
+я люблю жонглювати
+do you have hobbies
+do you have hobbies
+у вас є хобі
+what do you do for fun
+what do you do for fun
+як ти розважаєшся

@@ -401,7 +401,7 @@ def main():
 						elif should_make_anki_deck_written_only:
 							all_audio_files = []
 							show_anki_text = True
-							note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, show_anki_text, should_make_anki_deck_written_only)
+							note, all_audio_files = create_anki_note(first_word, second_word, hint, tag, url, all_audio_files, first_lang, second_lang, should_make_anki_deck_audio_only, using_two_langs, show_anki_text, should_make_anki_deck_written_only, only_first_word_audio)
 							deck.add_note(note)
 							output_lines.append(first_word + ' - ' + second_word + ' - ' + hint)
 							create_output_file(deck_name+'_output','output',output_lines)

@@ -25,7 +25,7 @@ eighty
 ninty
 hundred
 do you speak english
-do you speak greek
+do you speak ukrainian
 this
 that
 i want this

@@ -1,0 +1,21 @@
+iki hafta içinde
+pazar günü
+pazartesi günü
+salı günü
+çarşamba günü
+perşembe günü
+cuma günü
+cumartesi günü
+kasım
+döndü
+ocak
+şubat
+mart
+nisan
+mayıs
+haziran
+temmuz
+ağustos
+Eylül
+ekim
+aralık
