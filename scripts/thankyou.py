@@ -10,7 +10,8 @@ import json
 from google.cloud import translate_v2 as translate
 import six
 from polyglot.text import Text
-
+from polyglot.downloader import downloader
+print(downloader.supported_languages_table("transliteration2"))
 home = str(Path.home())
 pron_fold = home+'/pronunciations'
 cwd = os.getcwd()[:-8]
@@ -119,17 +120,25 @@ def main():
 		lang_code = ty_get_lang_code(lang_full).strip()
 		lang_trans = ty_get_translation_from_local_library(lang_full, lang_code).strip()
 		thank_trans = ty_get_translation_from_local_library('thank you', lang_code).strip()
-		print(lang_full, lang_code, lang_trans, thank_trans)
+		if(lang_trans and thank_trans):
 
-		blob = lang_full
-		text = Text(blob)
-		print(text.transliterate("en"))
+			print(lang_full, lang_code, lang_trans, thank_trans)
 
-		#translate_text(lang_code, lang_full)
+			blob = lang_trans
+			text = Text(blob)
+			print('lang_trans', lang_trans)
+			for x in text.transliterate("en"):
+				print('...', x)
+			blob = thank_trans
+			text = Text(blob)
+			print('lang_trans', thank_trans)
+			for x in text.transliterate("en"):
+				print('...', x)
+			#translate_text(lang_code, lang_full)
 
 
 #todo
-#i am getting an icu error from transliterate
+#TEST TRANSLITERATE WITH exact example from website
 #if decide not to transliterate, then
 #	get list of languages
 #	run list through main program to translate and download
