@@ -1,64 +1,64 @@
-valuable
-professions
-entry
-advantages
-causes
-obesity
-banned
-threee
-guides
-trend
-processes
-features
-unit
-encouraged
-comments
-specially
-exercises
-relevant
-significantly
-continuing
-model
-guidance
-techniques
-sample
-required
-examiner
-chance
-situation
-tongue
-opposite
-definitions
-accuracy
-concrete
-arrangements
-graduated
-prospects
-favourably
-detail
-typo
-history
-unforgettable
-avenue
-instant
-immerse
-although
-gained
-horizons
-broading
-vibrant
-cosmopolitan
-cope
-keen
-vocabulary
-chunk
-recovery
-overseas
-surroundings
-cuisine
-frustration
-gradually
-mentality
-encourages
-confidence
-succeed
+valuable - değerli - no hint
+professions - meslekler - no hint
+entry - giriş - no hint
+advantages - avantajlar - no hint
+causes - nedenleri - no hint
+obesity - obezite - no hint
+banned - yasak - no hint
+threee - üçlü - no hint
+guides - rehberler - no hint
+trend - akım - no hint
+processes - süreçler - no hint
+features - özellikleri - no hint
+unit - ünite - no hint
+encouraged - cesaretlendirdi - no hint
+comments - yorumlar - no hint
+specially - özellikle - no hint
+exercises - egzersizler - no hint
+relevant - ilgili - no hint
+significantly - önemli ölçüde - no hint
+continuing - devam ediyor - no hint
+model - model - no hint
+guidance - rehberlik - no hint
+techniques - teknikler - no hint
+sample - örnek - no hint
+required - gereklidir - no hint
+examiner - sınav görevlisi - no hint
+chance - şans - no hint
+situation - durum - no hint
+tongue - dil - no hint
+opposite - karşısında - no hint
+definitions - tanımlar - no hint
+accuracy - kesinlik - no hint
+concrete - somut - no hint
+arrangements - düzenlemeler - no hint
+graduated - mezun - no hint
+prospects - umutlar - no hint
+favourably - olumlu - no hint
+detail - detay - no hint
+typo - yazım hatası - no hint
+history - Tarih - no hint
+unforgettable - unutulmaz - no hint
+avenue - bulvar - no hint
+instant - anında - no hint
+immerse - daldırmak - no hint
+although - olmasına rağmen - no hint
+gained - kazanılmış - no hint
+horizons - ufuklar - no hint
+broading - genişleyen - no hint
+vibrant - canlı - no hint
+cosmopolitan - kozmopolitan - no hint
+cope - başa çıkmak - no hint
+keen - hevesli - no hint
+vocabulary - kelime hazinesi - no hint
+chunk - yığın - no hint
+recovery - iyileşmek - no hint
+overseas - denizaşırı - no hint
+surroundings - çevre - no hint
+cuisine - gıda - no hint
+frustration - hüsran - no hint
+gradually - yavaş yavaş - no hint
+mentality - zihniyet - no hint
+encourages - teşvik eder - no hint
+confidence - güven - no hint
+succeed - başarılı olmak - no hint

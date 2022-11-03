@@ -70,7 +70,7 @@ def ty_create_anki_note(lang_trans, thank_trans, lang_code, lang_full, all_audio
 		all_audio_files.append(pron_fold+'/'+lang_code+'/'+lang_name_audio_file)
 	if mp3_exists(thank_trans, lang_code):
 		all_audio_files.append(pron_fold+'/'+lang_code+'/'+thankyou_audio_file)
-	this_fields = ['[sound:'+lang_name_audio_file+']' + ' ('+str(round(time.time()))+')', '[sound:'+thankyou_audio_file+']', lang_full]
+	this_fields = ['language [sound:'+lang_name_audio_file+']' + ' ('+str(round(time.time()))+')', 'thank you [sound:'+thankyou_audio_file+']', lang_full + ' ' + lang_trans + ' ' + thank_trans]
 	single_card = False
 	my_note = genanki.Note(
 						model=deck_model_audio_and_written,
@@ -116,26 +116,27 @@ def main():
 
 	for line in lines:
 		
-		lang_full = line.strip()
+		lang_full = line.strip().lower()
 		lang_code = ty_get_lang_code(lang_full).strip()
 		lang_trans = ty_get_translation_from_local_library(lang_full, lang_code).strip()
 		thank_trans = ty_get_translation_from_local_library('thank you', lang_code).strip()
-		if(lang_trans and thank_trans):
+		if not (lang_trans and thank_trans):
+			#print('exists', lang_full, lang_trans, thank_trans)
+			# #print(lang_full, lang_code, lang_trans, thank_trans)
 
-			print(lang_full, lang_code, lang_trans, thank_trans)
-
-			blob = lang_trans
-			text = Text(blob)
-			print('lang_trans', lang_trans)
-			for x in text.transliterate("en"):
-				print('...', x)
-			blob = thank_trans
-			text = Text(blob)
-			print('lang_trans', thank_trans)
-			for x in text.transliterate("en"):
-				print('...', x)
-			#translate_text(lang_code, lang_full)
-
+			# blob = lang_trans
+			# text = Text(blob)
+			# #print('lang_trans', lang_trans)
+			# for x in text.transliterate("en"):
+			# 	print('...', x)
+			# blob = thank_trans
+			# text = Text(blob)
+			# #print('lang_trans', thank_trans)
+			# for x in text.transliterate("en"):
+			# 	print('...', x)
+			# #translate_text(lang_code, lang_full)
+		#else:
+			print('missing', lang_full, lang_trans, thank_trans)
 
 #todo
 #TEST TRANSLITERATE WITH exact example from website

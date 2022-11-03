@@ -1,0 +1,19 @@
+pip install genanki
+pip install pydub
+pip install google-cloud-speech
+pip install google-cloud-texttospeech
+pip install google-cloud-translate
+pip install num2words
+pip install wordfreq
+pip install getch
+pip install Wikipedia-API
+pip install epub-conversion
+pip install xml-cleaner
+
+python -m pip install --upgrade pip ?
+
+
+TO SET UP GOOGLE TRANSLATE API:
+If you don't have an api .json
+in Google Cloud find myTranslation, and create new key, this will download a .json
+export GOOGLE_APPLICATION_CREDENTIALS="/home/lunkwill/Downloads/service-account-file.json"

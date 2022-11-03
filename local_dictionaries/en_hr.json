@@ -1,4 +1,5 @@
 {
+ "croatian": "hrvatski",
  "good afternoon\n": "dobar dan",
  "good day\n": "dobar dan",
  "good evening\n": "dobra večer",
@@ -7,6 +8,7 @@
  "have a nice day\n": "ugodan dan",
  "hello\n": "zdravo",
  "no": "ne",
+ "thank you": "hvala vam",
  "thank you\n": "hvala vam",
  "yes\n": "da"
 }
